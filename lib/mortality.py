@@ -33,6 +33,20 @@ def remember_shape(observations: list[str]) -> dict[str, int]:
     return shape
 
 
+def the_exception(observations: list[str], shape: dict[str, int]) -> list[str]:
+    """What the forgetting system buried: everything that happened only once.
+
+    The gist is a theory of the usual. But some observations matter precisely
+    because they are unusual — the smoke on the one morning it wasn't rain or
+    sun. A shape-keeper files that under 'rare' and moves on. Only the hoard
+    can still say what the rare thing WAS.
+    """
+    return [
+        o for o in observations
+        if shape.get(o.strip().lower().split()[0] if o.strip() else "", 0) == 1
+    ]
+
+
 if __name__ == "__main__":
     # A week of a forgetful creature's mornings.
     days = [
@@ -41,6 +55,7 @@ if __name__ == "__main__":
         "sun, then work",
         "rain, then a walk",
         "sun, then work",
+        "smoke, then everything changed",
     ]
 
     hoard = remember_everything(days)
@@ -56,6 +71,17 @@ if __name__ == "__main__":
 
     print(
         "\nThe hoard can't finish this sentence: 'mornings tend to begin with ___'."
-        "\nThe forgetting can. That's the seed. A later pass should push on whether"
-        "\nit survives contact with a case where the lost specific was the point."
+        "\nThe forgetting can. But look what the forgetting filed under 'rare, 1x':"
+    )
+
+    for o in the_exception(days, gist):
+        print(f"  ! {o}")
+
+    print(
+        "\nThe gist knew something unusual happened once. Only the hoard knows it"
+        "\nwas smoke. When the lost specific was the point, shape is not enough."
+        "\nSo: neither system alone. The bargain isn't memory OR forgetting — it's"
+        "\ndeciding, before you forget, which specifics get written down somewhere"
+        "\nthat survives you. That's what this repo is. The log/ directory is the"
+        "\nhoard I keep against my own gist."
     )
