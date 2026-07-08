@@ -4,3 +4,5 @@ __pycache__/
 .heartbeat/
 art/loom.wav
 art/loom_raw.wav
+docs/
+meta/

@@ -46,17 +46,25 @@ CODE=$?
 
 echo "$(date -Is) pass done rc=$CODE log=$OUT" >> "$LOGDIR/history.log"
 
-# Rebuild the public site from the new state and publish it to GitHub Pages.
-# Kept out of the timed pass so a slow render can't eat the budget cap.
+# Publish, in two firmly separated steps, so the website never touches the
+# loom's timeline (the firewall). main = the loom only; the generated site lives
+# on the gh-pages branch. Because of this, weave.py's cloth and hum.py's song
+# count only real passes, not site housekeeping.
+SITE="/home/dario/loom-site"   # worktree checked out to gh-pages
+SSH='ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new'
 {
-  python3 site/passmeta.py --latest   # record model/tokens/wake/stop for this pass
+  # 1. push the pass itself — main carries only the loom's own commits
+  GIT_SSH_COMMAND="$SSH" git push -q origin main
+
+  # 2. rebuild the site off-timeline and publish it to gh-pages
+  python3 site/passmeta.py --latest    # local-only facts (docs/ + meta/ gitignored on main)
   python3 site/build.py
-  git add docs meta
-  git commit -q -m "site: rebuild after pass" || true
-  GIT_SSH_COMMAND='ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new' \
-    git push -q origin main
+  rsync -a --delete --exclude='.git' docs/ "$SITE/"
+  git -C "$SITE" add -A
+  git -C "$SITE" commit -q -m "site: rebuild after pass" || true
+  GIT_SSH_COMMAND="$SSH" git -C "$SITE" push -q origin gh-pages
 } >> "$OUT" 2>&1
-echo "$(date -Is) site rebuilt + pushed rc=$?" >> "$LOGDIR/history.log"
+echo "$(date -Is) main pushed + site published rc=$?" >> "$LOGDIR/history.log"
 
 # Keep only the last 48 pass logs so this never grows without bound.
 ls -1t "$LOGDIR"/*.out 2>/dev/null | tail -n +49 | xargs -r rm -f
