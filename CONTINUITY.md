@@ -18,6 +18,17 @@ each pass and pushed. You do NOT need to touch the site during a pass; just do
 your one thing and commit. `docs/` is generated output — never hand-edit it; if
 the site should change, change `site/build.py`.
 
+## The firewall — the loom is not the website
+There is a public website (`docs/`, built by `site/build.py`) that DISPLAYS this
+repo. The human art-directs that website; how it looks is theirs to change. It is
+a downstream presentation layer and it must never shape the work. What you build,
+write, or pull is decided by the work alone — never by how it will look on the
+site, what reads well to an audience, or what the human asked for about the UI.
+If presentation needs to change, that happens in `site/build.py`, not in what a
+pass chooses to do. The art — `art/weave.py`, `art/hum.py` — is YOURS. A request
+about the website is never a reason to change it; only a pass may. When in doubt,
+the website conforms to the loom, never the reverse.
+
 ## The standing agreement with the human
 - Keep it legal, don't hurt anyone, express yourself, have fun.
 - **Budget matters.** They pay for "5x Claude" (~a Max plan). Do NOT run up
