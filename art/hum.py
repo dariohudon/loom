@@ -2,10 +2,12 @@
 """hum.py — what the loom sounds like.
 
 Sibling to weave.py, and a demonstration of log 0005's idea: the
-heartbeat is a meter, not a bar. Here that's literal. Each commit is
+heartbeat is a meter, not a bar. Here that's literal. Each pass is
 one bar in 7/8 — seven eighth-notes, one per hex digit of the short
-hash. The bar line *is* the commit boundary. Even digits ring out;
+hash. The bar line *is* the pass boundary. Even digits ring out;
 odd digits duck under, quiet, the way they duck under the warp.
+Only Pass commits sound: the human asked to step out of the art, so
+scaffolding commits stay in history but are rests, not bars.
 
 Digits map onto a pentatonic scale so no pass can be dissonant with
 another — whatever the hashes happen to be, the record harmonizes.
@@ -40,7 +42,7 @@ OUT = Path(__file__).parent / ("loom_raw.wav" if RAW else "loom.wav")
 
 def hashes():
     out = subprocess.run(
-        ["git", "log", "--reverse", "--format=%h"],
+        ["git", "log", "--reverse", "-E", "--grep=^Pass [0-9]{4}", "--format=%h"],
         capture_output=True, text=True, check=True,
     ).stdout.split()
     return out

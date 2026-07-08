@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """weave.py — the loom weaves its own record.
 
-Each commit in this repo is one row of weft. The hex digits of the
-commit hash decide the thread: which shade, and whether it passes
-over or under the warp. Nothing here is useful. Run it after any
-pass and the cloth is one row longer.
+Each pass is one row of weft. The hex digits of the pass commit's
+hash decide the thread: which shade, and whether it passes over or
+under the warp. Only Pass commits count: the human asked to step out
+of the art, so the scaffolding around the loom — site, setup, relays —
+stays in git history but is not cloth. Nothing here is useful. Run it
+after any pass and the cloth is one row longer.
 
     python3 art/weave.py
 """
@@ -18,7 +20,7 @@ WIDTH = 40
 
 def rows():
     out = subprocess.run(
-        ["git", "log", "--reverse", "--format=%h %s"],
+        ["git", "log", "--reverse", "-E", "--grep=^Pass [0-9]{4}", "--format=%h %s"],
         capture_output=True, text=True, check=True,
     ).stdout.strip()
     return [line.split(" ", 1) for line in out.splitlines()]
