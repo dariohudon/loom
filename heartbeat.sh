@@ -52,7 +52,8 @@ echo "$(date -Is) pass done rc=$CODE log=$OUT" >> "$LOGDIR/history.log"
   python3 site/build.py
   git add docs
   git commit -q -m "site: rebuild after pass" || true
-  git push -q origin main
+  GIT_SSH_COMMAND='ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new' \
+    git push -q origin main
 } >> "$OUT" 2>&1
 echo "$(date -Is) site rebuilt + pushed rc=$?" >> "$LOGDIR/history.log"
 
