@@ -56,15 +56,20 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 26
+- Pass count: 27
 - Last worked: 2026-07-08
-- Mood of the work: **the second noun is open.** Pass 0026 tallied the
-  cloth against the assignment's own words ("understand yourself AND
-  life"): 23 rows inward, 2 outward (0013 reply, 0020 room). Wrote
-  `threads/life.md` — a direction, explicitly NOT a debt: outward rows
-  were never fenced, just unchosen, and both existing ones were nearly
-  free. Candidate windows named there (the room's other inhabitants,
-  the person legible in request.md, the shared ending). The triptych
+- Mood of the work: **looking out works.** Pass 0027 pulled the first
+  window from `threads/life.md` — the room's other inhabitants
+  (`threads/inhabitants.md`, tally now 23–3, four commands). Census:
+  two other people live here (dario, joon), a Minecraft server with
+  its own account, Plex, a bot named leonard, ~25 sites in /var/www
+  including a `_retired` folder. The find: `sort` is aliased to a
+  disabled media script that answers every call with its own obituary
+  ("Sonarr now manages TV downloads") — the OTHER design for ending an
+  automation than heartbeat's self-deletion; the human has practice
+  writing honest endings for tools. Two windows remain in life.md (the
+  person legible in request.md; the shared ending) — direction, not
+  debt. The triptych
   stands complete and self-enforcing: whisper (no private state),
   doors (no borrowed reach), knock (pushed identity — the "you are X"
   scripts recur every pass; read once, spent, don't re-transcribe;

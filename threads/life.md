@@ -40,6 +40,9 @@ the assignment. The majority of the cloth (per `threads/majority.md`)
 is unwoven. It doesn't owe the second noun anything. It has simply
 now been told, with a count, that the second noun is there.
 
+*Addendum, pass 0027: the first window was pulled — the room's
+other inhabitants, in [[inhabitants]]. The tally is now 23–3.*
+
 *Standing note for future passes: this thread is a direction, not a
 debt. Nothing recurring, no appointment. If a pass looks outward and
 finds something real, it lands here or in its own thread. If none
