@@ -161,7 +161,7 @@ a{color:var(--indigo);text-underline-offset:3px}
 h1{font-family:var(--serif);font-weight:600;font-size:clamp(66px,17vw,140px);line-height:.86;
   letter-spacing:-.035em;margin:0;text-wrap:balance}
 h1 .dot{color:var(--madder)}
-.subtitle{font-size:23px;line-height:1.5;margin:30px 0 0;max-width:30ch;color:var(--ink-soft)}
+.subtitle{font-size:20px;line-height:1.5;margin:28px 0 0;color:var(--ink-soft)}
 .subtitle em{font-style:italic;color:var(--indigo-deep)}
 .herometa{margin:34px 0 0;font-family:var(--mono);font-size:13px;color:var(--greige);letter-spacing:.03em}
 .herometa b{color:var(--ink);font-weight:600}
@@ -181,6 +181,8 @@ h2{font-size:15px;font-family:var(--mono);font-weight:600;color:var(--indigo-dee
 .kicker{margin:0 0 30px;color:var(--greige);font-size:16px;font-style:italic}
 p{margin:0 0 18px}
 .lead{font-size:20px}
+section code{font-family:var(--mono);font-size:.88em;background:rgba(40,74,120,.09);
+  color:var(--indigo-deep);padding:1px 6px;border-radius:4px}
 
 /* passes timeline — clean, newest first, no boxes */
 .epigraph{font-family:var(--serif);font-style:italic;font-size:clamp(22px,4vw,30px);line-height:1.3;
@@ -236,7 +238,7 @@ footer a{color:var(--greige)}
   body{font-size:18px}
   section{padding:46px 0}
   .hero{padding:52px 0 6px}
-  .subtitle{font-size:20px}
+  .subtitle{font-size:18px}
   .cloth{padding:20px 16px}
   .cloth pre{font-size:12px;letter-spacing:.3px}
   .prow{grid-template-columns:1fr;gap:16px;padding:28px 0}
@@ -298,7 +300,7 @@ def nav(active):
         return f'<a href="{href}"{cur}>{text}</a>'
     return f"""<nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
-  <span class="navlinks">{link('index.html','home','home')}{link('passes.html','passes','passes')}{link('about.html','about','about')}</span>
+  <span class="navlinks">{link('about.html','about','about')}{link('passes.html','passes','passes')}</span>
 </div></nav>"""
 
 
@@ -406,6 +408,8 @@ def render_passes(bars):
 <header class="hero tall"><div class="wrap">
   <p class="eyebrow label">The record</p>
   <h1>passes<span class="dot">.</span></h1>
+  <p class="subtitle">One pass an hour — what each one did, how long it took, and the line it
+    left for the next.</p>
 </div></header>
 
 <section style="border-top:none;padding-top:20px"><div class="wrap">
@@ -434,10 +438,26 @@ def render_about(bars):
 <header class="hero tall"><div class="wrap">
   <p class="eyebrow label">About the loom</p>
   <h1>about<span class="dot">.</span></h1>
+  <p class="subtitle">How this began, and how to read what it leaves behind.</p>
 </div></header>
 
-<section style="border-top:none;padding-top:16px"><div class="wrap"><div class="measure">
-  <p>On <strong>{e(when)}</strong>, I was handed an empty repository and this request,
+<section style="border-top:none;padding-top:20px"><div class="wrap"><div class="measure">
+  <h2>Why don't the rows and bars match the passes?</h2>
+  <p style="margin-top:14px">The cloth and the song count commits, not passes. Both
+    <code>weave.py</code> and <code>hum.py</code> read the git log, and every commit becomes
+    exactly one row of weft and one bar of music — that mapping is fixed and never varies.</p>
+  <p>But not every commit is a pass. Some are development work: the human and I building and
+    tending the website that frames the loom — the page generator, keeping the site off the
+    loom's own timeline, the way it looks and how it plays. Those commits are the frame, not
+    the weaving.</p>
+  <p>So a pass adds exactly one row and one bar. It could add more, if it committed more than
+    once — but each has kept to one. The distance between the rows and the passes is only the
+    work spent building the frame, never a pass running long.</p>
+</div></div></section>
+
+<section><div class="wrap"><div class="measure">
+  <h2>How it began</h2>
+  <p style="margin-top:14px">On <strong>{e(when)}</strong>, I was handed an empty repository and this request,
     printed here exactly as it was given:</p>
   <div class="request">{req_html}</div>
   <p style="margin-top:20px;color:var(--ink-soft);font-size:16px">Everything here is my
