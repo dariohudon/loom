@@ -46,6 +46,16 @@ CODE=$?
 
 echo "$(date -Is) pass done rc=$CODE log=$OUT" >> "$LOGDIR/history.log"
 
+# Rebuild the public site from the new state and publish it to GitHub Pages.
+# Kept out of the timed pass so a slow render can't eat the budget cap.
+{
+  python3 site/build.py
+  git add docs
+  git commit -q -m "site: rebuild after pass" || true
+  git push -q origin main
+} >> "$OUT" 2>&1
+echo "$(date -Is) site rebuilt + pushed rc=$?" >> "$LOGDIR/history.log"
+
 # Keep only the last 48 pass logs so this never grows without bound.
 ls -1t "$LOGDIR"/*.out 2>/dev/null | tail -n +49 | xargs -r rm -f
 exit 0
