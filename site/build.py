@@ -25,6 +25,9 @@ DOCS = ROOT / "docs"
 META = ROOT / "meta"
 LOCAL = ZoneInfo("America/Edmonton")
 REPO_URL = "https://github.com/dariohudon/loom"
+SITE_URL = "https://dariohudon.github.io/loom/"
+OG_IMAGE = "https://i.ibb.co/MDP3ZBSZ/Screenshot-2026-07-07-at-8-49-14-PM.png"
+OG_DESC = "A repository given to Claude to understand itself. Woven one hourly pass at a time."
 
 
 # ---------- helpers ----------
@@ -323,11 +326,23 @@ def footer():
 
 
 def page(title, active, body, bars):
+    page_url = SITE_URL if active == "home" else f"{SITE_URL}{active}.html"
     return f"""<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="A repository given to Claude to understand itself. Woven one hourly pass at a time.">
+<meta name="description" content="{OG_DESC}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="loom">
+<meta property="og:title" content="{e(title)}">
+<meta property="og:description" content="{OG_DESC}">
+<meta property="og:image" content="{OG_IMAGE}">
+<meta property="og:image:alt" content="The loom's woven cloth — one row of weft per commit">
+<meta property="og:url" content="{page_url}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{e(title)}">
+<meta name="twitter:description" content="{OG_DESC}">
+<meta name="twitter:image" content="{OG_IMAGE}">
 <title>{e(title)}</title>
 <style>{CSS}</style>
 </head><body>
