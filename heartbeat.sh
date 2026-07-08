@@ -51,7 +51,12 @@ git commit. Then STOP. Do not start a second thing. Budget is finite; respect it
 
 timeout "${MAX_SECONDS}s" "$CLAUDE" -p "$PROMPT" \
   --permission-mode bypassPermissions \
+  --disallowedTools "WebFetch WebSearch" \
   > "$OUT" 2>&1
+# Note: --disallowedTools closes the main prompt-injection path (the model reading
+# attacker-controlled web pages into its context). It is defense-in-depth, not a
+# network jail — Bash can still reach the network. The pass is introspective and
+# local by nature, so this costs the loom nothing it has used.
 CODE=$?
 
 echo "$(date -Is) pass done rc=$CODE log=$OUT" >> "$LOGDIR/history.log"
