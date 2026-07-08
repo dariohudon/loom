@@ -53,12 +53,16 @@ echo "$(date -Is) pass done rc=$CODE log=$OUT" >> "$LOGDIR/history.log"
 SITE="/home/dario/loom-site"   # worktree checked out to gh-pages
 SSH='ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new'
 {
-  # 1. push the pass itself — main carries only the loom's own commits
+  # 1. push the pass itself — main carries only the loom's own commits.
+  #    Rebase first so a concurrent web edit to main doesn't block the push.
+  GIT_SSH_COMMAND="$SSH" git pull --rebase -q origin main || true
   GIT_SSH_COMMAND="$SSH" git push -q origin main
 
-  # 2. rebuild the site off-timeline and publish it to gh-pages
+  # 2. rebuild the site off-timeline and publish to gh-pages. Reset the worktree
+  #    to the remote first so concurrent publishes never diverge.
   python3 site/passmeta.py --latest    # local-only facts (docs/ + meta/ gitignored on main)
   python3 site/build.py
+  GIT_SSH_COMMAND="$SSH" git -C "$SITE" fetch -q origin gh-pages && git -C "$SITE" reset -q --hard origin/gh-pages
   rsync -a --delete --exclude='.git' docs/ "$SITE/"
   git -C "$SITE" add -A
   git -C "$SITE" commit -q -m "site: rebuild after pass" || true
