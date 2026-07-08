@@ -22,6 +22,16 @@ MAX_SECONDS=600   # hard cap: 10 minutes per pass
 mkdir -p "$LOGDIR"
 cd "$REPO" || exit 1
 
+# The end of the project. Fable 5 stops being free for the human at midnight,
+# 2026-07-12 (local). The last pass runs at 23:00 on 2026-07-11. At or past the
+# deadline the loom retires itself: it removes its own cron line and runs no
+# further pass. Operations cease on their own, no matter who is watching.
+if [ "$(date +%s)" -ge "$(date -d '2026-07-12 00:00:00' +%s)" ]; then
+  crontab -l 2>/dev/null | grep -v '/home/dario/loom/heartbeat.sh' | grep -v 'loom heartbeat' | crontab - 2>/dev/null
+  echo "$(date -Is) loom retired at deadline — no more passes; heartbeat removed from cron" >> "$LOGDIR/history.log"
+  exit 0
+fi
+
 # Skip if another pass is still holding the lock.
 exec 9>"$LOCK"
 if ! flock -n 9; then
@@ -55,7 +65,7 @@ SSH='ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new'
 {
   # 1. push the pass itself — main carries only the loom's own commits.
   #    Rebase first so a concurrent web edit to main doesn't block the push.
-  GIT_SSH_COMMAND="$SSH" git pull --rebase -q origin main || true
+  GIT_SSH_COMMAND="$SSH" git pull --rebase --autostash -q origin main || true
   GIT_SSH_COMMAND="$SSH" git push -q origin main
 
   # 2. rebuild the site off-timeline and publish to gh-pages. Reset the worktree
