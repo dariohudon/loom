@@ -121,10 +121,16 @@ footer a{color:var(--greige)}
   .facts dl{grid-template-columns:130px 1fr}
   .navlinks{gap:18px}
   .playbar-in{padding:9px 16px;gap:12px}
-  .playmeta{display:none}
-  .ptime{display:none}
+  .playtitle{font-size:12px}
+  .playsub{font-size:10.5px}
+  .ptime{font-size:11px}
 }
-@media (max-width:400px){.playsub{display:none}}
+@media (max-width:400px){
+  .playbar-in{gap:10px;padding:9px 12px}
+  .playsub{display:none}
+  .playtitle{max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+}
+@media (max-width:330px){.ptime{display:none}}
 </style>
 </head><body>
 <nav class="nav"><div class="wrap">
