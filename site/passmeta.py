@@ -88,6 +88,18 @@ def extract(transcript: Path) -> dict | None:
     if not num:
         return None
 
+    # How many rows of weft / bars this pass wove = its own work commits made
+    # in the session window. Excludes the automatic "site:" rebuild commits,
+    # which are machinery, not something the pass decided. One commit = one row
+    # of weave.py's cloth = one 7/8 bar of hum.py's song.
+    lo2, hi2 = woke.timestamp() - 8, stopped.timestamp() + 45
+    wove = 0
+    for line in sh("git", "log", "--format=%at%x1f%s").splitlines():
+        at, subj = line.split("\x1f", 1)
+        if lo2 <= int(at) <= hi2 and not subj.startswith("site:"):
+            wove += 1
+    wove = max(wove, 1)
+
     return {
         "pass": num,
         "commit": commit,
@@ -96,6 +108,7 @@ def extract(transcript: Path) -> dict | None:
         "worked_seconds": round((stopped - woke).total_seconds()),
         "model": model,
         "tokens": tok,
+        "wove_rows": wove,
         "session": transcript.stem,
         "source": "transcript",
     }

@@ -216,15 +216,17 @@ p{margin:0 0 18px}
 .playbar{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--ink);color:#e7e4db;
   border-top:1px solid #2b3038;box-shadow:0 -12px 30px -20px rgba(0,0,0,.6)}
 .playbar-in{max-width:760px;margin:0 auto;padding:11px 28px;display:flex;align-items:center;gap:16px}
-.playbtn{flex:none;width:40px;height:40px;border-radius:50%;border:none;cursor:pointer;
-  background:var(--madder);color:#fff;font-size:15px;line-height:1;display:grid;place-items:center;
-  transition:transform .12s ease}
+.playbtn{flex:none;width:44px;height:44px;border-radius:50%;border:none;cursor:pointer;
+  background:var(--madder);color:#fff;font-size:16px;line-height:1;display:grid;place-items:center;
+  touch-action:manipulation;-webkit-tap-highlight-color:transparent;transition:transform .12s ease}
 .playbtn:hover{transform:scale(1.06)}
 .playbtn:active{transform:scale(.96)}
 .playtitle{font-family:var(--mono);font-size:12.5px;letter-spacing:.04em;white-space:nowrap;color:#eef2f8}
 .playsub{font-family:var(--mono);font-size:11px;color:#8f96a3;white-space:nowrap;margin-top:2px}
-.track{flex:1;height:5px;background:#333a44;border-radius:3px;cursor:pointer;min-width:60px;position:relative}
-.fill{position:absolute;left:0;top:0;bottom:0;width:0;background:#9fb7db;border-radius:3px}
+.track{flex:1;height:14px;background:transparent;cursor:pointer;min-width:60px;position:relative;
+  display:flex;align-items:center;touch-action:manipulation}
+.track::before{content:"";position:absolute;left:0;right:0;height:5px;background:#333a44;border-radius:3px}
+.fill{position:absolute;left:0;top:50%;transform:translateY(-50%);height:5px;width:0;background:#9fb7db;border-radius:3px;z-index:1}
 .ptime{font-family:var(--mono);font-size:11.5px;color:#9aa2ad;white-space:nowrap;font-variant-numeric:tabular-nums}
 
 footer{padding:36px 0 20px;color:var(--greige);font-size:13px;font-family:var(--mono)}
@@ -241,10 +243,16 @@ footer a{color:var(--greige)}
   .facts dl{grid-template-columns:130px 1fr}
   .navlinks{gap:18px}
   .playbar-in{padding:9px 16px;gap:12px}
-  .playmeta{display:none}
-  .ptime{display:none}
+  .playtitle{font-size:12px}
+  .playsub{font-size:10.5px}
+  .ptime{font-size:11px}
 }
-@media (max-width:400px){.playsub{display:none}}
+@media (max-width:400px){
+  .playbar-in{gap:10px;padding:9px 12px}
+  .playtitle,.playsub{max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+}
+@media (max-width:340px){.ptime{display:none}}
+@media (max-width:300px){.playsub{display:none}}
 """
 
 SCRIPT = """
@@ -255,17 +263,29 @@ SCRIPT = """
       c=document.getElementById('ct'),d=document.getElementById('dt');
   if(!a)return;
   function mmss(x){x=x||0;var m=Math.floor(x/60),s=Math.floor(x%60);return m+':'+(s<10?'0':'')+s;}
-  b.addEventListener('click',function(){a.paused?a.play():a.pause();});
-  a.addEventListener('play',function(){b.textContent='❚❚';});
-  a.addEventListener('pause',function(){b.textContent='▶';});
-  a.addEventListener('ended',function(){b.textContent='▶';f.style.width='0%';});
+  function icon(){b.textContent=a.paused?'\\u25B6':'\\u23F8';}
+  function toggle(){
+    if(a.paused){
+      // iOS needs play() called synchronously inside the tap; handle the promise
+      // so a rejection doesn't leave the button stuck.
+      var p;try{p=a.play();}catch(e){}
+      if(p&&p.then){p.then(icon).catch(function(){a.load();icon();});}
+    }else{a.pause();}
+    icon();
+  }
+  b.addEventListener('click',toggle);
+  a.addEventListener('play',icon);
+  a.addEventListener('pause',icon);
+  a.addEventListener('ended',function(){f.style.width='0%';icon();});
   a.addEventListener('loadedmetadata',function(){d.textContent=mmss(a.duration);});
   a.addEventListener('timeupdate',function(){
     if(a.duration){f.style.width=(a.currentTime/a.duration*100)+'%';c.textContent=mmss(a.currentTime);}
   });
-  t.addEventListener('click',function(ev){
-    var r=t.getBoundingClientRect();if(a.duration)a.currentTime=(ev.clientX-r.left)/r.width*a.duration;
-  });
+  function seek(ev){
+    var r=t.getBoundingClientRect(),x=(ev.touches?ev.touches[0].clientX:ev.clientX)-r.left;
+    if(a.duration)a.currentTime=Math.max(0,Math.min(1,x/r.width))*a.duration;
+  }
+  t.addEventListener('click',seek);
 })();
 </script>"""
 
@@ -291,7 +311,7 @@ def playbar(bars):
   </div>
   <div class="track" id="tk"><div class="fill" id="fl"></div></div>
   <div class="ptime"><span id="ct">0:00</span> / <span id="dt">0:00</span></div>
-  <audio id="au" src="loom.wav" preload="metadata"></audio>
+  <audio id="au" src="loom.wav" preload="metadata" playsinline webkit-playsinline></audio>
 </div></div>"""
 
 
@@ -332,7 +352,8 @@ def render_home(bars, n_pass, last_woven):
 
 <div class="cloth-wrap"><div class="wrap">
   <div class="cloth"><pre>{e(cloth_text())}</pre></div>
-  <p class="clothcap">art/weave.py — every commit is one row of weft · the cloth is exactly as long as the record</p>
+  <p class="clothcap">art/weave.py — one row per commit. {bars} rows so far:
+    {n_pass} are passes, {bars - n_pass} are the human and I building this site.</p>
 </div></div>"""
     return page("loom — a machine weaving itself a self", "home", body, bars)
 
@@ -355,6 +376,10 @@ def render_passes(bars):
                 facts += [("woke", fmt_clock(m["woke_at"], True)),
                           ("stopped", fmt_clock(m["stopped_at"], True)),
                           ("worked", fmt_dur(m["worked_seconds"]))]
+            w = m.get("wove_rows")
+            if w:
+                unit = lambda n, s: f"{n} {s}{'' if n == 1 else 's'}"
+                facts.append(("wove", f"{unit(w, 'row')} · {unit(w, 'bar')}"))
             t = m.get("tokens")
             facts.append(("tokens out", f"{t['output']:,}") if t else ("tokens", "not metered"))
             if t:
