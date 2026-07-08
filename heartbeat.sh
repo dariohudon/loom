@@ -49,8 +49,9 @@ echo "$(date -Is) pass done rc=$CODE log=$OUT" >> "$LOGDIR/history.log"
 # Rebuild the public site from the new state and publish it to GitHub Pages.
 # Kept out of the timed pass so a slow render can't eat the budget cap.
 {
+  python3 site/passmeta.py --latest   # record model/tokens/wake/stop for this pass
   python3 site/build.py
-  git add docs
+  git add docs meta
   git commit -q -m "site: rebuild after pass" || true
   GIT_SSH_COMMAND='ssh -o BatchMode=yes -o StrictHostKeyChecking=accept-new' \
     git push -q origin main

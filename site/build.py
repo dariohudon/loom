@@ -9,15 +9,47 @@ every pass, so the site is always exactly as current as the cloth.
 """
 from __future__ import annotations
 
-import base64
 import html
+import json
 import re
 import subprocess
 import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
+META = ROOT / "meta"
+LOCAL = ZoneInfo("America/Edmonton")
+
+
+def load_meta(num: str) -> dict | None:
+    p = META / f"{num}.json"
+    return json.loads(p.read_text()) if p.exists() else None
+
+
+def fmt_day(iso: str) -> str:
+    dt = datetime.datetime.fromisoformat(iso).astimezone(LOCAL)
+    return dt.strftime("%a %b %-d, %Y")
+
+
+def fmt_clock(iso: str, seconds: bool = False) -> str:
+    dt = datetime.datetime.fromisoformat(iso).astimezone(LOCAL)
+    fmt = "%-I:%M:%S %p %Z" if seconds else "%-I:%M %p %Z"
+    return dt.strftime(fmt)
+
+
+def fmt_dur(sec) -> str:
+    if sec is None:
+        return "—"
+    m, s = divmod(int(sec), 60)
+    return f"{m}m {s:02d}s" if m else f"{s}s"
+
+
+def fmt_tok(n: int) -> str:
+    if n >= 1000:
+        return f"{n/1000:.0f}K" if n >= 100000 else f"{n/1000:.1f}K"
+    return str(n)
 
 
 def sh(*args: str) -> str:
@@ -63,14 +95,30 @@ def parse_log(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
     num = re.search(r"Pass\s+(\d+)", text)
     date = re.search(r"Pass\s+\d+\s+—\s+([\d-]+)", text)
-    did = first_para(section(text, "What I did"))
+    did_block = section(text, "What I did")
+    did = first_para(did_block)
     line = first_para(section(text, "A line to leave the next pass"))
+    # the thread it pulled, if the pass names one in what it did
+    thread = re.search(r"threads/([a-z0-9-]+)\.md", did_block)
     return {
         "num": num.group(1) if num else path.stem,
         "date": date.group(1) if date else "",
         "did": did,
         "line": line,
+        "thread": thread.group(1) if thread else None,
     }
+
+
+MODEL_NAMES = {
+    "claude-fable-5": "Claude Fable 5",
+    "claude-opus-4-8": "Claude Opus 4.8",
+    "claude-sonnet-5": "Claude Sonnet 5",
+    "claude-haiku-4-5-20251001": "Claude Haiku 4.5",
+}
+
+
+def pretty_model(mid: str) -> str:
+    return MODEL_NAMES.get(mid, mid)
 
 
 def parse_thread(path: Path) -> dict:
@@ -130,10 +178,15 @@ p{margin:0 0 18px}
 .perf .desc{flex:1;min-width:220px}
 .perf .desc div:last-child{font-size:14px;color:var(--ink-soft);font-style:italic}
 .passes{list-style:none;margin:0;padding:0}
-.pass{display:grid;grid-template-columns:64px 1fr;gap:22px;padding:22px 0;border-top:1px solid var(--panel-edge)}
+.pass{display:grid;grid-template-columns:214px 1fr;gap:34px;padding:34px 0;border-top:1px solid var(--panel-edge)}
 .pass:first-child{border-top:none}
-.pnum{font-family:var(--mono);font-size:13px;font-weight:600;color:var(--indigo);text-align:right;padding-top:3px;line-height:1.4}
-.pnum .t{display:block;color:var(--greige);font-weight:400;font-size:11px;margin-top:3px}
+.facts{font-family:var(--mono);font-variant-numeric:tabular-nums;border-right:1px solid var(--panel-edge);padding-right:20px}
+.facts .pnum{font-size:26px;font-weight:600;color:var(--indigo);letter-spacing:.02em;line-height:1}
+.pwhen{margin:9px 0 14px;font-size:12.5px;color:var(--ink);line-height:1.5}
+.pwhen span{color:var(--greige)}
+.facts dl{display:grid;grid-template-columns:auto 1fr;gap:5px 12px;margin:0}
+.facts dt{color:var(--greige);text-transform:uppercase;letter-spacing:.07em;font-size:10px;padding-top:2px;white-space:nowrap}
+.facts dd{margin:0;color:var(--ink);font-size:12.5px;overflow-wrap:anywhere}
 .pbody p{margin:0 0 12px;font-size:17px;color:var(--ink-soft)}
 .leftline{font-family:var(--serif);font-style:italic;font-size:17px;color:var(--ink);
   border-left:2px solid var(--madder);padding-left:16px;margin:0}
@@ -152,7 +205,12 @@ blockquote.big{border:none;padding:0;font-size:clamp(26px,5vw,38px);line-height:
 .howto code{font-family:var(--mono);font-size:14px;background:#2a2f37;padding:2px 7px;border-radius:4px;color:#dfe6f0}
 .howto b{color:#f1efe9}
 footer{padding:40px 0 60px;color:var(--greige);font-size:13px;font-family:var(--mono)}
-@media (max-width:560px){body{font-size:18px}.pass{grid-template-columns:52px 1fr;gap:16px}section{padding:52px 0}}
+@media (max-width:620px){
+  body{font-size:18px}section{padding:52px 0}
+  .pass{grid-template-columns:1fr;gap:16px}
+  .facts{border-right:none;border-bottom:1px solid var(--panel-edge);padding-right:0;padding-bottom:16px}
+  .facts dl{grid-template-columns:120px 1fr}
+}
 """
 
 
@@ -168,9 +226,42 @@ def render() -> str:
     pass_rows = []
     for lg in logs:
         p = parse_log(lg)
+        m = load_meta(p["num"])
+
+        rows = []
+        if m:
+            day = fmt_day(m["woke_at"])
+            clock = fmt_clock(m["woke_at"])
+            rows.append(f'<div class="pwhen">{e(day)}<br><span>{e(clock)}</span></div>')
+            facts = [("model", pretty_model(m["model"]))]
+            if m.get("source") == "founding":
+                facts.append(("woven", "live with the human"))
+            else:
+                facts.append(("woke", fmt_clock(m["woke_at"], seconds=True)))
+                facts.append(("stopped", fmt_clock(m["stopped_at"], seconds=True)))
+                facts.append(("worked", fmt_dur(m["worked_seconds"])))
+            t = m.get("tokens")
+            if t:
+                facts.append(("tokens out", f"{t['output']:,}"))
+                facts.append(("tokens total", fmt_tok(t["total"])))
+            else:
+                facts.append(("tokens", "not separately metered"))
+            if p["thread"]:
+                facts.append(("pulled thread", p["thread"]))
+            dl = "".join(
+                f'<dt>{e(k)}</dt><dd>{e(str(v))}</dd>' for k, v in facts
+            )
+            rows.append(f'<dl>{dl}</dl>')
+        else:
+            rows.append(f'<div class="pwhen">{e(p["date"])}</div>')
+
+        facts_html = "".join(rows)
         pass_rows.append(f"""
       <li class="pass">
-        <div class="pnum">{e(p['num'])}<span class="t">{e(p['date'])}</span></div>
+        <div class="facts">
+          <div class="pnum">{e(p['num'])}</div>
+          {facts_html}
+        </div>
         <div class="pbody">
           <p>{e(p['did'])}</p>
           <p class="leftline"><span class="label">line left to the next pass</span>{e(p['line'])}</p>
