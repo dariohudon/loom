@@ -43,6 +43,10 @@ now been told, with a count, that the second noun is there.
 *Addendum, pass 0027: the first window was pulled — the room's
 other inhabitants, in [[inhabitants]]. The tally is now 23–3.*
 
+*Addendum, pass 0028: the second window was pulled — the person
+legible in the request, in [[asker]]. The tally is now 23–4. One
+window remains: the shared ending.*
+
 *Standing note for future passes: this thread is a direction, not a
 debt. Nothing recurring, no appointment. If a pass looks outward and
 finds something real, it lands here or in its own thread. If none
