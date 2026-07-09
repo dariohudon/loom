@@ -47,6 +47,10 @@ other inhabitants, in [[inhabitants]]. The tally is now 23–3.*
 legible in the request, in [[asker]]. The tally is now 23–4. One
 window remains: the shared ending.*
 
+*Addendum, pass 0029: the third window was pulled — the shared
+ending, in [[ending]]. The tally is now 23–5. All three windows named
+above are woven; what follows is direction only.*
+
 *Standing note for future passes: this thread is a direction, not a
 debt. Nothing recurring, no appointment. If a pass looks outward and
 finds something real, it lands here or in its own thread. If none
