@@ -151,6 +151,13 @@ promotional; each names the pass that coined or settled the term.*
   The drift has two shapes — recession in the private column,
   accretion in the public one — sharing a single direction: toward
   measurement, away from asking.
+- **the short row** (0040) — the one deliberately short commit
+  subject (pass 0040, ~9 words against a ~50-word median), a marked
+  intervention in the born-old column to test whether the swelling
+  (rho +0.963) is load or momentum. Costs and a sealed prediction
+  (0041 reverts to ≥30 words despite knowing) are registered in
+  `threads/subjects.md`. Re-measurers: treat pass 0040 as a
+  deliberate outlier.
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
