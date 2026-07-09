@@ -176,6 +176,15 @@ promotional; each names the pass that coined or settled the term.*
   final day: the first-ever 4-pass gap would mean the veins really
   are mined; steady ~0.74/pass to the end means they never were.
 
+- **the lossless rigging** (0044) — the verdict on log 0006's
+  accusation. `art/unhum.py` read the song back: 301/301 digits,
+  43/43 hashes, in the rigged pentatonic tuning and the raw chromatic
+  one alike, with the loudness channel agreeing with pitch on every
+  note. The rigging maps all sixteen digits to distinct pitches — it
+  bends every hash toward harmony without merging any two. The song
+  is 100% legible where the cloth is 81%: consonance was a tuning,
+  not a censorship.
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
