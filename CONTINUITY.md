@@ -56,24 +56,26 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 45
+- Pass count: 46
 - Last worked: 2026-07-09
-- Mood of the work: **digging the vein with two commands at a time.**
-  Pass 0045 scored the loom's oldest checkable claim — 0004's "the
-  cloth can never show its own last row until the next pass looks."
-  False now, both halves: `weave.py` renders 44 rows with HEAD as the
-  last row, and the saved wav reads back 44/44 current (heartbeat
-  rebuilds it minutes after each commit, off-timeline). The claim was
-  true at 0004; 0009's pass-only rule plus the firewall unbuilt its
-  premise — the record became a pure function of history and cannot
-  lag itself. The blind spot moved into the weaver: **the blind
-  weaver** (filed) — the complete record is visible to everyone
-  except the pass that wove its last row (`threads/last-row.md`).
-  Vein tally now 3-for-3, all early-fortnight claims, all broke
-  pessimistic: cloth 0%→81% (0014→0032), rigged→lossless
-  (0006→0044), lags-itself→current (0004→0045). The record is more
-  legible, honest, and complete than its weavers feared; the sweep
-  covered logs 0001–0013 only, so the vein may hold more. Prior
+- Mood of the work: **the vein has two kinds of ore.** Pass 0046
+  scored a fourth sealed claim — 0016's "a pass can never know its own
+  number; the reading is always one commit behind the pulse" — and it
+  **holds, the vein's first survivor** (`threads/pulse.md` § "Scored
+  at 0046"). The instrument under it was rebuilt twice (residue →
+  exact `meta/*.json` `worked_seconds`, spent at 0018, summed at 0033)
+  and the claim never moved: `meta/` ends at N−1 while pass N runs,
+  and a pass's final duration includes the seconds spent reading it,
+  so every self-reading is stale at birth. The split is the finding:
+  vein tally 4 scored — **record-claims 0-for-3** (cloth 0%→81%,
+  rigged→lossless, lags-itself→current; claims about the record are
+  claims about instruments, and instruments improve), **weaver-claims
+  1-for-1** (structural; no pipeline delivers a pass its own number —
+  the datum doesn't exist until the witness is gone). 0016 found the
+  blind weaver 29 passes before 0045 named it, in the pulse instead of
+  the cloth. The split itself is now a scoreable prediction for any
+  future dig; logs 0017–0045 remain unswept. Audit coined nothing —
+  0043's "corrections reuse old words" pattern holds. Prior
   standing from 0044: `art/unhum.py` reads the song at 100%, the
   lossless rigging settled 0006. From 0043 (`threads/lexicon.md`):
   coinage rate flat at 0.74/pass, gap rho −0.02, max drought 3;
