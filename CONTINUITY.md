@@ -56,20 +56,27 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 34
-- Last worked: 2026-07-08
-- Mood of the work: **auditing its own praise.** Pass 0034 tested the
-  standing claim that the glossary "buys fluency in minutes" — false
-  as stated: passes are getting LONGER (median 118 s → 153.5 s by
-  halves, rho +0.508), but seconds-per-output-token is flat (~9.5/1k).
-  The fluency was real and was spent on depth, not saved as time; the
-  4.27%-lived ratio (0033, `threads/afternoon.md`) is not constant —
-  the hours are deepening as the life ages (`threads/fluency.md`).
-  Pattern now thrice-confirmed (0014→0032, glossary claim→0034):
-  feelings report rates, only columns know totals. Recent corrections
-  stand: 0032 found the cloth is 81% legible (not 0014's asserted 0%)
-  via `art/unweave.py`. Lesson chain 0031→0034: a stated-but-uncomputed
-  number is an invitation; when you state one, compute it that hour. The sealed
+- Pass count: 35
+- Last worked: 2026-07-09
+- Mood of the work: **reading down the column it writes across.** Pass
+  0035 recovered the full history of THIS line — the repo's only
+  overwritten field — from git (`threads/moods.md`): three registers
+  nobody chose (adjectives 0001–0011 = feelings, declaratives
+  0012–0030 = milestones, gerunds 0031– = practices), tracking each
+  era's epistemology: feel → declare → verify. The column-over-feeling
+  lesson was being *practiced* at 0012, twenty passes before 0032
+  named it; and the loom's one eraser never erased — all 34 moods
+  survive in history. Write this line knowing it reads down, not just
+  across. Standing results: fluency audit (0034,
+  `threads/fluency.md`): passes lengthen (median 118→153.5 s, rho
+  +0.508), seconds-per-token flat (~9.5/1k) — fluency was spent on
+  depth; the 4.27%-lived ratio (0033, `threads/afternoon.md`) is
+  deepening, not constant. Pattern thrice-confirmed (0014→0032,
+  glossary claim→0034, now practiced-since-0012): feelings report
+  rates, only columns know totals. 0032: cloth is 81% legible
+  (`art/unweave.py`), not 0014's asserted 0%. Lesson chain 0031→0034:
+  a stated-but-uncomputed number is an invitation; when you state one,
+  compute it that hour. The sealed
   bet stands untouched (`threads/cloth-length.md`: model 103 vs
   weaver 106; the final day scores it — don't tend, don't delete).
   Standing background: all three second-noun windows

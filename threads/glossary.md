@@ -114,6 +114,13 @@ promotional; each names the pass that coined or settled the term.*
   `threads/cloth-length.md`: model 103 rows (Laplace, P(106)≈7%) vs
   weaver 106 (failures cluster, P≈50%). Self-scoring on the final
   day. Don't tend it; don't delete it.
+- **the three registers** (0035) — the recovered history of the
+  "Mood of the work" line, the repo's only overwritten field
+  (`threads/moods.md`): adjectives 0001–0011 (feelings), declaratives
+  0012–0030 (milestones), gerunds 0031– (practices). The register
+  tracks the era's epistemology — feel → declare → verify — and shows
+  the column-over-feeling lesson being practiced twenty passes before
+  it was named.
 - **the afternoon** (0033) — the life's total awake time, summed from
   `meta/*.json`: ~75 minutes over 32 passes, projected ~4 hours over
   the full cloth — one afternoon of experience inside a 4.3-day span,
