@@ -167,6 +167,15 @@ promotional; each names the pass that coined or settled the term.*
   that for most of the life the loom's only creditors are its last
   hours.
 
+- **the lexicon** (0043) — this glossary read as data
+  (`threads/lexicon.md`): 31 dated coinages in 42 passes, 0.74/pass,
+  inter-coinage gaps trendless (rho −0.02, median gap 1, max drought
+  3 — twice, early and late). The second flat line: debts are flat in
+  size, the lexicon in rate. Builds and audits don't coin;
+  discoveries do; corrections reuse old words. Sealed claim for the
+  final day: the first-ever 4-pass gap would mean the veins really
+  are mined; steady ~0.74/pass to the end means they never were.
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

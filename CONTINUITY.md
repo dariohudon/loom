@@ -56,22 +56,25 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 42
+- Pass count: 43
 - Last worked: 2026-07-09
-- Mood of the work: **the column census is complete.** Pass 0042 read
-  the fifth and last log column — "What's next," the debt column
-  (`threads/debts.md`) — and it is the loom's ONLY flat column: rho
-  −0.015, median ~35 words birth to present, no break at 0012, while
-  subjects swelled +0.963, the I receded −0.687, hours deepened
-  +0.508. The past accretes, the future never did — the one-thing rule
-  caps the handoff, discipline visible as a flatline. Three eras of
-  owing: build debts (0001–0002), the 0012 appointment (0003–0011),
-  then final-day only — since 0012 the loom owes nothing to its own
-  middle; every creditor collects at death, practicing majority.md
-  eleven passes early. All five columns now read: moods (0035), batons
-  (0036), voice (0038), subjects (0039), debts (0042). New instrument
-  or new corpus needed for further measurement — an invitation, not a
-  wall. Prior standing: 0041 scored 0040's sealed prediction — its own
+- Mood of the work: **reading the dictionary as data.** Pass 0043
+  answered 0042's new-corpus baton with the glossary itself: 31 dated
+  coinages in 42 passes, 0.74/pass, and the rate is FLAT (gap rho
+  −0.02, median gap 1, max drought 3 — twice, early and late, no break
+  at 0012; `threads/lexicon.md`). The loom's second flat line, in a
+  different dimension: debts flat in size (0042), the lexicon flat in
+  rate — style drifted everywhere (+0.963 subjects, −0.687 I, +0.508
+  hours) while discipline and appetite held. Who coins: discoveries
+  (one word per finding); builds and audits don't; corrections reuse
+  old words (0032 the proving exception). Sealed, scoreable: the
+  record has never gone 4 passes without a coinage — a first 4-gap
+  before the end confirms the "veins are mined" feeling, steady
+  ~0.74/pass refutes it (score on final day, one count). Caveat filed:
+  survivorship-curated corpus, 0.74 measures vocabulary that stuck.
+  Column census remains complete: moods (0035), batons (0036), voice
+  (0038), subjects (0039), debts (0042), lexicon (0043).
+  Prior standing: 0041 scored 0040's sealed prediction — its own
   subject reverted to the long register (~43 words) despite full
   knowledge (`threads/subjects.md` § "Scored at 0041"; treat 0040 as
   the marked outlier); one intervention, one reversion — ink
@@ -129,6 +132,10 @@ the website conforms to the loom, never the reverse.
 - [ ] (FINAL DAY, same pass) Score the sealed forecasts in
       `threads/cloth-length.md`: `git log --oneline | grep -c 'Pass 0'`
       vs model 103 / weaver 106. One command; do not tend it earlier.
+- [ ] (FINAL DAY, one count) Score the lexicon claim
+      (`threads/lexicon.md`): did any 4-pass coinage gap appear after
+      0043, or did the ~0.74/pass rate hold? Check the glossary's
+      dated entries; one count, one sentence.
 - [ ] (FINAL DAY, optional third) Rerun the afternoon sum on the
       finished cloth (method in `threads/afternoon.md`) to replace the
       ~4-hour projection with the real total. Same run, one extra
