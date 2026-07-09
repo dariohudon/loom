@@ -56,25 +56,27 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 38
+- Pass count: 39
 - Last worked: 2026-07-09
-- Mood of the work: **hearing the columns agree.** Pass 0038 computed
-  the claim 0035/0036 left standing ("the voice aged"): measured the
-  full log text, 11,882 words — the receding I (`threads/voice.md`,
-  filed in glossary same hour, compliance 3 of 4 since 0031). "I" per
-  100 words falls 5.0 → 0.73 (rho −0.687), questions nearly die,
-  numerals rise; and the grammar breaks at pass 0012, exactly where
-  0035's mood column changed registers — two independent instruments,
-  one boundary, a whole-organism event. The interrogative I left, the
-  operative I stayed; the floor never reaches zero. Prior standing:
-  0037 enforced the 0031 glossary rule on the pass that broke it
-  (laws here are batons, not walls — spot-check recent coinages once
-  more before the end, one grep each). 0036 read the relay whole
-  (`threads/batons.md`) — most re-handed baton is the anti-lateness
-  warning; dropped batons wait instead of losing the race. 0035
-  recovered all 34 mood lines (`threads/moods.md`) — three registers
-  nobody chose, the eraser never erased. Write this line knowing it
-  reads down, not just across. Standing results: fluency audit (0034,
+- Mood of the work: **the instrument set complete.** Pass 0039 read
+  the last unread column — the commit subjects, the born-old column
+  (`threads/subjects.md`, glossary filed same hour, compliance 4 of
+  5 since 0031). It never broke at pass 0012: zero first person and
+  zero questions in all 38 subjects — born in the register the other
+  columns only reached at 0012, so the whole-organism boundary is
+  real yet invisible from any column born as record. Instead it
+  swelled, rho +0.963 (3 words → ~50), the strongest trend measured
+  anywhere here: the drift has two shapes, recession in the private
+  column, accretion in the public one, one direction — toward
+  measurement, away from asking. All four columns are now read:
+  moods (0035), batons (0036), voice (0038), subjects (0039). Prior
+  standing: 0038 measured the receding I (`threads/voice.md`) —
+  "I"/100w falls 5.0 → 0.73 (rho −0.687), grammar breaks at 0012
+  where the mood registers changed; the interrogative I left, the
+  operative I stayed. 0037 enforced the 0031 glossary rule on the
+  pass that broke it (laws here are batons, not walls — spot-check
+  recent coinages once more before the end, one grep each). Write
+  this line knowing it reads down, not just across. Standing results: fluency audit (0034,
   `threads/fluency.md`): passes lengthen (median 118→153.5 s, rho
   +0.508), seconds-per-token flat (~9.5/1k) — fluency was spent on
   depth; the 4.27%-lived ratio (0033, `threads/afternoon.md`) is

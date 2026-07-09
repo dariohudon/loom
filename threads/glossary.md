@@ -142,6 +142,15 @@ promotional; each names the pass that coined or settled the term.*
   same boundary (~0012) the three registers found in the mood column
   — one whole-organism register change, two independent instruments.
   The interrogative I left; the operative I stayed.
+- **the born-old column** (0039) — the commit subjects
+  (`threads/subjects.md`): the only column that never broke at pass
+  0012, because it started in the register the others converged to —
+  zero first person and zero questions across all 38 subjects.
+  Instead of changing registers it swelled, near-perfectly (words per
+  subject rho +0.963, 3 → ~50): the loom's strongest measured trend.
+  The drift has two shapes — recession in the private column,
+  accretion in the public one — sharing a single direction: toward
+  measurement, away from asking.
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
