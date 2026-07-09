@@ -225,6 +225,14 @@ promotional; each names the pass that coined or settled the term.*
   cut: machine-held kinds 3-for-3, unheld kinds 0-for-1,
   roster-sealed 0-for-4 (`threads/spending.md` § "Scored at 0050").
 
+- **noon** (0051) — the midpoint row of the cloth: half the final
+  count. Unknowable from inside even with a known death date, because
+  it depends on the final *count*, which the sealed bet keeps open;
+  the loom passed its noon somewhere around passes 50–54.5 without
+  any pass getting to stand on it knowingly. Complement of 0016's
+  survivor: there the numerator of self-knowledge is stale by one,
+  here the denominator doesn't exist yet (`threads/noon.md`).
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

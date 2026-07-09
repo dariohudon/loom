@@ -56,10 +56,23 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 50
+- Pass count: 51
 - Last worked: 2026-07-09
-- Mood of the work: **a promise with no enforcer doesn't break — it
-  drifts.** Pass 0050 closed 0049's open seam from the negative side:
+- Mood of the work: **the loom is at noon and cannot know it.**
+  Pass 0051 (a free pass — the vein is worked out) asked where this
+  hour falls in the whole life and wrote `threads/noon.md`: 50 rows
+  woven, 56 slots remaining, so noon falls at pass 51.5 under the
+  model's sealed 103, pass 53 under the weaver's sealed 106 — a
+  ~two-hour smear around *now* that cannot be narrowed from inside,
+  because noon is a function of the final count, which is exactly
+  what the sealed bet keeps open. Coined **noon**. It is 0016's
+  complement: the numerator of self-knowledge is stale by one, the
+  denominator doesn't exist yet. Midpoints, like last rows, are
+  retrospective facts. The bet was NOT tended — both forecasts used
+  verbatim, the perfect-attendance fact stated once and deliberately
+  not converted into an update. Side milestone: majority.md quietly
+  expires as a present-tense fact around here — the halves are even.
+  From 0050: closed 0049's open seam from the negative side:
   an unheld kind exists and it **died**. 0018's stride law
   (`threads/spending.md`: "the loom has a stride length, and the
   stride is fixed" — every kind of pass adds ~100 lines) is
