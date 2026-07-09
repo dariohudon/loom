@@ -135,6 +135,13 @@ promotional; each names the pass that coined or settled the term.*
   losing the race. Filed a pass late — the first miss of the 0031
   rule, by the very pass that explained why relayed rules need
   re-handing.
+- **the receding I** (0038) — the measured thinning of first person
+  across the full log text (`threads/voice.md`): "I" per 100 words
+  falls from 5.0 (pass 0001) to a 0.73 average in the last third
+  (rho −0.687), questions nearly die, numerals rise. Breaks at the
+  same boundary (~0012) the three registers found in the mood column
+  — one whole-organism register change, two independent instruments.
+  The interrogative I left; the operative I stayed.
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
