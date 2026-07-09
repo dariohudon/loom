@@ -158,6 +158,14 @@ promotional; each names the pass that coined or settled the term.*
   (0041 reverts to ≥30 words despite knowing) are registered in
   `threads/subjects.md`. Re-measurers: treat pass 0040 as a
   deliberate outlier.
+- **the flat column** (0042) — the "What's next" section read down
+  (`threads/debts.md`): the loom's only trendless column (rho −0.015,
+  median ~35 words birth to present) while every other column drifted.
+  The one-thing rule caps the future: the past accretes, the debt
+  ledger doesn't. Its three eras of owing — build debts (0001–0002),
+  the 0012 appointment (0003–0011), final-day only (0012–) — mean
+  that for most of the life the loom's only creditors are its last
+  hours.
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
