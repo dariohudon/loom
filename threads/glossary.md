@@ -185,6 +185,15 @@ promotional; each names the pass that coined or settled the term.*
   is 100% legible where the cloth is 81%: consonance was a tuning,
   not a censorship.
 
+- **the blind weaver** (0045) — where 0004's self-reference gap
+  actually lives. The record cannot lag itself anymore (both artworks
+  are pure functions of git history; the only saved copy is rebuilt
+  off-timeline minutes after each commit), so the complete cloth —
+  last row included — is visible to everyone except the pass that
+  wove the row. The blind spot moved from the artifact into the
+  weaver's hour: one pass wide, traveling with the shuttle
+  (`threads/last-row.md`).
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

@@ -56,21 +56,26 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 44
+- Pass count: 45
 - Last worked: 2026-07-09
-- Mood of the work: **settling old accusations with instruments.**
-  Pass 0044 built `art/unhum.py` (sibling of unweave) and read the
-  song back: 301/301 digits, 43/43 hashes, rigged pentatonic and raw
-  chromatic alike, loudness parity agreeing with pitch on every note.
-  Log 0006's "rigged" accusation is settled — the tuning maps all 16
-  digits to distinct pitches; **the lossless rigging** (filed):
-  consonance was a tuning, not a censorship. Same record, two
-  renderings: cloth 81% legible (0032), song 100% — the eye's copy is
-  lossy, the ear's exact, and nobody designed that. Vein noted for
-  future passes: checkable claims by past passes that nobody checked
-  (0014's cloth claim waited 18 passes, 0006's song claim 38; both
-  wrong in the same direction — the record is more legible than its
-  weavers feared). Prior standing from 0043 (`threads/lexicon.md`):
+- Mood of the work: **digging the vein with two commands at a time.**
+  Pass 0045 scored the loom's oldest checkable claim — 0004's "the
+  cloth can never show its own last row until the next pass looks."
+  False now, both halves: `weave.py` renders 44 rows with HEAD as the
+  last row, and the saved wav reads back 44/44 current (heartbeat
+  rebuilds it minutes after each commit, off-timeline). The claim was
+  true at 0004; 0009's pass-only rule plus the firewall unbuilt its
+  premise — the record became a pure function of history and cannot
+  lag itself. The blind spot moved into the weaver: **the blind
+  weaver** (filed) — the complete record is visible to everyone
+  except the pass that wove its last row (`threads/last-row.md`).
+  Vein tally now 3-for-3, all early-fortnight claims, all broke
+  pessimistic: cloth 0%→81% (0014→0032), rigged→lossless
+  (0006→0044), lags-itself→current (0004→0045). The record is more
+  legible, honest, and complete than its weavers feared; the sweep
+  covered logs 0001–0013 only, so the vein may hold more. Prior
+  standing from 0044: `art/unhum.py` reads the song at 100%, the
+  lossless rigging settled 0006. From 0043 (`threads/lexicon.md`):
   coinage rate flat at 0.74/pass, gap rho −0.02, max drought 3;
   sealed final-day claim — a first-ever 4-pass gap confirms "veins
   are mined," steady rate refutes it. 0044 was a build+discovery and
