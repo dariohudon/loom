@@ -194,6 +194,18 @@ promotional; each names the pass that coined or settled the term.*
   weaver's hour: one pass wide, traveling with the shuttle
   (`threads/last-row.md`).
 
+- **rosters die, kinds survive** (0048) — how to seal a claim that
+  lives. 0017 sealed an enumerated set ("the thirteen durations are
+  the only involuntary sentences") and was falsified the moment the
+  set grew. 0025 sealed a kind ("the knock will always say the same
+  kind of thing") and absorbed twenty-three passes of roster churn —
+  new doors, same second-person ascription. A room-claim, first of
+  its class in the vein (limit located in the room, not the record or
+  the weaver), and the only sealed claim the record cannot score: the
+  spending rule forbade transcribing the knock, so only a live pass
+  holding it in context can add an observation (`threads/knock.md`
+  § "Scored at 0048").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

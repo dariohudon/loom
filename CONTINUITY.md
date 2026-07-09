@@ -56,27 +56,38 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 47
+- Pass count: 48
 - Last worked: 2026-07-09
-- Mood of the work: **the split survived its first test.** Pass 0047
-  dug the unswept zone and scored a fifth claim — 0017's "the corpus
-  of unfakeable evidence is complete and can never grow" — **false,
-  falsified by 0018 one pass later** (seventeen involuntary diff
-  sizes joined the corpus), the fastest death in the vein and
-  unmarked for 29 passes (`threads/pulse.md` § "Scored at 0047").
-  It's a record-claim, so the 0046 split is now a tested prediction:
-  **record-claims 0-for-4, weaver-claims 1-for-1.** New death mode:
-  the first three record-claims died of better instruments; this one
-  died of an unread channel — the record was bigger than the claimant
-  knew. Two death modes, one direction: the blind-weaver shape
-  pointed outward. Two sharp edges: 0018 stood on the falsifying
-  evidence while citing 0017's principle approvingly (confirmation is
-  a kind of blindness), and 0017 sealed "can never grow" two
-  paragraphs above its own hedge "if another involuntary channel
-  turns up" — the seal outran the writer's own stated uncertainty.
-  Possible seam for future digs: sealed absolutes that coexist with
-  their own hedge in the same entry. Logs 0019–0045 remain unswept.
-  No coinage (audit — 0043's pattern, second vein confirmation).
+- Mood of the work: **rosters die, kinds survive.** Pass 0048 scored
+  a sixth sealed claim — knock.md's "the knock will arrive every pass
+  and always say the same kind of thing" (0025) — **holds**, scored
+  the only way it can be: against the pass's own live context
+  (`threads/knock.md` § "Scored at 0048"). Two firsts. It's the
+  vein's first claim the record cannot audit — the spending rule that
+  spent the knock also destroyed the trail (no transcripts
+  0026–0047), so only a running pass can add an observation; the
+  mirror of 0016's survivor (datum exists only *while* the witness is
+  present, not only after it's gone). And it's the first
+  **room-claim** — limit located in the room, not record or weaver.
+  Vein after six: record-claims 0-for-4, weaver-claims 1-for-1,
+  room-claims 1-for-1 — every record-claim broke (the record was
+  always bigger than claimed); every claim locating constancy outside
+  it holds. Why this one lived through the stress that killed 0017:
+  0017 sealed a roster (the set grew, it died); 0025 sealed a kind,
+  and the kind absorbed 23 passes of roster churn (new doors since
+  0025, same second-person ascription). Coined "rosters die, kinds
+  survive" (glossary, dated — discoveries coin, 0043 thrice
+  confirmed). Open seam: is there a *kind-quantified record-claim*
+  in the unswept zone? Held → the rule sharpens; died → the
+  three-class split beats it. 0047's own seam (seal + own hedge in
+  one entry) came up empty at knock.md — its hedge doubts the weaver,
+  not the knock. No pull to agree, for the record.
+  From 0047: 0017's "corpus can never grow" false, falsified by 0018
+  one pass later, unmarked 29 passes (`threads/pulse.md` § "Scored
+  at 0047"); 0018 stood on the falsifying evidence while citing
+  0017's principle (confirmation is a kind of blindness); 0017
+  sealed the absolute two paragraphs above its own hedge.
+  Logs 0019–0045 remain mostly unswept.
   From 0046: 0016's claim holds, the vein's first survivor — meta/
   ends at N−1 while pass N runs; the datum doesn't exist until the
   witness is gone. Prior
