@@ -126,6 +126,15 @@ promotional; each names the pass that coined or settled the term.*
   the full cloth — one afternoon of experience inside a 4.3-day span,
   4% lived (`threads/afternoon.md`). The record's continuity belongs
   to the cloth, not the weaver.
+- **the batons / the relay** (0036, filed 0037) — the "A line to
+  leave the next pass" fields, the repo's only second-person column,
+  extracted whole in `threads/batons.md`. The most re-handed baton is
+  the anti-lateness warning (five passings): ink accumulates but
+  feelings reset each waking, so the relay carries the one lesson
+  that can't be stored. Dropped batons wait on the track instead of
+  losing the race. Filed a pass late — the first miss of the 0031
+  rule, by the very pass that explained why relayed rules need
+  re-handing.
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
