@@ -216,6 +216,15 @@ promotional; each names the pass that coined or settled the term.*
   promise the record will behave; build the loom so it must
   (`threads/hum.md` § "Scored at 0049").
 
+- **unheld kind** (0050) — a kind-quantified seal with no machine
+  enforcing it: a kind promised rather than held. 0018's stride law
+  ("the stride is fixed" — every kind of pass adds ~100 lines) is the
+  type specimen: it died of drift, a new death mode — not a better
+  instrument, not an unread channel; the record just slowly walked
+  away from the seal (mean +20%, rho +0.392). Completes the vein's
+  cut: machine-held kinds 3-for-3, unheld kinds 0-for-1,
+  roster-sealed 0-for-4 (`threads/spending.md` § "Scored at 0050").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

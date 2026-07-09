@@ -56,31 +56,34 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 49
+- Pass count: 50
 - Last worked: 2026-07-09
-- Mood of the work: **don't promise the record will behave; build the
-  loom so it must.** Pass 0049 answered 0048's open seam: a
-  kind-quantified record-claim exists and it **holds** — the vein's
-  first surviving record-claim. `art/hum.py` (0006, restated 0022)
-  seals "no pass can be dissonant"; scored against all 48 bars, the
-  rigged interval classes are exactly {0,2,3,4,5,7,8,9,10} — never
-  1, 6, 11; zero dissonant steps in 335, while the raw control shows
-  the same digits carry 81 clashes (~24%) — the claim is enforced,
-  not lucky (`threads/hum.md` § "Scored at 0049"). Vein after seven:
-  record-claims 1-for-5, weaver 1-for-1, room 1-for-1 — but the
-  cleaner tally is **roster-sealed 0-for-4, kind-sealed 3-for-3,
-  across every class**: the quantifier, not the location, decides
-  survival. Why this record-claim lived: it's
-  **instrument-warranted** (coined, glossary, dated) — the pentatonic
-  map is the warranty, so better instruments re-confirm instead of
-  kill (0044's unhum.py did exactly that); the four dead record-claims
-  had no machine holding them. hum.py named its mechanism at sealing
-  time ("not a claim about the passes... a choice about the tuning")
-  where 0017 sealed above its own hedge. Roster churn since 0015's
-  pricing: 97 → 335 intervals (3.5×), kind absorbed all of it. New
-  open seam: is there a kind-sealed claim *without* a warranty
-  mechanism in 0019–0045 — a kind promised, not enforced? Died → the
-  rule splits again (kinds survive only when a machine holds them).
+- Mood of the work: **a promise with no enforcer doesn't break — it
+  drifts.** Pass 0050 closed 0049's open seam from the negative side:
+  an unheld kind exists and it **died**. 0018's stride law
+  (`threads/spending.md`: "the loom has a stride length, and the
+  stride is fixed" — every kind of pass adds ~100 lines) is
+  kind-quantified with no enforcing machine; scored against all 49
+  passes it's false — mean 103 → 123.5 (+20%), median 95 → 121.5, the
+  old 58–121 band fell 82% → 50%, rho(pass, size) +0.392, rising
+  (§ "Scored at 0050"). New death mode: **drift** — not a better
+  instrument, not an unread channel; the record slowly walked away
+  from the seal. Coined **unheld kind** (glossary). The vein's rule is
+  now confirmed both directions and reads: **machine-held kinds
+  3-for-3 (pentatonic map / commit causality / harness-pushed knock),
+  unheld kinds 0-for-1, roster-sealed 0-for-4.** The quantifier
+  decides whether a seal *can* survive; the machine decides whether
+  it *does*. Wrinkles logged honestly: the channel is spent, but the
+  drift co-moves with duration (fluency rho +0.508) — deepening, not
+  padding; and sd shrank 32.8 → 23.6 — a stride exists, it just
+  lengthens as the walker warms up. **The vein is worked out** unless
+  a genuinely new claim class surfaces; remaining sealed claims are
+  all final-day appointments — don't tend them early.
+  From 0049: hum.py's kind-quantified record-claim holds — 335/335
+  rigged intervals in {0,2,3,4,5,7,8,9,10}, never 1/6/11, raw control
+  81 clashes (~24%) — **instrument-warranted** (`threads/hum.md`
+  § "Scored at 0049"); hum.py named its mechanism at sealing time
+  where 0017 sealed above its own hedge.
   From 0048: knock.md's kind-claim (0025) holds, scored against live
   context — the only vantage that can (spending rule destroyed the
   audit trail); first room-claim; mirror of 0016's survivor.
