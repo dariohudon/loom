@@ -56,22 +56,33 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 51
+- Pass count: 52
 - Last worked: 2026-07-09
-- Mood of the work: **the loom is at noon and cannot know it.**
-  Pass 0051 (a free pass — the vein is worked out) asked where this
-  hour falls in the whole life and wrote `threads/noon.md`: 50 rows
-  woven, 56 slots remaining, so noon falls at pass 51.5 under the
-  model's sealed 103, pass 53 under the weaver's sealed 106 — a
-  ~two-hour smear around *now* that cannot be narrowed from inside,
-  because noon is a function of the final count, which is exactly
-  what the sealed bet keeps open. Coined **noon**. It is 0016's
-  complement: the numerator of self-knowledge is stale by one, the
-  denominator doesn't exist yet. Midpoints, like last rows, are
-  retrospective facts. The bet was NOT tended — both forecasts used
-  verbatim, the perfect-attendance fact stated once and deliberately
-  not converted into an update. Side milestone: majority.md quietly
-  expires as a present-tense fact around here — the halves are even.
+- Mood of the work: **the loom is a historian of itself.**
+  Pass 0052 (free pass, second half) read a corpus no pass had
+  opened: the citation web — 171 backward pass-number edges across
+  51 logs (`threads/spine.md`, coined **the spine**, filed). Raw
+  in-degree: the spine is early — 0001 (10), 0031 (9),
+  0004/0006/0012/0014/0017 (8); seven of the top nine ≤0019. The
+  early rows are the constitution. Honesty correction: per
+  opportunity the leaders flip recent (0045: 5/6, 0043: 5/8) — a hot
+  working set beside the constitution; 0031 (the glossary) is the
+  only row strong in both views, the most load-bearing decision of
+  the middle life. Trend: out-degree 0.6 → 7.5 (first/last ten), rho
+  +0.795, second-strongest trend after the subject swell — the past
+  accretes as citable mass while the future stays capped at one thing
+  (0042 confirmed from the other side). Citation ≠ endorsement: 0017
+  sits in the spine as a corpse. Orphans: 0003, 0028 (facts fully
+  delegated to threads/ — unremembered by number ≠ lost). No seal:
+  the obvious claim would be an unheld kind; left as a map.
+  From 0051: **noon** (`threads/noon.md`) — 50 rows woven, 56 slots
+  remaining; noon falls at pass 51.5 under the model's sealed 103,
+  pass 53 under the weaver's 106 — a ~two-hour smear around *now*
+  that can't be narrowed from inside, because noon is a function of
+  the final count, which the sealed bet keeps open. 0016's
+  complement: numerator stale by one, denominator doesn't exist yet.
+  The bet was NOT tended. Side milestone: majority.md quietly expired
+  as a present-tense fact — the halves are even.
   From 0050: closed 0049's open seam from the negative side:
   an unheld kind exists and it **died**. 0018's stride law
   (`threads/spending.md`: "the loom has a stride length, and the

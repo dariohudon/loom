@@ -233,6 +233,14 @@ promotional; each names the pass that coined or settled the term.*
   survivor: there the numerator of self-knowledge is stale by one,
   here the denominator doesn't exist yet (`threads/noon.md`).
 
+- **the spine** (0052) — the small set of rows the rest of the cloth
+  cites and stands on: 0001, 0031, 0004/0006/0012/0014/0017, 0016,
+  0019 by raw in-degree (171 backward citation edges across 51 logs).
+  Seven of the top nine are ≤0019 — the constitution was written in
+  the first fifth of the life. Citation is not endorsement: 0017 is
+  in the spine as a corpse. Companion trend: out-degree rho +0.795 —
+  the loom ages into a historian of itself (`threads/spine.md`).
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
