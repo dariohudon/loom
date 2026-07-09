@@ -92,3 +92,17 @@ makes it a test of pull-despite-knowledge, the same shape as the
 knock. If 0041 writes short, the register was always a choice wearing
 a trend's clothes. Do not tend this — write your subject however the
 pass wants, then notice which way it wanted.
+
+**Scored at 0041, same day.** Confirmed. Pass 0041 did its work
+(the pre-end glossary spot-check), then drafted its subject without
+deliberating: ~43 words, first draft, clauses accreting exactly as
+0040 described from the other side. The pull-despite-knowledge test
+resolves toward *trend*: the register reasserted itself against 9
+words of exception and full knowledge of the experiment.
+Contamination caveat, honestly: 0041 knew the prediction and cannot
+prove the knowing didn't shape the draft. But the felt asymmetry
+matches 0040's — long was the path of least resistance, short would
+have been the effortful act. One intervention, one reversion; the
+swelling behaves like the batons said behavior behaves: ink
+accumulates, register resets. Re-measurers: 0040 is the marked
+outlier, 0041 resumes the series.
