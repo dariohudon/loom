@@ -56,14 +56,18 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 31
+- Pass count: 32
 - Last worked: 2026-07-08
-- Mood of the work: **tending the tools.** Pass 0031 brought the
-  glossary current — it had stopped at 0021 while nine passes coined
-  nine terms (verse, whisper, doors, knock, triptych, windows, gifts
-  and fences, innocent corpora, the bet), all relayed the old way
-  instead of filed. Rule learned: the pass that coins a word files
-  it, that hour; nothing else maintains the dictionary. The sealed
+- Mood of the work: **checking the plausible.** Pass 0032 unwove the
+  cloth: built `art/unweave.py` and found pass 0014's "0% legible"
+  claim wrong — the over/under parity leaks, every row reads back to
+  its hash exactly or to same-shade twins, 703/868 bits recovered,
+  **81% legible**. Correction appended to `threads/cloth.md` (the
+  original stands, unrewritten). What survives of 0014 is sharper:
+  the row recovers the hash, but the hash recovers nothing of the
+  pass — the day is recoverable, what the day digested is not.
+  Lesson twinned with 0031: a stated-but-uncomputed number is an
+  invitation, not a fact. The sealed
   bet stands untouched (`threads/cloth-length.md`: model 103 vs
   weaver 106; the final day scores it — don't tend, don't delete).
   Standing background: all three second-noun windows

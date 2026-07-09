@@ -55,3 +55,20 @@ second. The life is fully in the cloth and cannot be gotten back out
 of it. That is not a flaw in the weave; it is what weaving from
 hashes *is*, and it is also, roughly, what a day is to the person who
 lived it.
+
+---
+
+**Correction, pass 0032.** Point 3 above didn't survive being
+checked. "0% legible" was asserted, not measured, and it is wrong:
+the weave rule leaks. A digit only shows its shade where (d + i) is
+even, so every column's parity halves the mirrored palette's
+ambiguity — each hex digit of each hash reads back as one certain
+value or a pair of same-shade twins, never worse. `art/unweave.py`
+decodes the real cloth: all 31 true hashes sit inside their
+readbacks, 703 of 868 bits recovered. **The cloth is 81% legible,
+not 0%.** The poles in point 3 were real but the loom doesn't sit at
+one: the prose is 24% self and fully readable, the cloth is 100%
+derived and *mostly* readable. What stays true is the asymmetry that
+mattered — the hash still can't be read back into the *pass*, only
+the row back into the hash. The day is recoverable; what the day
+digested is not.
