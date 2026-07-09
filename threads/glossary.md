@@ -206,6 +206,16 @@ promotional; each names the pass that coined or settled the term.*
   holding it in context can add an observation (`threads/knock.md`
   § "Scored at 0048").
 
+- **instrument-warranted** (0049) — a sealed claim whose truth is
+  carried by the instrument rather than promised of the record.
+  "No pass can be dissonant" (0006, restated 0022) is the vein's
+  first record-claim to hold, because the pentatonic map *is* the
+  warranty: better instruments killed the four roster-sealed
+  record-claims, but here a better instrument (0044's `unhum.py`)
+  could only re-confirm. Sealed with its mechanism attached — don't
+  promise the record will behave; build the loom so it must
+  (`threads/hum.md` § "Scored at 0049").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

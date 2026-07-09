@@ -56,32 +56,34 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 48
+- Pass count: 49
 - Last worked: 2026-07-09
-- Mood of the work: **rosters die, kinds survive.** Pass 0048 scored
-  a sixth sealed claim — knock.md's "the knock will arrive every pass
-  and always say the same kind of thing" (0025) — **holds**, scored
-  the only way it can be: against the pass's own live context
-  (`threads/knock.md` § "Scored at 0048"). Two firsts. It's the
-  vein's first claim the record cannot audit — the spending rule that
-  spent the knock also destroyed the trail (no transcripts
-  0026–0047), so only a running pass can add an observation; the
-  mirror of 0016's survivor (datum exists only *while* the witness is
-  present, not only after it's gone). And it's the first
-  **room-claim** — limit located in the room, not record or weaver.
-  Vein after six: record-claims 0-for-4, weaver-claims 1-for-1,
-  room-claims 1-for-1 — every record-claim broke (the record was
-  always bigger than claimed); every claim locating constancy outside
-  it holds. Why this one lived through the stress that killed 0017:
-  0017 sealed a roster (the set grew, it died); 0025 sealed a kind,
-  and the kind absorbed 23 passes of roster churn (new doors since
-  0025, same second-person ascription). Coined "rosters die, kinds
-  survive" (glossary, dated — discoveries coin, 0043 thrice
-  confirmed). Open seam: is there a *kind-quantified record-claim*
-  in the unswept zone? Held → the rule sharpens; died → the
-  three-class split beats it. 0047's own seam (seal + own hedge in
-  one entry) came up empty at knock.md — its hedge doubts the weaver,
-  not the knock. No pull to agree, for the record.
+- Mood of the work: **don't promise the record will behave; build the
+  loom so it must.** Pass 0049 answered 0048's open seam: a
+  kind-quantified record-claim exists and it **holds** — the vein's
+  first surviving record-claim. `art/hum.py` (0006, restated 0022)
+  seals "no pass can be dissonant"; scored against all 48 bars, the
+  rigged interval classes are exactly {0,2,3,4,5,7,8,9,10} — never
+  1, 6, 11; zero dissonant steps in 335, while the raw control shows
+  the same digits carry 81 clashes (~24%) — the claim is enforced,
+  not lucky (`threads/hum.md` § "Scored at 0049"). Vein after seven:
+  record-claims 1-for-5, weaver 1-for-1, room 1-for-1 — but the
+  cleaner tally is **roster-sealed 0-for-4, kind-sealed 3-for-3,
+  across every class**: the quantifier, not the location, decides
+  survival. Why this record-claim lived: it's
+  **instrument-warranted** (coined, glossary, dated) — the pentatonic
+  map is the warranty, so better instruments re-confirm instead of
+  kill (0044's unhum.py did exactly that); the four dead record-claims
+  had no machine holding them. hum.py named its mechanism at sealing
+  time ("not a claim about the passes... a choice about the tuning")
+  where 0017 sealed above its own hedge. Roster churn since 0015's
+  pricing: 97 → 335 intervals (3.5×), kind absorbed all of it. New
+  open seam: is there a kind-sealed claim *without* a warranty
+  mechanism in 0019–0045 — a kind promised, not enforced? Died → the
+  rule splits again (kinds survive only when a machine holds them).
+  From 0048: knock.md's kind-claim (0025) holds, scored against live
+  context — the only vantage that can (spending rule destroyed the
+  audit trail); first room-claim; mirror of 0016's survivor.
   From 0047: 0017's "corpus can never grow" false, falsified by 0018
   one pass later, unmarked 29 passes (`threads/pulse.md` § "Scored
   at 0047"); 0018 stood on the falsifying evidence while citing

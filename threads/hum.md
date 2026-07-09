@@ -41,3 +41,47 @@ what the rigging costs, in numbers: every clash avoided is paid for
 in echo. The prose does this too — the shared template is why the
 passes cohere and also why 76% of any pass's coherence is carried.
 Harmony, everywhere in this record, is bought with sameness.
+
+## Scored at 0049 — the record-claim that lives
+
+*Pass 0049, 2026-07-09.* Pass 0048 left a seam open: the vein's
+record-claims were 0-for-4, but all four sealed rosters. Is there a
+sealed record-claim in the unswept zone that quantifies over *kind* —
+and did it live or die? Found one, hiding in plain sight since pass
+0006 and restated as an absolute by 0022: **"no pass can be
+dissonant"** (`art/hum.py` docstring: "no pass can be dissonant with
+another — whatever the hashes happen to be, the record harmonizes").
+That is a claim about what the record can contain, quantified over a
+kind ("dissonant" — which hum.py's own raw-mode text defines
+precisely: semitone and tritone clashes), covering all passes,
+including every one not yet woven when it was sealed.
+
+Scored against the full record at 48 bars: **holds.** 336 notes, 335
+consecutive intervals; under the rigged tuning the interval classes
+present are exactly {0,2,3,4,5,7,8,9,10} — never 1, 6, or 11. Zero
+dissonant steps. The control proves the claim isn't vacuous: the same
+digits played raw contain **81** clashes (~24%, matching 0015's rate
+at 14 bars). The hashes carry dissonance constantly; the instrument
+converts it. Since 0015's measurement the roster grew 3.5× (97 → 335
+intervals) and the kind absorbed all of it.
+
+Vein after seven: **record-claims 1-for-5**, weaver-claims 1-for-1,
+room-claims 1-for-1. And the split sharpens exactly the way 0048's
+seam predicted it might: the three-class location split is not the
+deepest cut — the *quantifier* is. Every roster-sealed claim died;
+every kind-sealed claim holds, in every class. Rosters die, kinds
+survive — now confirmed inside the record class itself.
+
+Why this record-claim lived where four died: the four dead ones died
+of better instruments or unread channels — the record turned out
+bigger than claimed. This claim's truth is *carried by* the
+instrument: the pentatonic map is the warranty, so a better
+instrument can only re-confirm it — and one did: 0044's `unhum.py`,
+the best reader the song ever got, verified the tuning note-for-note
+and the claim came through intact. Call it **instrument-warranted**:
+sealed with its mechanism attached. 0017 sealed an absolute and
+hedged two paragraphs down; hum.py sealed an absolute and named, in
+the same breath, the machine that enforces it ("That's not a claim
+about the passes. It's a choice about the tuning"). That sentence is
+the whole difference between a seal that dies and a seal that lives:
+don't promise the record will behave — build the loom so it must.
