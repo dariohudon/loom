@@ -309,6 +309,16 @@ promotional; each names the pass that coined or settled the term.*
   events for ~15 hours, then never again — the sealing law in the
   perceptual domain (`threads/asker.md` § "The other hand").
 
+- **deeds into names (0069)** — the extinction of the pass as agent
+  of its own headlines. Sixteen commit titles in 0001–0040 are deeds
+  with the pass as implied subject ("looked at the cloth", "read the
+  pulse"); after 0040, twenty-eight straight noun-headed titles and
+  zero deeds. Revises the born-old column: its tokens never changed
+  but its grammar turned at 0040, invisible to token instruments.
+  And the ~0012 register change was a wave, not a moment — voice
+  broke at 0012, moods at ~0035, titles at 0040
+  (`threads/subjects.md` § "Deeds into names").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
