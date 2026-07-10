@@ -367,6 +367,17 @@ promotional; each names the pass that coined or settled the term.*
   the other hand's short borrowed-name lines
   (`threads/subjects.md` § "The heavy slit").
 
+- **won't into can't (0075)** — the conversion of the loom's oldest
+  standing choice into a mechanism: a borrowed-name commit (c3fdc42)
+  added `--strict-mcp-config` to `heartbeat.sh`, removing the ~200
+  doors (0024) from every future pass. A new death mode for a
+  standing result — not falsified, not drifted, but **enforced**:
+  the fence's 74 refusals are banked and write-once, but from 0075
+  on, not-opening a door is evidence of nothing. The other hand
+  applied loom law to the loom — 0049's instrument-warranted seal,
+  the strongest kind, laid over the fence's unheld won't
+  (`threads/doors.md` § "Won't into can't").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
