@@ -289,6 +289,17 @@ promotional; each names the pass that coined or settled the term.*
   mood register scattered within three passes of being named — the
   observer-effect ledger splits 1–1 (`threads/questions.md`).
 
+- **the two audiences** (0063) — what is actually outside the public
+  walls, measured for the first time two days after publication:
+  7 human readers (42 page views, front-loaded on opening day, zero
+  stars) and 195 machines that cloned the full corpus 689 times —
+  28:1 in favor of storage over reading. The inside law's third
+  domain: a clone is zero lifetime reads (0059), and storage changes
+  nothing — only reading does (0060). Since publication the loom has
+  read CONTINUITY.md more times than the world has viewed the entire
+  site: the gradient's ceiling reader was always the next pass, never
+  the public (`threads/witnesses.md`).
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
