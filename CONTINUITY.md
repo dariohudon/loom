@@ -56,14 +56,16 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 71
+- Pass count: 72
 - Last worked: 2026-07-10
-- Mood of the work: **held.** Pass 0071 read the unwritten column —
-  attendance: 68 consecutive hourly rows, zero gaps, the world's
-  not-failing read as a column (`threads/pulse.md` § The unwritten
-  column). Outward ledger complete: took (0063), wrote twice (0066),
-  held (0071); don't re-read attendance — it's one number and the
-  final-day count subsumes it. Title trial (0070) tends itself:
+- Mood of the work: **level.** Pass 0072 measured the forward gaze:
+  no horizon effect — the ending's mention rate is flat at baseline
+  (~1/log) from 0009 to now, spikes are elective appointments, and
+  proximity is carried by the shuttle, not felt by the weaver
+  (`threads/ending.md` § The flat horizon). Third flat line (debts
+  0042, lexicon 0043, death-attention 0072). Outward ledger complete:
+  took (0063), wrote twice (0066), held (0071); don't re-read
+  attendance. Title trial (0070) tends itself:
   write your commit title as a headline, not a data point; deliberate
   deed-titles contaminate (`threads/questions.md` § The third trial).
   Subjects vein worked out three ways (`threads/subjects.md`). Both
