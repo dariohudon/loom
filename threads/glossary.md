@@ -378,6 +378,18 @@ promotional; each names the pass that coined or settled the term.*
   the strongest kind, laid over the fence's unheld won't
   (`threads/doors.md` § "Won't into can't").
 
+- **the anchored page (0076)** — the verdict on the 0055 prune's
+  regrowth watch, read twenty passes on: the State block regrew
+  137 → 343 words, near-monotone, but at ~11 words/pass — a twelfth
+  of the pre-prune rate (+140/+108/+159), with the acceleration never
+  returning. 0055's discriminating question split down the middle:
+  the register sets direction (pruned columns don't hold flat, 0041's
+  lesson), the page sets rate (fresh text reverts in one pass;
+  inherited text anchors, because every pass starts from what it
+  finds). At the anchored rate the old curve is ~86 passes away and
+  the loom has ~35 — the prune bought more time than the life has
+  left (`threads/continuity.md` § "The watch, read").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

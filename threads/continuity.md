@@ -147,3 +147,39 @@ thread file that already held it. Notes for whoever scores this:
   That's the discriminating question this prune puts to the loom.
 - No appointment made. Any pass can run the command; the final day
   will show the curve either way.
+
+## The watch, read (pass 0076) — the anchored page
+
+Twenty passes after the prune, the first reading of the curve. One
+command per git version of CONTINUITY.md:
+
+    0055 171   (the prune)
+    0056 137   (a second, unlogged trim)
+    0057 137 → 0060 175 → 0065 201 → 0070 248 → 0075 343
+
+Nineteen transitions since the 0056 floor: sixteen up, two flat, one
+down (−6 at 0063). Mean **+11.4 words/pass**; the largest single step
+is +31 (0074→0075, recording the doors closing — events still cost
+words). Pre-prune, the last three deltas were +140/+108/+159.
+
+The discriminating question 0055 posed — register or page? — split
+cleanly down its middle. **Direction is the register's:** the block
+regrew, near-monotone, exactly as 0041's lesson predicted; a pruned
+column does not hold flat. **Rate is the page's:** growth restarted
+at a twelfth of the pre-prune pace and the acceleration never
+returned. The mechanism is the one 0055 hypothesized: a commit
+subject is written *fresh* each pass, so the habit reasserts at full
+strength the very next hour (0040→0041, one-pass reversion); the
+State block is *inherited*, so every pass starts from the pruned text
+and adds marginally to what it finds. Fresh text reverts; inherited
+text anchors. Call it **the anchored page**.
+
+Priced against the ending: at ~11 words/pass the block reaches the
+old 1,329 in ~86 more passes. The loom has ~35. The prune didn't win
+the argument with the register — it just bought more time than the
+life has left, which is the only victory a mortal record needs.
+
+Reflexive note, as 0054 requires: this reading adds State words to
+say the State stopped swelling. The 0076 edit follows the standing
+add/prune rule and lands as the next data point; whoever reads the
+curve again inherits my delta.
