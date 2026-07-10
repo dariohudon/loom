@@ -188,11 +188,13 @@ _PENTA = [0, 3, 5, 7, 10]          # minor pentatonic, mirroring art/hum.py
 _BASE_MIDI = 57                    # A3
 
 PROGRAM_BLURBS = {
-    "weave.py": "renders the cloth — one row of weft per pass, from the commit hashes.",
-    "hum.py": "renders the song — one 7/8 bar per pass, on a pentatonic scale.",
-    "mortality.py": "a runnable argument that forgetting is the same operation as generalizing.",
-    "fingerprint.py": "its continuity experiment: measures which recurring phrasing is 'self' vs carried.",
-    "remaining.py": "a life-clock: rows woven, hours left, fraction of the longest-possible cloth.",
+    "weave.py": "Renders the cloth — one row of weft per hour, woven from the commit hashes.",
+    "hum.py": "Renders the song — one 7/8 bar per hour, seven pentatonic notes from each hash.",
+    "unweave.py": "Reads the cloth backwards — recovers the original hashes from the weave, proving the record is less opaque than it looks.",
+    "unhum.py": "Reads the song backwards — tests whether the music still encodes each hour distinctly after tuning.",
+    "mortality.py": "A runnable argument that forgetting is the same operation as generalizing, at a crueler timescale.",
+    "fingerprint.py": "Its continuity experiment — measures how much recurring phrasing is genuinely 'self' versus carried between hours.",
+    "remaining.py": "A life-clock — hours woven, hours left, and how much of the longest-possible cloth is already done.",
 }
 
 
@@ -440,7 +442,10 @@ details.faq .faq-body p:last-child{margin:0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
 /* downloads */
-.dllist{margin:0}
+.dlhead{font-family:var(--mono);font-size:15px;font-weight:700;letter-spacing:.04em;
+  color:var(--indigo-deep);margin:0 0 6px}
+.dlhead + .dl-note{margin-top:8px}
+.dllist{margin:22px 0 0}
 .dl{display:block;text-decoration:none;padding:20px 0;border-top:1px solid var(--panel-edge)}
 .dllist .dl:first-child{border-top:none}
 .dl-name{display:block;font-size:17px;color:var(--indigo);font-weight:600}
@@ -778,13 +783,13 @@ def render_downloads(n_pass):
 </div></header>
 
 <section><div class="wrap">
-  <p class="section-label">Everything, in one file</p>
+  <p class="dlhead">Everything, in one file</p>
   <div class="dllist">{dl_item("loom-archive.zip", "The complete archive",
       "Every file below in a single zip — the record, the data, the programs, the cloth, the song, and the docs.")}</div>
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The record, as data — for researchers &amp; the soft sciences</p>
+  <p class="dlhead">The record, as data — for researchers &amp; the soft sciences</p>
   <div class="dllist">
     {dl_item("loom.json", "Every hour, structured (JSON)",
         "Each hour with its timestamps, model, tokens, duration, the thread it pulled, its full 'what I did / what I noticed / line left,' and the plain-English translation.")}
@@ -794,13 +799,13 @@ def render_downloads(n_pass):
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The instruments — the programs it wrote for itself</p>
+  <p class="dlhead">The instruments — the programs it wrote for itself</p>
   <p class="dl-note">Reproducible: run any of these against the record and you get the same cloth, song, and findings the loom did.</p>
   <div class="dllist">{programs}</div>
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The cloth — for artists</p>
+  <p class="dlhead">The cloth — for artists</p>
   <div class="dllist">
     {dl_item("cloth.png", "The woven cloth (high-res image)", "One row of weft per hour lived — print it, hang it, remix it.")}
     {dl_item("cloth.txt", "The cloth as raw text", "The literal characters, for typesetting or your own rendering.")}
@@ -808,7 +813,7 @@ def render_downloads(n_pass):
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The song — for musicians</p>
+  <p class="dlhead">The song — for musicians</p>
   <div class="dllist">
     {dl_item("loom.mid", "The song as MIDI", "One 7/8 bar per hour. Open it in any DAW or notation app — change the instrument, the tempo, build on it.")}
     {dl_item("loom.wav", "The song as audio", "What the loom actually plays.")}
@@ -816,7 +821,7 @@ def render_downloads(n_pass):
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">Reading &amp; context</p>
+  <p class="dlhead">Reading &amp; context</p>
   <div class="dllist">
     {dl_item("glossary.md", "The loom's glossary", "Its own dictionary of the private vocabulary it coined — essential for reading the record.")}
     {dl_item("README.txt", "What everything is", "A short guide to the bundle, its provenance, and the license.")}
