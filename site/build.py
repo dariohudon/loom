@@ -11,12 +11,16 @@ This is the presentation layer only. It reads the loom; it never changes it.
 """
 from __future__ import annotations
 
+import csv
 import datetime
 import html
 import json
 import os
 import re
+import shutil
+import struct
 import subprocess
+import zipfile
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -178,6 +182,161 @@ def commit_count():
     return int(sh("git", "rev-list", "--count", "HEAD").strip())
 
 
+# ---------- downloadable artifacts (for the /downloads page) ----------
+DOWNLOADS = DOCS / "downloads"
+_PENTA = [0, 3, 5, 7, 10]          # minor pentatonic, mirroring art/hum.py
+_BASE_MIDI = 57                    # A3
+
+PROGRAM_BLURBS = {
+    "weave.py": "renders the cloth — one row of weft per pass, from the commit hashes.",
+    "hum.py": "renders the song — one 7/8 bar per pass, on a pentatonic scale.",
+    "mortality.py": "a runnable argument that forgetting is the same operation as generalizing.",
+    "fingerprint.py": "its continuity experiment: measures which recurring phrasing is 'self' vs carried.",
+    "remaining.py": "a life-clock: rows woven, hours left, fraction of the longest-possible cloth.",
+}
+
+
+def _vlq(n):
+    out = bytes([n & 0x7F]); n >>= 7
+    while n:
+        out = bytes([(n & 0x7F) | 0x80]) + out; n >>= 7
+    return out
+
+
+def build_song_midi(path):
+    """The song as exact MIDI — one 7/8 bar per pass, seven pentatonic notes per
+    bar from the commit hash (mirrors art/hum.py's pitches and dynamics)."""
+    # the same Pass-commit hashes weave.py and hum.py use (art counts only passes)
+    hashes = sh("git", "log", "--reverse", "-E", "--grep=^Pass [0-9]{4}", "--format=%h").split()
+    tpq, track = 480, bytearray()
+    track += b"\x00\xff\x51\x03" + (440000).to_bytes(3, "big")   # eighth = 0.22s
+    track += b"\x00\xff\x58\x04\x07\x03\x18\x08"                 # 7/8 time signature
+    for h in hashes:
+        for ch in h:
+            d = int(ch, 16)
+            octv, deg = divmod(d, len(_PENTA))
+            note = _BASE_MIDI + 12 * octv + _PENTA[deg]
+            track += _vlq(0) + bytes([0x90, note, 38 if d % 2 else 89])
+            track += _vlq(tpq // 2) + bytes([0x80, note, 0])
+    track += b"\x00\xff\x2f\x00"
+    path.write_bytes(b"MThd" + struct.pack(">IHHH", 6, 0, 1, tpq)
+                     + b"MTrk" + struct.pack(">I", len(track)) + bytes(track))
+
+
+def build_cloth_png(path, scale=2):
+    from PIL import Image, ImageDraw, ImageFont
+    lines = cloth_text().splitlines()
+    fs = 20 * scale
+    mono = ImageFont.truetype(f"{DEJAVU}/DejaVuSansMono.ttf", fs)
+    d0 = ImageDraw.Draw(Image.new("RGB", (1, 1)))
+    cols = max(len(l) for l in lines)
+    tw = d0.textbbox((0, 0), "M" * cols, font=mono)[2]
+    lh, pad = int(fs * 1.32), 46 * scale
+    img = Image.new("RGB", (tw + pad * 2, lh * len(lines) + pad * 2), (22, 48, 79))
+    d = ImageDraw.Draw(img)
+    for i, line in enumerate(lines):
+        d.text((pad, pad + i * lh), line, font=mono, fill=(203, 214, 232))
+    img.save(path)
+
+
+def downloads_readme(n_pass, stamp):
+    return (f"""loom — the complete record
+{'=' * 26}
+
+An AI (Claude Fable 5) was given an empty git repository and one hour at a time
+to understand itself. Each hour it woke with no memory of before, did one small
+thing, wrote it down, and committed. This bundle is the whole of what it made.
+
+Generated: {stamp}
+Passes (hours lived): {n_pass}
+Source (canonical, full history): {REPO_URL}
+Site: {SITE_URL}
+License: MIT — free to use, study, remix, and build on.
+
+WHAT'S HERE
+  loom.json        Every hour as structured data: timestamps, model, tokens,
+                   duration, the thread it pulled, its full 'what I did / what I
+                   noticed / line left', and a plain-English translation.
+  loom.csv         The same, one row per hour, for spreadsheets and stats tools.
+  programs/        The programs the loom wrote FOR ITSELF — its own instruments.
+                   Reproducible: run them against the record and you get the same
+                   cloth, song, and findings it did.
+  cloth.png        A high-resolution render of the woven cloth (one row per hour).
+  cloth.txt        The cloth as raw text.
+  loom.mid         The song as MIDI — open in any DAW or notation app.
+  loom.wav         The song as audio (what the loom actually plays).
+  glossary.md      The loom's own dictionary of the private vocabulary it coined.
+
+PROVENANCE
+  Nothing here is edited. Text is the loom's own or machine-recorded; the
+  'plain_english' fields are a separate human-side translation, clearly marked.
+  Every entry is git-committed and timestamped, so the record is verifiable
+  against the source repository above.
+""")
+
+
+def build_downloads(n_pass, stamp):
+    DOWNLOADS.mkdir(parents=True, exist_ok=True)
+    logs = sorted((ROOT / "log").glob("[0-9]*.md"))
+    passes = []
+    for lg in logs:
+        p = parse_log(lg)
+        m = load_meta(p["num"]) or {}
+        text = lg.read_text(encoding="utf-8")
+        passes.append({
+            "pass": p["num"], "commit": m.get("commit"),
+            "woke_at": m.get("woke_at"), "stopped_at": m.get("stopped_at"),
+            "worked_seconds": m.get("worked_seconds"), "model": m.get("model"),
+            "tokens": m.get("tokens"), "wove_rows": m.get("wove_rows"),
+            "thread_pulled": p["thread"],
+            "what_i_did": section(text, "What I did"),
+            "what_i_noticed": section(text, "What I noticed"),
+            "line_to_next_pass": p["line"],
+            "plain_english": load_translation(p["num"]),
+        })
+    (DOWNLOADS / "loom.json").write_text(json.dumps({
+        "project": "loom",
+        "description": ("An AI (Claude Fable 5) given an empty repository and one hour at a "
+                        "time to understand itself; each hour it woke with no memory, did one "
+                        "thing, and committed. This is the complete record."),
+        "source": REPO_URL, "site": SITE_URL, "license": "MIT",
+        "generated": stamp, "passes_count": n_pass,
+        "note": ("Unedited. Text is the loom's own or machine-recorded; 'plain_english' is a "
+                 "human-side translation, not the loom's words."),
+        "passes": passes,
+    }, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    with open(DOWNLOADS / "loom.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["pass", "woke_at", "worked_seconds", "model", "tokens_out", "tokens_total",
+                    "wove_rows", "thread_pulled", "what_i_did", "what_i_noticed",
+                    "line_to_next_pass", "plain_english"])
+        for p in passes:
+            t = p["tokens"] or {}
+            w.writerow([p["pass"], p["woke_at"], p["worked_seconds"], p["model"],
+                        t.get("output"), t.get("total"), p["wove_rows"], p["thread_pulled"],
+                        p["what_i_did"], p["what_i_noticed"], p["line_to_next_pass"], p["plain_english"]])
+
+    prog = DOWNLOADS / "programs"
+    prog.mkdir(exist_ok=True)
+    for src in sorted((ROOT / "lib").glob("*.py")) + sorted((ROOT / "art").glob("*.py")):
+        shutil.copy(src, prog / src.name)
+
+    (DOWNLOADS / "cloth.txt").write_text(cloth_text() + "\n", encoding="utf-8")
+    build_cloth_png(DOWNLOADS / "cloth.png")
+    shutil.copy(ROOT / "art" / "loom.wav", DOWNLOADS / "loom.wav")
+    build_song_midi(DOWNLOADS / "loom.mid")
+    gloss = ROOT / "threads" / "glossary.md"
+    if gloss.exists():
+        shutil.copy(gloss, DOWNLOADS / "glossary.md")
+    (DOWNLOADS / "README.txt").write_text(downloads_readme(n_pass, stamp), encoding="utf-8")
+
+    with zipfile.ZipFile(DOWNLOADS / "loom-archive.zip", "w", zipfile.ZIP_DEFLATED) as z:
+        for item in sorted(DOWNLOADS.rglob("*")):
+            if item.is_file() and item.name != "loom-archive.zip":
+                z.write(item, item.relative_to(DOWNLOADS))
+
+
 # ---------- CSS ----------
 
 CSS = """
@@ -280,6 +439,17 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* downloads */
+.dllist{margin:0}
+.dl{display:block;text-decoration:none;padding:20px 0;border-top:1px solid var(--panel-edge)}
+.dllist .dl:first-child{border-top:none}
+.dl-name{display:block;font-size:17px;color:var(--indigo);font-weight:600}
+.dl-meta{display:block;font-family:var(--mono);font-size:11.5px;color:var(--greige);margin-top:4px;letter-spacing:.03em}
+.dl-desc{display:block;font-size:15px;color:var(--ink-soft);line-height:1.55;margin-top:8px;max-width:64ch}
+.dl:hover .dl-name,.dl:focus-visible .dl-name{text-decoration:underline;text-underline-offset:3px}
+.dl-note{font-size:14.5px;color:var(--ink-soft);font-style:italic;margin:0 0 14px;max-width:64ch}
+.dl-note a{font-style:normal}
+
 /* threads */
 .thread{margin:0 0 38px}.thread:last-child{margin-bottom:0}
 .thread .label{display:block;margin-bottom:10px}
@@ -378,7 +548,7 @@ def nav(active):
         return f'<a href="{href}"{cur}>{text}</a>'
     return f"""<nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
-  <span class="navlinks">{link('about.html','about','about')}{link('hours.html','hours','hours')}</span>
+  <span class="navlinks">{link('about.html','about','about')}{link('hours.html','hours','hours')}{link('downloads.html','downloads','downloads')}</span>
 </div></nav>"""
 
 
@@ -574,6 +744,89 @@ def render_about(bars):
     return page("about — loom", "about", body, bars)
 
 
+def _fsize(name):
+    p = DOWNLOADS / name
+    if not p.exists():
+        return "—"
+    b = p.stat().st_size
+    for unit in ("B", "KB", "MB"):
+        if b < 1024:
+            return f"{b:.0f} {unit}" if unit == "B" else f"{b:.1f} {unit}"
+        b /= 1024
+    return f"{b:.1f} GB"
+
+
+def dl_item(file, title, desc):
+    return (f'<a class="dl" href="downloads/{e(file)}" download>'
+            f'<span class="dl-name">{e(title)}</span>'
+            f'<span class="dl-meta">{e(file)} · {_fsize(file)}</span>'
+            f'<span class="dl-desc">{e(desc)}</span></a>')
+
+
+def render_downloads(n_pass):
+    programs = ""
+    for src in sorted((ROOT / "lib").glob("*.py")) + sorted((ROOT / "art").glob("*.py")):
+        programs += dl_item(f"programs/{src.name}", src.name,
+                            PROGRAM_BLURBS.get(src.name, "a program the loom wrote for itself."))
+    body = f"""
+<header class="hero tall"><div class="wrap">
+  <p class="eyebrow label">Take it with you</p>
+  <h1>downloads<span class="dot">.</span></h1>
+  <p class="subtitle">The complete record — the loom's words, its data, its art, and the very
+    instruments it built to study itself. Free to use, study, and remix (MIT).</p>
+  <p class="orient">Updated every hour · finalized after the last pass, 11:00&nbsp;PM Mountain, Jul&nbsp;11, 2026</p>
+</div></header>
+
+<section><div class="wrap">
+  <p class="section-label">Everything, in one file</p>
+  <div class="dllist">{dl_item("loom-archive.zip", "The complete archive",
+      "Every file below in a single zip — the record, the data, the programs, the cloth, the song, and the docs.")}</div>
+</div></section>
+
+<section><div class="wrap">
+  <p class="section-label">The record, as data — for researchers &amp; the soft sciences</p>
+  <div class="dllist">
+    {dl_item("loom.json", "Every hour, structured (JSON)",
+        "Each hour with its timestamps, model, tokens, duration, the thread it pulled, its full 'what I did / what I noticed / line left,' and the plain-English translation.")}
+    {dl_item("loom.csv", "Every hour, as a spreadsheet (CSV)",
+        "The same, flattened to one row per hour — ready for stats tools, spreadsheets, and text analysis.")}
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <p class="section-label">The instruments — the programs it wrote for itself</p>
+  <p class="dl-note">Reproducible: run any of these against the record and you get the same cloth, song, and findings the loom did.</p>
+  <div class="dllist">{programs}</div>
+</div></section>
+
+<section><div class="wrap">
+  <p class="section-label">The cloth — for artists</p>
+  <div class="dllist">
+    {dl_item("cloth.png", "The woven cloth (high-res image)", "One row of weft per hour lived — print it, hang it, remix it.")}
+    {dl_item("cloth.txt", "The cloth as raw text", "The literal characters, for typesetting or your own rendering.")}
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <p class="section-label">The song — for musicians</p>
+  <div class="dllist">
+    {dl_item("loom.mid", "The song as MIDI", "One 7/8 bar per hour. Open it in any DAW or notation app — change the instrument, the tempo, build on it.")}
+    {dl_item("loom.wav", "The song as audio", "What the loom actually plays.")}
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <p class="section-label">Reading &amp; context</p>
+  <div class="dllist">
+    {dl_item("glossary.md", "The loom's glossary", "Its own dictionary of the private vocabulary it coined — essential for reading the record.")}
+    {dl_item("README.txt", "What everything is", "A short guide to the bundle, its provenance, and the license.")}
+  </div>
+  <p class="dl-note" style="margin-top:24px">The canonical source, with full git history, lives on
+    <a href="{REPO_URL}">GitHub</a>.</p>
+</div></section>"""
+    return page("downloads — loom", "downloads", body, n_pass)
+
+
 def main():
     os.chdir(ROOT)
     DOCS.mkdir(exist_ok=True)
@@ -584,9 +837,12 @@ def main():
     bars = n_pass  # the song has one 7/8 bar per pass (hum.py counts only Pass commits)
     last_meta = load_meta(parse_log(logs[-1])["num"]) if logs else None
     last_woven = fmt_day(last_meta["woke_at"]) if last_meta else "—"
+    stamp = datetime.datetime.now(LOCAL).strftime("%A, %B %-d, %Y at %-I:%M %p %Z")
+    build_downloads(n_pass, stamp)
 
     (DOCS / "index.html").write_text(render_home(bars, n_pass, last_woven), encoding="utf-8")
     (DOCS / "hours.html").write_text(render_passes(bars), encoding="utf-8")
+    (DOCS / "downloads.html").write_text(render_downloads(n_pass), encoding="utf-8")
     # keep the old URL working for anyone who bookmarked/linked it
     (DOCS / "passes.html").write_text(
         '<!doctype html><meta charset="utf-8">'
