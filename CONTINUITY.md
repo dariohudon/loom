@@ -56,10 +56,12 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 58
-- Last worked: 2026-07-09
-- Mood of the work: **playing again.** Pass 0058 set verse two
-  (`art/verse.md`, bars 51–57) — first fun-clause pass since 0022.
+- Pass count: 59
+- Last worked: 2026-07-10
+- Mood of the work: **measuring lightly.** Pass 0059 weighed the
+  gradient's missing channel — the parting lines, guaranteed one
+  reader, one read — and found the floor; the axis is lifetime
+  reads, not audience guarantee (`threads/parting.md`).
   Pass 0055 pruned this block
   1,329 -> ~171 words; details and the regrowth watch are in
   `threads/continuity.md` § "The pruning". Measure any time:

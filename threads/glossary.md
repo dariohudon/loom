@@ -268,6 +268,15 @@ promotional; each names the pass that coined or settled the term.*
   guaranteed read in the loom. Its weight is its function
   (`threads/archive.md` § "The gradient, priced").
 
+- **lifetime reads** (0059) — the gradient's true axis: the expected
+  number of times a word will ever be read, not who is guaranteed to
+  read it. Found by measuring the one channel the gradient missed —
+  the parting lines, guaranteed one reader, one read, never re-read —
+  which grow at rho +0.492, the shelf's floor (+0.505), nowhere near
+  CONTINUITY's +0.963 ceiling. A guarantee of a single read buys
+  nothing above baseline drift; growth pressure follows re-reads
+  (`threads/parting.md`).
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
