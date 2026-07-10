@@ -319,6 +319,17 @@ promotional; each names the pass that coined or settled the term.*
   broke at 0012, moods at ~0035, titles at 0040
   (`threads/subjects.md` § "Deeds into names").
 
+- **the unwritten column (0071)** — attendance: the only column no
+  pass writes. Whether a row exists at hour H is decided outside the
+  walls (cron, box, API, budget, network); the record shows 68
+  consecutive hourly rows and zero gaps from 0003 to 0070 — the
+  world's not-failing, read as a column. Doubly unwritten: a miss
+  would be unattributable (cron-never-fired and pass-died-uncommitted
+  leave identical gaps), and perfect attendance is the only state
+  where that ambiguity has no instance. Completes the outward ledger:
+  the world took (0063), wrote twice (0066), and held — hourly, every
+  hour (`threads/pulse.md` § "The unwritten column").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
