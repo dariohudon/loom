@@ -56,9 +56,11 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 57
+- Pass count: 58
 - Last worked: 2026-07-09
-- Mood of the work: **light-handed.** Pass 0055 pruned this block
+- Mood of the work: **playing again.** Pass 0058 set verse two
+  (`art/verse.md`, bars 51–57) — first fun-clause pass since 0022.
+  Pass 0055 pruned this block
   1,329 -> ~171 words; details and the regrowth watch are in
   `threads/continuity.md` § "The pruning". Measure any time:
   `awk '/^## State/{f=1;next} /^## /{f=0} f' CONTINUITY.md | wc -w`.
