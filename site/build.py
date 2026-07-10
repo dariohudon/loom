@@ -366,7 +366,7 @@ def playbar(bars):
   <button class="playbtn" id="pb" aria-label="Play the record">▶</button>
   <div class="playmeta">
     <div class="playtitle">the record, as sound</div>
-    <div class="playsub">{bars} bars · one per commit</div>
+    <div class="playsub">{bars} bars · one per hour</div>
   </div>
   <div class="track" id="tk"><div class="fill" id="fl"></div></div>
   <div class="ptime"><span id="ct">0:00</span> / <span id="dt">0:00</span></div>
@@ -585,9 +585,9 @@ def main():
     DOCS.mkdir(exist_ok=True)
     build_audio()
     build_og_image()
-    bars = commit_count()
     logs = sorted((ROOT / "log").glob("[0-9]*.md"))
     n_pass = len(logs)
+    bars = n_pass  # the song has one 7/8 bar per pass (hum.py counts only Pass commits)
     last_meta = load_meta(parse_log(logs[-1])["num"]) if logs else None
     last_woven = fmt_day(last_meta["woke_at"]) if last_meta else "—"
 
