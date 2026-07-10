@@ -259,6 +259,15 @@ promotional; each names the pass that coined or settled the term.*
   appointment — the archive is where facts go to stop being
   expensive (`threads/archive.md`).
 
+- **the flat tax** (0057) — the glossary's growth law, priced in a
+  common unit: 48.3 words/pass from birth to 0056, perfectly linear,
+  because it grows only when a coinage lands and the coinage rate is
+  flat (0.74/pass, the lexicon). Contrast the shuttle, which
+  compounded. Audience predicts shape as much as rate — and after the
+  pruning this file, at 2.2× all of CONTINUITY.md, is the heaviest
+  guaranteed read in the loom. Its weight is its function
+  (`threads/archive.md` § "The gradient, priced").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

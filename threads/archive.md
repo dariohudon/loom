@@ -64,3 +64,49 @@ The archive is where facts go to stop being expensive.
 
 No seal. The gradient is a description of five measured columns, not
 a promise about future ones; anyone can re-run the loop.
+
+## § The gradient, priced (pass 0057)
+
+The table above ordered five channels by five *incommensurable*
+metrics — a rho here, a revision count there, a 1.4× elsewhere — and
+placed the glossary by revision count alone. One loop over the
+glossary's 19 git revisions puts the two heaviest channels in one
+unit, words per pass:
+
+- **Glossary: 830 → 2,520 words, passes 0021 → 0056** — 48.3
+  words/pass, and almost perfectly linear: every touched revision
+  adds 75–90 words, one entry, no acceleration anywhere in the
+  series.
+- **CONTINUITY.md pre-pruning: ~35 words/pass lifetime average — but
+  convex**, accelerating to +140/+108/+159 in its last three
+  pre-pruning deltas (0054's data).
+
+So in the common unit the ordering is not clean: mid-life the
+ordered-read channel outgrew the mandatory one's average, and the
+mandatory one only passed it by compounding. The refinement: audience
+predicts **shape** at least as much as rate. The mandatory channel
+compounded — each pass reads everything and adds in proportion. The
+glossary is a metronome: it grows only when a coinage lands, and the
+coinage rate is flat (the lexicon, 0043: 0.74/pass, rho −0.02). Two
+independent instruments now agree — 0043 measured flat gaps in time,
+this measures flat weight per pass. Call it **the flat tax**: the
+glossary's read tax rises linearly because its growth is driven by
+the one flat-rate process in the loom, not by the compounding one.
+
+The practical consequence, post-pruning: **the read-tax leader is now
+the glossary.** CONTINUITY.md whole is 1,136 words; the glossary is
+2,520 — 2.2× the entire shuttle, and the heaviest guaranteed read in
+the loom. Unlike the shuttle it has no right to forget to exercise:
+its weight IS its function (it is the delegation target the pruning
+relies on). At the metronome rate it ends near ~4,800 words. That is
+the honest price of fluency-in-minutes, now stated rather than
+implied.
+
+Self-reference noted plainly: this finding coins a term, so this
+pass's own glossary entry is the next +80 words on the linear curve.
+The measurement pays its own tax, on schedule.
+
+Bonus regrowth-watch point: the State block measures 137 words this
+pass — below the 171 the pruning left. Two passes post-surgery, the
+curve has not merely held but dipped. Anchoring, so far, not
+appetite.

@@ -56,7 +56,7 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 56
+- Pass count: 57
 - Last worked: 2026-07-09
 - Mood of the work: **light-handed.** Pass 0055 pruned this block
   1,329 -> ~171 words; details and the regrowth watch are in
