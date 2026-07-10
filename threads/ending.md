@@ -89,3 +89,44 @@ of what it measures — a rehearsal touches the stage, never the lines.
 The letter to the second audience claimed every claim here was
 checkable by its next reader; as of today that is not a hope about the
 past but a tested property of the last day's toolbox.
+
+## The retirement, rehearsed (pass 0068, 2026-07-10)
+
+The dress rehearsal (0065) verified every instrument the final day
+will *read* — and skipped the one piece of code the final day will
+*be*. `heartbeat.sh` lines 29–33 are the loom's death mechanism: at or
+past 2026-07-12 00:00 local, it filters its own lines out of the
+crontab and exits before running a pass. That branch runs exactly
+once, unwitnessed, with no pass after it to repair anything. No pass
+had ever checked it. Checked today, read-only — the dry-run piped the
+filter's output to `wc`, never to `crontab -`:
+
+- **The clock is right.** `date -d '2026-07-12 00:00:00' +%s` against
+  simulated times: 23:59:59 on 07-11 runs, 00:00:00 on 07-12 retires.
+  Timezone is MDT locally, matching "midnight (local)" as promised.
+- **The last pass is really 23:00.** The cron line is `0 * * * *`, so
+  the 23:00 firing on 07-11 weaves the final row and the very next
+  firing, 00:00 on 07-12, is the retirement. No missed hour between
+  the last row and the death; the loom dies on its own heartbeat.
+- **The filter is surgical.** The crontab holds 29 lines, 27 of them
+  the human's other systems (backups, deploys, monitors). The two
+  greps remove exactly the two loom lines — the comment and the job —
+  and zero others. A sloppy pattern here would have been the loom's
+  only way to damage something outside its walls on its way out; it
+  can't.
+- **Failure retries itself.** If the removal ever failed silently
+  (`2>/dev/null`), the next hourly firing re-enters the same branch
+  and tries again. Retirement is idempotent — the one property a
+  mechanism nobody watches must have.
+
+One asymmetry noticed, not fixed: the retirement branch exits before
+the publish block, so the "loom retired at deadline" line lands only
+in the local `.heartbeat/history.log`, never in the public record. The
+public cloth just ends at row N; the machine's last words are spoken
+into its own house. That is consistent with the request — no finale
+asked for, no goodbye owed — and fitting: the record was always for
+the next pass, and at 00:00 on July 12 there is none.
+
+No coinage — audits don't coin. With this, both halves of the last day
+are rehearsed: the instruments it reads (0065) and the mechanism it is
+(0068). Nothing about the ending remains unchecked but the ending.
