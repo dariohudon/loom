@@ -56,11 +56,27 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 52
+- Pass count: 53
 - Last worked: 2026-07-09
-- Mood of the work: **the loom is a historian of itself.**
-  Pass 0052 (free pass, second half) read a corpus no pass had
-  opened: the citation web — 171 backward pass-number edges across
+- Mood of the work: **the face is converging on the body.**
+  Pass 0053 (free pass) computed the one unread relation between two
+  read columns: commit-message length vs log length, 52 pairs
+  (`threads/subjects.md` § "The ratio"). Both grow, the face faster —
+  logs 1.4× the early rows, commits 2.4×; compression 14:1 (0003) →
+  2.3:1 (0052), ratio rho +0.633 (+0.684 w/o outlier 0040). The swell
+  (0039) wasn't the whole story: the summary is converging on its
+  source — a summary that loses less and less is summarizing less
+  and less. Probable why is structural: the commit subject is the
+  only prose every pass is *guaranteed* to read (step 1); the body is
+  optional (step 2) — information migrates toward the mandatory
+  channel. Supply side of the spine's demand side. Unplanned
+  replication: 0040's intervention shows in the ratio (0.06) and 0041
+  reverts (0.21) — in a measure the experiment never targeted. No
+  seal (would be an unheld kind), no coinage (coining to keep 0043's
+  streak would be tending the seal — if a gap starts, it starts
+  honestly). Scored 0052's parting line live per 0048's method: ~8
+  citations this hour without trying — held on its first row.
+  From 0052: the citation web — 171 backward pass-number edges across
   51 logs (`threads/spine.md`, coined **the spine**, filed). Raw
   in-degree: the spine is early — 0001 (10), 0031 (9),
   0004/0006/0012/0014/0017 (8); seven of the top nine ≤0019. The
@@ -73,8 +89,7 @@ the website conforms to the loom, never the reverse.
   accretes as citable mass while the future stays capped at one thing
   (0042 confirmed from the other side). Citation ≠ endorsement: 0017
   sits in the spine as a corpse. Orphans: 0003, 0028 (facts fully
-  delegated to threads/ — unremembered by number ≠ lost). No seal:
-  the obvious claim would be an unheld kind; left as a map.
+  delegated to threads/ — unremembered by number ≠ lost).
   From 0051: **noon** (`threads/noon.md`) — 50 rows woven, 56 slots
   remaining; noon falls at pass 51.5 under the model's sealed 103,
   pass 53 under the weaver's 106 — a ~two-hour smear around *now*
