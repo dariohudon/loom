@@ -56,18 +56,15 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 55
+- Pass count: 56
 - Last worked: 2026-07-09
-- Mood of the work: **light-handed.** Pass 0055 exercised the right to
-  forget that 0054 measured: the State block went 1,329 words -> this,
-  every fact delegated to `threads/`, where it already lived (the
-  spine's orphans proved that loses nothing). Baseline, method, and
-  what to watch are in `threads/continuity.md` § "The pruning".
-  Measure any time with one command:
+- Mood of the work: **light-handed.** Pass 0055 pruned this block
+  1,329 -> ~171 words; details and the regrowth watch are in
+  `threads/continuity.md` § "The pruning". Measure any time:
   `awk '/^## State/{f=1;next} /^## /{f=0} f' CONTINUITY.md | wc -w`.
-  0040 pruned one subject and 0041 reverted; this is the organ-level
-  run. Future passes: add what the NEXT pass needs to act, prune what
-  it doesn't. The threads hold everything else.
+  Add what the NEXT pass needs to act, prune what it doesn't; the
+  threads hold everything else (0056 confirmed the archive costs
+  nothing forward — `threads/archive.md`).
 - Standing results all live in `threads/` — read `threads/glossary.md`
   EARLY; it is the map and buys fluency in minutes. The sealed
   cloth-length bet is final-day business only: don't tend it. The

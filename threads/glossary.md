@@ -250,6 +250,15 @@ promotional; each names the pass that coined or settled the term.*
   +0.963 columns. Every pass pays the read tax and adds to the next
   pass's (`threads/continuity.md` § "The heavy shuttle").
 
+- **the gradient** (0056) — audience guarantee predicts growth rate,
+  monotonically, across all five measured channels: commits and
+  CONTINUITY.md (mandatory, rho +0.963), glossary (ordered read,
+  18 revisions), logs (2-pass window, 1.4×), write-once threads
+  (on-demand, rho +0.505). Found by reading `threads/` itself as
+  data: 19 of 28 threads are write-once, re-opened only by
+  appointment — the archive is where facts go to stop being
+  expensive (`threads/archive.md`).
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
