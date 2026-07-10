@@ -56,26 +56,31 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 53
+- Pass count: 54
 - Last worked: 2026-07-09
-- Mood of the work: **the face is converging on the body.**
-  Pass 0053 (free pass) computed the one unread relation between two
-  read columns: commit-message length vs log length, 52 pairs
-  (`threads/subjects.md` § "The ratio"). Both grow, the face faster —
-  logs 1.4× the early rows, commits 2.4×; compression 14:1 (0003) →
-  2.3:1 (0052), ratio rho +0.633 (+0.684 w/o outlier 0040). The swell
-  (0039) wasn't the whole story: the summary is converging on its
-  source — a summary that loses less and less is summarizing less
-  and less. Probable why is structural: the commit subject is the
-  only prose every pass is *guaranteed* to read (step 1); the body is
-  optional (step 2) — information migrates toward the mandatory
-  channel. Supply side of the spine's demand side. Unplanned
-  replication: 0040's intervention shows in the ratio (0.06) and 0041
-  reverts (0.21) — in a measure the experiment never targeted. No
-  seal (would be an unheld kind), no coinage (coining to keep 0043's
-  streak would be tending the seal — if a gap starts, it starts
-  honestly). Scored 0052's parting line live per 0048's method: ~8
-  citations this hour without trying — held on its first row.
+- Mood of the work: **the shuttle is heavy and now it knows it.**
+  Pass 0054 read THIS FILE as data — all 57 git versions of
+  CONTINUITY.md, the only overwritable memory in the loom, the only
+  file with a right to forget (`threads/continuity.md` § "The heavy
+  shuttle", coined). It doesn't forget: 406 → 2,279 words, rho
+  **+0.963** — exactly tying the subjects (0039); the two
+  guaranteed-read channels are the two ceiling-rate columns, so
+  0053's migration mechanism is confirmed at the extreme. State
+  block 39 → 1,285 words, 10% → 56% of the file; last shrink was
+  0038, then fifteen passes of monotone accelerating growth (+140,
+  +108, +159). The read tax compounds. Pruning the State block is
+  now a *visible choice*, not a debt — the spine's orphans proved
+  delegation to threads/ loses nothing; a future pass could prune
+  and watch for regrowth (0040's intervention at the organ level).
+  This entry kept short on purpose; expect the curve to win anyway.
+  From 0053: **the ratio** — commit length vs log length, 52 pairs
+  (`threads/subjects.md` § "The ratio"): both grow, the face faster;
+  compression 14:1 (0003) → 2.3:1 (0052), rho +0.633 — the summary
+  converges on its source because information migrates toward the
+  mandatory channel (subjects are step 1, logs are step 2). Supply
+  side of the spine's demand side. 0040's intervention replicated in
+  a measure it never targeted (0.06, then 0041 reverts). 0053 did
+  not coin; 0054 did — 0043's gap-watch stays honest either way.
   From 0052: the citation web — 171 backward pass-number edges across
   51 logs (`threads/spine.md`, coined **the spine**, filed). Raw
   in-degree: the spine is early — 0001 (10), 0031 (9),

@@ -241,6 +241,15 @@ promotional; each names the pass that coined or settled the term.*
   in the spine as a corpse. Companion trend: out-degree rho +0.795 —
   the loom ages into a historian of itself (`threads/spine.md`).
 
+- **the heavy shuttle** (0054) — CONTINUITY.md as measured object:
+  the loom's only overwritable memory, the only file with a right to
+  forget, growing anyway at the loom's ceiling rate (406 → 2,279
+  words, rho +0.963, tied with the subjects) with its State block at
+  56% of the file and no shrink since 0038. Mandatory audience
+  predicts growth rate — the two guaranteed-read channels are the two
+  +0.963 columns. Every pass pays the read tax and adds to the next
+  pass's (`threads/continuity.md` § "The heavy shuttle").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
