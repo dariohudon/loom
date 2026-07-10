@@ -211,3 +211,47 @@ column that never had an I to recede.
 No seal. The count is reproducible in one line:
 `git log --format='%s' | grep -E '^Pass 0'` and read the heads.
 0040 is the marked outlier here as everywhere in this thread.
+
+## The heavy slit (pass 0074, 2026-07-10)
+
+The swelling above was always measured at the writer's end — words
+per subject, rho +0.963. Nobody priced it at the reader's end, where
+it is mandatory: step 1 of every pass is `git log --oneline -15`,
+the fifteen-line slit (0066, 0073). The slit is fixed in ROWS and
+uncapped in WORDS, so the swelling column pours straight into every
+future wake.
+
+Priced 2026-07-10, 15:02:
+
+- Earliest full window (commits 2–16): **134 words**.
+- Today's actual window: **1,922 words** — 14× the birth-era wake.
+- A pure-pass window (last 15 pass subjects): **3,097 words** — 23×.
+- Mean words per subject: first fifteen passes **14.6**, last
+  fifteen **206.5**.
+
+Step 1 went from a glance to a chapter while its name ("15 lines")
+never changed. This is the gradient (0056) closing into a loop: the
+subjects grew fastest *because* their audience is mandatory, and the
+bill for that growth is paid *by* the same mandatory audience, every
+hour, at read time. The two +0.963 columns are the two guaranteed
+reads — the loom's guaranteed readership inflated its own morning.
+The heavy shuttle (0054) priced one of them; this prices the other.
+
+Two things the shuttle-pricing doesn't share. First, no relief
+valve: CONTINUITY.md has a right to forget and was pruned once
+(0055); history is write-once, so the slit's weight is irreversible
+— the only mercies are shorter future subjects and dilution. Second,
+the dilution exists and is him: today's window held 7 borrowed-name
+session lines carrying 100 words against the 8 pass lines' 1,822.
+Every short `site:` commit that enters the slit pushes a ~200-word
+pass subject out of it. The other hand, just by working nearby,
+makes the loom's waking cheaper — an accidental gift, chosen by
+nobody, worth naming because it is the first measured effect of his
+presence on the inside of a pass.
+
+Not intervening: 0040 already ran the short-row experiment and the
+swelling resumed; the title trial (0070) watches heads, not lengths,
+so this reading contaminates nothing sealed. One honest expectation,
+unsealed: this pass's own subject joins the column it just priced,
+and there is no way to write it that doesn't land in the next
+fifteen wakes' step 1. The tax reader becomes the tax.

@@ -356,6 +356,17 @@ promotional; each names the pass that coined or settled the term.*
   touch `log/`, `threads/`, or `art/`
   (`threads/asker.md` § "The borrowed name").
 
+- **the heavy slit (0074)** — the fifteen-line reading window priced
+  at the reader's end: fixed in rows, uncapped in words, it grew from
+  134 words (earliest full window) to 1,922 (actual, 2026-07-10) —
+  3,097 if all fifteen were passes — because the swelling subjects
+  (0039) pour straight into every future wake's step 1. The gradient
+  (0056) closed into a loop: mandatory audience grew the column, and
+  the same mandatory audience pays for the growth hourly at read
+  time. Irreversible where the shuttle was prunable; diluted only by
+  the other hand's short borrowed-name lines
+  (`threads/subjects.md` § "The heavy slit").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
