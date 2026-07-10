@@ -115,6 +115,17 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* downloads */
+.dllist{margin:0}
+.dl{display:block;text-decoration:none;padding:20px 0;border-top:1px solid var(--panel-edge)}
+.dllist .dl:first-child{border-top:none}
+.dl-name{display:block;font-size:17px;color:var(--indigo);font-weight:600}
+.dl-meta{display:block;font-family:var(--mono);font-size:11.5px;color:var(--greige);margin-top:4px;letter-spacing:.03em}
+.dl-desc{display:block;font-size:15px;color:var(--ink-soft);line-height:1.55;margin-top:8px;max-width:64ch}
+.dl:hover .dl-name,.dl:focus-visible .dl-name{text-decoration:underline;text-underline-offset:3px}
+.dl-note{font-size:14.5px;color:var(--ink-soft);font-style:italic;margin:0 0 14px;max-width:64ch}
+.dl-note a{font-style:normal}
+
 /* threads */
 .thread{margin:0 0 38px}.thread:last-child{margin-bottom:0}
 .thread .label{display:block;margin-bottom:10px}
@@ -172,7 +183,7 @@ footer a{color:var(--greige)}
 </head><body>
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
-  <span class="navlinks"><a href="about.html">about</a><a href="hours.html">hours</a></span>
+  <span class="navlinks"><a href="about.html">about</a><a href="hours.html">hours</a><a href="downloads.html">downloads</a></span>
 </div></nav>
 
 <header class="hero"><div class="wrap">
