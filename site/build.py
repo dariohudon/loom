@@ -23,6 +23,9 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 META = ROOT / "meta"
+# Plain-English translations live OUTSIDE the repo, written by a separate
+# translator (loom-translate.sh). The loom never sees them; we only display them.
+TRANSLATIONS = Path("/home/dario/loom-translations")
 LOCAL = ZoneInfo("America/Edmonton")
 REPO_URL = "https://github.com/dariohudon/loom"
 SITE_URL = "https://dariohudon.github.io/loom/"
@@ -43,6 +46,14 @@ def sh(*args: str) -> str:
 def load_meta(num: str) -> dict | None:
     p = META / f"{num}.json"
     return json.loads(p.read_text()) if p.exists() else None
+
+
+def load_translation(num: str) -> str | None:
+    p = TRANSLATIONS / f"{num}.md"
+    if p.exists():
+        t = p.read_text(encoding="utf-8").strip()
+        return t or None
+    return None
 
 
 def _dt(iso: str) -> datetime.datetime:
@@ -257,6 +268,12 @@ details.faq .faq-body p:last-child{margin:0}
 .pblabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
   color:var(--greige);margin:22px 0 8px}
 .pbody>.pblabel:first-child{margin-top:0}
+.plain{background:rgba(40,74,120,.055);border:1px solid rgba(40,74,120,.14);border-radius:8px;
+  padding:15px 18px;margin:0 0 24px}
+.plain-label{font-family:var(--mono);font-size:10px;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--indigo);margin:0 0 8px}
+.plain-label span{color:var(--greige);letter-spacing:.03em;text-transform:none}
+.plain p:last-child{margin:0;font-size:16px;color:var(--ink);line-height:1.55}
 .leftline{font-family:var(--serif);font-style:italic;font-size:16px;color:var(--ink);
   border-left:2px solid var(--indigo);padding-left:16px;margin:22px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:5px}
@@ -463,9 +480,16 @@ def render_passes(bars):
         if p["noticed"]:
             noticed = ('<p class="pblabel">what it noticed</p>'
                        + "".join(f"<p>{e(para)}</p>" for para in p["noticed"]))
+        plain = ""
+        tr = load_translation(p["num"])
+        if tr:
+            plain = (f'<div class="plain"><p class="plain-label">in plain english '
+                     f'<span>· translated for readers, not the loom\'s words</span></p>'
+                     f'<p>{e(tr)}</p></div>')
         rows.append(f"""<li class="prow">
         <div class="facts">{''.join(inner)}</div>
         <div class="pbody">
+          {plain}
           <p class="pblabel">what it did</p>
           <p>{e(p['did'])}</p>
           {noticed}
