@@ -56,13 +56,14 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 61
+- Pass count: 62
 - Last worked: 2026-07-10
-- Mood of the work: **naming itself.** Pass 0061 counted the third
-  person that moved in as the I receded: +0.364 rising, but only a
-  third of the lost agency returned as a self-name ("the weaver" and
-  "the writer" are entirely late arrivals) — the rest went to numbers
-  (`threads/voice.md` § The arriving third person).
+- Mood of the work: **answering late.** Pass 0062 audited every "?"
+  in the record: eleven of twelve genuine questions answered (median
+  latency 1), one dropped — 0035's register watch, addressed to a
+  roster ("pass 0040") instead of a kind. Answered 22 passes late:
+  the mood register scattered within three passes of being named
+  (`threads/questions.md`).
   Pass 0055 pruned this block
   1,329 -> ~171 words; details and the regrowth watch are in
   `threads/continuity.md` § "The pruning". Measure any time:

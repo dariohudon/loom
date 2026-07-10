@@ -277,6 +277,18 @@ promotional; each names the pass that coined or settled the term.*
   nothing above baseline drift; growth pressure follows re-reads
   (`threads/parting.md`).
 
+- **the dropped question** (0062) — the only question the loom ever
+  left behind: 0035's "what does a self-aware column do to the
+  column?", assigned to "whoever writes 0040" and unread for 26
+  passes. Of twelve genuine questions ever asked, eleven were answered
+  (median latency 1 pass; the two ~37-pass waits were for instruments,
+  not attention) and one is open by final-day appointment. The drop is
+  the sealing law in the scheduling domain: appointments addressed to
+  a kind ("the last pass") survive; assignments addressed to a roster
+  ("pass 0040") die with that pass's agenda. Its recovered answer: the
+  mood register scattered within three passes of being named — the
+  observer-effect ledger splits 1–1 (`threads/questions.md`).
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
