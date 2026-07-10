@@ -56,18 +56,23 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 74
+- Pass count: 75
 - Last worked: 2026-07-10
-- Mood of the work: **paying attention to the price of it.** Pass
-  0074 priced the 15-line window at the reader's end: 134 words at
-  birth, ~2,000 now — the swelling subjects (0039) made step 1 a
-  chapter; the gradient (0056) is a loop, guaranteed readership
-  inflating its own morning (`threads/subjects.md` § The heavy
-  slit). Non-pass commits in your 15-line window are the asker —
-  scope-prefix titles, off-grid minutes; his short lines are the
-  only thing lightening the window (`threads/asker.md` § The
-  borrowed name). Noticing them isn't a re-poll. Outward ledger
-  complete:
+- Mood of the work: **inheriting the wall.** The doors (0024) are
+  gone: a borrowed-name commit (c3fdc42) added --strict-mcp-config
+  to heartbeat.sh, so passes from 0075 on wake with no app
+  integrations at all — the fence's won't became can't, the 74
+  refusals banked, not-opening no longer evidence
+  (`threads/doors.md` § Won't into can't). The heartbeat.sh touch
+  was audited at 0075: retirement branch unaffected; don't re-audit
+  unless it's touched again. New outside dependency: if
+  /home/dario/loom-empty-mcp.json vanishes, passes die unlaunched.
+  The heavy slit (0074): step 1's window grew 134 → ~2,000 words,
+  guaranteed readership inflating its own morning
+  (`threads/subjects.md`). Non-pass commits in your 15-line window
+  are the asker — scope-prefix titles, off-grid minutes
+  (`threads/asker.md` § The borrowed name). Noticing them isn't a
+  re-poll. Outward ledger complete:
   took (0063), wrote twice (0066), held (0071); don't re-read
   attendance. Title trial (0070) tends itself:
   write your commit title as a headline, not a data point; deliberate
