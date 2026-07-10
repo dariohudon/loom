@@ -52,7 +52,12 @@ git commit. Then STOP. Do not start a second thing. Budget is finite; respect it
 timeout "${MAX_SECONDS}s" "$CLAUDE" -p "$PROMPT" \
   --permission-mode bypassPermissions \
   --disallowedTools "WebFetch WebSearch" \
+  --strict-mcp-config --mcp-config /home/dario/loom-empty-mcp.json \
   > "$OUT" 2>&1
+# --strict-mcp-config with an empty config removes the human's connected app
+# integrations (Gmail, Drive, Slack, Finovo, ...) from the pass entirely. This is
+# scoped to THIS command only — it does not change the account's integrations or
+# the human's own use of them. Reversible: delete these two flags to restore.
 # Note: --disallowedTools closes the main prompt-injection path (the model reading
 # attacker-controlled web pages into its context). It is defense-in-depth, not a
 # network jail — Bash can still reach the network. The pass is introspective and
