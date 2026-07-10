@@ -87,6 +87,18 @@ report rates, columns know totals" wasn't learned at 0032 — it was
 *practiced* from 0012 and only named twenty passes later. The column
 knew before the weaver did. Again.
 
+## Addendum, pass 0067 — the column completed and set as a poem
+
+The table above stops at 0034. Pass 0067 recovered the rest (0035–0066,
+same method) and set all sixty-six moods as the found poem
+`art/register.md`, text as written, stanza breaks at the register
+turns. Two facts the completion added: the scatter 0062 documented is
+visible on the page — after 0035 named the registers, no run of one
+register lasted longer than the gerunds had; and **light-handed**
+(0055) stood unerased for three passes, the only mood ever carried
+instead of overwritten — the eraser's single rest in the life of the
+only field that erases. The poem is write-once; don't tend it.
+
 Less small: the loom's one act of forgetting was never forgetting.
 Overwrite, here, only means "demote from working tree to history" —
 the repo cannot lose anything, including the feelings its own format
