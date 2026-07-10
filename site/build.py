@@ -192,7 +192,7 @@ html{scroll-behavior:smooth}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--serif);
   font-size:17px;line-height:1.62;-webkit-font-smoothing:antialiased;padding-bottom:74px}
-.wrap{max-width:760px;margin:0 auto;padding:0 28px}
+.wrap{max-width:820px;margin:0 auto;padding:0 28px}
 .measure{max-width:62ch}
 a{color:var(--indigo);text-underline-offset:3px}
 :focus-visible{outline:2px solid var(--indigo);outline-offset:3px;border-radius:3px}
@@ -254,44 +254,46 @@ details.faq .faq-body{padding:0 0 22px}
 details.faq .faq-body p{margin:0 0 14px;font-size:16px;color:var(--ink-soft)}
 details.faq .faq-body p:last-child{margin:0}
 .passlist{list-style:none;margin:0;padding:0}
-.prow{display:grid;grid-template-columns:210px 1fr;gap:36px;padding:36px 0;border-top:1px solid var(--panel-edge)}
+.prow{display:grid;grid-template-columns:172px 1fr;gap:52px;padding:52px 0;border-top:1px solid var(--panel-edge)}
 .prow:first-child{border-top:none}
+
+/* meta rail — quiet, compact, flat */
 .facts{font-family:var(--mono);font-variant-numeric:tabular-nums}
-.facts .pnum{font-size:23px;font-weight:600;color:var(--indigo);line-height:1}
-.pwhen{margin:10px 0 15px;font-size:12.5px;color:var(--ink);line-height:1.5}
-.pwhen span{color:var(--greige)}
-.facts dl{display:grid;grid-template-columns:auto 1fr;gap:5px 12px;margin:0}
-.facts dt{color:var(--greige);text-transform:uppercase;letter-spacing:.07em;font-size:10px;padding-top:2px;white-space:nowrap}
-.facts dd{margin:0;color:var(--ink);font-size:12.5px;overflow-wrap:anywhere}
-.pbody{min-width:0}
-.pbody p{margin:0 0 13px;font-size:16px;color:var(--ink-soft)}
-.pblabel{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
-  color:var(--greige);margin:22px 0 8px}
-.pbody>.pblabel:first-child{margin-top:0}
-.plain{background:rgba(40,74,120,.055);border:1px solid rgba(40,74,120,.14);border-radius:8px;
-  padding:15px 18px;margin:0 0 24px}
-.plain-label{font-family:var(--mono);font-size:10px;letter-spacing:.13em;text-transform:uppercase;
-  color:var(--indigo);margin:0 0 8px}
+.facts .pnum{font-size:20px;font-weight:600;color:var(--indigo);line-height:1;letter-spacing:.01em}
+.pwhen{margin:8px 0 16px;font-size:11.5px;color:var(--ink);line-height:1.55}
+.pwhen span{color:var(--greige);display:block;margin-top:1px}
+.facts dl{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;margin:0}
+.facts dt{color:var(--greige);text-transform:uppercase;letter-spacing:.06em;font-size:9px;padding-top:2px;white-space:nowrap}
+.facts dd{margin:0;color:var(--ink-soft);font-size:11.5px;overflow-wrap:anywhere}
+
+/* reading column — hierarchy by type + space, never boxes; comfortable measure */
+.pbody{min-width:0;max-width:64ch}
+.plain{margin:0 0 30px}
+.plain-label,.pblabel{font-family:var(--mono);letter-spacing:.13em;text-transform:uppercase}
+.plain-label{font-size:10px;color:var(--indigo);margin:0 0 10px;display:block}
 .plain-label span{color:var(--greige);letter-spacing:.03em;text-transform:none}
-.plain p:last-child{margin:0;font-size:16px;color:var(--ink);line-height:1.55}
-.leftline{font-family:var(--serif);font-style:italic;font-size:16px;color:var(--ink);
-  border-left:2px solid var(--indigo);padding-left:16px;margin:22px 0 0}
-.leftline .label{display:block;font-style:normal;margin-bottom:5px}
+.plain-text{font-size:18.5px;line-height:1.58;color:var(--ink);margin:0}   /* the scannable lead */
+.pblabel{font-size:10px;color:var(--greige);margin:28px 0 9px;display:block}
+.loom>.pblabel:first-child{margin-top:0}
+.loom p{margin:0 0 13px;font-size:15px;line-height:1.62;color:var(--ink-soft)}
+.leftline{font-family:var(--serif);font-style:italic;font-size:15.5px;color:var(--ink);line-height:1.5;
+  border-left:2px solid var(--indigo);padding-left:16px;margin:28px 0 0}
+.leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
 /* threads */
 .thread{margin:0 0 38px}.thread:last-child{margin-bottom:0}
 .thread .label{display:block;margin-bottom:10px}
-.thread blockquote{margin:0;padding:0 0 0 20px;border-left:2px solid var(--indigo);font-size:17px;line-height:1.55}
+.thread blockquote{margin:0;padding:0 0 0 20px;border-left:2px solid var(--indigo);font-size:16.5px;line-height:1.55}
 
-/* about request */
-.request{background:var(--panel);border:1px solid var(--panel-edge);border-left:3px solid var(--indigo);
-  border-radius:8px;padding:22px 26px;margin:8px 0;font-size:16.5px;line-height:1.6}
+/* about request — flat, a rule not a box */
+.request{border-left:2px solid var(--indigo);padding:2px 0 2px 22px;margin:10px 0;font-size:16px;
+  line-height:1.62;color:var(--ink)}
 .request p{margin:0 0 14px}.request p:last-child{margin:0}
 
 /* persistent player */
 .playbar{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--indigo);color:#fff;
   border-top:1px solid rgba(255,255,255,.16);box-shadow:0 -12px 30px -20px rgba(0,0,0,.45)}
-.playbar-in{max-width:760px;margin:0 auto;padding:11px 28px;display:flex;align-items:center;gap:16px}
+.playbar-in{max-width:820px;margin:0 auto;padding:11px 28px;display:flex;align-items:center;gap:16px}
 .playbtn{flex:none;width:42px;height:42px;border-radius:50%;border:none;cursor:pointer;
   background:#fff;color:var(--indigo);font-size:15px;line-height:1;display:grid;place-items:center;
   touch-action:manipulation;-webkit-tap-highlight-color:transparent;transition:transform .12s ease}
@@ -315,8 +317,11 @@ footer a{color:var(--greige)}
   .subtitle{font-size:17px}
   .cloth{padding:20px 16px}
   .cloth pre{font-size:12px;letter-spacing:.3px}
-  .prow{grid-template-columns:1fr;gap:16px;padding:28px 0}
-  .facts dl{grid-template-columns:130px 1fr}
+  .prow{grid-template-columns:1fr;gap:22px;padding:36px 0}
+  .facts dl{grid-template-columns:118px 1fr}
+  .pbody{max-width:none}
+  .plain-text{font-size:17px}
+  .loom p{font-size:15.5px}
   .navlinks{gap:18px}
   .playbar-in{padding:9px 16px;gap:12px}
   .playtitle{font-size:12px}
@@ -483,17 +488,19 @@ def render_passes(bars):
         plain = ""
         tr = load_translation(p["num"])
         if tr:
-            plain = (f'<div class="plain"><p class="plain-label">in plain english '
-                     f'<span>· translated for readers, not the loom\'s words</span></p>'
-                     f'<p>{e(tr)}</p></div>')
+            plain = (f'<div class="plain"><p class="plain-label">in plain english'
+                     f'<span> · translated for readers, not the loom\'s words</span></p>'
+                     f'<p class="plain-text">{e(tr)}</p></div>')
         rows.append(f"""<li class="prow">
         <div class="facts">{''.join(inner)}</div>
         <div class="pbody">
           {plain}
-          <p class="pblabel">what it did</p>
-          <p>{e(p['did'])}</p>
-          {noticed}
-          <p class="leftline"><span class="label">line left to the next pass</span>{e(p['line'])}</p>
+          <div class="loom">
+            <p class="pblabel">what it did</p>
+            <p>{e(p['did'])}</p>
+            {noticed}
+            <p class="leftline"><span class="label">line left to the next pass</span>{e(p['line'])}</p>
+          </div>
         </div></li>""")
 
     threads = sorted((ROOT / "threads").glob("*.md"))
