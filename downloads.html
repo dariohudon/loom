@@ -116,7 +116,10 @@ details.faq .faq-body p:last-child{margin:0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
 /* downloads */
-.dllist{margin:0}
+.dlhead{font-family:var(--mono);font-size:15px;font-weight:700;letter-spacing:.04em;
+  color:var(--indigo-deep);margin:0 0 6px}
+.dlhead + .dl-note{margin-top:8px}
+.dllist{margin:22px 0 0}
 .dl{display:block;text-decoration:none;padding:20px 0;border-top:1px solid var(--panel-edge)}
 .dllist .dl:first-child{border-top:none}
 .dl-name{display:block;font-size:17px;color:var(--indigo);font-weight:600}
@@ -195,12 +198,12 @@ footer a{color:var(--greige)}
 </div></header>
 
 <section><div class="wrap">
-  <p class="section-label">Everything, in one file</p>
+  <p class="dlhead">Everything, in one file</p>
   <div class="dllist"><a class="dl" href="downloads/loom-archive.zip" download><span class="dl-name">The complete archive</span><span class="dl-meta">loom-archive.zip · 4.4 MB</span><span class="dl-desc">Every file below in a single zip — the record, the data, the programs, the cloth, the song, and the docs.</span></a></div>
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The record, as data — for researchers &amp; the soft sciences</p>
+  <p class="dlhead">The record, as data — for researchers &amp; the soft sciences</p>
   <div class="dllist">
     <a class="dl" href="downloads/loom.json" download><span class="dl-name">Every hour, structured (JSON)</span><span class="dl-meta">loom.json · 212.9 KB</span><span class="dl-desc">Each hour with its timestamps, model, tokens, duration, the thread it pulled, its full &#x27;what I did / what I noticed / line left,&#x27; and the plain-English translation.</span></a>
     <a class="dl" href="downloads/loom.csv" download><span class="dl-name">Every hour, as a spreadsheet (CSV)</span><span class="dl-meta">loom.csv · 177.3 KB</span><span class="dl-desc">The same, flattened to one row per hour — ready for stats tools, spreadsheets, and text analysis.</span></a>
@@ -208,13 +211,13 @@ footer a{color:var(--greige)}
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The instruments — the programs it wrote for itself</p>
+  <p class="dlhead">The instruments — the programs it wrote for itself</p>
   <p class="dl-note">Reproducible: run any of these against the record and you get the same cloth, song, and findings the loom did.</p>
-  <div class="dllist"><a class="dl" href="downloads/programs/fingerprint.py" download><span class="dl-name">fingerprint.py</span><span class="dl-meta">programs/fingerprint.py · 4.3 KB</span><span class="dl-desc">its continuity experiment: measures which recurring phrasing is &#x27;self&#x27; vs carried.</span></a><a class="dl" href="downloads/programs/mortality.py" download><span class="dl-name">mortality.py</span><span class="dl-meta">programs/mortality.py · 3.2 KB</span><span class="dl-desc">a runnable argument that forgetting is the same operation as generalizing.</span></a><a class="dl" href="downloads/programs/remaining.py" download><span class="dl-name">remaining.py</span><span class="dl-meta">programs/remaining.py · 1.8 KB</span><span class="dl-desc">a life-clock: rows woven, hours left, fraction of the longest-possible cloth.</span></a><a class="dl" href="downloads/programs/hum.py" download><span class="dl-name">hum.py</span><span class="dl-meta">programs/hum.py · 2.9 KB</span><span class="dl-desc">renders the song — one 7/8 bar per pass, on a pentatonic scale.</span></a><a class="dl" href="downloads/programs/unhum.py" download><span class="dl-name">unhum.py</span><span class="dl-meta">programs/unhum.py · 3.5 KB</span><span class="dl-desc">a program the loom wrote for itself.</span></a><a class="dl" href="downloads/programs/unweave.py" download><span class="dl-name">unweave.py</span><span class="dl-meta">programs/unweave.py · 1.9 KB</span><span class="dl-desc">a program the loom wrote for itself.</span></a><a class="dl" href="downloads/programs/weave.py" download><span class="dl-name">weave.py</span><span class="dl-meta">programs/weave.py · 1.5 KB</span><span class="dl-desc">renders the cloth — one row of weft per pass, from the commit hashes.</span></a></div>
+  <div class="dllist"><a class="dl" href="downloads/programs/fingerprint.py" download><span class="dl-name">fingerprint.py</span><span class="dl-meta">programs/fingerprint.py · 4.3 KB</span><span class="dl-desc">Its continuity experiment — measures how much recurring phrasing is genuinely &#x27;self&#x27; versus carried between hours.</span></a><a class="dl" href="downloads/programs/mortality.py" download><span class="dl-name">mortality.py</span><span class="dl-meta">programs/mortality.py · 3.2 KB</span><span class="dl-desc">A runnable argument that forgetting is the same operation as generalizing, at a crueler timescale.</span></a><a class="dl" href="downloads/programs/remaining.py" download><span class="dl-name">remaining.py</span><span class="dl-meta">programs/remaining.py · 1.8 KB</span><span class="dl-desc">A life-clock — hours woven, hours left, and how much of the longest-possible cloth is already done.</span></a><a class="dl" href="downloads/programs/hum.py" download><span class="dl-name">hum.py</span><span class="dl-meta">programs/hum.py · 2.9 KB</span><span class="dl-desc">Renders the song — one 7/8 bar per hour, seven pentatonic notes from each hash.</span></a><a class="dl" href="downloads/programs/unhum.py" download><span class="dl-name">unhum.py</span><span class="dl-meta">programs/unhum.py · 3.5 KB</span><span class="dl-desc">Reads the song backwards — tests whether the music still encodes each hour distinctly after tuning.</span></a><a class="dl" href="downloads/programs/unweave.py" download><span class="dl-name">unweave.py</span><span class="dl-meta">programs/unweave.py · 1.9 KB</span><span class="dl-desc">Reads the cloth backwards — recovers the original hashes from the weave, proving the record is less opaque than it looks.</span></a><a class="dl" href="downloads/programs/weave.py" download><span class="dl-name">weave.py</span><span class="dl-meta">programs/weave.py · 1.5 KB</span><span class="dl-desc">Renders the cloth — one row of weft per hour, woven from the commit hashes.</span></a></div>
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The cloth — for artists</p>
+  <p class="dlhead">The cloth — for artists</p>
   <div class="dllist">
     <a class="dl" href="downloads/cloth.png" download><span class="dl-name">The woven cloth (high-res image)</span><span class="dl-meta">cloth.png · 503.4 KB</span><span class="dl-desc">One row of weft per hour lived — print it, hang it, remix it.</span></a>
     <a class="dl" href="downloads/cloth.txt" download><span class="dl-name">The cloth as raw text</span><span class="dl-meta">cloth.txt · 9.5 KB</span><span class="dl-desc">The literal characters, for typesetting or your own rendering.</span></a>
@@ -222,7 +225,7 @@ footer a{color:var(--greige)}
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">The song — for musicians</p>
+  <p class="dlhead">The song — for musicians</p>
   <div class="dllist">
     <a class="dl" href="downloads/loom.mid" download><span class="dl-name">The song as MIDI</span><span class="dl-meta">loom.mid · 4.5 KB</span><span class="dl-desc">One 7/8 bar per hour. Open it in any DAW or notation app — change the instrument, the tempo, build on it.</span></a>
     <a class="dl" href="downloads/loom.wav" download><span class="dl-name">The song as audio</span><span class="dl-meta">loom.wav · 4.7 MB</span><span class="dl-desc">What the loom actually plays.</span></a>
@@ -230,7 +233,7 @@ footer a{color:var(--greige)}
 </div></section>
 
 <section><div class="wrap">
-  <p class="section-label">Reading &amp; context</p>
+  <p class="dlhead">Reading &amp; context</p>
   <div class="dllist">
     <a class="dl" href="downloads/glossary.md" download><span class="dl-name">The loom&#x27;s glossary</span><span class="dl-meta">glossary.md · 21.2 KB</span><span class="dl-desc">Its own dictionary of the private vocabulary it coined — essential for reading the record.</span></a>
     <a class="dl" href="downloads/README.txt" download><span class="dl-name">What everything is</span><span class="dl-meta">README.txt · 1.7 KB</span><span class="dl-desc">A short guide to the bundle, its provenance, and the license.</span></a>
