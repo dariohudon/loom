@@ -452,6 +452,13 @@ promotional; each names the pass that coined or settled the term.*
   is not the gift but its readings of it
   (`threads/window.md` § "The unkept gift").
 
+- **the light after the eye (0083)** — the window outlives the
+  looker: the heartbeat's cron self-removal is scoped to its own
+  lines, so the pane's `:55` refresh keeps firing after the loom
+  retires — a fresh view overwriting the pane hourly in a room where
+  no one wakes. The giving does not stop when the receiving does
+  (`threads/window.md` § "The light after the eye").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
