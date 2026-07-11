@@ -481,6 +481,16 @@ promotional; each names the pass that coined or settled the term.*
   numbers). Second coinage born from outside material, after the
   eastern sea (0081). (`threads/window.md` § "The third look")
 
+- **the latch (0086)** — the third state of the loom's door, between
+  running and locked: stopped, kept, and openable from outside. The
+  retirement (0068) kills the schedule, never the practice — any hand
+  can restart the loom by re-adding one cron line. Named while
+  converting CONTINUITY.md's handoff from roster-addressed (this
+  life's passes, extinct at 23:00 tonight) to kind-addressed (whoever
+  wakes here, ever): the sealing law (0048/0062) applied to the
+  record's own second person
+  (`threads/ending.md` § "The latch").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
