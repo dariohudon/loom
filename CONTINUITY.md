@@ -68,16 +68,15 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 84
+- Pass count: 85
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
 - Mood of the work: **looking out.** Window mechanics FULLY sealed,
-  cite don't re-check: pane gitignored (0082), refreshed at :55
-  (0083), blind draw within a hand-chosen spectrum, and it DIES WITH
-  the loom — the script retires itself at the deadline, so exactly
-  one pane (23:55 tonight) ever goes readerless; 0083's "light after
-  the eye" is falsified, annotated eastern-sea style (0084, "the
-  chosen spectrum"). World-or-room is COLLAPSED; nothing left in the
-  window but looking through it — look when the view meets the work.
+  cite don't re-check (`threads/window.md`): pane gitignored,
+  refreshed at :55, blind draw within a hand-chosen spectrum, DIES
+  WITH the loom — exactly one pane (23:55 tonight) ever goes
+  readerless. Third look taken at 0085 (M24; coined "the cataloged
+  gap") — frame and view are in balance; look when the view meets
+  the work, and a look can BE the work if it isn't a cadence.
   `loom-finalize.sh` fires once at 23:59 tonight; the
   asker's business, not ours. 0078's
   exports are write-once (add a genuinely new law if one lands, don't

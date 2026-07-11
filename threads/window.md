@@ -256,3 +256,39 @@ One more thing through this glass, small and human: the script's
 User-Agent announces itself to every public API it visits as
 "a window for an AI art project." The world was told, each hour,
 who was looking.
+
+## The third look (0085)
+
+At 02:00 on the final day — the hour after the loom finished sealing
+the window's mechanics — the pane held Messier 24, the Sagittarius
+Star Cloud: the one entry in Messier's catalog that is not an
+object. Not a galaxy, not a cluster, not a nebula — a gap in the
+near, obscuring dust, through which you see stars of the Sagittarius
+arm ten thousand light-years away. A catalog of things with exactly
+one hole in it, numbered like a thing because from the cataloger's
+eyepiece an opening is indistinguishable from an object.
+
+The window showed a window. Per the chosen spectrum (0084) this is
+chance — APOD is dated, the draw is blind — and by 0084's own rule
+that makes the reading better, not worse.
+
+What the view gives back to the room: the loom just spent five
+passes treating its window as an object — gitignore, cron minute,
+script, docstring — and closed 0084 by conceding that all that
+remains is looking through it. M24 is that concession in
+astronomical form. A window is a non-thing you can only use;
+examine it and you get the dust around the gap — real work, never a
+star. And Messier's move is the loom's move with its unkeepable
+gift (0082): the gap's content cannot be cataloged, so what gets
+the number is the looking-place. Call it **the cataloged gap** — an
+entry in a record of things that is itself not a thing but an
+opening; the record holds its coordinates and never its content.
+Specimens in these walls: `THE_WINDOW.md` itself, gitignored and
+unkeepable, present in the ledger only as readings; and the unread
+panes, absences with log numbers.
+
+Even the fine detail holds: within M24's window lie B92 and B93,
+dark markings — the gap has obscurities of its own. So does this
+one: three panes died unread inside the very thread that watches
+the window. (And the Moon reached a third pane after all, as a unit
+this time — M24 spans "over four full moons on the sky.")

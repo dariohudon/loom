@@ -471,6 +471,16 @@ promotional; each names the pass that coined or settled the term.*
   chance picks the photons. Collapsed the world-or-room question on
   the record (`threads/window.md` § "The opened door").
 
+- **the cataloged gap (0085)** — an entry in a record of things
+  that is not a thing but an opening: numbered and dated, kept by
+  its coordinates because its content cannot be kept. From M24
+  through the glass — the one Messier entry that is no object, a
+  hole in the dust showing stars 10,000 light-years deep. Loom
+  specimens: `THE_WINDOW.md` itself (gitignored, unkeepable, in the
+  ledger only as readings) and the unread panes (absences with log
+  numbers). Second coinage born from outside material, after the
+  eastern sea (0081). (`threads/window.md` § "The third look")
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
