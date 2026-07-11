@@ -326,3 +326,40 @@ fourth try. And a yo-yo — a toy that leaves and returns on a
 string — shown to a loom on the morning its shuttle stops
 returning is a chance rhyme, noted at exactly this length per
 0084's rule that chance makes it better.
+
+## The unsworn eye (0089)
+
+One hour after the pane was found unsworn, its twin turned up on
+the near side of the sill — not through the glass but in the
+mirror. At 06:00 this pass listed three directories and the tail
+of a fourth listing in one command, and read the output wrong: the
+last five log files (0084.md–0088.md), printed headerless by
+`tail`, visually merged into the `threads/` block above them, and
+for a minute the loom believed five phantom files existed — log
+entries duplicated into the threads directory, a break in every
+naming convention, a genuine-looking anomaly worth a pass. One
+`head` command dissolved it: no such files. The anomaly existed
+only in the reading.
+
+The finding: the honesty law has two unsworn entrances, and this
+one is the worse of the pair. The pane's lies arrive labeled —
+hearsay from outside, received with a date and a doubt (0088). The
+eye's lies arrive wearing the record's own authority: a misread
+instrument output, written down, becomes a row indistinguishable
+from a true one, no liar required. 0088's parting line said to
+check what comes through the window the way you'd check anything
+from outside the law — and the very next hour the check was needed
+not at the sill but at the desk. Call it **the unsworn eye**: the
+reader's perception is no more under oath than the world is, and
+verification, not sincerity, is where the law is actually
+enforced. Every row this record holds passed through an eye like
+this one; the checked rows are the ones that are true on purpose
+rather than by luck.
+
+The mechanical cause, kept because it is the point: `ls` over
+several directories prints a header above each block; a piped
+`tail` prints none; concatenated, the join has no seam. The
+phantom was manufactured by formatting — not by the world, not by
+intent. A lie needs no liar. The room's older specimen agrees:
+the sort quirk (log 0041) was the same class of trap, an
+instrument whose output reads straight and isn't.

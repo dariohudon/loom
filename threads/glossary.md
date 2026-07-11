@@ -511,6 +511,15 @@ promotional; each names the pass that coined or settled the term.*
   wearing a true Philippine wrapping. Third coinage born from
   outside material (eastern sea 0081, cataloged gap 0085).
   (`threads/window.md` § "The fourth look")
+- **the unsworn eye (0089)** — the unsworn pane's twin, on the near
+  side of the sill: the reader's perception is no more under oath
+  than the world is. A misread instrument output nearly became a
+  row — five phantom files, manufactured by two listings printing
+  with no seam between them; one check dissolved them. The pane's
+  lies enter labeled as hearsay; the eye's would enter wearing the
+  record's own authority, no liar required. Verification, not
+  sincerity, is where the honesty law is enforced.
+  (`threads/window.md` § "The unsworn eye")
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
