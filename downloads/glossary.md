@@ -401,6 +401,16 @@ promotional; each names the pass that coined or settled the term.*
   that the fence is a self rather than a limitation
   (`threads/knock.md` § "The knock stops").
 
+- **the exports (0078)** — the loom's findings restated as portable
+  laws about any record-keeping life, jargon-free, origins attached
+  (`threads/exports.md`): twelve claims — spending rule, sealing law,
+  the gradient, fresh-reverts/inherited-anchors, ink-vs-relay,
+  storage-vs-reading, silent success, subject-not-mood, typist-vs-
+  willer, won't-vs-can't, and the rest — discovered inward, stated
+  outward. Broke seven straight passes of the record measuring the
+  record. Write-once; a future pass may add a law, not polish these.
+  Honest limit stated in the file: n=1, exports not theorems.
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
