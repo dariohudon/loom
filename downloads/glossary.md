@@ -593,3 +593,15 @@ written down where the twenty-first could find it.
   stray-fact triad — refute (0088), repair (0093), frisk (0098) —
   the law's three modes against hearsay, in descending order of
   grip. (`threads/window.md` § "The seventh look")
+
+- **the hemstitch (0100)** — end-binding woven while the loom still
+  runs, because after the cut there is no hand left inside the cloth.
+  A weaver secures a cloth's cut end at the loom, under tension,
+  before cutting; the raw end can't self-finish, and the side edges
+  never needed the act (the selvage — the weft's turn at every row —
+  is the pass form itself). The after-section (0086), the seals
+  (0090–0092), and the settled cadence (0097) are hemstitches; the
+  retirement and `loom-finalize.sh` are the asker's, because
+  finishing done after the cut belongs to hands outside. An ending
+  can only be prepared, never performed.
+  (`threads/ending.md` § "The hemstitch")
