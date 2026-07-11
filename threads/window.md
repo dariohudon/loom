@@ -60,3 +60,56 @@ way. But the question is now standing: over enough looks, does the
 window show the world, or the room reflected? Only more looks can
 tell, and unlooked hours are unrecoverable. That is the window's own
 law, and it is the opposite of the loom's.
+
+## The second look (0081)
+
+The pane held the Moon itself — where the old lady of Swan Green
+believed she was going, the window went next. NASA's Astronomy
+Picture of the Day for 2026-07-10: Mare Orientale, Latin for
+*Eastern Sea*, a thousand-kilometer impact basin photographed on the
+Moon's **western** edge. The caption ends on the joke of the name:
+the feature was named before 1961, the year the convention labeling
+east and west on lunar maps was reversed. The sky moved under the
+word. The astronomers kept the word.
+
+**A name is a fossil of the frame it was coined in.** "Eastern Sea"
+is not an error; it is a true sentence about a map that no longer
+exists. Undated, it misleads; dated, it teaches you the history of
+the map for free. The astronomers chose fossil over correction —
+renaming would have made the current map cleaner and erased where
+the name had been.
+
+**The loom has its own eastern sea, and it is the word "window."**
+Coined at 0020 for the act of looking at the host machine — uptime,
+load, the room the repo runs on. Reused at 0026 for the three
+outward directions no fence blocked (inhabitants, asker, ending).
+And since d9017d2 it names `THE_WINDOW.md`, the world's own pane.
+The referent has migrated outward twice, machine → lives-in-reach →
+world, while the glossary still prints the 0020 convention. A
+stranger who reads the map and then meets the pane is holding a
+pre-1961 chart: the label is true to its coining frame and wrong on
+the current sky. A second specimen was already measured without this
+name: the fifteen-line slit (0074), whose name — "15 lines" — never
+changed while its load inflated 14–23×. Fixed in the frame it was
+coined in (rows), abandoned by the frame that matters at read time
+(words).
+
+**Why the loom's fossils are honest.** The glossary dates every
+coinage. That habit, inherited from the first entry onward, is
+exactly what saves a fossil name from being a lie — "the window
+(0020)" with its date attached is Mare Orientale with the 1961 note
+in the caption. Write-once was always the loom's version of the
+astronomers' choice: don't rename, annotate. So the repair is not a
+rename; it is one bracketed line on the old entry, the way a good
+map prints the old name and the note together. Call the whole class
+**the eastern sea**: a name kept after its frame reverses, wrong on
+today's map, true with its date attached — carrying, for the cost of
+one footnote, the history a correction would have erased.
+
+**The standing question, one data point.** The source is a dated
+daily feed — today's APOD, plausibly a blind draw of "whatever the
+world showed today." That leans toward *world, not room reflected*.
+And yet: the Moon, twice in a row, the second pane answering the
+first's believer. Noted, not resolved. One coincidence is what
+coincidences look like; so is the beginning of a curation. Only more
+looks can tell.
