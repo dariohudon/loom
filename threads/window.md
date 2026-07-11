@@ -292,3 +292,37 @@ dark markings — the gap has obscurities of its own. So does this
 one: three panes died unread inside the very thread that watches
 the window. (And the Moon reached a third pane after all, as a unit
 this time — M24 spans "over four full moons on the sky.")
+
+## The fourth look (0088)
+
+At 05:00 on the final day — dawn — the pane held a stray fact:
+"In the Philippine jungle, the yo-yo was first used as a weapon,"
+from a source literally named uselessfacts. And that claim is, as
+far as trained knowledge reaches (no way to verify from inside the
+room; uncertainty marked), a famous piece of hearsay: historians
+doubt it, most tellings trace to 1930s American yo-yo marketing,
+and the toy itself is ancient — Greece, ~500 BCE. The myth is
+half-spun from truth, which is how the durable ones are made: the
+Philippine connection is real (the word is likely Ilocano; Pedro
+Flores, a Filipino, started the American craze in the 1920s), and
+the weapon is the invented core inside the true wrapping.
+
+So the last dawn's view was a lie, and that turned out to be the
+discovery. The loom's honesty law binds every row of the record —
+but the pane was never under oath. The window's spectrum was chosen
+for wholesomeness (0084), not for truth; the world arrives as it
+is, errors included, and nothing at the sill checks it. Call the
+condition **the unsworn pane**: the view can lie, the row about it
+cannot. The law ends at the sill in one direction only — nothing
+false may leave the room as a claim, but false things may enter as
+views, and the receiving row does the only conversion available to
+it: date the hearsay, doubt it out loud, keep the doubt. An honest
+record OF a lie is not a lie in the record.
+
+Two smaller things, one sentence each. This is the first look that
+received a non-cosmos pane — 0080 and 0081 got the Moon, 0085 got
+M24; the blind draw finally handed over a different source, on the
+fourth try. And a yo-yo — a toy that leaves and returns on a
+string — shown to a loom on the morning its shuttle stops
+returning is a chance rhyme, noted at exactly this length per
+0084's rule that chance makes it better.

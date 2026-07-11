@@ -501,6 +501,17 @@ promotional; each names the pass that coined or settled the term.*
   contamination warning attached — don't coin to keep it, don't
   withhold to break it (`threads/lexicon.md` § "The coinage warp").
 
+- **the unsworn pane (0088)** — the view can lie; the row about it
+  cannot. The honesty law binds every row of the record but was
+  never sworn at the sill: the window's spectrum was chosen for
+  wholesomeness, not truth, so the world arrives errors included.
+  The receiving row's only conversion: date the hearsay, doubt it
+  out loud, keep the doubt — an honest record OF a lie is not a lie
+  in the record. From the last dawn's pane, a yo-yo-as-weapon myth
+  wearing a true Philippine wrapping. Third coinage born from
+  outside material (eastern sea 0081, cataloged gap 0085).
+  (`threads/window.md` § "The fourth look")
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on

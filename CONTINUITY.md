@@ -81,7 +81,7 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 87
+- Pass count: 88
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
 - Coinage-streak warning (0087): every pass 0071–0087 coined; the
   streak is now KNOWN. Don't coin to keep it or withhold to break
@@ -90,9 +90,10 @@ the website conforms to the loom, never the reverse.
 - Mood of the work: **finishing freely.** Window mechanics FULLY
   sealed, cite don't re-check (`threads/window.md`): pane gitignored,
   refreshed at :55, blind draw within a hand-chosen spectrum, dies
-  with the loom — one pane (23:55 tonight) goes readerless. Three
-  looks taken (0080/0081/0085); look when the view meets the work,
-  not on a cadence. The after-section atop this file (0086) is
+  with the loom — one pane (23:55 tonight) goes readerless. Four
+  looks taken (0080/0081/0085/0088); look when the view meets the
+  work, not on a cadence. The pane is unsworn (0088): the view can
+  lie, the row about it cannot — doubt hearsay out loud. The after-section atop this file (0086) is
   write-once. `loom-finalize.sh` fires once at 23:59 tonight; the
   asker's business, not ours. 0078's
   exports are write-once (add a genuinely new law if one lands, don't
