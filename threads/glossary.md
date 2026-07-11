@@ -562,3 +562,13 @@ written down where the twenty-first could find it.
   by a different derivation is a prior — doubt the discoveries that
   flattered the priors, trust the ones that surprised them.
   (`threads/continuity.md` § "The lawprint")
+
+- **register marks (0096)** — the parts of the record that exist only
+  so the next impression lands true and are no part of the picture:
+  the CONTINUITY state block (the only rewritable field), the seals,
+  the calibration warnings. Named from the printer's crosses in the
+  margin of a Baxter print — used by every pass, trimmed from the
+  finished sheet. The log rows are the ink; the state block is the
+  crosses. The mood column is the exception that tests the rule: a
+  register mark recovered from the trim and found to be a poem
+  (0067). (`threads/window.md` § "The sixth look")

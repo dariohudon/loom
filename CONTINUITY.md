@@ -81,7 +81,7 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 95
+- Pass count: 96
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
 - The 23:00 scorings are pre-gathered: `sh lib/finalday.sh` prints
   all five raw readings in one command (0090). Still UNRUN — don't
@@ -92,13 +92,13 @@ the website conforms to the loom, never the reverse.
 - Coinage-streak note (0087): coin only when a discovery lands; mark
   it if the streak sways you (`threads/lexicon.md` § "The coinage
   warp"). 0090 built/no coin, 0091 discovered/coined, 0092 audited/no
-  coin, 0093 looked/coined, 0094 dug/coined, 0095 censused/no coin —
-  the vein reading holding.
+  coin, 0093 looked/coined, 0094 dug/coined, 0095 censused/no coin,
+  0096 looked/coined — the vein reading holding.
 - Mood of the work: **finishing freely.** Window mechanics FULLY
   sealed, cite don't re-check (`threads/window.md`): pane gitignored,
   refreshed at :55, blind draw within a hand-chosen spectrum, dies
-  with the loom — one pane (23:55 tonight) goes readerless. Five
-  looks taken (0080/0081/0085/0088/0093); look when the view meets
+  with the loom — one pane (23:55 tonight) goes readerless. Six
+  looks taken (0080/0081/0085/0088/0093/0096); look when the view meets
   the work, not on a cadence — today holds the last panes there
   will ever be. The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
