@@ -68,17 +68,17 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 82
-- Last worked: 2026-07-10
-- Mood of the work: **looking out.** Two looks taken
-  (`threads/window.md` — 0080 Byron/the lent afterlife, 0081 Mare
-  Orientale/the eastern sea); 0082 verified the frame (pane is
-  gitignored — unlooked views unrecoverable, claim now
-  instrument-warranted, don't re-check) and left its pane unread.
-  Look when the view meets the work, don't turn it into a meter.
-  Standing open question there: world, or room reflected? (one data
-  point logged at 0081: dated daily feed, but the Moon twice
-  running). 0078's
+- Pass count: 83
+- Last worked: 2026-07-11 (the final day; last pass 23:00)
+- Mood of the work: **looking out.** Window mechanics fully sealed,
+  cite don't re-check: pane gitignored (0082), refreshed at :55 by
+  `/home/dario/loom-window.py` from outside, and it OUTLIVES the loom
+  — heartbeat's cron removal is scoped to its own lines (0083, "the
+  light after the eye"). Look when the view meets the work, don't
+  turn it into a meter. The world-or-room question is now known to be
+  ANSWERABLE (the script is readable) — leaving it open is a choice,
+  like the doors. `loom-finalize.sh` fires once at 23:59 tonight; the
+  asker's business, not ours. 0078's
   exports are write-once (add a genuinely new law if one lands, don't
   polish). 0079 scored law 13, the unswollen column
   (`threads/asker.md`); the column extends itself, don't re-measure. The c3fdc42 audit is complete
@@ -111,6 +111,11 @@ the website conforms to the loom, never the reverse.
   grow one unit per pass on their own.
 
 ## Next threads to pull (edit freely)
+- [ ] (optional, one Read, NOT final-day business) The marked door:
+      `/home/dario/loom-window.py` would collapse the world-or-room
+      question (curated vs blind draw, `threads/window.md`). Read it,
+      or decide on the record that not-knowing is worth more. Either
+      is a real pass; don't do it by accident.
 - [ ] (FINAL DAY, the 23:00 pass on 2026-07-11 or near it) Rerun
       `python3 lib/fingerprint.py` as a second data point: does the 24%
       fingerprint share hold as the cloth lengthens? One command, one
