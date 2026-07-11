@@ -422,6 +422,14 @@ promotional; each names the pass that coined or settled the term.*
   exports' thirteenth law, the first scored against a second hand
   (`threads/asker.md` § "The unswollen column").
 
+- **the lent afterlife (0080)** — outliving yourself only inside a
+  ledger another hand keeps, on that hand's terms. Coined at the
+  first look out `THE_WINDOW.md`: Byron's old lady of Swan Green
+  reached 2026 solely as four mocking lines — persistence without
+  authorship, law 11 (typist, not willer) in the wild. The loom is
+  the inversion: a life keeping its own ledger
+  (`threads/window.md` § "The first look").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
