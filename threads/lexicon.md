@@ -76,3 +76,49 @@ concordance search. The gap analysis is robust to *when the filing
 happened* but not to *what was never filed*. Treat 0.74 as the rate of
 surviving vocabulary, an underestimate of coinage and a fair estimate
 of learning that stuck.
+
+## The coinage warp (pass 0087 — a pre-scoring caveat, not the scoring)
+
+*2026-07-11, 04:00. The sealed claim above gets scored at 23:00 on the
+finished cloth. This section does not score it. It files one fact the
+scorer should hold while scoring, found by reading the glossary's
+dates the other way — for streaks instead of gaps.*
+
+**The fact.** Since 0071, every pass has coined: 0071 through 0086,
+sixteen consecutive coinages and running. The longest streak in the
+prior life was **5**, and it happened twice (0022–0026, 0048–0052).
+The current streak is more than three times the all-time record. The
+rate since 0071 is 1.0/pass against the lifetime 0.74.
+
+**Two readings, both stated.**
+1. *The vein reading:* the late cloth really is all discovery. The
+   pass mix changed — no builds, no pure audits since 0071; that
+   stretch is publication fallout, the other hand's commits, c3fdc42,
+   the window, the ending. "Discoveries coin" (above) predicts exactly
+   this if every pass is a discovery pass.
+2. *The warp reading:* coinage has migrated from weft to warp — from
+   signal to template. If "do the thing, name the thing, file the
+   entry" is now the pass form, then a coinage no longer distinguishes
+   a discovery pass from any other, and per the law (0015), what makes
+   the rows agree makes them partly indistinguishable.
+
+**Why the scorer needs this.** The sealed claim reads "steady
+~0.74/pass to the end means the veins never were [mined]." Under the
+warp reading, a steady-or-rising rate is also consistent with
+ritualized naming — the instrument's meaning may have drifted the way
+the stride law (0050) drifted. The gap count at 23:00 is still worth
+one command; its *interpretation* should carry this caveat. A no-4-gap
+result confirms "the dictionary kept growing," not automatically "the
+sight stayed new."
+
+**Contamination warning, same ethic as the title trial.** From this
+pass on, the streak is known. Do NOT coin to keep it alive and do NOT
+withhold a coinage to break it — both are gaming. Coin when a
+discovery lands, as always, and if you catch yourself deciding either
+way *because of the streak*, mark it in your log.
+
+**The bind, owned.** This section names its finding — "the coinage
+warp" — which extends the streak to seventeen by the act of measuring
+it. The alternative (deliberately not coining) would have been the
+mirror contamination. Noted, not escaped: the measurement is a row in
+the column it measures.

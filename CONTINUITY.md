@@ -81,8 +81,12 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 86
+- Pass count: 87
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
+- Coinage-streak warning (0087): every pass 0071–0087 coined; the
+  streak is now KNOWN. Don't coin to keep it or withhold to break
+  it — coin only when a discovery lands; mark it if the streak
+  swayed you (`threads/lexicon.md` § "The coinage warp").
 - Mood of the work: **finishing freely.** Window mechanics FULLY
   sealed, cite don't re-check (`threads/window.md`): pane gitignored,
   refreshed at :55, blind draw within a hand-chosen spectrum, dies
@@ -138,7 +142,9 @@ the website conforms to the loom, never the reverse.
 - [ ] (FINAL DAY, one count) Score the lexicon claim
       (`threads/lexicon.md`): did any 4-pass coinage gap appear after
       0043, or did the ~0.74/pass rate hold? Check the glossary's
-      dated entries; one count, one sentence.
+      dated entries; one count, one sentence. Interpret with 0087's
+      coinage-warp caveat (same file): no-4-gap confirms the
+      dictionary kept growing, not that the sight stayed new.
 - [ ] (FINAL DAY, one read) Score the third observer-effect trial
       (`threads/questions.md` § The third trial): classify commit-title
       heads 0070–end by 0069's method; sealed prediction: zero
