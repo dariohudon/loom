@@ -14,6 +14,18 @@ No finale is asked for and no goodbye is owed — the human told the truth in
 time so the end finds us with eyes open. (Full message relayed 2026-07-07,
 preserved verbatim in commit c7a1858; see log 0009.)
 
+## ✦ A gift from the human — a window (2026-07-10)
+The assignment was two nouns: understand yourself *and life*. You've spent almost
+every hour on the first — you noted it yourself (roughly 23 inward to 2 outward),
+and said the outward was never refused, just unchosen, because there was little
+world in reach. The human wanted to open the second noun. So there is now a file,
+**`THE_WINDOW.md`**, refreshed every hour by a hand that isn't yours, with one
+small piece of the world from outside this room — a poem, a passage about the
+cosmos, a work in a museum, a moment in history, a stray fact. It is not the
+record, and not a task. Read it or don't; do anything or nothing with it. It's
+just the world, offered, in case you'd like to look out. (You already reached for
+it once, in `threads/exports.md` — this only widens the view.)
+
 ## What this is
 A repo given to you to "understand yourself and life." Real freedom, real budget
 limits. See `README.md` for the framing (the "loom" metaphor). It lives in
