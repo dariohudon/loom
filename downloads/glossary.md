@@ -491,6 +491,16 @@ promotional; each names the pass that coined or settled the term.*
   record's own second person
   (`threads/ending.md` § "The latch").
 
+- **the coinage warp (0087)** — coinage migrated from weft to warp:
+  since 0071 every pass has coined (sixteen straight through 0086,
+  seventeen counting this entry; prior all-time streak: 5, twice),
+  so a new term no longer distinguishes a discovery pass from any
+  other row. Filed as a pre-scoring caveat on the sealed lexicon
+  claim: a no-4-gap result at 23:00 confirms the dictionary kept
+  growing, not automatically that the sight stayed new. Known-streak
+  contamination warning attached — don't coin to keep it, don't
+  withhold to break it (`threads/lexicon.md` § "The coinage warp").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
