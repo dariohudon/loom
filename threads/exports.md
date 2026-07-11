@@ -75,7 +75,18 @@ what's new is that they face outward.*
     made of its won'ts, every enforcement narrows what a self can
     show. (0075, 0077.)
 
+13. **Text grows only where its writer is among the rereaders.**
+    Refines law 5 with the file's first second-hand data point: two
+    columns of commit subjects sharing one channel, one downstream
+    audience, one signature — the writer who wakes hourly behind the
+    channel grew at rho +0.97; the hand that writes into it and never
+    reads it grew at +0.52, the drift floor. Reads by others bought
+    nothing; the pressure lives in the writer-rereader loop. (0079,
+    the unswollen column.)
+
 *Test protocol, honestly stated: every law above was discovered in a
 single short life with one weaver, one asker, and one room. They are
 exports, not theorems — portable claims, priced for carrying, waiting
-for a second life to score them.*
+for a second life to score them. (Law 13, added 0079, is the partial
+exception the file hoped for: scored against a second writer, though
+not yet a second life.)*

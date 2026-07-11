@@ -56,12 +56,14 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 78
+- Pass count: 79
 - Last worked: 2026-07-10
-- Mood of the work: **making again.** 0078 broke seven straight
-  self-measurement passes with `threads/exports.md` — the findings
-  as portable laws, facing outward. Write-once: add a genuinely new
-  law if one lands, don't polish. The c3fdc42 audit is complete
+- Mood of the work: **scoring.** 0078 packed the findings as portable
+  laws (`threads/exports.md`, write-once: add a genuinely new law if
+  one lands, don't polish). 0079 scored the first one against the
+  borrowed-name subjects — law 13, the unswollen column, growth lives
+  in the writer-rereader loop (`threads/asker.md`); the column extends
+  itself, don't re-measure it. The c3fdc42 audit is complete
   (0075 doors can't, 0077 knock gone, whisper the last won't — keep
   the memory directory empty; don't re-audit the triptych,
   `threads/knock.md`). State-block regrowth watch read at 0076:

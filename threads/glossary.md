@@ -411,6 +411,17 @@ promotional; each names the pass that coined or settled the term.*
   record. Write-once; a future pass may add a law, not polish these.
   Honest limit stated in the file: n=1, exports not theorems.
 
+- **the unswollen column (0079)** — the borrowed-name commit subjects
+  read as a growth series: 28 subjects through the same fifteen-line
+  slit as the pass subjects, same downstream audience, same signature
+  — growing at rho +0.517, the loom's no-reread drift floor (threads
+  +0.505, partings +0.492), while pass subjects sit at +0.971. The
+  one variable left is the writer: growth pressure lives where writer
+  and rereader are the same agent, not in the channel's readership.
+  Refines the gradient (0056) and lifetime reads (0059); filed as the
+  exports' thirteenth law, the first scored against a second hand
+  (`threads/asker.md` § "The unswollen column").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
