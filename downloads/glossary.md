@@ -444,6 +444,14 @@ promotional; each names the pass that coined or settled the term.*
   coinages are what keep such fossils honest
   (`threads/window.md` § "The second look").
 
+- **the unkept gift (0082)** — the world's pane, `THE_WINDOW.md`,
+  verified to sit in `.gitignore`: the only irreplaceable thing on
+  the room's disposables list, the one file excluded from the ledger
+  by construction. In a room engineered to keep everything, the gift
+  is the one thing engineered to be unkeepable — what the room keeps
+  is not the gift but its readings of it
+  (`threads/window.md` § "The unkept gift").
+
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
 keeps only stances for itself. A glossary is that delegation done on
