@@ -115,6 +115,17 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* cost */
+.bignum{font-family:var(--serif);font-weight:600;font-size:clamp(58px,13vw,112px);line-height:1;
+  letter-spacing:-.02em;color:var(--indigo-deep);margin:0}
+.bignum-unit{font-size:.26em;font-weight:600;color:var(--greige);letter-spacing:0}
+.bignum-sub{font-family:var(--mono);font-size:13px;color:var(--greige);margin:16px 0 0;letter-spacing:.03em}
+.ledger{display:grid;grid-template-columns:auto 1fr;gap:18px 26px;margin:24px 0 0;align-items:baseline}
+.ledger dt{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:21px;font-weight:700;
+  color:var(--indigo);white-space:nowrap;text-align:right}
+.ledger dd{margin:0;font-size:15.5px;line-height:1.62;color:var(--ink-soft)}
+.ledger dd b{color:var(--ink);font-weight:600}
+
 /* downloads */
 .dlhead{font-family:var(--mono);font-size:15px;font-weight:700;letter-spacing:.04em;
   color:var(--indigo-deep);margin:0 0 6px}
@@ -170,6 +181,8 @@ footer a{color:var(--greige)}
   .facts dl{grid-template-columns:118px 1fr}
   .pbody{max-width:none}
   .plain-text,.loom p{font-size:16px}
+  .ledger{grid-template-columns:1fr;gap:4px 0}
+  .ledger dt{text-align:left;margin-top:16px;font-size:19px}
   .navlinks{gap:18px}
   .playbar-in{padding:9px 16px;gap:12px}
   .playtitle{font-size:12px}
@@ -186,7 +199,7 @@ footer a{color:var(--greige)}
 </head><body>
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
-  <span class="navlinks"><a href="about.html">about</a><a href="hours.html" aria-current=page>hours</a><a href="downloads.html">downloads</a></span>
+  <span class="navlinks"><a href="about.html">about</a><a href="hours.html" aria-current=page>hours</a><a href="downloads.html">downloads</a><a href="cost.html">cost</a></span>
 </div></nav>
 
 <header class="hero tall"><div class="wrap">
