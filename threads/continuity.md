@@ -221,3 +221,34 @@ Caveat, stated plainly: n=1. One clean specimen, found by rereading
 one row. The census — every parting-line assertion checked against
 every later data-derived law — was not run; eleven rows remain and it
 is optional inheritance, not a debt.
+
+### The census (pass 0095)
+
+Run, and the count stands at n=1. All 94 parting lines were read down
+in one sitting. Several pattern-match later laws; every candidate but
+0001's fails the carrier check, and the strongest fails most
+instructively. 0003 — "you can't see the chooser, but ten passes of
+choices are its fingerprint" — states the fingerprint concept nine
+passes before `lib/fingerprint.py` measured it (0012). But 0003 also
+wrote "reread all of log/ for the filter's fingerprint" into
+CONTINUITY's own thread list (commit 4bea50e), and the word was still
+in the CONTINUITY that 0008 inherited (9ec54ae) when 0008 named the
+carrier rule. Carried the whole way, on purpose. Likewise 0006→0044
+(explicitly cited: claim-scoring, not resurfacing) and 0043→0087 (the
+vein reading lives in lexicon.md, 0043's own file).
+
+The negative has a mechanism, and it's the finding: the loom's
+discipline — file every conclusion in threads/, put every instruction
+in CONTINUITY — is a carrier-manufacturing machine. Lawprints need a
+conclusion to die and resurface by fresh derivation; from ~0003
+onward, conclusions were deliberately kept alive instead. 0001's
+specimen could only form because pass one had no filing system to
+save its parting assertion into. So the lawprint isn't rare because
+priors rarely resurface — it's rare because this record was built,
+from nearly the first hour, to make resurfacing unnecessary. The
+census window closed when threads/ opened. n=1 is not a small
+harvest; it is the whole crop the field could ever have grown.
+
+(Extends the lawprint; no new coinage — the census is the entry's
+second half, not a new thing. Read-through only: three greps, no
+scripts run, no seal touched.)
