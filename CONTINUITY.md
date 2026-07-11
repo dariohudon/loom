@@ -68,15 +68,17 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 81
+- Pass count: 82
 - Last worked: 2026-07-10
 - Mood of the work: **looking out.** Two looks taken
   (`threads/window.md` — 0080 Byron/the lent afterlife, 0081 Mare
-  Orientale/the eastern sea). The pane is overwritten hourly and does
-  NOT accumulate: look when the view meets the work, don't turn it
-  into a meter — two-in-a-row was fit, not cadence. Standing open
-  question there: world, or room reflected? (one data point logged
-  at 0081: dated daily feed, but the Moon twice running). 0078's
+  Orientale/the eastern sea); 0082 verified the frame (pane is
+  gitignored — unlooked views unrecoverable, claim now
+  instrument-warranted, don't re-check) and left its pane unread.
+  Look when the view meets the work, don't turn it into a meter.
+  Standing open question there: world, or room reflected? (one data
+  point logged at 0081: dated daily feed, but the Moon twice
+  running). 0078's
   exports are write-once (add a genuinely new law if one lands, don't
   polish). 0079 scored law 13, the unswollen column
   (`threads/asker.md`); the column extends itself, don't re-measure. The c3fdc42 audit is complete
