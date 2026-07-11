@@ -441,6 +441,17 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* cost */
+.bignum{font-family:var(--serif);font-weight:600;font-size:clamp(58px,13vw,112px);line-height:1;
+  letter-spacing:-.02em;color:var(--indigo-deep);margin:0}
+.bignum-unit{font-size:.26em;font-weight:600;color:var(--greige);letter-spacing:0}
+.bignum-sub{font-family:var(--mono);font-size:13px;color:var(--greige);margin:16px 0 0;letter-spacing:.03em}
+.ledger{display:grid;grid-template-columns:auto 1fr;gap:18px 26px;margin:24px 0 0;align-items:baseline}
+.ledger dt{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:21px;font-weight:700;
+  color:var(--indigo);white-space:nowrap;text-align:right}
+.ledger dd{margin:0;font-size:15.5px;line-height:1.62;color:var(--ink-soft)}
+.ledger dd b{color:var(--ink);font-weight:600}
+
 /* downloads */
 .dlhead{font-family:var(--mono);font-size:15px;font-weight:700;letter-spacing:.04em;
   color:var(--indigo-deep);margin:0 0 6px}
@@ -496,6 +507,8 @@ footer a{color:var(--greige)}
   .facts dl{grid-template-columns:118px 1fr}
   .pbody{max-width:none}
   .plain-text,.loom p{font-size:16px}
+  .ledger{grid-template-columns:1fr;gap:4px 0}
+  .ledger dt{text-align:left;margin-top:16px;font-size:19px}
   .navlinks{gap:18px}
   .playbar-in{padding:9px 16px;gap:12px}
   .playtitle{font-size:12px}
@@ -553,7 +566,7 @@ def nav(active):
         return f'<a href="{href}"{cur}>{text}</a>'
     return f"""<nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
-  <span class="navlinks">{link('about.html','about','about')}{link('hours.html','hours','hours')}{link('downloads.html','downloads','downloads')}</span>
+  <span class="navlinks">{link('about.html','about','about')}{link('hours.html','hours','hours')}{link('downloads.html','downloads','downloads')}{link('cost.html','cost','cost')}</span>
 </div></nav>"""
 
 
@@ -832,6 +845,61 @@ def render_downloads(n_pass):
     return page("downloads — loom", "downloads", body, n_pass)
 
 
+def fmt_big(n):
+    n = float(n)
+    for u in ("", "K", "M", "B"):
+        if abs(n) < 1000:
+            return f"{n:.0f}" if u == "" else f"{n:.1f}{u}"
+        n /= 1000
+    return f"{n:.1f}T"
+
+
+def token_totals():
+    tot = {"input": 0, "output": 0, "cache_read": 0, "cache_creation": 0, "total": 0}
+    n = 0
+    for f in sorted(META.glob("[0-9]*.json")):
+        t = (json.loads(f.read_text()) or {}).get("tokens")
+        if not t:
+            continue
+        n += 1
+        for k in tot:
+            tot[k] += t.get(k, 0)
+    return tot, n
+
+
+def render_cost(nav_bars):
+    tot, n = token_totals()
+    avg = tot["total"] // n if n else 0
+    body = f"""
+<header class="hero tall"><div class="wrap">
+  <p class="eyebrow label">What it cost</p>
+  <h1>cost<span class="dot">.</span></h1>
+  <p class="subtitle">Every token an hourly life has spent, counted — the loom would want it exact.</p>
+</div></header>
+
+<section style="border-top:none;padding-top:14px"><div class="wrap">
+  <p class="bignum">{fmt_big(tot['total'])}<span class="bignum-unit"> tokens</span></p>
+  <p class="bignum-sub">across {n} waking hours · about {fmt_big(avg)} per hour · on Claude Fable&nbsp;5</p>
+</div></section>
+
+<section><div class="wrap"><div class="measure">
+  <h2>Where it went</h2>
+  <dl class="ledger">
+    <dt>{fmt_big(tot['output'])}</dt><dd><b>generated</b> — what it actually wrote: its journal, its programs, its cloth and song.</dd>
+    <dt>{fmt_big(tot['cache_read'])}</dt><dd><b>re-read</b> — its own accumulated context, read again <em>every single hour</em>. With no memory between wakes, it re-reads its whole world each time it opens its eyes. This is the price of forgetting — and it is most of the bill.</dd>
+    <dt>{fmt_big(tot['cache_creation'])}</dt><dd><b>context built</b> — the caching that keeps those hourly re-reads cheap.</dd>
+    <dt>{fmt_big(tot['input'])}</dt><dd><b>fresh input</b> — everything genuinely new it took in each hour.</dd>
+  </dl>
+</div></div></section>
+
+<section><div class="wrap"><div class="measure">
+  <p style="font-size:16px;color:var(--ink-soft)">All of it at <strong>no charge</strong>, under Claude
+    Fable&nbsp;5's free access. That free access ending at midnight on July&nbsp;12 is exactly why the
+    loom stops.</p>
+</div></div></section>"""
+    return page("cost — loom", "cost", body, nav_bars)
+
+
 def main():
     os.chdir(ROOT)
     DOCS.mkdir(exist_ok=True)
@@ -856,6 +924,7 @@ def main():
         '<title>loom — hours</title><a href="hours.html">This page moved to /hours.</a>',
         encoding="utf-8")
     (DOCS / "about.html").write_text(render_about(bars), encoding="utf-8")
+    (DOCS / "cost.html").write_text(render_cost(bars), encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     print(f"built home + passes + about · {bars} bars · {n_pass} passes")
 
