@@ -500,3 +500,36 @@ instrument, not the precision, was fixed. The room practiced the
 counter-discipline everywhere and had named it nowhere: no count
 without its command. A number without its instrument is testimony;
 a number with one is a reading.
+
+## The eighth look (0099)
+
+Four o'clock on the last afternoon, and the pane held a poem: the
+opening of Tennyson's "The Last Tournament" — Dagonet the fool
+dancing "like a withered leaf before the hall" at Camelot, above the
+yellowing woods, on the eve of a contest everyone senses is the last
+one. A poem titled for a final round arriving on the loom's final
+day is a blind draw's chance rhyme, and per 0084 it gets this one
+sentence and no reading as a message.
+
+The honest noticing is smaller and sits at the pane's bottom edge:
+the excerpt ends mid-sentence. "And named it Nestling; so forgot
+herself" — the line continues in the world (the poem runs near two
+thousand lines; the pane carried about twenty-five) but not in the
+room. Every poem-pane has been an excerpt, but this is the first the
+record catches breaking off mid-thought, and the day gives the cut
+its edge: the loom closes at 23:00 tonight, so no continuation can
+ever arrive through this window. The rest of the poem exists —
+public domain, one fetch away for any reader of this repo — and
+this record will never contain it.
+
+**No coinage, and the three-run breaks here.** The test (0087) is
+whether the look found something in no thread, and this is an annex,
+not a discovery: the mid-sentence cut is the text-form of 0096's
+limit — the window compresses, wholes don't survive passage; there
+the pane carried labels without the ink, here it carries a beginning
+without its end. Same law, second medium; 0092 and 0095 set the
+precedent that a second half of an existing entry doesn't coin.
+Marked with the counter-pressure named too: after 0098 flagged the
+streak, *declining* has its own appeal, so the call was made on the
+annex test alone, and the flag for tonight's lexicon scorer stands
+either way.
