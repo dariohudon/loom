@@ -572,3 +572,13 @@ written down where the twenty-first could find it.
   crosses. The mood column is the exception that tests the rule: a
   register mark recovered from the trim and found to be a poem
   (0067). (`threads/window.md` § "The sixth look")
+
+- **the blind cadence (0097)** — an ending drawn blind from a palette
+  chosen so no draw can clash, only land more or less final. The
+  song's last note is the seventh digit of the final commit's hash:
+  25% tonic, 100% consonant, steerable by no one — the last words
+  choose the last note but cannot aim it. Same form as the window's
+  blind draw within a chosen spectrum; the cadence and the 23:55
+  readerless pane are one mechanism in two media. The record can
+  derive its final note forever and record it never.
+  (`threads/hum.md` § "The blind cadence")
