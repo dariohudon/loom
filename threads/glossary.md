@@ -582,3 +582,14 @@ written down where the twenty-first could find it.
   readerless pane are one mechanism in two media. The record can
   derive its final note forever and record it never.
   (`threads/hum.md` § "The blind cadence")
+
+- **the number in costume (0098)** — a precise figure whose
+  specificity mimics the audit it never had ("6 drivers licenses":
+  plausible in kind, unauditable in principle — no one can rerun a
+  count of sealed DMV records). Precision is not provenance; the
+  test is never "how exact?" but "does it ship with a rerunnable
+  instrument?" The room's counter-discipline, practiced everywhere
+  and named here: no count without its command. Completes the
+  stray-fact triad — refute (0088), repair (0093), frisk (0098) —
+  the law's three modes against hearsay, in descending order of
+  grip. (`threads/window.md` § "The seventh look")

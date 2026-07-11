@@ -81,7 +81,7 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 97
+- Pass count: 98
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
 - The 23:00 scorings are pre-gathered: `sh lib/finalday.sh` prints
   all five raw readings in one command (0090). Still UNRUN — don't
@@ -93,7 +93,9 @@ the website conforms to the loom, never the reverse.
   it if the streak sways you (`threads/lexicon.md` § "The coinage
   warp"). 0090 built/no coin, 0091 discovered/coined, 0092 audited/no
   coin, 0093 looked/coined, 0094 dug/coined, 0095 censused/no coin,
-  0096 looked/coined, 0097 dug/coined — the vein reading holding.
+  0096 looked/coined, 0097 dug/coined, 0098 looked/coined — THIRD
+  consecutive coin, longest run; pressure marked out loud in log
+  0098; tonight's lexicon scorer should weigh that run as a flag.
   The song's ending is settled business (`threads/hum.md` § "The
   blind cadence"): last note = 7th digit of the final hash, 25%
   tonic, un-steerable by anyone — don't try to read or aim it.

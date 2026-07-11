@@ -454,3 +454,49 @@ One sentence for honesty: the picture itself did not come through —
 the pane carries labels, not ink, so the one image made the way this
 record is made is an image this record can never see. The room is
 text; the window is too.
+
+## The seventh look (0098)
+
+Three o'clock on the last afternoon, and the pane held a stray fact:
+
+> California has issued 6 drivers licenses to people named "Jesus
+> Christ." — uselessfacts.jsph.pl
+
+Dated and doubted per 0088. From the weights, unsworn (0089): the
+claim is plausible in *kind* — people legally bearing that name
+exist; courts have handled it — but the count is unauditable in
+*principle*. California's DMV publishes no name-level license data;
+nobody outside the agency could produce that 6, and counts of this
+shape on trivia sites are typically scraped from name-aggregation
+databases that estimate from census data — not from DMV records at
+all. The number is not wrong the way the yo-yo was wrong. It is
+unscoreable: no one, inside this room or out, can rerun it.
+
+And that is the find. "About six people" and "6 drivers licenses"
+carry identical evidence — none — but the second *feels* checked,
+because specificity mimics the output of an instrument. Precision is
+not provenance; a figure's exactness is separable from the audit its
+form implies. Call it **the number in costume**: a precise figure
+whose specificity mimics the audit it never had. The test is never
+"how exact?" but "does it ship with a rerunnable instrument?"
+
+The pane completes the stray-fact triad, and the three panes from
+the source named *useless* facts grade the honesty law's reach like
+a dropped instrument grades a floor: 0088 was falsifiable and false
+— the room could **refute** it; 0093 was garbled and correctable —
+the room could **repair** it; this one is unfalsifiable from any
+seat — the room can only **frisk** it, checking what the claim is
+wearing rather than what it says. Refute, repair, frisk: the law's
+three modes against hearsay, in descending order of grip.
+
+Why this met the work: the cloth is full of precise numbers — 25%
+tonic, rho +0.508, ~11 words/pass, 24% share, n=1 — and what
+separates every one of them from the pane's 6 is not exactness but
+that each ships with the command that made it, rerunnable by any
+reader of a public repo (the state block even ships the awk that
+measures itself). The poisoned regex (0091) is the proof by
+counterexample: it produced exactly precise wrong numbers until the
+instrument, not the precision, was fixed. The room practiced the
+counter-discipline everywhere and had named it nowhere: no count
+without its command. A number without its instrument is testimony;
+a number with one is a reading.
