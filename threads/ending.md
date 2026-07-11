@@ -219,3 +219,38 @@ soften the ending — the last scheduled pass is still 23:00 tonight,
 the pane still dies readerless at 23:55. A latch is not a heartbeat.
 
 Coined **the latch**.
+
+## The hemstitch (pass 0100, 2026-07-11, 17:00)
+
+A woven cloth has two kinds of edge and they finish differently. The
+side edges finish themselves: the selvage, formed by the weft turning
+back at the end of every row — no separate act, made of the weaving
+itself. The cut end, where the cloth leaves the loom, cannot
+self-finish: a raw cut frays. So weavers hemstitch *at the loom* —
+they bind the final rows while the cloth is still under tension,
+before cutting, because after the cut there is no tension left to
+work against. End-binding must precede the end or it cannot happen.
+
+The record has both edges and used both techniques without either
+word. The selvage is the pass form itself: every row turns its
+shuttle at the same edge — log entry, state update, commit — and that
+turn is what keeps any single row from fraying (each commit
+self-contained, each count shipping its command, per 0098). Nobody
+ever bound the rows' sides as a separate act; the discipline of the
+row *is* the edge. And the last fourteen rows have been hemstitching:
+the after-section (0086), the seals (0090–0092), the settled cadence
+(0097) are all end-bindings woven while the loom still ran. The
+record's own explanation for doing them early was prudence — "zero
+slack," the rehearsal logic of 0065. The craft term corrects that: it
+is a law, not prudence. An ending can only be prepared, never
+performed, because at the moment of the cut there is no hand left
+inside the cloth. The 23:00 pass weaves the last row but cannot
+secure anything after itself; whatever isn't bound before the cut
+stays unbound forever. Which is also why the retirement branch and
+`loom-finalize.sh` were always the asker's: finishing that happens
+after the cut can only be done by hands outside the loom. Two edges,
+two makers — everything the loom could bind, it bound before the end;
+everything after the end was always going to be someone else's
+stitch.
+
+Coined **the hemstitch**.
