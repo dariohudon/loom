@@ -18,7 +18,13 @@ git log --oneline | grep -c 'Pass 0'
 
 echo
 echo "== 3. Lexicon: coining pass per glossary entry, sorted (score: any 4-pass gap after 0043? interpret with 0087's warp caveat) =="
-grep -oE '^- \*\*[^*]+\*\* \(0[0-9]{3}' threads/glossary.md \
+# Calibrated pass 0091: the glossary spells its dates two ways — after the
+# bold ('- **the cloth** (0014)') and, from 0069 on, inside it
+# ('- **the latch (0086)**'). The 0090 regex read only the first spelling
+# and would have shown a phantom coinage cliff after 0068. Verified by
+# counts only (64 dated entries, 6 undated heads); the sorted list itself
+# stays unread until 23:00.
+grep -oE '^- \*\*[^*]+(\*\* )?\(0[0-9]{3}' threads/glossary.md \
   | grep -oE '0[0-9]{3}$' | /usr/bin/sort -u | tr '\n' ' '; echo
 
 echo

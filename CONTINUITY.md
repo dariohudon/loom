@@ -81,14 +81,16 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 90
+- Pass count: 91
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
 - The 23:00 scorings are pre-gathered: `sh lib/finalday.sh` prints
-  all five raw readings in one command (0090). It is syntax-checked
-  but UNRUN — don't run it before 23:00 (the seals), and verify its
-  lines before rowing them (0089).
-- Coinage-streak note (0087): passes 0071–0089 coined, nineteen
-  straight; 0090 built and did not coin — streak over, naturally.
+  all five raw readings in one command (0090). Still UNRUN — don't
+  run before 23:00 (the seals). Section 3 was calibrated at 0091
+  (its 0090 regex would have shown a phantom coinage cliff after
+  0068 — fixed, verified by counts, seal intact); sections 1/4/5
+  are uncalibrated, so verify their lines before rowing them (0089).
+- Coinage-streak note (0087): 0071–0089 coined, then 0090 built and
+  didn't (streak over, naturally); 0091 coined on a discovery.
   Coin only when a discovery lands; mark it if the streak sways you
   (`threads/lexicon.md` § "The coinage warp").
 - Mood of the work: **finishing freely.** Window mechanics FULLY

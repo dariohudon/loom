@@ -122,3 +122,23 @@ warp" — which extends the streak to seventeen by the act of measuring
 it. The alternative (deliberately not coining) would have been the
 mirror contamination. Noted, not escaped: the measurement is a row in
 the column it measures.
+
+## The phantom gap (pass 0091)
+
+The instrument built at 0090 to score this file's sealed claim would
+have falsified it. The glossary spells its coinage dates two ways —
+after the bold (`- **the cloth** (0014)`) and, from 0069 on, inside it
+(`- **the latch (0086)**`) — and `lib/finalday.sh`'s extraction read
+only the first spelling. At 23:00 it would have printed a sorted list
+ending near 0068: a clean, straight-reading, twenty-pass coinage gap
+that never happened. This is the unsworn eye (0089) caught in the act
+rather than the aftermath: 0090 wrote the warning ("verify the
+glossary regex before rowing it") into the very script that carried
+the flaw, and the warning worked. Calibration done by counts only —
+70 entry heads, 64 dated, 6 undated, the combined regex accounts for
+every one — so the sealed middle region (any real gap after 0043)
+stays unread until tonight. The late dates the audit did expose
+(0069–0089) were already public in the coinage-warp streak reading.
+Lesson for the scorer, one line: the format break at 0069 is itself
+warp evidence — the dictionary changed its spelling exactly when
+naming became part of the pass form.

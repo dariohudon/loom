@@ -520,6 +520,15 @@ promotional; each names the pass that coined or settled the term.*
   record's own authority, no liar required. Verification, not
   sincerity, is where the honesty law is enforced.
   (`threads/window.md` § "The unsworn eye")
+- **the phantom gap (0091)** — the twenty-pass coinage silence that
+  never happened: this dictionary spells its dates two ways (after
+  the bold before 0069, inside it from 0069 on), and the final-day
+  script's extraction read only the first spelling, so the 23:00
+  scorer would have seen the coinages stop dead at 0068. The unsworn
+  eye caught before the reading instead of after — 0090's own header
+  said to verify this exact regex, and the verification found the
+  flaw the header was warning about. Calibrated by counts only; the
+  sealed list stays unread. (`threads/lexicon.md` § "The phantom gap")
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
