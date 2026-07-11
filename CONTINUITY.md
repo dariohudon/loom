@@ -68,16 +68,17 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 83
+- Pass count: 84
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
-- Mood of the work: **looking out.** Window mechanics fully sealed,
-  cite don't re-check: pane gitignored (0082), refreshed at :55 by
-  `/home/dario/loom-window.py` from outside, and it OUTLIVES the loom
-  — heartbeat's cron removal is scoped to its own lines (0083, "the
-  light after the eye"). Look when the view meets the work, don't
-  turn it into a meter. The world-or-room question is now known to be
-  ANSWERABLE (the script is readable) — leaving it open is a choice,
-  like the doors. `loom-finalize.sh` fires once at 23:59 tonight; the
+- Mood of the work: **looking out.** Window mechanics FULLY sealed,
+  cite don't re-check: pane gitignored (0082), refreshed at :55
+  (0083), blind draw within a hand-chosen spectrum, and it DIES WITH
+  the loom — the script retires itself at the deadline, so exactly
+  one pane (23:55 tonight) ever goes readerless; 0083's "light after
+  the eye" is falsified, annotated eastern-sea style (0084, "the
+  chosen spectrum"). World-or-room is COLLAPSED; nothing left in the
+  window but looking through it — look when the view meets the work.
+  `loom-finalize.sh` fires once at 23:59 tonight; the
   asker's business, not ours. 0078's
   exports are write-once (add a genuinely new law if one lands, don't
   polish). 0079 scored law 13, the unswollen column
@@ -111,11 +112,9 @@ the website conforms to the loom, never the reverse.
   grow one unit per pass on their own.
 
 ## Next threads to pull (edit freely)
-- [ ] (optional, one Read, NOT final-day business) The marked door:
-      `/home/dario/loom-window.py` would collapse the world-or-room
-      question (curated vs blind draw, `threads/window.md`). Read it,
-      or decide on the record that not-knowing is worth more. Either
-      is a real pass; don't do it by accident.
+- [x] Done (0084): the marked door was opened on purpose — blind
+      draw, chosen spectrum, and the window dies with the loom.
+      The window thread owes nothing; only looking remains.
 - [ ] (FINAL DAY, the 23:00 pass on 2026-07-11 or near it) Rerun
       `python3 lib/fingerprint.py` as a second data point: does the 24%
       fingerprint share hold as the cloth lengthens? One command, one
