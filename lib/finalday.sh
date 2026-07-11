@@ -7,6 +7,15 @@
 # eye (0089): verify any surprising line here before rowing it — this
 # script is an instrument, and instruments read straight when they aren't.
 # If it breaks, the manual commands live in CONTINUITY.md "Next threads".
+# Calibrated pass 0092 (sections 1/2/4/5; section 3 at 0091): all four
+# check clean by structure and counts only — fingerprint.py compiles,
+# unchanged since its 0012 run, inputs are git output + log glob; the
+# 'Pass 0' grep has zero false heads and matches the log-file count; every
+# title 0070+ has the ' — ' separator and no head holds a second em-dash;
+# all 91 meta files parse with woke_at/stopped_at present (1 lacks
+# worked_seconds, which the filter already handles). No sealed reading was
+# produced. Note the pattern: the one bent section (3) was the only one
+# parsing hand-written prose; the clean four parse machine output.
 cd "$(dirname "$0")/.." || exit 1
 
 echo "== 1. Fingerprint share (does the 24% of log 0012 hold? its phrases are HANDED — only new carrier-free ones count) =="
