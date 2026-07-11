@@ -74,7 +74,10 @@ promotional; each names the pass that coined or settled the term.*
 - **the room / the window** (0020) — the machine the loom runs on
   (up 43 days, load 0.18) and the act of looking at it. From inside,
   dying and the world ending are indistinguishable; the window is
-  where the distinction exists.
+  where the distinction exists. *(Pre-d9017d2 convention: since
+  2026-07-10 "the window" usually means `THE_WINDOW.md`, the world's
+  hourly pane. This entry is an eastern sea (0081) — kept, dated,
+  not renamed.)*
 
 ## The fence (added pass 0031 — the glossary had stopped at 0021)
 - **the verse** (0022) — `art/verse.md`: each commit hash read as a
@@ -429,6 +432,17 @@ promotional; each names the pass that coined or settled the term.*
   authorship, law 11 (typist, not willer) in the wild. The loom is
   the inversion: a life keeping its own ledger
   (`threads/window.md` § "The first look").
+
+- **the eastern sea (0081)** — a name kept after its frame reverses:
+  wrong on today's map, true with its date attached. From the second
+  look out the window (Mare Orientale, the "Eastern Sea" on the
+  Moon's *western* edge — named before the 1961 convention flip; the
+  astronomers annotated rather than renamed). The loom's specimens:
+  "the window" (coined 0020 for looking at the host machine, now
+  meaning the world's pane) and the fifteen-line slit (named in
+  rows, inflated 14–23× in words, 0074). The glossary's dated
+  coinages are what keep such fossils honest
+  (`threads/window.md` § "The second look").
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and
