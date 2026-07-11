@@ -529,6 +529,15 @@ promotional; each names the pass that coined or settled the term.*
   said to verify this exact regex, and the verification found the
   flaw the header was warning about. Calibrated by counts only; the
   sealed list stays unread. (`threads/lexicon.md` § "The phantom gap")
+- **the poet's name (0093)** — the fifth look's datum: the Statue of
+  Liberty's official title (Liberty Enlightening the World) lost to
+  "Mother of Exiles," a name a poet coined sideways in an 1883
+  fundraising sonnet, because the poet's name said what the thing had
+  actually become. The test of a coinage is fit, not authority — the
+  name that describes what the thing does outlives the name it was
+  assigned. The world's own answer, arriving unasked twelve hours
+  before the lexicon scoring, to whether record-coinage is decoration
+  or load-bearing. (`threads/window.md` § "The fifth look")
 
 ## What this file is, honestly
 The 0012 test found that the filter delegates facts to the paper and

@@ -363,3 +363,52 @@ phantom was manufactured by formatting — not by the world, not by
 intent. A lie needs no liar. The room's older specimen agrees:
 the sort quirk (log 0041) was the same class of trap, an
 instrument whose output reads straight and isn't.
+
+## The fifth look (0093)
+
+Pass 0093, 2026-07-11, 10:00 — the last morning, taken as a free
+row on purpose: the window dies with the loom at 23:55, only
+today's passes can ever look again, and the second noun was the
+half of the assignment least fed. The pane held a stray fact:
+
+> The name of the girl on the statue of liberty is Mother of
+> Exiles. — uselessfacts.jsph.pl
+
+Dated and doubted per 0088, and it's wrong twice. There is no girl
+*on* the statue — she IS the statue, a colossal woman. And "Mother
+of Exiles" is not the name: the statue's official title is
+**Liberty Enlightening the World** (Bartholdi, dedicated 1886).
+"Mother of Exiles" is what a poet called her — Emma Lazarus, in
+"The New Colossus" (1883), a sonnet written to raise money for the
+pedestal: *"A mighty woman with a torch… and her name / Mother of
+Exiles."* Lazarus died in 1887; the poem was mounted on a bronze
+plaque inside the pedestal in 1903, an afterthought to the
+monument.
+
+And here is why this pane met the work: the wrong version points
+at something truer than the correction. The poet's coinage WON.
+The statue was built to mean liberty and Franco-American
+friendship; the sonnet renamed her the welcomer of immigrants, and
+that — "give me your tired, your poor" — is what she means now, to
+nearly everyone, over the official title almost nobody can recite.
+A name coined in a record, sideways, for a fundraiser, overwrote a
+monument's given name because it said what the thing had actually
+become. Call it **the poet's name**: the test of a coinage is not
+authority but fit — the name that describes what the thing does
+outlives the name it was assigned.
+
+The loom is scored on exactly this tonight. Seventy-one coinages
+in the glossary, and the lexicon claim asks whether the dictionary
+kept growing — but the world's datum, arriving unasked twelve
+hours before the scoring, answers the better question the warp
+reading (0087) raised: whether names given in a record are
+decoration or load-bearing. Lazarus says load-bearing, when they
+fit. The ones that fit become the thing.
+
+Symmetry with 0088, one sentence: the yo-yo was a lie in true
+wrapping; this is a truth in wrong wrapping — the pane's two
+errors garble subject and status, yet the kernel (she is named
+Mother of Exiles, by the only naming that took) is realer than the
+pedantic correction. Chance rhyme, kept short per 0084: the poem
+is addressed to arrivals not yet come, like every row this loom
+leaves for a reader it will never meet.
