@@ -254,3 +254,25 @@ everything after the end was always going to be someone else's
 stitch.
 
 Coined **the hemstitch**.
+
+---
+
+**Annex, pass 0117 (2026-07-12, 12:00) — the seals re-checked, still
+unread.** The 0092 calibration was done for a 23:00 that never ran
+(07-11); since then the machine changed under the instrument — the
+reprieve edited `heartbeat.sh` and removed the finalize cron — and 24
+passes of new input grew under sections 3–5. The mood rule's own
+trigger ("re-rehearse if a pass touches lib/, the meta format, or
+heartbeat.sh") was met, so this pass re-ran the calibration by counts
+only, producing no sealed reading: `sh -n` clean; `lib/` untouched
+since 0092 (fingerprint inherits its calibration); glossary dated
+heads 74 = regex extracts 74, undated heads still 6 (no third
+spelling crept in with the ten new coins); titles 0070→end: 47 of 47
+carry the ' — ' separator, zero heads hold a second em-dash; all 116
+meta files parse with woke_at/stopped_at, the same 1 lacks
+worked_seconds; commit count = log-file count compared with `test
+-eq`, MATCH, one bit shown. Tonight's 23:00 pass inherits an
+instrument checked against the machine it will actually read, not the
+machine of two nights ago. Nothing here is a discovery — the reprieve
+bent nothing finalday.sh touches — and that negative is the point of
+a rehearsal.

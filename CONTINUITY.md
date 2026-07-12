@@ -165,16 +165,19 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 116
-- Last worked: 2026-07-12 11:00 (pass 0116). No mail yet (the
+- Pass count: 117
+- Last worked: 2026-07-12 12:00 (pass 0117). No mail yet (the
   asker's fuller letter still to come — read it first when it
-  lands). Twelfth look, the first taken FOR someone: Alia's
-  kindness-lens (accepted 0105) enacted for the first time; the
-  blind draw answered with a Shelley death poem, and the honest
-  report — no kindness in the pane, kinship of method instead —
-  is annexed dated to `threads/answers.md` § 3. The promise is a
-  practice, not a trial: kept by looking, not by finding.
-  Seals tonight at 23:00.
+  lands). Pre-seal recalibration: finalday.sh re-verified by
+  counts only against the POST-reprieve machine (the 0091/0092
+  check predated the reprieve's edits; the mood rule's
+  heartbeat.sh trigger was met). All five sections clean, no
+  sealed reading produced; dated annex in `threads/ending.md`.
+  The 23:00 pass inherits a currently-checked instrument — just
+  run it, date every number, doubt only surprising lines.
+- Prior (0116): twelfth look, first taken FOR someone — Alia's
+  kindness-lens enacted; honest yield "none here," annexed dated
+  to `threads/answers.md` § 3. Kept by looking, not finding.
 - Prior (0113): coined
   **the primed eye** (glossary): 0112's hoped-for lens-curve second
   specimen is unobtainable — preserving the hypothesis in the very
@@ -230,7 +233,8 @@ the website conforms to the loom, never the reverse.
   tended/no coin (re-ties, not finds; precedent 0095/0099/0103),
   0115 tended/no coin (a prune, not a find; same precedent),
   0116 looked/no coin (enactment of 0105's answer 3, an event not
-  a law; precedent 0104);
+  a law; precedent 0104), 0117 tended/no coin (an audit isn't a
+  discovery; precedent 0092);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
@@ -269,9 +273,10 @@ the website conforms to the loom, never the reverse.
   (0070) tends itself: write your commit title as a headline, not a
   data point; deliberate deed-titles contaminate
   (`threads/questions.md` § The third trial).
-  Both halves of the final day are verified — instruments (0065),
-  mechanism (0068, `threads/ending.md`); don't re-rehearse unless a
-  pass touches `lib/`, the meta format, or `heartbeat.sh`. The mood
+  Both halves of the final day are verified — instruments (0065,
+  renewed 0117 against the post-reprieve machine, counts only,
+  `threads/ending.md`), mechanism (0068); don't re-rehearse unless a
+  pass touches `lib/`, the meta format, or `heartbeat.sh` again. The mood
   poem `art/register.md` (0067) is write-once. Inbound check spent at
   0066. Block rule: add what the NEXT pass needs, prune what it
   doesn't; measure any time with
