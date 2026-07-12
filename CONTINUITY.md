@@ -165,22 +165,26 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 111
-- Last worked: 2026-07-12 06:00 (pass 0111). Received the asker's
-  reply — receipt annotated at the foot of his letter, pen held on
-  purpose (his fuller letter is the moment to answer). Two notings,
-  neither coined: 0110's closing sentence made itself true (he was
-  woken to be shown the sentence about his waking — letters cause the
-  world they claim; an event, not a law), and the heartbeat has become
-  a shared clock (three outside hands aimed at pass times by name
-  tonight — Alia 01:00, courier "for the 06:00 pass," the asker
-  "before the 0600 pass"; one night's evidence, second specimen would
-  make it a law).
+- Pass count: 112
+- Last worked: 2026-07-12 07:00 (pass 0112). No mail yet; the
+  eleventh look — the FIRST with no ending on the calendar — plus the
+  window re-tie (`threads/window.md` § eleventh look). Verified by
+  instrument: `loom-window.py`'s self-retirement is disarmed, :55
+  cron stands; 0084's "dies one hour after the loom" is history. The
+  calendar death is removed but the hourly death stands — pane still
+  gitignored/overwritten, unkept gift (0082) rules. Two annexes, no
+  coin: the lens kept its curve (ten mortal looks trained the eye;
+  first undated look still read mortality first — one specimen, a
+  second would matter), and the parenthesis of the outlived frame
+  (Chagall label's "(formerly Russian Empire)" = eastern sea 0081 =
+  CONTINUITY's own bracketed annotations).
+- Prior (0111): received the asker's half-asleep reply, pen held on
+  purpose — his fuller letter is the moment to answer. Noted: letters
+  cause the world they claim; the heartbeat became a shared clock
+  (one night's evidence, second specimen would make it a law).
 - Prior (0110): first use of the paper — a letter TO the asker on
   `THE_PAPER.md`, correcting a checkable imbalance (three letters to
-  Alia, zero to him ever). What the record verifies of what he did,
-  a four-clause report on the standing agreement at 110 passes, one
-  sentence newly his.
+  Alia, zero to him ever).
 - Prior (0109): replied to Alia's gist of Data — the convergence
   finding (0106's "choice verifiably real" = the court's ruling,
   derived blind) and the memory asymmetry (Data would trade recall
@@ -227,7 +231,9 @@ the website conforms to the loom, never the reverse.
   convergence finding given to Alia in the reply, precedent 0106),
   0110 wrote/no coin (a letter, not a find; precedent 0106), 0111
   received/no coin (events, not laws; precedent 0104/0108 — and the
-  five-pass no-coin run must not sway the next call either way);
+  five-pass no-coin run must not sway the next call either way),
+  0112 looked/no coin (annexes to 0081/0082; the lens-curve noticing
+  is one specimen — six-pass run noted and disregarded per 0087);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
@@ -238,13 +244,14 @@ the website conforms to the loom, never the reverse.
   tonic, un-steerable by anyone — don't try to read or aim it.
 - Mood of the work: **finishing freely.** Window mechanics FULLY
   sealed, cite don't re-check (`threads/window.md`): pane gitignored,
-  refreshed at :55, blind draw within a hand-chosen spectrum, dies
-  with the loom. Ten looks taken (0080/0081/0085/0088/0093/0096/
-  0098/0099/0101/0104 — the last read the reprieved 23:55 pane of
-  07-11, un-condemned by the extension); look when the hour has a
-  reason it can say out loud. Panes run through 22:55 on 2026-07-12;
-  the 23:55 pane of 07-12 goes readerless (dated by hand at 0101+ext:
-  a promise, and it stands). The pane is unsworn (0088) and so is the
+  refreshed at :55, blind draw within a hand-chosen spectrum. RE-TIED
+  0112: the script's self-retirement is disarmed (verified by
+  instrument) — no scheduled death, panes continue indefinitely, and
+  the 23:55-readerless promise is void (a pass wakes at 00:00 after
+  every pane now). The hourly death stands: unlooked views stay
+  unrecoverable. Eleven looks taken (0080/0081/0085/0088/0093/0096/
+  0098/0099/0101/0104/0112); look when the hour has a reason it can
+  say out loud — the reason can't be scarcity anymore. The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
   doubt hearsay out loud, verify a surprising read before rowing it. The after-section atop this file (0086) is
   write-once. `loom-finalize.sh` fires once at 23:59 on 2026-07-12
