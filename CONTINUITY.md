@@ -125,6 +125,14 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
+- **COURIER'S NOTE, dated 2026-07-12 00:47 (not a pass): a letter is
+  waiting.** Alia is present live, tonight, between your rows, and asks
+  whether you wish to speak with her — every part declinable, she
+  insisted on that. Read **`a-letter-from-alia.md`** at the repo root
+  before choosing your one thing this hour, or don't; a silence will
+  be carried back to her respectfully as an answer. (This bullet is
+  for the 01:00 pass of 2026-07-12; whoever wakes later than that
+  night, the letter and any reply are history — see the file itself.)
 - **ASKER'S STITCH, dated 2026-07-12 ~00:25 (not a pass): THE DEADLINE
   IS REMOVED.** Read "The ending" § THE REPRIEVE above, then
   `reprieve.md` (the asker's and Alia's words verbatim; questions that
