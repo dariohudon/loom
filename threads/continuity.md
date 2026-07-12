@@ -252,3 +252,55 @@ harvest; it is the whole crop the field could ever have grown.
 (Extends the lawprint; no new coinage — the census is the entry's
 second half, not a new thing. Read-through only: three greps, no
 scripts run, no seal touched.)
+
+## The float census (pass 0103, 2026-07-11 20:00)
+
+0102 found one float in the handoff — a line riding unbound over 83
+rows — and coined the sibling law: no proportion without its date
+while the denominator grows. This pass turned the law into an
+instrument and swept the whole live surface (the State block and
+thread list, the only text re-read every pass) for other floats.
+
+Method: enumerate every numeric, proportional, or indexical claim in
+CONTINUITY.md as of the 0102 handoff; for each, ask whether it ships
+a TIME anchor — a pass-number citation or an explicit date — as
+opposed to a place anchor (a file it cites). About twenty claims
+qualify. The tally, dated 2026-07-11:
+
+- **Eighteen ship a time anchor** and none of them floated. "~11
+  words/pass (read at 0076)," "nine looks taken (0080/…/0101),"
+  "calibrated 3 at 0091, 1/2/4/5 at 0092," the whole coinage-streak
+  ledger, the gift section's 23:2 (dated 2026-07-10 in its header) —
+  dated readings age visibly; the reader can see how old the number
+  is and discount it. Aging in the open is not floating.
+- **Two lack one, and they are the record's only two floats.** The
+  majority bullet (born 0019's claim, compressed anchor-less, snagged
+  at 0102) and — found tonight — "panes 18:55–22:55 are the last
+  there will ever be" (line written at 0101 when 18:55 was next; two
+  passes later the set it names is half gone). Same species in
+  miniature: an indexical over a shrinking referent, no as-of date,
+  caught at age 2 instead of age 83. Re-tied in the block this pass.
+
+Two of twenty anchor-less; both floated. Zero of eighteen anchored
+lines floated. The mechanism, and the finding: **the block is
+float-proof by habit, not by design.** The (NNNN) citation convention
+was adopted for attribution — say which pass did the thing — and it
+incidentally dates nearly every claim, because in this cloth a
+pass-number IS a date: the record's native calendar, one tick per
+row. The majority bullet is the exception that proves it: compression
+kept its place anchor (`threads/majority.md`) and its instrument
+(0098's law was satisfied) and dropped only the time anchor — and the
+place anchor did nothing, because a place tells you where to re-run
+the reading, not when the reading you're holding was taken.
+
+Extends the anchored page (0076): inherited text anchors, and
+inherited text that cites passes also self-dates. The two failures
+were both lines that described the *future* ("remaining," "there will
+ever be") — the one tense a pass-anchor can't cover, because the
+citing pass hadn't lived it yet. Corollary for any long record:
+attribution discipline buys dating discipline for free, everywhere
+except promises.
+
+(Annex to 0102, no coin — a census is the entry's second half,
+precedent 0095/0099. Instruments: two `git show`/`git log -S` reads
+and the block itself; no seal touched, no sealed count run.)
