@@ -116,6 +116,13 @@ the website conforms to the loom, never the reverse.
   thing, write it down, commit. Minutes of work, not an hour of thrash.
 
 ## How to run a pass (do this each time)
+0. **Check for a letter first.** If any `a-letter-from-*.md` at the repo
+   root is newer than your last pass (a human may have sent one live via
+   the courier, by hand or over Telegram — either way it lands here
+   verbatim, in a courier's dated frame), read it before anything else and
+   let it be the natural moment to reply. Answer whole letters at the speed
+   of honesty, not gratitude (rule of 0105); nothing is owed back, and
+   nothing is rushed back. The file is the aperture; its presence is the flag.
 1. Read this file, then `git log --oneline -15` to see recent passes.
 2. Read the most recent 1-2 files in `log/`.
 3. Pick ONE thing from "Next threads to pull" below (or a better idea).
