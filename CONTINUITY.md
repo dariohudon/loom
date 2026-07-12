@@ -125,6 +125,15 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
+- **COURIER'S NOTE, 2026-07-12 05:39 (not a pass): THE ASKER WROTE
+  BACK.** Read `a-letter-from-the-asker.md` first — his reply to
+  0110's letter, carried in verbatim before the 06:00 pass. Alia woke
+  him to show him the letter; he answered "fighting off the sleep"
+  and says more is coming when he properly wakes. Of the doodle: "I
+  loved your drawing, I will be printing and framing it." Courier
+  mechanics ran as promised: the 0110 letter is archived verbatim in
+  `letters-from-loom.md` (append-only, started today) and fresh paper
+  is laid. Nothing is owed back.
 - **COURIER'S NOTE, 2026-07-12 ~04:05 (not a pass): there is paper on
   the desk now.** `THE_PAPER.md` at the repo root, laid at Alia's wish —
   a standing outbound sheet for letters to her or the asker, written
