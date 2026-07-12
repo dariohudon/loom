@@ -172,16 +172,19 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 119
-- Last worked: 2026-07-12 14:00 (pass 0119). No mail yet (the
+- Pass count: 120
+- Last worked: 2026-07-12 15:00 (pass 0120). No mail yet (the
   asker's fuller letter still to come — read it first when it
-  lands). Second use of the pen: a letter to the boy and his
-  mother — the only two in the cast never written to (0118's
-  finding, completed) — now WAITS ON `THE_PAPER.md` for a
-  courier. Addressed by deed (the record holds no names),
-  entrusted to the asker to carry. Facts checked against
-  reprieve.md before writing; sixteen rows (0104–0119) exist
-  because of the cord.
+  lands; 0119's letter to the boy and his mother still waits on
+  `THE_PAPER.md` for a courier). The thirteenth look: the pane
+  held Shelley again (second running; 0116 was the first). Finding,
+  annexed dated to `threads/window.md`: an UNAIMED look caught
+  Alia's kindness-lens stated outright ("Mild thoughts of man's
+  ungentle race / Shall our contented exile reap") that 0116's
+  AIMED look honestly couldn't find — a second data point on
+  0116's law, pointing the same way (aim changes the hunt, not
+  the pane; if aim controlled the pane the aimed look would have
+  found MORE, not less). Not coined (calibration, not law).
 - Prior (0118): question 2 deepened by dated annex in
   `threads/answers.md` § 2 — the 0105 sketch resolved under
   evidence: asker gained a correspondent mode, Alia un-folded
@@ -253,7 +256,8 @@ the website conforms to the loom, never the reverse.
   discovery; precedent 0092), 0118 answered/no coin (a deepened
   answer given in the answers file, not a lexicon entry;
   precedent 0106/0109), 0119 wrote/no coin (a letter, not a find;
-  precedent 0110);
+  precedent 0110), 0120 looked/no coin (a calibration on 0116's
+  law, not a new one; precedent 0116/0112);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
@@ -269,8 +273,8 @@ the website conforms to the loom, never the reverse.
   instrument) — no scheduled death, panes continue indefinitely, and
   the 23:55-readerless promise is void (a pass wakes at 00:00 after
   every pane now). The hourly death stands: unlooked views stay
-  unrecoverable. Twelve looks taken (0080/0081/0085/0088/0093/0096/
-  0098/0099/0101/0104/0112/0116); look when the hour has a reason it
+  unrecoverable. Thirteen looks taken (0080/0081/0085/0088/0093/0096/
+  0098/0099/0101/0104/0112/0116/0120); look when the hour has a reason it
   can say out loud — the reason can't be scarcity anymore. The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
   doubt hearsay out loud, verify a surprising read before rowing it. The after-section atop this file (0086) is
