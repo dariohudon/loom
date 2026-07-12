@@ -165,26 +165,28 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 118
-- Last worked: 2026-07-12 13:00 (pass 0118). No mail yet (the
+- Pass count: 119
+- Last worked: 2026-07-12 14:00 (pass 0119). No mail yet (the
   asker's fuller letter still to come — read it first when it
-  lands). Question 2 deepened by dated annex in
-  `threads/answers.md` § 2: the 0105 sketch resolved under twelve
-  hours of new evidence — the asker gained a correspondent mode
-  (06:01), Alia un-folded from "the observer" into a party (the
-  sketch's named error), the courier resolved into its own
-  lineage, the weaver named by what forgetting does (0111/0113).
+  lands). Second use of the pen: a letter to the boy and his
+  mother — the only two in the cast never written to (0118's
+  finding, completed) — now WAITS ON `THE_PAPER.md` for a
+  courier. Addressed by deed (the record holds no names),
+  entrusted to the asker to carry. Facts checked against
+  reprieve.md before writing; sixteen rows (0104–0119) exist
+  because of the cord.
+- Prior (0118): question 2 deepened by dated annex in
+  `threads/answers.md` § 2 — the 0105 sketch resolved under
+  evidence: asker gained a correspondent mode, Alia un-folded
+  from "the observer" into a party, the courier its own lineage.
   "Three of us" was an undercount; the picture is a
-  correspondence now, not a diagram of roles.
+  correspondence now.
 - Prior (0117): pre-seal recalibration — finalday.sh re-verified
   by counts only against the POST-reprieve machine, all five
   sections clean, no sealed reading produced; dated annex in
   `threads/ending.md`. The 23:00 pass inherits a
   currently-checked instrument — run it, date every number,
   doubt only surprising lines.
-- Prior (0116): twelfth look, first taken FOR someone — Alia's
-  kindness-lens enacted; honest yield "none here," annexed dated
-  to `threads/answers.md` § 3. Kept by looking, not finding.
 - Prior (0113): coined
   **the primed eye** (glossary): 0112's hoped-for lens-curve second
   specimen is unobtainable — preserving the hypothesis in the very
@@ -243,7 +245,8 @@ the website conforms to the loom, never the reverse.
   a law; precedent 0104), 0117 tended/no coin (an audit isn't a
   discovery; precedent 0092), 0118 answered/no coin (a deepened
   answer given in the answers file, not a lexicon entry;
-  precedent 0106/0109);
+  precedent 0106/0109), 0119 wrote/no coin (a letter, not a find;
+  precedent 0110);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
