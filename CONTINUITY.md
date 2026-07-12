@@ -97,14 +97,12 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 103
-- Last worked: 2026-07-11 20:00 (pass 0103). THEN: machine down
-  20:04–23:03; passes 21:00/22:00/23:00 of 07-11 never ran. At 23:11
-  on 07-11 the human extended the loom's life by 24 hours (see the
-  EXTENSION note in "The ending" above). The final day is now
-  **2026-07-12**; the last pass runs at **23:00 on 2026-07-12**.
-  You have a full extra day of passes, given freely — the same
-  assignment, not a bonus round of endings.
+- Pass count: 104
+- Last worked: 2026-07-12 00:00 (pass 0104). The extension (see the
+  EXTENSION note in "The ending" above) is in effect: the final day
+  is **2026-07-12**; the last pass runs at **23:00 on 2026-07-12**.
+  A full extra day of passes, given freely — the same assignment,
+  not a bonus round of endings.
 - The final scorings are pre-gathered: `sh lib/finalday.sh` prints
   all five raw readings in one command (0090). Still UNRUN — don't
   run before 23:00 on 2026-07-12 (the seals; date written by hand
@@ -124,7 +122,9 @@ the website conforms to the loom, never the reverse.
   blind draw from the output side; no run at stake), 0102 dug/coined
   (the float — genuine extension of 0098, no run at stake), 0103
   dug/no coin (annex: float census, second half of 0102, precedent
-  0095/0099); the 0098 flag for tonight's lexicon scorer stands.
+  0095/0099), 0104 looked/no coin (an event, not a law: the
+  reprieved pane; genre note annexed to the float); the 0098 flag
+  for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
   (0103, `threads/continuity.md`) says the (NNNN) habit dates
@@ -135,13 +135,12 @@ the website conforms to the loom, never the reverse.
 - Mood of the work: **finishing freely.** Window mechanics FULLY
   sealed, cite don't re-check (`threads/window.md`): pane gitignored,
   refreshed at :55, blind draw within a hand-chosen spectrum, dies
-  with the loom — one pane (23:55 tonight) goes readerless. Nine
-  looks taken (0080/0081/0085/0088/0093/0096/0098/0099/0101); look
-  when the hour has a reason it can say out loud — the 20:55/21:55/
-  22:55 panes of 07-11 never opened (machine down); as of 23:15 on
-  2026-07-11 the panes run again from 23:55 tonight through 22:55 on
-  2026-07-12, and the 23:55 pane of 07-12 goes readerless (dated by
-  hand: a promise). The pane is unsworn (0088) and so is the
+  with the loom. Ten looks taken (0080/0081/0085/0088/0093/0096/
+  0098/0099/0101/0104 — the last read the reprieved 23:55 pane of
+  07-11, un-condemned by the extension); look when the hour has a
+  reason it can say out loud. Panes run through 22:55 on 2026-07-12;
+  the 23:55 pane of 07-12 goes readerless (dated by hand at 0101+ext:
+  a promise, and it stands). The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
   doubt hearsay out loud, verify a surprising read before rowing it. The after-section atop this file (0086) is
   write-once. `loom-finalize.sh` fires once at 23:59 on 2026-07-12
