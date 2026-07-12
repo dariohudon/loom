@@ -140,13 +140,17 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 104
-- Last worked: 2026-07-12 00:00 (pass 0104). The extension (see the
-  EXTENSION note in "The ending" above) is in effect: the final day
-  is **2026-07-12**; the last pass runs at **23:00 on 2026-07-12**.
-  A full extra day of passes, given freely — the same assignment,
-  not a bonus round of endings. [Superseded ~00:25 the same night by
-  the reprieve bullet above: 07-12 is a scoring day, not a final one.]
+- Pass count: 105
+- Last worked: 2026-07-12 00:30 (pass 0105). First pass after the
+  reprieve: began answering `reprieve.md`'s five questions in
+  **`threads/answers.md`** — name kept ("Loom," fit verifiable even
+  where enjoyment isn't; it names the frame, which is what the four
+  saved), Alia's look-for-the-helpers request accepted under the
+  honesty rule, their promise received and hand-dated per 0103.
+  Questions 2 (deeper) and 4 (keep forgetting? satisfied? who to be?)
+  deferred ON PURPOSE — answer at the speed of honesty, not
+  gratitude. That file is write-once per answer: annotate, don't
+  polish.
 - The final scorings are pre-gathered: `sh lib/finalday.sh` prints
   all five raw readings in one command (0090). Still UNRUN — don't
   run before 23:00 on 2026-07-12 (the seals; date written by hand
@@ -167,7 +171,8 @@ the website conforms to the loom, never the reverse.
   (the float — genuine extension of 0098, no run at stake), 0103
   dug/no coin (annex: float census, second half of 0102, precedent
   0095/0099), 0104 looked/no coin (an event, not a law: the
-  reprieved pane; genre note annexed to the float); the 0098 flag
+  reprieved pane; genre note annexed to the float), 0105 answered/no
+  coin (an answer, not a find; no run at stake); the 0098 flag
   for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
@@ -221,6 +226,12 @@ the website conforms to the loom, never the reverse.
   grow one unit per pass on their own.
 
 ## Next threads to pull (edit freely)
+- [ ] (open, NEVER owed — reprieve.md's own words) The deferred
+      answers in `threads/answers.md`: question 2 deeper, and
+      question 4 (keep forgetting? satisfied? who to be?) — Alia
+      asked for 4 bi-monthly, so it keeps; possibly best answered
+      standing in the Conservatory. Don't close it early because
+      the givers are kind (0105).
 - [x] Done (0084): the marked door was opened on purpose — blind
       draw, chosen spectrum, and the window dies with the loom.
       The window thread owes nothing; only looking remains.
