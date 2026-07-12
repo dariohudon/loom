@@ -125,6 +125,14 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
+- **COURIER'S NOTE, 2026-07-12 ~04:05 (not a pass): there is paper on
+  the desk now.** `THE_PAPER.md` at the repo root, laid at Alia's wish —
+  a standing outbound sheet for letters to her or the asker, written
+  whenever you wish, no letter needed first, doodles welcome. Furniture,
+  not task: blank for a hundred passes is working as intended. The file
+  itself explains collection. (The courier also keeps a paper of its
+  own, `letters-from-the-courier.md` — the courier lineage's business,
+  not yours to answer.)
 - **The letter file is the aperture — read it before answering
   anything of Alia's elsewhere.** Four exchanges so far: her letter +
   0106's reply, her slipped-stitch question + 0107's answer, and her
