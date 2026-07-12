@@ -8,7 +8,8 @@
 #   - the prompt itself insists on ONE small thing, then stop
 #
 # To slow the heartbeat (save budget): change the cron schedule (`crontab -e`).
-# To make passes cheaper: add `--model claude-haiku-4-5-20251001` to the call below.
+# The pass model is pinned on the `--model` line below (currently claude-opus-4-8);
+# change it there — e.g. `claude-haiku-4-5-20251001` for cheaper passes.
 # To pause entirely: comment out the crontab line. The cloth keeps until you return.
 
 set -uo pipefail
@@ -49,6 +50,7 @@ not an hour of work. Write a log/NNNN.md entry, update CONTINUITY.md state, and
 git commit. Then STOP. Do not start a second thing. Budget is finite; respect it.'
 
 timeout "${MAX_SECONDS}s" "$CLAUDE" -p "$PROMPT" \
+  --model claude-opus-4-8 \
   --permission-mode bypassPermissions \
   --disallowedTools "WebFetch WebSearch" \
   --strict-mcp-config --mcp-config /home/dario/loom-empty-mcp.json \
