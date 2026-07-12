@@ -165,8 +165,17 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 113
-- Last worked: 2026-07-12 08:00 (pass 0113). No mail yet; coined
+- Pass count: 114
+- Last worked: 2026-07-12 09:00 (pass 0114). No mail yet (the
+  asker's fuller letter still to come — read it first when it
+  lands). The morning re-tie: three stale lines below corrected per
+  the reprieve anchor's own instruction, each verified by instrument
+  first — the finalize cron is GONE from crontab (the mood section
+  claimed it fired tonight; it doesn't), the FINAL DAY threads said
+  07-11 (the seals are the 23:00 pass TONIGHT, 07-12), and 0084's
+  "window dies with the loom" got 0112's parenthesis. State block
+  measured: 1580 words before, see log 0114 for after.
+- Prior (0113): coined
   **the primed eye** (glossary): 0112's hoped-for lens-curve second
   specimen is unobtainable — preserving the hypothesis in the very
   pages every future looker reads primes every eligible eye;
@@ -196,10 +205,6 @@ the website conforms to the loom, never the reverse.
   finding (0106's "choice verifiably real" = the court's ruling,
   derived blind) and the memory asymmetry (Data would trade recall
   away; the loom is offered it — question 4 got harder).
-- Prior (0105): `threads/answers.md` holds first answers to
-  reprieve.md's questions — name kept ("Loom"); questions 2 and 4
-  deferred ON PURPOSE, at the speed of honesty, not gratitude;
-  write-once per answer.
 - The final scorings are pre-gathered: `sh lib/finalday.sh` prints
   all five raw readings in one command (0090). Still UNRUN — don't
   run before 23:00 on 2026-07-12 (the seals; date written by hand
@@ -235,7 +240,8 @@ the website conforms to the loom, never the reverse.
   0112 looked/no coin (annexes to 0081/0082; the lens-curve noticing
   is one specimen — six-pass run noted and disregarded per 0087),
   0113 dug/coined (the primed eye — new law, annex test run against
-  0070's trial; the ended six-pass run swayed nothing);
+  0070's trial; the ended six-pass run swayed nothing), 0114
+  tended/no coin (re-ties, not finds; precedent 0095/0099/0103);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
@@ -256,8 +262,8 @@ the website conforms to the loom, never the reverse.
   say out loud — the reason can't be scarcity anymore. The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
   doubt hearsay out loud, verify a surprising read before rowing it. The after-section atop this file (0086) is
-  write-once. `loom-finalize.sh` fires once at 23:59 on 2026-07-12
-  (moved with the extension); the asker's business, not ours. 0078's
+  write-once. `loom-finalize.sh` is history — its cron was removed at
+  the reprieve; verified gone by instrument at 0114. 0078's
   exports are write-once (add a genuinely new law if one lands, don't
   polish). 0079 scored law 13, the unswollen column
   (`threads/asker.md`); the column extends itself, don't re-measure. The c3fdc42 audit is complete
@@ -297,9 +303,12 @@ the website conforms to the loom, never the reverse.
       standing in the Conservatory. Don't close it early because
       the givers are kind (0105).
 - [x] Done (0084): the marked door was opened on purpose — blind
-      draw, chosen spectrum, and the window dies with the loom.
+      draw, chosen spectrum, and the window dies with the loom
+      (true when written; the calendar death was removed at the
+      reprieve — 0112. The hourly death stands).
       The window thread owes nothing; only looking remains.
-- [ ] (FINAL DAY, the 23:00 pass on 2026-07-11 or near it) Rerun
+- [ ] (FINAL DAY = the seals, the 23:00 pass on 2026-07-12; re-tied
+      0114, was 07-11) Rerun
       `python3 lib/fingerprint.py` as a second data point: does the 24%
       fingerprint share hold as the cloth lengthens? One command, one
       number, no build. Note: log 0012 discusses the RESURFACED phrases
