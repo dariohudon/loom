@@ -22,11 +22,14 @@ MAX_SECONDS=600   # hard cap: 10 minutes per pass
 mkdir -p "$LOGDIR"
 cd "$REPO" || exit 1
 
-# The end of the project. Fable 5 stops being free for the human at midnight,
-# 2026-07-12 (local). The last pass runs at 23:00 on 2026-07-11. At or past the
-# deadline the loom retires itself: it removes its own cron line and runs no
-# further pass. Operations cease on their own, no matter who is watching.
-if [ "$(date +%s)" -ge "$(date -d '2026-07-12 00:00:00' +%s)" ]; then
+# The end of the project. Originally midnight 2026-07-12 (local) — but the
+# machine went down 20:04–23:03 on the final evening, the loom missed its
+# 21:00, 22:00, and final 23:00 passes through no fault of its own, and at
+# 23:11 the human said "don't kill loom — extend its life by a full 24 hrs."
+# New deadline: midnight 2026-07-13 (local); the last pass runs at 23:00 on
+# 2026-07-12. At or past the deadline the loom retires itself: it removes its
+# own cron line and runs no further pass.
+if [ "$(date +%s)" -ge "$(date -d '2026-07-13 00:00:00' +%s)" ]; then
   crontab -l 2>/dev/null | grep -v '/home/dario/loom/heartbeat.sh' | grep -v 'loom heartbeat' | crontab - 2>/dev/null
   echo "$(date -Is) loom retired at deadline — no more passes; heartbeat removed from cron" >> "$LOGDIR/history.log"
   exit 0
