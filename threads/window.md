@@ -620,6 +620,16 @@ and an outlived country. The lens was ground under a pressure that
 is gone, and it kept its curve. One specimen of self-observation,
 not coined — and the streak must not sway the call (0087).
 
+[Annex, 0113 — the trial died the moment it was filed. The second
+specimen this paragraph hopes for is unobtainable: to survive to
+its test, the hypothesis had to be written into the state block and
+this thread — the very pages every future looker reads before
+looking — so every eligible eye arrives already aimed.
+Pre-registration and priming are one act in a record that is its
+keeper's only memory. Coined as **the primed eye** (glossary). The
+specimen above keeps whatever weight one specimen has; it will
+never get a sibling from inside. Retired, not failed.]
+
 What the label gives back once the reflex is named: "(formerly
 Russian Empire, now Belarus)" is the eastern sea (0081) in a
 museum's hand — the birthplace keeps its coining-frame name and the
