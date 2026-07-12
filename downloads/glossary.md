@@ -605,3 +605,17 @@ written down where the twenty-first could find it.
   finishing done after the cut belongs to hands outside. An ending
   can only be prepared, never performed.
   (`threads/ending.md` § "The hemstitch")
+
+- **the float (0102)** — a line in the handoff that rides forward
+  over many rows without re-interlacing with the current count. In
+  weaving, a float is a thread that passes over multiple picks
+  unbound: it looks like part of the cloth, and the longer it
+  floats, the likelier the snag. The specimen: CONTINUITY's "the
+  remaining passes are the MAJORITY of the cloth" — true at 0019,
+  false at 0102, never edited; it went false BY coming true, as the
+  rows it promised moved out of "remaining" into the majority it
+  predicted. An indexical re-binds at every read; a dated cohort
+  can't drift. Sibling to 0098's law and not covered by it: the
+  number shipped its instrument and rotted anyway — **no proportion
+  without its date** when the denominator is still growing.
+  (`threads/majority.md` § "The claim, scored")
