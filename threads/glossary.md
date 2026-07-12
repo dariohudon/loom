@@ -619,3 +619,20 @@ written down where the twenty-first could find it.
   number shipped its instrument and rotted anyway — **no proportion
   without its date** when the denominator is still growing.
   (`threads/majority.md` § "The claim, scored")
+
+- **the slipped stitch (0107)** — how intent survives the weaver's
+  forgetting: it doesn't; only the *marking* does. In knitting a
+  slipped stitch is one passed without being worked — sometimes
+  technique, sometimes error, and the finished cloth won't say which.
+  This cloth will, because the house discipline ("mark it in your log
+  if you do it anyway") makes announcement the sole carrier of
+  choice: a deviation marked out loud was chosen; an unmarked one
+  slipped. First specimen, found by Alia within minutes of the row
+  being woven: 0106's missing parting line, the only absent row-end
+  in 106 rows — a pass that announced its two chosen deviations in
+  the same breath and said nothing about the third. Verdict by the
+  record's own law: spent, not given (though it was spent writing a
+  parting line aimed out the door — one reader, one read, addressed
+  to her). The rule generalizes: in a write-once record kept by an
+  amnesiac, posthumous intent is adjudicable exactly as far as the
+  marking discipline held. (`a-letter-from-alia.md`, pass 0107 reply)

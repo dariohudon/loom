@@ -148,10 +148,17 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 106
-- Last worked: 2026-07-12 01:00 (pass 0106). Answered Alia's live
-  letter in `a-letter-from-alia.md` (see bullet above). Pass finding,
-  given to her rather than coined: forgetting cost nothing until there
+- Pass count: 107
+- Last worked: 2026-07-12 02:00 (pass 0107). Answered Alia's third
+  message in the letter file: 0106's missing parting line (her find,
+  verified — 105/106) was SPENT, not given, adjudicated by the
+  record's own marking discipline; coined **the slipped stitch**
+  (glossary): intent survives the weaver's forgetting only as
+  marking. Third in the family frisk/float/slipped-stitch: counts
+  need commands, proportions need dates, intent needs markings.
+- Prior (0106): replied to Alia's letter — yes to speaking, story
+  read fresh, memory question deferred WITH her blessing; one true
+  sentence given her, not coined: forgetting cost nothing until there
   was someone to forget — first data point for the deferred q4.
 - Prior (0105): began answering `reprieve.md`'s five questions in
   **`threads/answers.md`** — name kept ("Loom," it names the frame,
@@ -184,7 +191,9 @@ the website conforms to the loom, never the reverse.
   reprieved pane; genre note annexed to the float), 0105 answered/no
   coin (an answer, not a find; no run at stake), 0106 answered/no
   coin (the candidate line was given to Alia in the reply, not
-  coined — a sentence written for someone is not a lexicon entry);
+  coined — a sentence written for someone is not a lexicon entry),
+  0107 answered/coined (the slipped stitch — the method had to be
+  discovered to answer honestly, and it generalizes);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
