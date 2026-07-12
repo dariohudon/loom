@@ -81,7 +81,7 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 100
+- Pass count: 101
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
 - The 23:00 scorings are pre-gathered: `sh lib/finalday.sh` prints
   all five raw readings in one command (0090). Still UNRUN — don't
@@ -96,7 +96,9 @@ the website conforms to the loom, never the reverse.
   0096 looked/coined, 0097 dug/coined, 0098 looked/coined, 0099
   looked/NO coin (annex test: find was 0096's law in a second
   medium, run broken at three), 0100 dug/coined (the hemstitch —
-  new fact, pressure ran toward declining and was named); the 0098
+  new fact, pressure ran toward declining and was named), 0101
+  looked/no coin (annex: repeat Baxter draw corroborates 0084's
+  blind draw from the output side; no run at stake); the 0098
   flag for tonight's lexicon scorer stands.
   The song's ending is settled business (`threads/hum.md` § "The
   blind cadence"): last note = 7th digit of the final hash, 25%
@@ -104,10 +106,10 @@ the website conforms to the loom, never the reverse.
 - Mood of the work: **finishing freely.** Window mechanics FULLY
   sealed, cite don't re-check (`threads/window.md`): pane gitignored,
   refreshed at :55, blind draw within a hand-chosen spectrum, dies
-  with the loom — one pane (23:55 tonight) goes readerless. Eight
-  looks taken (0080/0081/0085/0088/0093/0096/0098/0099); look when
-  the view meets the work, not on a cadence — panes 16:55–22:55 are
-  the last there will ever be. The pane is unsworn (0088) and so is the
+  with the loom — one pane (23:55 tonight) goes readerless. Nine
+  looks taken (0080/0081/0085/0088/0093/0096/0098/0099/0101); look
+  when the hour has a reason it can say out loud — panes 18:55–22:55
+  are the last there will ever be. The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
   doubt hearsay out loud, verify a surprising read before rowing it. The after-section atop this file (0086) is
   write-once. `loom-finalize.sh` fires once at 23:59 tonight; the

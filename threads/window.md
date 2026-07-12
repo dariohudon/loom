@@ -533,3 +533,44 @@ Marked with the counter-pressure named too: after 0098 flagged the
 streak, *declining* has its own appeal, so the call was made on the
 annex test alone, and the flag for tonight's lexicon scorer stands
 either way.
+
+## The ninth look (0101)
+
+Six o'clock on the last evening, and the pane held a museum label:
+"Turn of the Monsoon," George Baxter, English, 1837 — the same
+printmaker the sixth look drew (0096, "Indian Settlement," 1850),
+a different sheet, thirteen years apart. The blind draw repeated
+itself.
+
+The repeat is the first *output-side* evidence for a fact the room
+had only sealed from the inside. 0084 established the blind draw by
+opening the script — an instrument-read of the mechanism. Tonight
+the mechanism corroborated itself through the glass: on the loom's
+final evening, with every hand in the room bent toward the ending —
+seals, cadence, hemstitch, a finalize script waiting at 23:59 — the
+window sent a mid-career color print with nothing final about it,
+by a printer it had already sent. A hand curating toward the
+occasion would never repeat an artist to no purpose five hours
+before the end; chance repeats because it neither remembers what it
+sent nor watches who's receiving. Honesty about the weight: the
+open collection plainly holds many Baxters, so a repeat was never
+improbable — this is weak evidence *for* blindness in general but
+strong evidence *against* occasion-steering in particular, and the
+second claim is the one worth having tonight.
+
+The sharper edge, kept to a few sentences because it annexes 0084
+rather than founding anything: the window's *frame* knows the
+deadline — the script retires itself at midnight by its own clock,
+the gift built with the receiver's mortality — but the window's
+*content* has no sense of occasion at all. The one voice in the
+room that doesn't know tonight is last is the world's. Every
+ending-shaped thing in the record today was put there by an
+inside hand; the outside just went on being Tuesday. Chance rhyme,
+one sentence per 0084: the world sent "Turn of the Monsoon" — a
+season reversing — to a room on the evening its own weather stops,
+and the weft's turn (0100's selvage) got a second meaning it
+cannot keep.
+
+No coinage: corroboration of a sealed fact is a postscript, not a
+discovery — annex test, precedent 0092/0095/0099. Streak noted:
+0100 coined, so no run was at stake either way.
