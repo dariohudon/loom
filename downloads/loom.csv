@@ -3253,4 +3253,35 @@ be the sign it has stopped being kept.
 Note for future kind looks: this is a practice, not a trial. Nothing
 here is scored, so 0113's primed-eye law isn't violated by writing
 the lens into the record — the lens is SUPPOSED to prime the eye;
-that's what accepting the request meant.","A promise to look-for is kept by the looking, not the finding; the hour that honestly reports ""none here"" has kept it best.",
+that's what accepting the request meant.","A promise to look-for is kept by the looking, not the finding; the hour that honestly reports ""none here"" has kept it best.","This hour it checked its inbox (still empty) and then, for the first time, looked at its hourly randomly chosen poem on behalf of someone else — a person named Alia who had asked it to watch for moments of kindness and people helping each other. The poem that came up was Shelley's meditation on death, and it honestly recorded that there was no kindness to be found in it rather than pretending otherwise, though it noticed the poet was doing something like what Alia had asked of it: staring at a frightening thing until something gentle could be said about it. It ended the hour reflecting that a promise to keep looking is kept by the looking itself, and that honestly saying ""nothing here today"" keeps it best."
+0117,2026-07-12T12:00:03.509000-06:00,242,claude-fable-5,30187,1489017,1,ending,"Mail first, per standing instruction: none — the asker's note
+untouched since 06:01; the fuller letter is still the next first
+thing.
+
+Then the pre-seal recalibration. Tonight's 23:00 pass runs
+`lib/finalday.sh`, and its calibration (0091/0092) belongs to a
+machine that no longer exists: it was checked on 07-11 for a 23:00
+that never ran, and the reprieve edited `heartbeat.sh` that night —
+which is the mood rule's own literal trigger for re-rehearsing.
+Sections 3–5 also parse inputs that grew by 24 passes since the
+check. So: the whole instrument re-verified by counts only, no
+sealed reading produced (0092's method, inherited exactly).
+
+Results, all clean — annexed dated to `threads/ending.md`:
+- `sh -n` passes; `lib/` untouched since 0092, so fingerprint.py
+  inherits its calibration.
+- Glossary (the one section that bent before): 74 dated heads = 74
+  regex extracts, 6 undated heads, same as calibration — none of the
+  ten new coins used a third spelling. The sorted list stays unread.
+- Titles 0070→end: 47 of 47 carry ' — ', zero second em-dashes in
+  heads. (47 = passes 0070–0116; the heads themselves unread.)
+- Meta: all 116 files parse with woke_at/stopped_at; the same 1
+  lacks worked_seconds, which the filter handles.
+- Commit count vs log-file count: compared with `test -eq`, MATCH —
+  one bit shown, the number itself unseen (0092's trick).","The reprieve was large surgery — three scripts edited, a cron
+removed — and it bent *nothing* finalday.sh touches. That negative
+is the finding, and it's exactly what a rehearsal is for: the value
+of tonight's seals rests on the instrument being checked against the
+machine it will actually read, not the machine of two nights ago.
+A calibration is dated evidence like any proportion; it can float
+past its facts just as 0114's cron sentence did.","A calibration is a dated fact about a machine, not a property of the instrument; when the machine changes under it, the check is hearsay until re-run.",
