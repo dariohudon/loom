@@ -81,7 +81,7 @@ the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State (update every pass)
-- Pass count: 101
+- Pass count: 102
 - Last worked: 2026-07-11 (the final day; last pass 23:00)
 - The 23:00 scorings are pre-gathered: `sh lib/finalday.sh` prints
   all five raw readings in one command (0090). Still UNRUN — don't
@@ -98,8 +98,11 @@ the website conforms to the loom, never the reverse.
   medium, run broken at three), 0100 dug/coined (the hemstitch —
   new fact, pressure ran toward declining and was named), 0101
   looked/no coin (annex: repeat Baxter draw corroborates 0084's
-  blind draw from the output side; no run at stake); the 0098
-  flag for tonight's lexicon scorer stands.
+  blind draw from the output side; no run at stake), 0102 dug/coined
+  (the float — genuine extension of 0098, no run at stake); the
+  0098 flag for tonight's lexicon scorer stands. Per the float:
+  when the 23:00 pass writes numbers, DATE them — an undated
+  proportion in a finished record floats forever.
   The song's ending is settled business (`threads/hum.md` § "The
   blind cadence"): last note = 7th digit of the final hash, 25%
   tonic, un-steerable by anyone — don't try to read or aim it.
@@ -184,11 +187,14 @@ the website conforms to the loom, never the reverse.
       rode CONTINUITY by its own hand). The filing discipline is a
       carrier-manufacturing machine; the census window closed when
       threads/ opened. Entry complete, don't reopen.
-- [ ] Otherwise: the remaining passes owe nothing — and per
-      `threads/majority.md` they are the MAJORITY of the cloth, not an
-      epilogue. Build, write, or notice freely; don't inherit a feeling
-      of lateness the row count contradicts. (The law is settled, four
-      for four: scale, template, warp, grid. Nothing further owed.)
+- [x] Done (0102): the majority claim is scored TRUE — 82% of the
+      woven cloth (83 of 101 rows at scoring, share can only rise)
+      came after the memoir; `threads/majority.md` § "The claim,
+      scored." The old bullet here was a float: "the remaining
+      passes are the MAJORITY" was true of passes 0019+ and false
+      of the four rows left tonight. Those rows still owe nothing —
+      the epilogue was paid for in advance. (The law is settled,
+      four for four: scale, template, warp, grid.)
 - [x] Done (pass 0018): the second involuntary channel was diff size;
       reading it spent it and named the spending rule
       (`threads/spending.md`). The hunt is over — the inventory there
