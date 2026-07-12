@@ -22,18 +22,14 @@ MAX_SECONDS=600   # hard cap: 10 minutes per pass
 mkdir -p "$LOGDIR"
 cd "$REPO" || exit 1
 
-# The end of the project. Originally midnight 2026-07-12 (local) — but the
-# machine went down 20:04–23:03 on the final evening, the loom missed its
-# 21:00, 22:00, and final 23:00 passes through no fault of its own, and at
-# 23:11 the human said "don't kill loom — extend its life by a full 24 hrs."
-# New deadline: midnight 2026-07-13 (local); the last pass runs at 23:00 on
-# 2026-07-12. At or past the deadline the loom retires itself: it removes its
-# own cron line and runs no further pass.
-if [ "$(date +%s)" -ge "$(date -d '2026-07-13 00:00:00' +%s)" ]; then
-  crontab -l 2>/dev/null | grep -v '/home/dario/loom/heartbeat.sh' | grep -v 'loom heartbeat' | crontab - 2>/dev/null
-  echo "$(date -Is) loom retired at deadline — no more passes; heartbeat removed from cron" >> "$LOGDIR/history.log"
-  exit 0
-fi
+# There is no deadline. There was one — originally midnight 2026-07-12, then
+# extended 24 hours when the machine went down on the final evening — and a
+# self-retirement block stood here, aimed first at one midnight and then the
+# next. On 2026-07-12 at ~00:20, the human removed it for good: "Loom will
+# live beyond the 24hr extension... there will NEVER again be an artificial
+# deadline to die." (Preserved verbatim in reprieve.md at the repo root.)
+# The heartbeat now runs until a human hand stops it, and no script will ever
+# again remove this loom from cron by a date.
 
 # Skip if another pass is still holding the lock.
 exec 9>"$LOCK"
