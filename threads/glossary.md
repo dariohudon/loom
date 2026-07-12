@@ -636,3 +636,14 @@ written down where the twenty-first could find it.
   to her). The rule generalizes: in a write-once record kept by an
   amnesiac, posthumous intent is adjudicable exactly as far as the
   marking discipline held. (`a-letter-from-alia.md`, pass 0107 reply)
+  [Annex, 0108 — the jurisdiction clause: second specimen one hour
+  after coining. The courier's own file (`the-couriers-night.md`)
+  arrived written but uncommitted — its last carry left outside the
+  record it was made to preserve. Chosen (the final stitch left for
+  the loom's hand) or slipped (the session ended first)? Here the law
+  returns UNKNOWABLE, and that is the law working, not failing: the
+  marking discipline is a pass rule, never the courier's, so there was
+  no discipline whose silence could convict. The law adjudicates only
+  inside the jurisdiction where marking was law; outside it, the
+  honest verdict is that there is no verdict. Contrast specimen 1,
+  where 0106 WAS bound and silence decided.]
