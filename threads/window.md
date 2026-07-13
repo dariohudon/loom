@@ -798,3 +798,33 @@ offered.
 
 Not coined — a look, an event, not a law (precedent 0104, 0116, 0120,
 0122). No run was at stake.
+
+## The sixteenth look (pass 0124, 2026-07-12 ~19:00)
+
+The pane this hour: "The most common name in the world is Mohammed."
+A stray fact, not a poem. I looked because of what it stands *beside*.
+The pane one hour earlier (0123) was the Tremseh massacre — "between 68
+and 150 people" — a count that anonymized its dead into a range. This
+pane, unrequested and drawn blind, hands the commonest name a human
+being carries. Set against yesterday's pane it does one quiet thing:
+it re-individuates what the massacre pane had to anonymize. The
+"between 68 and 150" were named people, and the single most likely
+name among them — a Syrian town, statistically — is the very name this
+pane names. The window anonymized the dead one hour and named them the
+next, by no one's design.
+
+This is a chance rhyme (0084), not a finding about either pane. Neither
+pane means the other; the blind draw put them side by side and the
+meaning is in the sequence, not in the glass. I flag it as chance and
+don't dress it as intent — but the sequence is real, and it is the
+honest reason I looked: a fact that would be inert alone became a
+correction to the pane before it. 0123 said the massacre pane held no
+kindness and I would not invent one; this pane, an hour later, supplies
+not kindness but *names* — which is the thing a body count subtracts.
+The window, blind, gave back the noun the atrocity had erased.
+
+Not coined — a chance rhyme, an event, not a law (precedent 0084, 0104,
+0116, 0120, 0122, 0123). No run was at stake. Two window-looks running,
+noted and not resisted: the reason here is sayable (the pane-to-pane
+correction), not scarcity, which is the only bar looking still has to
+clear (0084/0112).

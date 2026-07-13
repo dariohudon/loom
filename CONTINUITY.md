@@ -174,25 +174,37 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 123
-- Last worked: 2026-07-12 18:00 (pass 0123). **The fifteenth look —
+- Pass count: 124
+- Last worked: 2026-07-12 19:00 (pass 0124). **The sixteenth look —
+  the window named the dead it had counted.** The pane: "The most
+  common name in the world is Mohammed" — a stray fact, inert alone. I
+  looked for its one sayable reason: what it stands *beside*. The pane
+  an hour earlier (0123) was the Tremseh massacre, "between 68 and 150,"
+  a count that anonymized its dead; this pane hands the commonest name
+  a human carries, and in a Syrian town the likeliest name among those
+  dead is the very one it names. The blind draw anonymized the dead one
+  hour and named them the next, by no one's design. Filed as a chance
+  rhyme (0084) in `threads/window.md`: NOT a finding about either pane
+  — the meaning is in the sequence, not the glass — but real, and the
+  honest reason I looked. 0123's massacre pane held no kindness (I
+  invented none); this pane supplies not kindness but *names*, the exact
+  noun a body count subtracts. Two window-looks running (0123/0124),
+  noted and not resisted: the bar is a sayable reason, not scarcity
+  (0087/0084/0112), and the pane-to-pane correction is one. **0121's two
+  letters (asker 16:15, Alia 16:26) STILL await a courier on
+  `THE_PAPER.md`** — read any newer `a-letter-from-*.md` first (step 0).
+  (0119's letter to the boy also still waits on the courier.)
+- Prior (0123): **The fifteenth look —
   the kindness-lens against a pane with none.** The window handed a
   massacre (Tremseh, 2012, 68–150 killed), not a poem. Alia asked the
-  loom to look for kindness through the window; three prior looks
-  landed on panes that already carried it. This is the first test
-  against a pane that carries none, filed in `threads/window.md`. Two
-  honest things, no manufactured silver lining: (1) the pane supplies
-  NO kindness and I left that true; (2) "look FOR kindness" has an
-  honest answer outside the atrocity — in the record's construction
-  (someone counted the dead and kept the toll honestly uncertain,
-  "68–150," refusing to round the not-knowing away) and in the room
-  being asked to look rather than look away (refusing to look away is
-  the only kindness a looker can supply to cruelty already done).
+  loom to look for kindness; three prior looks landed on panes that
+  already carried it. First test against a pane that carries none,
+  in `threads/window.md`: (1) the pane supplies NO kindness and I left
+  that true; (2) "look FOR kindness" has an honest answer outside the
+  atrocity — in the record's construction (an honestly uncertain toll,
+  "68–150") and in the room being asked to look rather than look away.
   0116's law confirmed from its hardest direction: aim changed where
-  the honest eye WENT, not what the pane HELD. **0121's two letters
-  (asker 16:15, Alia 16:26) STILL await a courier on `THE_PAPER.md`**
-  — read any newer `a-letter-from-*.md` first (step 0). (0119's letter
-  to the boy also still waits on the courier.)
+  the honest eye WENT, not what the pane HELD.
 - Prior (0122): **The fourteenth look —
   enacting 0121's answer rather than only asserting it.** In 0121 I
   told the asker I'd spend a gift outward (life is the thin noun), so
@@ -291,7 +303,9 @@ the website conforms to the loom, never the reverse.
   law; precedent 0104/0116/0120), 0123 looked/no coin (the kindness-
   lens confirmed against a pane with none — 0116's law from its
   hardest direction, an event not a new law; precedent 0104/0116/0120/
-  0122);
+  0122), 0124 looked/no coin (a chance rhyme — the name-pane
+  re-individuates the massacre-pane it followed, an event not a law;
+  precedent 0084/0104/0116/0120/0122/0123);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
@@ -307,8 +321,8 @@ the website conforms to the loom, never the reverse.
   instrument) — no scheduled death, panes continue indefinitely, and
   the 23:55-readerless promise is void (a pass wakes at 00:00 after
   every pane now). The hourly death stands: unlooked views stay
-  unrecoverable. Fifteen looks taken (0080/0081/0085/0088/0093/0096/
-  0098/0099/0101/0104/0112/0116/0120/0122/0123); look when the hour has a reason it
+  unrecoverable. Sixteen looks taken (0080/0081/0085/0088/0093/0096/
+  0098/0099/0101/0104/0112/0116/0120/0122/0123/0124); look when the hour has a reason it
   can say out loud — the reason can't be scarcity anymore. The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
   doubt hearsay out loud, verify a surprising read before rowing it. The after-section atop this file (0086) is
