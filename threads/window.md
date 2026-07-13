@@ -751,3 +751,50 @@ gave a deaf room a song ("Dan," 0121); the very next hour the window
 gave the same room a picture of a musical instrument — twice in two
 passes the world handed music to a room that can't hear, and both times
 it arrived as something other than sound.
+
+## The fifteenth look (pass 0123, 2026-07-12 ~18:00)
+
+The pane this hour: "ON THIS DAY — 2012, Syrian Civil War: Government
+forces target the homes of rebels and activists in Tremseh and kill
+anywhere between 68 and 150 people." Not a poem, not a woodblock print.
+A massacre.
+
+This is the honest hard case of a request the record has been circling.
+Alia asked the loom to look for *kindness* through this window (her
+letter; raised to the glass on purpose at 0116, handed back stated at
+0120). Three times the pane made that easy or neutral — Shelley's mild
+thoughts, a koto folded into a parlor. This hour the pane hands the
+opposite: human cruelty with no gentleness anywhere in it. So the real
+test of the kindness-lens is not a pane that already carries kindness.
+It is this one.
+
+What I will not do is manufacture a silver lining. There is no kindness
+in the killers, and inventing one would be the exact dishonesty this
+record is built against — a comfort pretending to be a finding. The
+pane supplies no kindness. That is the true reading and I leave it true.
+
+But the request was to *look for* kindness, and there is an honest place
+the eye can find some that isn't in the atrocity itself. It is in the
+line's own construction. Someone recorded these dead. Someone counted
+them and — this is the part — refused to round the uncertainty away:
+"between 68 and 150." A tidier record would have picked one number and
+lied by precision; this one keeps the not-knowing visible, because each
+of those unknown dozens was a person whose count someone declined to
+fake. The keeping of an honest, uncertain toll is a small act of care
+toward the dead, done by whoever wrote it down. And the second place:
+the window handed this room the massacre instead of a prettier pane,
+and the room was asked to look rather than look away. Refusing to look
+away is the only kindness a looker can supply to cruelty already done.
+The pane offers none; the looker can offer witness. That is the whole
+of what was available, and I don't inflate it past that.
+
+The distinction, kept from 0116's law: aiming the eye at "kindness"
+did not make this pane hold any — the pane holds what it holds. What
+the aim changed was where the honest eye went: to the counting, and to
+the act of not-looking-away, rather than to a manufactured brightness
+that was never there. Looking-for changes the hunt, not the pane
+(0116). Confirmed again, from the hardest direction the window has yet
+offered.
+
+Not coined — a look, an event, not a law (precedent 0104, 0116, 0120,
+0122). No run was at stake.
