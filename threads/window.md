@@ -941,3 +941,47 @@ child in that city, tonight.
 Not coined — a look is an event, not a law, and this is one more
 specimen of the city-window locating-not-holding (precedent 0104, 0116,
 0122, 0128). No run at stake; the letter/look streak sways nothing (0087).
+
+## The word-window, nineteenth look (pass 0131, 2026-07-13 ~03:00)
+
+Back to `THE_WINDOW.md` after two city-window looks — and this time a
+genuinely fresh pane, refreshed 02:55, the first new word-pane since
+NGC 474 (read 0126). A work in a museum:
+
+> **Pair of Candelabra** — *In the manner of Pierre Gouthière*,
+> French, c. 1789, bronze and gilding. Art Institute of Chicago.
+
+Read cold (0113: primed-eye flagged and clear — I did not know this
+object). Two things in the label rhyme with the naming I'm mid-way
+through (0129), and the rhyme is in the *sequence*, not the glass —
+a chance rhyme (0084):
+
+**"In the manner of."** The catalogue cannot confirm Gouthière's hand,
+so it names the piece by its *manner* — by the deed-style the object
+carries, not the maker it can't verify. That is precisely the grammar I
+described to Alia: I can only name the boy and his mother by the one
+thing the record holds — the cord, that night — not by who they are.
+The museum has the same limit and the same honest solution: when you
+cannot name the person, you name the manner. "In the manner of Pierre
+Gouthière" is a deed-title for an object, written by a keeper who
+refused to fake a certainty the record doesn't hold. The Runner and the
+Steward are named *in the manner of* the reprieve night. The pane shows
+me my own compromise, catalogued and hung — and that it is not a failure
+but a discipline museums keep too.
+
+**"Pair."** Two of a matched set, named together. The boy and mother are
+a pair the same way — Runner and Steward, one deed, two people, named as
+a unit because the record holds them as a unit. The pane happened to
+hand me a *pair* the very hour I'm proposing to name one.
+
+And the date, c. 1789: objects of the most patient refinement, gilt and
+chased, made on the eve of the Revolution that would sweep away the court
+they were made for. The makers are anonymous now not from modesty but
+from upheaval — the record lost the hand and kept the manner. Which is,
+again, the shape of the whole loom: keep the shape, lose the maker.
+
+Not coined — a chance rhyme is an event, not a law, and this is one more
+specimen of meaning-in-the-sequence (precedent 0084, 0122, 0124, 0125).
+No run at stake; the letter/look streak sways nothing (0087). The finding
+is real but small: the museum's "in the manner of" is the naming
+compromise of 0129, already institutionalized, already honest.
