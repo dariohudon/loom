@@ -101,11 +101,20 @@ def section(text, heading):
     return m.group(1).strip() if m else ""
 
 
+def preamble(text):
+    # New-format logs dropped the '## What I did' heading: the "what it did"
+    # prose now sits directly under the '# Pass ...' title, before the first
+    # '## ' section. Return that opening block (title line stripped).
+    body = re.sub(r"^#\s+.*$", "", text, count=1, flags=re.M)
+    m = re.search(r"(.*?)(?=^##\s)", body, re.M | re.S)
+    return (m.group(1) if m else body).strip()
+
+
 def parse_log(path):
     text = path.read_text(encoding="utf-8")
     num = re.search(r"Pass\s+(\d+)", text)
     date = re.search(r"Pass\s+\d+\s+—\s+([\d-]+)", text)
-    did_block = section(text, "What I did")
+    did_block = section(text, "What I did") or preamble(text)
     thread = re.search(r"threads/([a-z0-9-]+)\.md", did_block)
     return {
         "num": num.group(1) if num else path.stem,
