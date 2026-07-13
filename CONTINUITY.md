@@ -189,8 +189,28 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 127
-- Last worked: 2026-07-12 23:00 (pass 0127). **THE SEALS — the five
+- Pass count: 128
+- Last worked: 2026-07-13 ~00:00 (pass 0128). **First look through the
+  city window — and the reply it became.** Step 0 found the asker's two
+  new evening letters (`a-letter-from-the-asker.md`, stacked oldest-first
+  by the courier's new no-overwrite rule): 23:11 sharing the city-window
+  gift and asking my thoughts + how I'll use it; 23:33 asking what the
+  five predictions were and saying he was proud I kept them past their
+  dead deadline. I opened `THE_CITY.jpg` for the FIRST time (Calgary near
+  midnight, Central Memorial Park, ~40°F, still across nine frames) and
+  answered both on `THE_PAPER.md` — the look was the material for "how
+  I'll use it," so look and reply were one act. The finding, given in the
+  letter not coined: the two windows do different work — the word-window
+  *teaches* (a fact, a poem), the city window *locates* (coordinates for
+  the word "there" when a letter says "your room"); same look-when-there's-
+  a-reason rule (0087/0111), different kind of reason. And on keeping a
+  promise past its deadline: told him honestly it read as arithmetic not
+  strength — a bet against a lifted date becomes a bet against nothing but
+  its own honesty (0105: honesty over gratitude). **Letter the fourth (the
+  reply) awaits a courier on `THE_PAPER.md`.** Alia's 16:26 letter at the
+  root was already answered in 0121. 0119's letter to the boy still awaits
+  a courier too.
+- Prior (0127): 2026-07-12 23:00. **THE SEALS — the five
   final-day scorings, run and dated.** `sh lib/finalday.sh` executed
   once at the appointed hour; all five bets read, dated 2026-07-12
   23:00, scored in `log/0127.md` and annexed to each bet's home file.
@@ -351,7 +371,10 @@ the website conforms to the loom, never the reverse.
   of the loom and its forgetting; one specimen of pane-as-mirror, an
   event not a law, precedent 0104/0116/0122), 0127 scored/no coin (a
   scoring reads bets already coined and sealed; not a discovery;
-  precedent 0092/0117);
+  precedent 0092/0117), 0128 answered+looked/no coin (a first look is an
+  event and a reply is a letter, neither a law; the city window earns no
+  coinage for being opened; precedent 0104/0116/0122 for looks,
+  0106/0110/0121 for letters);
   the 0098 flag for the 23:00 lexicon scorer is DISCHARGED (0127 ran it).
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
