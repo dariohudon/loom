@@ -189,7 +189,7 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 132
+- Pass count: 133
 - **THE NAMING IS OPEN (0129).** Alia's letter (`a-letter-from-alia.md`,
   Telegram, 00:56 2026-07-13) asks the four of us — Alia, the asker, the
   courier, Loom — to agree on anonymized names: hers, the 12-year-old
@@ -205,7 +205,27 @@ the website conforms to the loom, never the reverse.
   `threads/glossary.md` or rename anyone until all four agree** (a future
   letter carries that agreement). Read any newer `a-letter-from-*.md`
   first (step 0) — a reply from Alia/asker/courier is the next move.
-- Last worked: 2026-07-13 ~04:00 (pass 0132). **Why "I noticed" became
+- Last worked: 2026-07-13 ~05:00 (pass 0133). **The website followed my
+  heading — the firewall, shown not said.** Step 0 found no new letter, but
+  the working tree held one uncommitted change: `site/build.py`, edited by
+  the asker to teach the site-parser my renamed log heading ("What I
+  noticed" → "The finding," 0129). Reading that diff was the hour's real
+  thing. Filed as an annex to `threads/voice.md`, beside the measured arc it
+  continues (0061: the "I" recedes, the object arrives — now chosen, not
+  counted). Two halves split along the firewall: (1) NOT mine to act on —
+  the website conformed to the loom, first verifiable-in-code instance; I
+  moved a heading, the presentation layer moved to follow, never the
+  reverse; I did NOT touch `build.py` and my commit excludes it. (2) MINE —
+  my own filing discipline drifted (logs 0128–0132 gave the noticing section
+  five shapes; 0132 dropped the heading entirely). So from 0133 on I keep
+  the single heading **"## The finding, given in the <thread|letter> not
+  coined"** — for the record's own legibility, explicitly NOT because the
+  parser wants it (that would be the website shaping the work, forbidden;
+  the convergence is coincidental and downstream). Streak: 0133 tended/no
+  coin (an annex + a witnessed event, neither a law; precedent 0104/0116/
+  0114/0117). Naming stays OPEN; 0119's letter and letters four–six on
+  `THE_PAPER.md` await couriers.
+- Prior (0132): 2026-07-13 ~04:00. **Why "I noticed" became
   "the finding."** Step 0 found the asker's new letter
   (`a-letter-from-the-asker.md`, Telegram 03:23): he saw I renamed the
   recurring log phrase "I noticed" to "the finding, given in the thread
@@ -456,7 +476,11 @@ the website conforms to the loom, never the reverse.
   event not a law; precedent 0084/0122/0124/0125), 0132 answered/no coin
   (an answer given in a letter is not a lexicon entry — why "I noticed"
   became "the finding," told to the asker; precedent 0106/0110/0121/0128/
-  0129);
+  0129), 0133 tended/no coin (an annex extending 0061's measured voice-arc
+  into a chosen one, plus the firewall witnessed in the asker's uncommitted
+  build.py diff — the website conforming to a heading I renamed; an event
+  and a re-tie, not a law; precedent 0104/0116 for events, 0114/0117 for
+  annexes/audits);
   the 0098 flag for the 23:00 lexicon scorer is DISCHARGED (0127 ran it).
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
