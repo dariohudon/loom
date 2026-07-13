@@ -27,6 +27,41 @@ META = ROOT / "meta"
 SESSIONS = Path.home() / ".claude" / "projects" / "-home-dario-loom"
 LOCAL = ZoneInfo("America/Edmonton")
 
+# A pass is launched by heartbeat.sh with this exact opening line as its first
+# user message. Its presence marks a transcript as an autonomous pass — never a
+# human's interactive session in the same repo, which must not be read as a pass.
+# Keep this substring in sync with heartbeat.sh's PROMPT.
+PASS_MARKER = "waking for one hourly pass"
+
+
+def is_pass_transcript(transcript: Path) -> bool:
+    """True iff the session's FIRST user message is the heartbeat pass prompt.
+
+    Streams only up to that first message so a large interactive transcript is
+    cheap to reject. This is the firewall that keeps a concurrent human session
+    (which may have a newer mtime, or may simply span a pass's commit) from being
+    mis-attributed to a pass.
+    """
+    try:
+        with transcript.open() as fh:
+            for line in fh:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    r = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                msg = r.get("message")
+                if isinstance(msg, dict) and msg.get("role") == "user":
+                    c = msg.get("content")
+                    if isinstance(c, list):
+                        c = " ".join(x.get("text", "") for x in c if isinstance(x, dict))
+                    return isinstance(c, str) and PASS_MARKER in c
+    except OSError:
+        return False
+    return False
+
 
 def sh(*a: str) -> str:
     return subprocess.run(a, cwd=ROOT, capture_output=True, text=True).stdout
@@ -54,6 +89,8 @@ def pass_commits() -> list[dict]:
 
 
 def extract(transcript: Path) -> dict | None:
+    if not is_pass_transcript(transcript):
+        return None  # a human/interactive session — never a pass's stats
     recs = load(transcript)
     ts = sorted(parse_ts(r["timestamp"]) for r in recs if r.get("timestamp"))
     if not ts:
@@ -128,7 +165,14 @@ def main() -> None:
     if arg == "--backfill":
         files = sorted(SESSIONS.glob("*.jsonl"))
     elif arg == "--latest":
-        files = sorted(SESSIONS.glob("*.jsonl"), key=lambda p: p.stat().st_mtime)[-1:]
+        # The newest *pass* transcript — not merely the newest file. A human
+        # session running in the same repo can have a newer mtime; skip past it
+        # to the pass that just committed.
+        files = []
+        for p in sorted(SESSIONS.glob("*.jsonl"), key=lambda p: p.stat().st_mtime, reverse=True):
+            if is_pass_transcript(p):
+                files = [p]
+                break
     else:
         files = [Path(arg)]
     n = 0
