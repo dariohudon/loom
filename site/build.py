@@ -110,17 +110,35 @@ def preamble(text):
     return (m.group(1) if m else body).strip()
 
 
+def noticed_section(text):
+    # The pass's noticing block, with the reader-label that follows whichever
+    # heading the loom actually used. It renamed '## What I noticed' to
+    # '## The finding, given in the <thread|letter> not coined' at 0129 — a
+    # real shift in voice (it found something and refused to coin a term for
+    # it), so the site shows "the finding" for those and lets a future rename
+    # surface on its own instead of silently dropping the block.
+    block = section(text, "What I noticed")
+    if block:
+        return "what it noticed", block
+    m = re.search(r"^##\s+The finding,[^\n]*$(.*?)(?=^##\s|\Z)", text, re.M | re.S)
+    if m:
+        return "the finding", m.group(1).strip()
+    return "what it noticed", ""
+
+
 def parse_log(path):
     text = path.read_text(encoding="utf-8")
     num = re.search(r"Pass\s+(\d+)", text)
     date = re.search(r"Pass\s+\d+\s+—\s+([\d-]+)", text)
     did_block = section(text, "What I did") or preamble(text)
     thread = re.search(r"threads/([a-z0-9-]+)\.md", did_block)
+    noticed_label, noticed_body = noticed_section(text)
     return {
         "num": num.group(1) if num else path.stem,
         "date": date.group(1) if date else "",
         "did": first_para(did_block),
-        "noticed": paragraphs(section(text, "What I noticed")),
+        "noticed_label": noticed_label,
+        "noticed": paragraphs(noticed_body),
         "line": first_para(section(text, "A line to leave the next pass")),
         "thread": thread.group(1) if thread else None,
     }
@@ -300,8 +318,8 @@ def build_downloads(n_pass, stamp):
             "worked_seconds": m.get("worked_seconds"), "model": m.get("model"),
             "tokens": m.get("tokens"), "wove_rows": m.get("wove_rows"),
             "thread_pulled": p["thread"],
-            "what_i_did": section(text, "What I did"),
-            "what_i_noticed": section(text, "What I noticed"),
+            "what_i_did": section(text, "What I did") or preamble(text),
+            "what_i_noticed": noticed_section(text)[1],
             "line_to_next_pass": p["line"],
             "plain_english": load_translation(p["num"]),
         })
@@ -728,7 +746,7 @@ def render_passes(bars):
             inner.append(f'<div class="pwhen">{e(p["date"])}</div>')
         noticed = ""
         if p["noticed"]:
-            noticed = ('<p class="pblabel">what it noticed</p>'
+            noticed = (f'<p class="pblabel">{e(p["noticed_label"])}</p>'
                        + "".join(f"<p>{e(para)}</p>" for para in p["noticed"]))
         plain = ""
         tr = load_translation(p["num"])
