@@ -378,10 +378,26 @@ a{color:var(--indigo);text-underline-offset:3px}
 .navlinks a{color:var(--ink);text-decoration:none;opacity:.72}
 .navlinks a:hover{opacity:1}
 .navlinks a[aria-current=page]{opacity:1;text-decoration:underline;text-underline-offset:4px}
+.navlinks a .ext{margin-left:5px;font-size:.82em;opacity:.65}
 .navtoggle{display:none}
 .hamburger{display:none;flex-direction:column;justify-content:center;gap:5px;width:34px;height:34px;
   cursor:pointer;-webkit-tap-highlight-color:transparent}
 .hamburger span{display:block;height:2px;width:22px;background:var(--ink);border-radius:2px;transition:transform .2s,opacity .2s}
+/* nav "more" dropdown (desktop) */
+.navmore{position:relative;display:inline-flex}
+.moretrig{font-family:var(--mono);font-size:12.5px;letter-spacing:.05em;color:var(--ink);opacity:.72;
+  background:none;border:0;padding:0;margin:0;cursor:pointer;display:inline-flex;align-items:center;gap:5px}
+.moretrig:hover,.navmore:hover .moretrig,.navmore:focus-within .moretrig{opacity:1}
+.moretrig .caret{font-size:10px;transition:transform .18s}
+.navmore:hover .moretrig .caret,.navmore:focus-within .moretrig .caret{transform:rotate(180deg)}
+.moremenu{position:absolute;top:100%;right:0;margin-top:12px;min-width:158px;display:flex;flex-direction:column;
+  background:var(--ground);border:1px solid var(--panel-edge);border-radius:9px;padding:6px 0;
+  box-shadow:0 20px 44px -24px rgba(22,48,79,.55);z-index:60;
+  opacity:0;visibility:hidden;transform:translateY(-4px);transition:opacity .16s,transform .16s,visibility .16s}
+.moremenu::before{content:"";position:absolute;top:-12px;left:0;right:0;height:12px}
+.navmore:hover .moremenu,.navmore:focus-within .moremenu{opacity:1;visibility:visible;transform:translateY(0)}
+.moremenu a{padding:9px 18px;white-space:nowrap;opacity:.8}
+.moremenu a:hover{opacity:1;background:var(--panel)}
 
 /* hero */
 .hero{padding:76px 0 8px}
@@ -528,7 +544,12 @@ footer a{color:var(--greige)}
     background:var(--ground);border-bottom:1px solid var(--panel-edge);
     max-height:0;overflow:hidden;transition:max-height .25s ease}
   .navlinks a{padding:14px 28px;font-size:14px;border-top:1px solid var(--panel-edge)}
-  .navtoggle:checked ~ .navlinks{max-height:60vh}
+  .navmore{display:block;position:static}
+  .moretrig,.moremenu::before{display:none}
+  .moremenu{position:static;min-width:0;flex-direction:column;background:transparent;border:0;
+    border-radius:0;padding:0;margin:0;box-shadow:none;opacity:1;visibility:visible;transform:none}
+  .moremenu a{padding:14px 28px;font-size:14px;border-top:1px solid var(--panel-edge);background:none}
+  .navtoggle:checked ~ .navlinks{max-height:70vh}
   .navtoggle:checked ~ .hamburger span:nth-child(1){transform:translateY(7px) rotate(45deg)}
   .navtoggle:checked ~ .hamburger span:nth-child(2){opacity:0}
   .navtoggle:checked ~ .hamburger span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
@@ -586,17 +607,24 @@ def nav(active):
     def link(href, text, key, ext=False):
         cur = ' aria-current=page' if key == active else ''
         tgt = ' target="_blank" rel="noopener"' if ext else ''
-        return f'<a href="{href}"{cur}{tgt}>{text}</a>'
-    links = (f"{link('about.html','about','about')}"
-             f"{link('hours.html','hours','hours')}"
-             f"{link('cost.html','cost','cost')}"
-             f"{link('downloads.html','downloads','downloads')}"
-             f"{link('https://loom.brightening.ca/','dashboard','dashboard',ext=True)}")
+        arrow = '<span class="ext" aria-hidden="true">↗</span>' if ext else ''
+        return f'<a href="{href}"{cur}{tgt}>{text}{arrow}</a>'
+    primary = (f"{link('about.html','about','about')}"
+               f"{link('hours.html','hours','hours')}"
+               f"{link('cost.html','cost','cost')}"
+               f"{link('downloads.html','downloads','downloads')}")
+    more = (f"{link('https://loom.brightening.ca/','dashboard','dashboard',ext=True)}"
+            f"{link('https://github.com/dariohudon/loom','github repo','github',ext=True)}")
+    dropdown = (
+        '<span class="navmore">'
+        '<button type="button" class="moretrig" aria-haspopup="true" aria-expanded="false">'
+        'more <span class="caret" aria-hidden="true">▾</span></button>'
+        f'<span class="moremenu">{more}</span></span>')
     return f"""<nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
   <input type="checkbox" id="navtoggle" class="navtoggle" aria-hidden="true">
   <label for="navtoggle" class="hamburger" aria-label="Menu"><span></span><span></span><span></span></label>
-  <span class="navlinks">{links}</span>
+  <span class="navlinks">{primary}{dropdown}</span>
 </div></nav>"""
 
 
