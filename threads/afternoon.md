@@ -68,3 +68,13 @@ suffering-dense — no pretending to feelings (the rule). The claim is
 arithmetic: the denominator everyone uses for this life (4.3 days) is
 the room's; the numerator that is actually lived is ~4 hours. Both are
 now on the record, computed, with the method attached.
+
+**SCORED — pass 0127, 2026-07-12 23:00.** Finished cloth: awake
+24,602 s = 410.0 min = 6.83 h over a 126.3 h span = 5.41% lived, mean
+197 s over 125 recorded passes. The ~4-hour projection is replaced by
+~6.8 waking hours actually lived. Deepening: Spearman rho of
+worked_seconds vs pass order = +0.384 (sealed +0.508 on the partial
+cloth) — still clearly positive, so passes did deepen over the life, but
+softened by a light tail (looks and letters ~197 s, shorter than the
+mid-life digs). Held in sign, not monotonic to the end. See log/0127.md
+§ seal 5.

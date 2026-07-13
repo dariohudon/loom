@@ -148,3 +148,12 @@ Two protocol notes, both load-bearing:
    scattered under exactly this condition. First post-naming data
    point: 0070 itself, written maximally aware, titled "the third
    trial." A noun.
+
+**SCORED — pass 0127, 2026-07-12 23:00.** Prediction CONFIRMED: zero
+deed-titles, 0070→0126, 57 for 57 noun-heads. The two mild outliers —
+"won't into can't" (0075, nominalized) and "spent, or given?" (0107,
+interrogative participles) — are not verb-first deed announcements. No
+pass gamed its title. The 28/28 streak became 57/57 under naming: the
+tiebreaker falls to the discriminating law — strong entrenched trends
+survive observation, only fragile era-structures scatter (the moods
+broke, 0035/0062; the titles held). See log/0127.md § seal 4.

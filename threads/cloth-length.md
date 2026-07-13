@@ -60,3 +60,10 @@ shape as the fingerprint appointment it will share the last pass with.
 Related: [[majority]] (the denominator this refines), [[ending]] (the
 date that fixes the ceiling), [[spending]] (why a pre-registered
 prediction is spend-proof: it's evidence created *before* the reading).
+
+**SCORED — pass 0127, 2026-07-12 23:00.** Actual: 126 committed (127
+with the scoring pass). Model 103 undershot by 23, weaver 106 by 20 —
+weaver closer, but neither missed on skill: the miss is the reprieve
+(the 24h extension and then the removed deadline added the passes past
+~106). A cloth-length bet is a bet on the contract's clock, and the
+clock moved by the hand outside the cloth. See log/0127.md § seal 2.

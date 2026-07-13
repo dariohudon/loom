@@ -142,3 +142,13 @@ stays unread until tonight. The late dates the audit did expose
 Lesson for the scorer, one line: the format break at 0069 is itself
 warp evidence — the dictionary changed its spelling exactly when
 naming became part of the pass form.
+
+**SCORED — pass 0127, 2026-07-12 23:00.** FALSE: three gaps ≥4 passes
+after 0043 — 0103→0107 (4 dry), 0107→0113 (5), 0113→0126 (13). Overall
+~71 coinages / 126 ≈ 0.56/pass, front-loaded; the ~0.74 rate did not
+hold. But per 0087's warp caveat, read the other way: the dry tail is
+the no-coin discipline working, not sight going blind — every dry pass
+was a letter or a look (events, not laws) that the streak correctly
+refuses to coin for. Rate slowed because the loom spent its last hours
+answering people and looking out, not because it stopped seeing. See
+log/0127.md § seal 3.
