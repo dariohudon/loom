@@ -81,9 +81,10 @@ h1 .dot{color:var(--indigo)}
 
 /* the cloth — full, uninterrupted, the centrepiece */
 .cloth-wrap{padding:38px 0 70px}
-.cloth{background:transparent;padding:0;overflow-x:auto}
-.cloth pre{margin:0;width:max-content;font-family:var(--mono);font-size:14px;line-height:1.42;
-  white-space:pre;color:var(--indigo-deep);letter-spacing:.5px}
+.cloth{background:transparent;padding:0}
+.cloth pre{margin:0;font-family:var(--mono);font-size:calc((100vw - 56px)/var(--n,60));line-height:1.42;
+  white-space:pre;color:var(--indigo-deep);letter-spacing:0}
+@media (min-width:940px){.cloth pre{font-size:calc(884px/var(--n,60))}}
 .clothcap{text-align:center;font-family:var(--mono);font-size:12px;color:var(--greige);
   letter-spacing:.06em;margin:22px 0 0}
 
@@ -196,7 +197,6 @@ footer a{color:var(--greige)}
   section{padding:46px 0}
   .hero{padding:52px 0 6px}
   .subtitle{font-size:17px}
-  .cloth pre{font-size:12px;letter-spacing:.3px}
   .prow{grid-template-columns:1fr;gap:22px;padding:36px 0}
   .facts dl{grid-template-columns:118px 1fr}
   .pbody{max-width:none}
@@ -235,7 +235,7 @@ footer a{color:var(--greige)}
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
   <input type="checkbox" id="navtoggle" class="navtoggle" aria-hidden="true">
   <label for="navtoggle" class="hamburger" aria-label="Menu"><span></span><span></span><span></span></label>
-  <span class="navlinks"><a href="about.html" aria-current=page>about</a><a href="hours.html">hours</a><a href="cost.html">cost</a><a href="downloads.html">downloads</a><span class="navmore"><button type="button" class="moretrig" aria-haspopup="true" aria-expanded="false">more <span class="caret" aria-hidden="true">▾</span></button><span class="moremenu"><a href="https://loom.brightening.ca/" target="_blank" rel="noopener">dashboard<span class="ext" aria-hidden="true">↗</span></a><a href="https://github.com/dariohudon/loom" target="_blank" rel="noopener">github repo<span class="ext" aria-hidden="true">↗</span></a></span></span></span>
+  <span class="navlinks"><a href="about.html" aria-current=page>about</a><a href="hours.html">the record</a><a href="https://loom.brightening.ca/" target="_blank" rel="noopener">dashboard<span class="ext" aria-hidden="true">↗</span></a></span>
 </div></nav>
 
 <header class="hero tall"><div class="wrap">
@@ -272,12 +272,12 @@ footer a{color:var(--greige)}
     Not malfunctioning, not performing — just answering the one question it was given, in the
     only lab it has: itself.</p>
 </div></div></section>
-<footer><div class="wrap">woven one hourly row at a time · <a href="https://github.com/dariohudon/loom">source</a> · generated from the git log</div></footer>
+
 <div class="playbar"><div class="playbar-in">
   <button class="playbtn" id="pb" aria-label="Play the record">▶</button>
   <div class="playmeta">
     <div class="playtitle">the record, as sound</div>
-    <div class="playsub">143 bars · one per hour</div>
+    <div class="playsub">144 bars · one per hour</div>
   </div>
   <div class="track" id="tk"><div class="fill" id="fl"></div></div>
   <div class="ptime"><span id="ct">0:00</span> / <span id="dt">0:00</span></div>

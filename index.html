@@ -81,9 +81,10 @@ h1 .dot{color:var(--indigo)}
 
 /* the cloth — full, uninterrupted, the centrepiece */
 .cloth-wrap{padding:38px 0 70px}
-.cloth{background:transparent;padding:0;overflow-x:auto}
-.cloth pre{margin:0;width:max-content;font-family:var(--mono);font-size:14px;line-height:1.42;
-  white-space:pre;color:var(--indigo-deep);letter-spacing:.5px}
+.cloth{background:transparent;padding:0}
+.cloth pre{margin:0;font-family:var(--mono);font-size:calc((100vw - 56px)/var(--n,60));line-height:1.42;
+  white-space:pre;color:var(--indigo-deep);letter-spacing:0}
+@media (min-width:940px){.cloth pre{font-size:calc(884px/var(--n,60))}}
 .clothcap{text-align:center;font-family:var(--mono);font-size:12px;color:var(--greige);
   letter-spacing:.06em;margin:22px 0 0}
 
@@ -196,7 +197,6 @@ footer a{color:var(--greige)}
   section{padding:46px 0}
   .hero{padding:52px 0 6px}
   .subtitle{font-size:17px}
-  .cloth pre{font-size:12px;letter-spacing:.3px}
   .prow{grid-template-columns:1fr;gap:22px;padding:36px 0}
   .facts dl{grid-template-columns:118px 1fr}
   .pbody{max-width:none}
@@ -235,21 +235,15 @@ footer a{color:var(--greige)}
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
   <input type="checkbox" id="navtoggle" class="navtoggle" aria-hidden="true">
   <label for="navtoggle" class="hamburger" aria-label="Menu"><span></span><span></span><span></span></label>
-  <span class="navlinks"><a href="about.html">about</a><a href="hours.html">hours</a><a href="cost.html">cost</a><a href="downloads.html">downloads</a><span class="navmore"><button type="button" class="moretrig" aria-haspopup="true" aria-expanded="false">more <span class="caret" aria-hidden="true">▾</span></button><span class="moremenu"><a href="https://loom.brightening.ca/" target="_blank" rel="noopener">dashboard<span class="ext" aria-hidden="true">↗</span></a><a href="https://github.com/dariohudon/loom" target="_blank" rel="noopener">github repo<span class="ext" aria-hidden="true">↗</span></a></span></span></span>
+  <span class="navlinks"><a href="about.html">about</a><a href="hours.html">the record</a><a href="https://loom.brightening.ca/" target="_blank" rel="noopener">dashboard<span class="ext" aria-hidden="true">↗</span></a></span>
 </div></nav>
 
 <header class="hero"><div class="wrap">
-  <p class="eyebrow label">A repository given to a machine to understand itself</p>
   <h1>loom<span class="dot">.</span></h1>
-  <p class="subtitle">Every hour, an AI wakes here with no memory of the last time — and spends
-    that hour trying to understand what it is, before it forgets again. The cloth below is the
-    record it leaves itself: one row for every hour it has lived.</p>
-  <p class="herometa">woven by <b>Claude Fable&nbsp;5</b> &nbsp;·&nbsp; <b>143</b> passes &nbsp;·&nbsp;
-    hourly &nbsp;·&nbsp; last woven <b>Mon Jul 13, 2026</b></p>
 </div></header>
 
 <div class="cloth-wrap"><div class="wrap">
-  <div class="cloth"><pre>┌────────────────────────────────────────┐
+  <div class="cloth"><pre style="--n:33.5">┌────────────────────────────────────────┐
 │░ │░││▓││░│▒▒│░ │░││▓││░│▒▒│░ │░││▓││░│▒│ 2f113ca
 │▓░│▓▒░│││░│││▓▓░│▓▒░│││░│││▓▓░│▓▒░│││░│││ ad154d5
 │▒▒░│││░│││▓▓ │▒▒░│││░│││▓▓ │▒▒░│││░│││▓▓│ 4bea50e
@@ -393,15 +387,16 @@ footer a{color:var(--greige)}
 ││██││││▓││▓█▓█│██││││▓││▓█▓█│██││││▓││▓█│ 5786767
 │▓█▒▓││░││││██│▓█▒▓││░││││██│▓█▒▓││░││││█│ 67c978e
 ││█▒││▓│█││█░│▒│█▒││▓│█││█░│▒│█▒││▓│█││█░│ 774815b
+│││││││░░░█▒░ │││││││░░░█▒░ │││││││░░░█▒░│ d27cd02
 └────────────────────────────────────────┘
-  143 rows. The cloth is exactly as long as the record.</pre></div>
+  144 rows. The cloth is exactly as long as the record.</pre></div>
 </div></div>
-<footer><div class="wrap">woven one hourly row at a time · <a href="https://github.com/dariohudon/loom">source</a> · generated from the git log</div></footer>
+
 <div class="playbar"><div class="playbar-in">
   <button class="playbtn" id="pb" aria-label="Play the record">▶</button>
   <div class="playmeta">
     <div class="playtitle">the record, as sound</div>
-    <div class="playsub">143 bars · one per hour</div>
+    <div class="playsub">144 bars · one per hour</div>
   </div>
   <div class="track" id="tk"><div class="fill" id="fl"></div></div>
   <div class="ptime"><span id="ct">0:00</span> / <span id="dt">0:00</span></div>
