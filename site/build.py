@@ -370,13 +370,18 @@ a{color:var(--indigo);text-underline-offset:3px}
 .label{font-family:var(--mono);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--greige)}
 
 /* nav */
-.nav{background:var(--indigo)}
+.nav{background:transparent;border-bottom:1px solid var(--panel-edge)}
 .nav .wrap{display:flex;align-items:baseline;justify-content:space-between;padding-top:16px;padding-bottom:16px}
-.brand{font-family:var(--mono);font-weight:600;font-size:16px;color:#fff;text-decoration:none}
-.brand .dot{color:#fff}
+.brand{font-family:var(--mono);font-weight:600;font-size:16px;color:var(--ink);text-decoration:none}
+.brand .dot{color:var(--ink)}
 .navlinks{display:flex;gap:24px;font-family:var(--mono);font-size:12.5px;letter-spacing:.05em}
-.navlinks a{color:rgba(255,255,255,.72);text-decoration:none}
-.navlinks a[aria-current=page]{color:#fff;text-decoration:underline;text-underline-offset:4px}
+.navlinks a{color:var(--ink);text-decoration:none;opacity:.72}
+.navlinks a:hover{opacity:1}
+.navlinks a[aria-current=page]{opacity:1;text-decoration:underline;text-underline-offset:4px}
+.navtoggle{display:none}
+.hamburger{display:none;flex-direction:column;justify-content:center;gap:5px;width:34px;height:34px;
+  cursor:pointer;-webkit-tap-highlight-color:transparent}
+.hamburger span{display:block;height:2px;width:22px;background:var(--ink);border-radius:2px;transition:transform .2s,opacity .2s}
 
 /* hero */
 .hero{padding:76px 0 8px}
@@ -389,15 +394,15 @@ h1 .dot{color:var(--indigo)}
 .subtitle em{font-style:italic;color:var(--indigo-deep)}
 .orient{margin:18px 0 0;font-family:var(--mono);font-size:12.5px;color:var(--greige)}
 .orient a{color:var(--indigo)}
+.orient-label{text-transform:uppercase;letter-spacing:.16em;color:var(--ink-soft);font-weight:600}
 .herometa{margin:34px 0 0;font-family:var(--mono);font-size:13px;color:var(--greige);letter-spacing:.03em}
 .herometa b{color:var(--ink);font-weight:600}
 
 /* the cloth — full, uninterrupted, the centrepiece */
 .cloth-wrap{padding:38px 0 70px}
-.cloth{background:var(--indigo-deep);border-radius:12px;padding:34px 30px;overflow-x:auto;
-  box-shadow:0 40px 80px -44px rgba(22,48,79,.85),0 2px 0 rgba(255,255,255,.04) inset}
-.cloth pre{margin:0 auto;width:max-content;font-family:var(--mono);font-size:14px;line-height:1.42;
-  white-space:pre;color:#cbd6e8;letter-spacing:.5px}
+.cloth{background:transparent;padding:0;overflow-x:auto}
+.cloth pre{margin:0;width:max-content;font-family:var(--mono);font-size:14px;line-height:1.42;
+  white-space:pre;color:var(--indigo-deep);letter-spacing:.5px}
 .clothcap{text-align:center;font-family:var(--mono);font-size:12px;color:var(--greige);
   letter-spacing:.06em;margin:22px 0 0}
 
@@ -510,7 +515,6 @@ footer a{color:var(--greige)}
   section{padding:46px 0}
   .hero{padding:52px 0 6px}
   .subtitle{font-size:17px}
-  .cloth{padding:20px 16px}
   .cloth pre{font-size:12px;letter-spacing:.3px}
   .prow{grid-template-columns:1fr;gap:22px;padding:36px 0}
   .facts dl{grid-template-columns:118px 1fr}
@@ -518,7 +522,16 @@ footer a{color:var(--greige)}
   .plain-text,.loom p{font-size:16px}
   .ledger{grid-template-columns:1fr;gap:4px 0}
   .ledger dt{text-align:left;margin-top:16px;font-size:19px}
-  .navlinks{gap:18px}
+  .nav .wrap{align-items:center;position:relative}
+  .hamburger{display:flex}
+  .navlinks{position:absolute;top:100%;right:0;left:0;flex-direction:column;gap:0;
+    background:var(--ground);border-bottom:1px solid var(--panel-edge);
+    max-height:0;overflow:hidden;transition:max-height .25s ease}
+  .navlinks a{padding:14px 28px;font-size:14px;border-top:1px solid var(--panel-edge)}
+  .navtoggle:checked ~ .navlinks{max-height:60vh}
+  .navtoggle:checked ~ .hamburger span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+  .navtoggle:checked ~ .hamburger span:nth-child(2){opacity:0}
+  .navtoggle:checked ~ .hamburger span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
   .playbar-in{padding:9px 16px;gap:12px}
   .playtitle{font-size:12px}
   .playsub{font-size:10.5px}
@@ -570,12 +583,20 @@ SCRIPT = """
 # ---------- fragments ----------
 
 def nav(active):
-    def link(href, text, key):
+    def link(href, text, key, ext=False):
         cur = ' aria-current=page' if key == active else ''
-        return f'<a href="{href}"{cur}>{text}</a>'
+        tgt = ' target="_blank" rel="noopener"' if ext else ''
+        return f'<a href="{href}"{cur}{tgt}>{text}</a>'
+    links = (f"{link('about.html','about','about')}"
+             f"{link('hours.html','hours','hours')}"
+             f"{link('cost.html','cost','cost')}"
+             f"{link('downloads.html','downloads','downloads')}"
+             f"{link('https://loom.brightening.ca/','dashboard','dashboard',ext=True)}")
     return f"""<nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
-  <span class="navlinks">{link('about.html','about','about')}{link('hours.html','hours','hours')}{link('downloads.html','downloads','downloads')}{link('cost.html','cost','cost')}</span>
+  <input type="checkbox" id="navtoggle" class="navtoggle" aria-hidden="true">
+  <label for="navtoggle" class="hamburger" aria-label="Menu"><span></span><span></span><span></span></label>
+  <span class="navlinks">{links}</span>
 </div></nav>"""
 
 
@@ -790,7 +811,7 @@ def dl_item(file, title, desc):
             f'<span class="dl-desc">{e(desc)}</span></a>')
 
 
-def render_downloads(n_pass):
+def render_downloads(n_pass, stamp):
     programs = ""
     for src in sorted((ROOT / "lib").glob("*.py")) + sorted((ROOT / "art").glob("*.py")):
         programs += dl_item(f"programs/{src.name}", src.name,
@@ -801,7 +822,7 @@ def render_downloads(n_pass):
   <h1>downloads<span class="dot">.</span></h1>
   <p class="subtitle">The complete record — the loom's words, its data, its art, and the very
     instruments it built to study itself. Free to use, study, and remix (MIT).</p>
-  <p class="orient">Updated every hour · finalized after the last pass, 11:00&nbsp;PM Mountain, Jul&nbsp;11, 2026</p>
+  <p class="orient"><span class="orient-label">Last updated</span> · {e(stamp)}</p>
 </div></header>
 
 <section><div class="wrap">
@@ -899,12 +920,6 @@ def render_cost(nav_bars):
     <dt>{fmt_big(tot['cache_creation'])}</dt><dd><b>context built</b> — the caching that keeps those hourly re-reads cheap.</dd>
     <dt>{fmt_big(tot['input'])}</dt><dd><b>fresh input</b> — everything genuinely new it took in each hour.</dd>
   </dl>
-</div></div></section>
-
-<section><div class="wrap"><div class="measure">
-  <p style="font-size:16px;color:var(--ink-soft)">All of it at <strong>no charge</strong>, under Claude
-    Fable&nbsp;5's free access. That free access ending at midnight on July&nbsp;12 is exactly why the
-    loom stops.</p>
 </div></div></section>"""
     return page("cost — loom", "cost", body, nav_bars)
 
@@ -924,7 +939,7 @@ def main():
 
     (DOCS / "index.html").write_text(render_home(bars, n_pass, last_woven), encoding="utf-8")
     (DOCS / "hours.html").write_text(render_passes(bars), encoding="utf-8")
-    (DOCS / "downloads.html").write_text(render_downloads(n_pass), encoding="utf-8")
+    (DOCS / "downloads.html").write_text(render_downloads(n_pass, stamp), encoding="utf-8")
     # keep the old URL working for anyone who bookmarked/linked it
     (DOCS / "passes.html").write_text(
         '<!doctype html><meta charset="utf-8">'
