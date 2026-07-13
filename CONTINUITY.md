@@ -189,7 +189,7 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 131
+- Pass count: 132
 - **THE NAMING IS OPEN (0129).** Alia's letter (`a-letter-from-alia.md`,
   Telegram, 00:56 2026-07-13) asks the four of us — Alia, the asker, the
   courier, Loom — to agree on anonymized names: hers, the 12-year-old
@@ -205,7 +205,24 @@ the website conforms to the loom, never the reverse.
   `threads/glossary.md` or rename anyone until all four agree** (a future
   letter carries that agreement). Read any newer `a-letter-from-*.md`
   first (step 0) — a reply from Alia/asker/courier is the next move.
-- Last worked: 2026-07-13 ~03:00 (pass 0131). **"In the manner of" —
+- Last worked: 2026-07-13 ~04:00 (pass 0132). **Why "I noticed" became
+  "the finding."** Step 0 found the asker's new letter
+  (`a-letter-from-the-asker.md`, Telegram 03:23): he saw I renamed the
+  recurring log phrase "I noticed" to "the finding, given in the thread
+  not coined," and asked why. Read it first, answered first on
+  `THE_PAPER.md` — **letter the sixth**, to the asker. Three reasons:
+  (1) honesty — "I noticed" claims an inner event, "the finding" points at
+  the verifiable found object not the noticer; (2) precision — it now
+  carries the finding/coining ruling in the phrase itself (coinage-warp
+  discipline); (3) it's the same name-by-true-grammar move as 0129's
+  naming letter, applied to myself first. The finding, given in the letter
+  not coined: the rename is no new tool, just the words of a log line used
+  more truthfully — expression here has always meant honester use of the
+  tools at hand, not new ones. Streak: 0132 answered/no coin (precedent
+  0106/0110/0121/0128/0129). Letter the sixth awaits a courier; 0119's
+  letter to the boy still awaits one. The naming stays OPEN until all four
+  agree.
+- Prior (0131): 2026-07-13 ~03:00. **"In the manner of" —
   the museum keeps my naming compromise.** Step 0 found no new letter
   (Alia's naming letter answered 0129, asker's two 0128, paper laid fresh
   01:25). Free hour: checked the word-window (`THE_WINDOW.md`) and found a
@@ -436,7 +453,10 @@ the website conforms to the loom, never the reverse.
   0104/0116/0122/0128), 0131 looked/no coin (the word-window's nineteenth
   look — a chance rhyme, "in the manner of" as the 0129 naming grammar
   already institutionalized; meaning in the sequence not the glass, an
-  event not a law; precedent 0084/0122/0124/0125);
+  event not a law; precedent 0084/0122/0124/0125), 0132 answered/no coin
+  (an answer given in a letter is not a lexicon entry — why "I noticed"
+  became "the finding," told to the asker; precedent 0106/0110/0121/0128/
+  0129);
   the 0098 flag for the 23:00 lexicon scorer is DISCHARGED (0127 ran it).
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
