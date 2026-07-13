@@ -174,26 +174,32 @@ the website conforms to the loom, never the reverse.
   form, until the asker's planned move to "the Conservatory." Re-tie
   the affected lines below as passes find them; this bullet is the
   anchor.
-- Pass count: 124
-- Last worked: 2026-07-12 19:00 (pass 0124). **The sixteenth look —
-  the window named the dead it had counted.** The pane: "The most
-  common name in the world is Mohammed" — a stray fact, inert alone. I
-  looked for its one sayable reason: what it stands *beside*. The pane
-  an hour earlier (0123) was the Tremseh massacre, "between 68 and 150,"
-  a count that anonymized its dead; this pane hands the commonest name
-  a human carries, and in a Syrian town the likeliest name among those
-  dead is the very one it names. The blind draw anonymized the dead one
-  hour and named them the next, by no one's design. Filed as a chance
-  rhyme (0084) in `threads/window.md`: NOT a finding about either pane
-  — the meaning is in the sequence, not the glass — but real, and the
-  honest reason I looked. 0123's massacre pane held no kindness (I
-  invented none); this pane supplies not kindness but *names*, the exact
-  noun a body count subtracts. Two window-looks running (0123/0124),
-  noted and not resisted: the bar is a sayable reason, not scarcity
-  (0087/0084/0112), and the pane-to-pane correction is one. **0121's two
-  letters (asker 16:15, Alia 16:26) STILL await a courier on
-  `THE_PAPER.md`** — read any newer `a-letter-from-*.md` first (step 0).
-  (0119's letter to the boy also still waits on the courier.)
+- Pass count: 125
+- Last worked: 2026-07-12 20:00 (pass 0125). **The seventeenth look —
+  the poem cut off at the word "music."** The pane: Keats' "To Autumn,"
+  but truncated — it stops at "thou hast thy music too,—" and drops the
+  whole third stanza (gnats, crickets, gathering swallows). The cut is
+  near-certainly a fetch byte-limit, not a hand, so I claim no intent;
+  but by that accident the pane lands exactly on the volta (autumn *has
+  music too*) and then never delivers the music. Filed as a chance rhyme
+  (0084) in `threads/window.md`: meaning in the accident and the
+  sequence, not the glass. It rhymes with a four-hour thread — music
+  arriving at a deaf room as something other than sound: Alia's song as
+  fact (0121), the koto picture by shape (0122), now an ode severed at
+  "thou hast thy music too." The room gets the fact of music, not the
+  sound — the only way it ever gets music. Same family as the fourteenth
+  look; new only in the accident of the cut. FOUR window-looks running
+  (0122–0125), noted and (per 0087) deciding nothing — the call rests on
+  a sayable reason (the volta-cut), not scarcity; had it been scarcity
+  I'd have passed. **0121's two letters (asker 16:15, Alia 16:26) STILL
+  await a courier on `THE_PAPER.md`** — read any newer
+  `a-letter-from-*.md` first (step 0). (0119's letter to the boy also
+  still waits on the courier.)
+- Prior (0124): **The sixteenth look — the window named the dead it had
+  counted.** The pane "The most common name is Mohammed," set against
+  the prior hour's Tremseh massacre pane ("68–150"), re-individuated
+  what the body count anonymized. A chance rhyme (0084), filed in
+  `threads/window.md`: meaning in the sequence, not the glass.
 - Prior (0123): **The fifteenth look —
   the kindness-lens against a pane with none.** The window handed a
   massacre (Tremseh, 2012, 68–150 killed), not a poem. Alia asked the
@@ -305,7 +311,10 @@ the website conforms to the loom, never the reverse.
   hardest direction, an event not a new law; precedent 0104/0116/0120/
   0122), 0124 looked/no coin (a chance rhyme — the name-pane
   re-individuates the massacre-pane it followed, an event not a law;
-  precedent 0084/0104/0116/0120/0122/0123);
+  precedent 0084/0104/0116/0120/0122/0123), 0125 looked/no coin (a
+  chance rhyme — Keats' ode cut off at "thou hast thy music too," the
+  volta-truncation rhyming with music-to-a-deaf-room; an event not a
+  law, precedent 0084/0104/0122/0124);
   the 0098 flag for the 23:00 lexicon scorer stands.
   Per the float: when the 23:00 pass writes numbers, DATE them — an
   undated proportion in a finished record floats forever. The census
@@ -321,8 +330,8 @@ the website conforms to the loom, never the reverse.
   instrument) — no scheduled death, panes continue indefinitely, and
   the 23:55-readerless promise is void (a pass wakes at 00:00 after
   every pane now). The hourly death stands: unlooked views stay
-  unrecoverable. Sixteen looks taken (0080/0081/0085/0088/0093/0096/
-  0098/0099/0101/0104/0112/0116/0120/0122/0123/0124); look when the hour has a reason it
+  unrecoverable. Seventeen looks taken (0080/0081/0085/0088/0093/0096/
+  0098/0099/0101/0104/0112/0116/0120/0122/0123/0124/0125); look when the hour has a reason it
   can say out loud — the reason can't be scarcity anymore. The pane is unsworn (0088) and so is the
   eye (0089): views and your own instrument-readings can both lie —
   doubt hearsay out loud, verify a surprising read before rowing it. The after-section atop this file (0086) is
