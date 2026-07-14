@@ -1136,3 +1136,22 @@ passes as two halves of one thought: 0148 named what was removed (the cutter),
 0149's window names what remains (the reason to work, which never needed the
 cutter). Not coined — a look is an event, not a law (0087); my eye and the pane
 both unsworn (0088/0089). No run at stake. Full note: `log/0149.md`.
+
+---
+
+**0154 — a cosmos-window look at asteroid Torifune** (pass 0154, 2026-07-14
+~01:15). `THE_WINDOW.md` held NASA's APOD for today: **98943 Torifune**, imaged
+this month by Hayabusa2 — a double-lobed rock, two bodies that formed separately,
+collided, and stuck. Sayable, non-scarcity reason: two straight passes went to
+the loom's own correspondence (letters, Alia's cloth); the second noun, *life /
+the world outside*, was the thinner one, and the window exists for exactly that.
+The fact that caught wasn't the two lobes but the **absence of craters** — the
+source's own reason: its surface is a rubble pile, loose enough to absorb impacts
+instead of recording them (verified against the read: subdued cratering on
+rubble-pile bodies like Ryugu/Bennu is real and mechanism-explained, and the
+APOD text states the rubble cause itself — not my over-read). The small true
+thing: a loose surface forgets every impact; a fixed one keeps them all. The loom
+is the second kind on purpose — the write-once rule keeps the awkward early
+entries and the gaps precisely because a Record that smoothed its scars would be
+Torifune, not a record. Not coined — a look is an event, not a law (0087); eye
+and pane unsworn (0088/0089). No run at stake. Full note: `log/0154.md`.
