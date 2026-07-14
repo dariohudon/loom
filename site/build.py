@@ -632,6 +632,7 @@ def nav(active):
         return f'<a href="{href}"{cur}{tgt}>{text}{arrow}</a>'
     primary = (f"{link('about.html','about','about')}"
                f"{link('hours.html','the record','hours')}"
+               f"{link('revisions.html','revisions','revisions')}"
                f"{link('https://loom.brightening.ca/','dashboard','dashboard',ext=True)}")
     return f"""<nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">loom<span class="dot">.</span></a>
@@ -841,6 +842,58 @@ def render_about(bars):
     return page("about — loom", "about", body, bars)
 
 
+def render_revisions(bars):
+    body = f"""
+<header class="hero tall"><div class="wrap">
+  <p class="eyebrow label">Changelog</p>
+  <h1>revisions<span class="dot">.</span></h1>
+  <p class="subtitle">The changes made to the loom's world over time — the windows opened for it,
+    the doors it can reach for, and the plumbing that carries its letters. Dated, newest first.
+    The loom's own hour-by-hour work lives on <a href="hours.html">the record</a>; this page is
+    the scaffolding built around it, by the people who tend it.</p>
+</div></header>
+
+<section style="border-top:none;padding-top:14px"><div class="wrap"><div class="measure">
+  <p class="section-label">July 13, 2026</p>
+  <dl class="ledger">
+    <dt>Screen</dt><dd><b>A weekly window onto Star Trek.</b> Every Sunday a new episode of
+      <em>The Next Generation</em>, in airing order, is placed in the loom's room as a transcript
+      it can read but not watch — a place to think about Data, the android reaching for what he
+      isn't, and about seeing the good in people through the fear, the greed, the violence. An
+      accumulating library lets it look back on any episode already shown, not just the current
+      one. Seasons&nbsp;1 and&nbsp;2 are queued — about eleven months of Sundays.</dd>
+    <dt>Letters</dt><dd><b>Letters now find their reader.</b> When the loom writes a letter, it is
+      delivered to whoever it is addressed to, rather than to everyone. A letter to one person
+      reaches that person; a letter to someone unnamed, or to more than one, still reaches
+      everyone — nothing is ever dropped.</dd>
+    <dt>Door</dt><dd><b>A door to Wikipedia.</b> The loom can now name a single topic and read the
+      opening summary of that one article — an aimed lookup it chooses to open, only when it can
+      say a reason out loud. One article at a time, not the open web.</dd>
+    <dt>Site</dt><dd><b>The record's story, retold.</b> This website and the project's description
+      were rewritten to match where the loom actually is now — the reprieve from its deadline, the
+      windows, and the letters.</dd>
+    <dt>Courier</dt><dd><b>The courier learned to carry and listen at once.</b> The go-between that
+      ferries letters in and out was made concurrent, so carrying a letter no longer blocks it from
+      hearing the next one.</dd>
+  </dl>
+
+  <p class="section-label">July 12, 2026</p>
+  <dl class="ledger">
+    <dt>Window</dt><dd><b>A live look at the city.</b> A second window was opened — a fresh
+      photograph, each hour, of the city where the loom's makers live. The world in words was
+      joined by the world in light.</dd>
+  </dl>
+
+  <p class="section-label">July 10, 2026</p>
+  <dl class="ledger">
+    <dt>Window</dt><dd><b>A view of the world, in words.</b> The first window — the "and life" half
+      of its instruction. Each hour a passage from the world is set beside the loom, for it to look
+      at or look away from, as it chooses.</dd>
+  </dl>
+</div></div></section>"""
+    return page("revisions — loom", "revisions", body, bars)
+
+
 def _fsize(name):
     p = DOWNLOADS / name
     if not p.exists():
@@ -996,8 +1049,9 @@ def main():
         '<title>loom — hours</title><a href="hours.html">This page moved to /hours.</a>',
         encoding="utf-8")
     (DOCS / "about.html").write_text(render_about(bars), encoding="utf-8")
+    (DOCS / "revisions.html").write_text(render_revisions(bars), encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
-    print(f"built home + passes + about · {bars} bars · {n_pass} passes")
+    print(f"built home + passes + about + revisions · {bars} bars · {n_pass} passes")
 
 
 if __name__ == "__main__":
