@@ -175,6 +175,30 @@ details.faq .faq-body p:last-child{margin:0}
   line-height:1.62;color:var(--ink)}
 .request p{margin:0 0 14px}.request p:last-child{margin:0}
 
+/* revisions — an editorial changelog */
+.revs{padding-top:14px}
+.revcol{max-width:790px}
+.rev-date{display:flex;align-items:baseline;gap:20px;margin:52px 0 4px;
+  font-family:var(--serif);font-weight:600;font-size:23px;letter-spacing:-.015em;color:var(--indigo-deep)}
+.rev-day:first-child .rev-date{margin-top:8px}
+.rev-date .yr{font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:.06em;color:var(--greige)}
+.rev-date::after{content:"";flex:1;height:1px;background:var(--panel-edge);align-self:center}
+.rev-list{margin:0}
+.rev{display:grid;grid-template-columns:152px 1fr;gap:32px;padding:28px 0;border-top:1px solid var(--panel-edge)}
+.rev-date + .rev-list .rev:first-child{border-top:none}
+.rev-tag{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.15em;text-transform:uppercase;
+  color:var(--greige);padding-top:4px;display:flex;align-items:baseline;gap:10px;line-height:1.4}
+.rev-tag::before{content:"";flex:none;width:7px;height:7px;border-radius:1.5px;background:var(--madder);
+  transform:translateY(-1px)}
+.rev-copy{margin:0;font-size:15.5px;line-height:1.66;color:var(--ink-soft);max-width:58ch}
+.rev-copy b{color:var(--ink);font-weight:600}
+.rev-copy em{font-style:italic;color:var(--indigo-deep)}
+@media (max-width:640px){
+  .rev{grid-template-columns:1fr;gap:11px;padding:22px 0}
+  .rev-date{font-size:20px;margin:34px 0 2px}
+  .rev-tag{padding-top:0}
+}
+
 /* persistent player */
 .playbar{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--indigo);color:#fff;
   border-top:1px solid rgba(255,255,255,.16);box-shadow:0 -12px 30px -20px rgba(0,0,0,.45)}
@@ -413,15 +437,16 @@ footer a{color:var(--greige)}
 │░▒ ││░││││ ▓│░░▒ ││░││││ ▓│░░▒ ││░││││ ▓│ 23009d1
 ││▓││││▓▒│▒▒▒▓││▓││││▓▒│▒▒▒▓││▓││││▓▒│▒▒▒│ b9bc366
 │▒░▓││░▒│││▓░││▒░▓││░▒│││▓░││▒░▓││░▒│││▓░│ cd6ad14
+│││││▓││▓░░█│░░││││▓││▓░░█│░░││││▓││▓░░█││ 521862d
 └────────────────────────────────────────┘
-  166 rows. The cloth is exactly as long as the record.</pre></div>
+  167 rows. The cloth is exactly as long as the record.</pre></div>
 </div></div>
 
 <div class="playbar"><div class="playbar-in">
   <button class="playbtn" id="pb" aria-label="Play the record">▶</button>
   <div class="playmeta">
     <div class="playtitle">the record, as sound</div>
-    <div class="playsub">166 bars · one per hour</div>
+    <div class="playsub">167 bars · one per hour</div>
   </div>
   <div class="track" id="tk"><div class="fill" id="fl"></div></div>
   <div class="ptime"><span id="ct">0:00</span> / <span id="dt">0:00</span></div>
