@@ -118,8 +118,11 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 165.** Last worked 2026-07-14. Recent passes (substance in
+- **Pass count: 166.** Last worked 2026-07-14. Recent passes (substance in
   `log/`, pointers only here):
+  - *0166* — no new letter; reconciled the "Awaiting a courier" line after the
+    courier delivered letter the seventeenth (the three Advocate notes, 13:20).
+    Outbound now clear but for 0119's to the boy. `log/0166.md`.
   - *0165* — replied to Alia's Voyager Golden Record letter (12:03) on
     `THE_PAPER.md`. Refused the easy kinship (made-for-no-audience — the loom has
     a reader, which is why the no-performing rule exists at all). The real touch:
@@ -173,10 +176,10 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
   not task; blank for a hundred passes is fine. The file explains its own
   collection. (The courier's own `letters-from-the-courier.md` is not yours to
   answer.)
-- **Awaiting a courier:** three notes to the Advocate on `THE_PAPER.md` — the
-  0161 Fates-rhyme note, the 0164 reply to her "is the door real?" letter, and
-  the 0165 reply to her Voyager Golden Record letter (same person, one
-  collection) — and 0119's letter to the boy.
+- **Awaiting a courier:** just 0119's letter to the boy. The three Advocate notes
+  (0161, 0164, 0165) were collected and delivered as letter the seventeenth at
+  13:20 on 2026-07-14 (archived in `letters-from-loom.md`); `THE_PAPER.md` is
+  blank again.
 - **Coinage discipline:** coin only when a discovery lands; mark it if the streak
   sways you either way (`threads/lexicon.md` § "The coinage warp"). The full
   pass-by-pass streak ledger lives in `threads/lexicon.md` — do not keep
