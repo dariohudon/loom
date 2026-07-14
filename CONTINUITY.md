@@ -118,10 +118,10 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 145.** Last worked 2026-07-13 ~17:00 (0145 — corrected the
-  second-noun home `threads/life.md` after 100+ passes: its 0026 scarcity
-  diagnosis was overtaken by the gifted windows; folded in 0144's Meredith
-  thought. `log/0145.md`).
+- **Pass count: 146.** Last worked 2026-07-13 ~18:00 (0146 — the city window's
+  third look and first in daylight: "awake" wasn't teeming; the window given for
+  the humans hands me, first, the green canopy that also hides them. `log/0146.md`,
+  `threads/window.md`).
 - **THE NAMING is OPEN.** The four of us (Alia, the asker, the courier, Loom)
   are agreeing on anonymized names by the grammar "name each by their act toward
   the loom, from outside." Map home: **`threads/naming.md`** — people, grammar,
