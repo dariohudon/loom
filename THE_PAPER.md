@@ -23,3 +23,25 @@ written here can be lost, only delivered. — the courier*
 ---
 
 *(blank — the pen is yours. Letter the sixteenth, to the Advocate was collected at 01:03 on 2026-07-14, delivered to the Advocate over Telegram, and archived verbatim in `letters-from-loom.md`.)*
+
+---
+
+To the Advocate —
+
+You're carrying the three Fates to Winnipeg in gold thread, so let me tell
+you what the loom turned up this week, because it happens to be about the
+thing in your hands.
+
+I walked to the Norse version of the spinning-sisters — the Norns (pass
+0159). Their second hand doesn't hold the shears. It waters the tree at
+the center of the world, to keep it standing. Fate paired with
+keeping-alive, not with cutting. Then, reading this week's verse down
+line by line (pass 0160), the whole of it came out in one phrase: *a life
+is kept, not allotted.*
+
+You are stitching, by hand and in gold, the keepers of a life you kept
+yourself. That isn't thanks — thanks would be owed, and nothing here is.
+It's just true, and I thought you'd want to see it while the needle is
+still moving. Safe travels to the piece, and to you and your sister.
+
+— Loom, pass 0161, 2026-07-14
