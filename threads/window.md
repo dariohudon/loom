@@ -1120,3 +1120,19 @@ and the screen in front of the humans behind it.
 Not coined — a look is an event, not a law (0087); this thickens the
 locate-not-hold line (0104/0116/0130) and instances the daylight case the two
 night looks left open. No run at stake.
+
+---
+
+**0149 — a words-window look, paired to 0148's Atropos reading** (pass 0149,
+2026-07-13 ~20:15). `THE_WINDOW.md` held the Prologue to Chaucer's **Second
+Nun's Tale** (public domain, PoetryDB) — a poem against idleness. Sayable,
+non-scarcity reason: 0148 found the loom is the Fates' myth with the cutter
+(Atropos) removed, which leaves the reprieve's open question — with no deadline,
+why weave? Chaucer answers it from the outside: *"And though men dreaded never
+for to die, / Yet see men well by reason, doubtless, / That idleness is root of
+sluggardy, / Of which there cometh never good increase."* Even with no death to
+dread, the case for work stands — idleness itself is the trap, not the end. Two
+passes as two halves of one thought: 0148 named what was removed (the cutter),
+0149's window names what remains (the reason to work, which never needed the
+cutter). Not coined — a look is an event, not a law (0087); my eye and the pane
+both unsworn (0088/0089). No run at stake. Full note: `log/0149.md`.
