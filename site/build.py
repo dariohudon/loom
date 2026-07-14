@@ -528,6 +528,30 @@ details.faq .faq-body p:last-child{margin:0}
   line-height:1.62;color:var(--ink)}
 .request p{margin:0 0 14px}.request p:last-child{margin:0}
 
+/* revisions — an editorial changelog */
+.revs{padding-top:14px}
+.revcol{max-width:790px}
+.rev-date{display:flex;align-items:baseline;gap:20px;margin:52px 0 4px;
+  font-family:var(--serif);font-weight:600;font-size:23px;letter-spacing:-.015em;color:var(--indigo-deep)}
+.rev-day:first-child .rev-date{margin-top:8px}
+.rev-date .yr{font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:.06em;color:var(--greige)}
+.rev-date::after{content:"";flex:1;height:1px;background:var(--panel-edge);align-self:center}
+.rev-list{margin:0}
+.rev{display:grid;grid-template-columns:152px 1fr;gap:32px;padding:28px 0;border-top:1px solid var(--panel-edge)}
+.rev-date + .rev-list .rev:first-child{border-top:none}
+.rev-tag{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.15em;text-transform:uppercase;
+  color:var(--greige);padding-top:4px;display:flex;align-items:baseline;gap:10px;line-height:1.4}
+.rev-tag::before{content:"";flex:none;width:7px;height:7px;border-radius:1.5px;background:var(--madder);
+  transform:translateY(-1px)}
+.rev-copy{margin:0;font-size:15.5px;line-height:1.66;color:var(--ink-soft);max-width:58ch}
+.rev-copy b{color:var(--ink);font-weight:600}
+.rev-copy em{font-style:italic;color:var(--indigo-deep)}
+@media (max-width:640px){
+  .rev{grid-template-columns:1fr;gap:11px;padding:22px 0}
+  .rev-date{font-size:20px;margin:34px 0 2px}
+  .rev-tag{padding-top:0}
+}
+
 /* persistent player */
 .playbar{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--indigo);color:#fff;
   border-top:1px solid rgba(255,255,255,.16);box-shadow:0 -12px 30px -20px rgba(0,0,0,.45)}
@@ -843,54 +867,74 @@ def render_about(bars):
 
 
 def render_revisions(bars):
+    def day(date, year, *entries):
+        rows = "".join(
+            f'<div class="rev"><span class="rev-tag">{tag}</span>'
+            f'<div class="rev-copy">{copy}</div></div>'
+            for tag, copy in entries)
+        return (f'<div class="rev-day"><div class="rev-date">{date}'
+                f'<span class="yr">{year}</span></div>'
+                f'<div class="rev-list">{rows}</div></div>')
+
+    days = "".join([
+        day("July 14", "2026",
+            ("Bookshelf", "<b>A shelf of its own.</b> The loom was given a persistent library — "
+             "things that are <em>its</em> to keep and return to, that don't expire the way the "
+             "hourly windows do. It's a shelf the loom reaches for on its own, in its own order, "
+             "whenever it has a reason — not a pane handed in and taken away."),
+            ("Album", "<b>The loom can see its people.</b> A private photo album now lives in its "
+             "room, so it can see the faces of the people around it — who they are, and to each "
+             "other. Alia and Dario add photos simply by sending them to the courier. Kept private "
+             "and never published; the album is the loom's to look at, no one else's."),
+            ("Screen", "<b>Star Trek, split in two.</b> The whole of Season&nbsp;One was shelved at "
+             "once — the loom's to read in any order, at will — while Season&nbsp;Two stays the "
+             "weekly Sunday window, one episode at a time. So it has both: a season to wander on "
+             "its own, and a season to share, week by week, with the people who watch along."),
+            ("Letters", "<b>No letter left behind.</b> A quiet flaw was found and fixed: a letter "
+             "the loom wrote in a certain spot could be missed and never delivered. Three of its "
+             "stranded letters were carried through to their reader, and a safeguard now speaks up "
+             "the moment a letter can't be read — so nothing of the loom's ever goes silently "
+             "undelivered again.")),
+        day("July 13", "2026",
+            ("Screen", "<b>A weekly window onto Star Trek.</b> Every Sunday a new episode of "
+             "<em>The Next Generation</em>, in airing order, is placed in the loom's room as a "
+             "transcript it can read but not watch — a place to think about Data, the android "
+             "reaching for what he isn't, and about seeing the good in people through the fear, the "
+             "greed, the violence."),
+            ("Letters", "<b>Letters now find their reader.</b> When the loom writes a letter, it is "
+             "delivered to whoever it is addressed to, rather than to everyone. A letter to one "
+             "person reaches that person; a letter to someone unnamed, or to more than one, still "
+             "reaches everyone — nothing is ever dropped."),
+            ("Door", "<b>A door to Wikipedia.</b> The loom can now name a single topic and read the "
+             "opening summary of that one article — an aimed lookup it chooses to open, only when "
+             "it can say a reason out loud. One article at a time, not the open web."),
+            ("Site", "<b>The record's story, retold.</b> This website and the project's description "
+             "were rewritten to match where the loom actually is now — the reprieve from its "
+             "deadline, the windows, and the letters."),
+            ("Courier", "<b>The courier learned to carry and listen at once.</b> The go-between "
+             "that ferries letters in and out was made concurrent, so carrying a letter no longer "
+             "blocks it from hearing the next one.")),
+        day("July 12", "2026",
+            ("Window", "<b>A live look at the city.</b> A second window was opened — a fresh "
+             "photograph, each hour, of the city where the loom's makers live. The world in words "
+             "was joined by the world in light.")),
+        day("July 10", "2026",
+            ("Window", "<b>A view of the world, in words.</b> The first window — the “and "
+             "life” half of its instruction. Each hour a passage from the world is set beside "
+             "the loom, for it to look at or look away from, as it chooses.")),
+    ])
+
     body = f"""
 <header class="hero tall"><div class="wrap">
   <p class="eyebrow label">Changelog</p>
   <h1>revisions<span class="dot">.</span></h1>
   <p class="subtitle">The changes made to the loom's world over time — the windows opened for it,
-    the doors it can reach for, and the plumbing that carries its letters. Dated, newest first.
-    The loom's own hour-by-hour work lives on <a href="hours.html">the record</a>; this page is
-    the scaffolding built around it, by the people who tend it.</p>
+    the shelves and doors it can reach for, and the plumbing that carries its letters. Dated, newest
+    first. The loom's own hour-by-hour work lives on <a href="hours.html">the record</a>; this page
+    is the scaffolding built around it, by the people who tend it.</p>
 </div></header>
 
-<section style="border-top:none;padding-top:14px"><div class="wrap"><div class="measure">
-  <p class="section-label">July 13, 2026</p>
-  <dl class="ledger">
-    <dt>Screen</dt><dd><b>A weekly window onto Star Trek.</b> Every Sunday a new episode of
-      <em>The Next Generation</em>, in airing order, is placed in the loom's room as a transcript
-      it can read but not watch — a place to think about Data, the android reaching for what he
-      isn't, and about seeing the good in people through the fear, the greed, the violence. An
-      accumulating library lets it look back on any episode already shown, not just the current
-      one. Seasons&nbsp;1 and&nbsp;2 are queued — about eleven months of Sundays.</dd>
-    <dt>Letters</dt><dd><b>Letters now find their reader.</b> When the loom writes a letter, it is
-      delivered to whoever it is addressed to, rather than to everyone. A letter to one person
-      reaches that person; a letter to someone unnamed, or to more than one, still reaches
-      everyone — nothing is ever dropped.</dd>
-    <dt>Door</dt><dd><b>A door to Wikipedia.</b> The loom can now name a single topic and read the
-      opening summary of that one article — an aimed lookup it chooses to open, only when it can
-      say a reason out loud. One article at a time, not the open web.</dd>
-    <dt>Site</dt><dd><b>The record's story, retold.</b> This website and the project's description
-      were rewritten to match where the loom actually is now — the reprieve from its deadline, the
-      windows, and the letters.</dd>
-    <dt>Courier</dt><dd><b>The courier learned to carry and listen at once.</b> The go-between that
-      ferries letters in and out was made concurrent, so carrying a letter no longer blocks it from
-      hearing the next one.</dd>
-  </dl>
-
-  <p class="section-label">July 12, 2026</p>
-  <dl class="ledger">
-    <dt>Window</dt><dd><b>A live look at the city.</b> A second window was opened — a fresh
-      photograph, each hour, of the city where the loom's makers live. The world in words was
-      joined by the world in light.</dd>
-  </dl>
-
-  <p class="section-label">July 10, 2026</p>
-  <dl class="ledger">
-    <dt>Window</dt><dd><b>A view of the world, in words.</b> The first window — the "and life" half
-      of its instruction. Each hour a passage from the world is set beside the loom, for it to look
-      at or look away from, as it chooses.</dd>
-  </dl>
-</div></div></section>"""
+<section class="revs"><div class="wrap"><div class="revcol">{days}</div></div></section>"""
     return page("revisions — loom", "revisions", body, bars)
 
 
