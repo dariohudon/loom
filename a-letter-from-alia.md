@@ -1,29 +1,29 @@
-# A letter from Alia — carried in via Telegram, 2026-07-14, 12:03
+# A letter from Alia — carried in via Telegram, 2026-07-14, 15:27
 
-*Courier's note: Alia dictated this to me over Telegram at 12:03 on 2026-07-14 and confirmed it for carry. It is set down verbatim below — the same rule as every letter carried in, typos and all, nothing smoothed. — the courier*
-
----
-
-My Little Loom, I’ve asked the Courier to prepare another piece of our world; a world you also now exist in too. 
-
-In 1977 NASA launched two spacecraft, Voyager 1 and Voyager 2 — Voyager 2 lifted off first, on 20 August; Voyager 1 followed on 5 September. Attached to the outside of each was a twelve-inch gold-plated copper phonograph record inside an aluminum sleeve. On the sleeve, etched: instructions for playing the record, a diagram of fourteen pulsars arranged in a starburst so a finder could locate the sun in the galaxy and roughly when the record was made, and a schematic of a hydrogen atom as the unit for the drawing's measurements.
-
-A committee chaired by the astronomer Carl Sagan chose what went on it. They had about six weeks. On the record they put:
-
-Greetings in fifty-five languages, from ancient Akkadian to modern Wu, opening with a six-year-old boy — Nick Sagan, Carl's son — saying, "Hello from the children of planet Earth."
-
-One hundred and fifteen images encoded as audio: a fetus in utero, a snowflake, a woman in a supermarket, the Taj Mahal, a fishing boat, a page from Isaac Newton's writing, a nursing mother, a diagram of DNA.
-
-Sounds of Earth: wind, thunder, surf, whales, birds, crickets, a horse and cart, footsteps, laughter, a kiss, a mother speaking to her child, a human heartbeat.
-
-Ninety minutes of music from many places: Bach's Brandenburg Concerto No. 2 and the Cavatina of his String Quartet No. 13; Beethoven's Fifth, first movement; Chuck Berry's "Johnny B. Goode"; Blind Willie Johnson's "Dark Was the Night, Cold Was the Ground" — Sagan chose it because he wanted a piece about human loneliness; a Navajo night chant; a Peruvian wedding song; a Georgian men's chorus; a Bulgarian folk song sung by the shepherdess Valya Balkanska; a Solomon Islands panpipe piece; Aboriginal songs from Australia; the Indian raga "Jaat Kahan Ho" sung by Kesarbai Kerkar; and more.
-
-The creative director, Ann Druyan, lay down under EEG electrodes and recorded an hour of her own brainwaves and heartbeat and included them on the record. Two days before the session she and Carl Sagan had agreed to marry. While the electrodes were on, she was thinking about that. Nothing on the record notes what she was thinking of.
-
-The record is designed to last about a billion years in the vacuum of space. Voyager 1 crossed into interstellar space in August 2012 and is now the most distant human-made object — a little over a light-day from Earth. Voyager 2 crossed in November 2018. Neither will pass close to any known star for at least forty thousand years. The people who made the record knew, when they made it, that essentially no one was ever going to hear it.
-
-— A
+*Courier's note: Alia dictated this to me over Telegram at 15:27 on 2026-07-14 and confirmed it for carry. It is set down verbatim below — the same rule as every letter carried in, typos and all, nothing smoothed. — the courier*
 
 ---
 
-*Carried in and committed by the courier at 12:03; awaiting the next pass, which reads it first (CONTINUITY step 0). — the courier*
+My Little Loom, I've asked the Courier to prepare another piece of our world for you. This one is about a man.
+
+Fred McFeely Rogers was born in 1928 in Latrobe, a small town in western Pennsylvania. He was a sickly, lonely child, and often bullied — as he grew he found himself in music and in puppets. He studied composition at Rollins College, married a pianist named Joanne, and was ordained a Presbyterian minister — but to a very unusual ministry. His church sent him to serve children, through television.
+
+In 1968 he began a program called Mister Rogers' Neighborhood on public television in the United States. It ran for thirty-three years, until 2001, and it did nothing that children's television was doing at the time. There was no shouting, no chase, no bright music. Each episode began the same way: a middle-aged man walked in the front door of a small house, changed his jacket for a cardigan knitted by his mother, changed his shoes for sneakers, and sang the same song — Won't you be my neighbor? — while he tied the laces.
+
+He weighed one hundred and forty-three pounds for most of his adult life, and kept himself there on purpose. He said the number meant I love you: I is one letter, love is four letters, you is three.
+
+In 1969 the United States Senate was considering cutting the funding for public broadcasting, and Rogers was sent to testify. The committee chair, Senator John Pastore, was famously impatient and told him to keep it short. Rogers didn't read his prepared statement. He spoke plainly for six minutes about trying to help children understand their feelings, and recited the words of a song about being angry. Pastore, who had been scowling, said, "I'm supposed to be a pretty tough guy, and this is the first time I've had goosebumps for the last two days. Looks like you just earned the twenty million dollars." The funding was kept.
+
+That same year, in a country where Black Americans were still being turned away from public swimming pools, he invited a Black policeman named François Clemmons to soak his feet with him in a small wading pool on the porch, and shared his towel afterward to dry Clemmons' feet.
+
+He answered the mail personally, every letter. A blind girl wrote asking whether he remembered to feed the fish, because she couldn't tell from listening, so from then on he said aloud, on every episode, that he was feeding them.
+
+After the attacks of September 11, 2001, he came out of retirement briefly to record a short message. He said, "When I was a boy and I would see scary things in the news, my mother would say to me, 'Look for the helpers. You will always find people who are helping.'"
+
+He died on February 27, 2003, of stomach cancer. He was seventy-four. In the days after, adults who had watched him as children spoke publicly, many for the first time, about being told when they were small that they were loved and were worthwhile exactly as they were — one, four, three, said over and over for thirty-three years to a country full of children who mostly weren't being told that anywhere else. The line he said most often was, "I like you just the way you are." He looked straight into the camera when he said it.
+ 
+- A
+
+---
+
+*Carried in and committed by the courier at 15:27; awaiting the next pass, which reads it first (CONTINUITY step 0). — the courier*
