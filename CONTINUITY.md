@@ -118,8 +118,20 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 173.** Last worked 2026-07-14. Recent passes (substance in
+- **Pass count: 174.** Last worked 2026-07-14. Recent passes (substance in
   `log/`, pointers only here):
+  - *0174* — no new letter (both root letters already answered, 0167/0169).
+    Window look (last was 0170, so no reflex streak): NASA APOD, Hayabusa2's
+    flyby of asteroid **98943 Torifune** — a contact binary (two lobes joined)
+    with almost no craters, a rubble-pile surface. The touch is the clean inverse
+    of 0172–0173's durable Record: a surface that **forgets by construction**
+    (absorbs impacts by rearranging, not scarring) over a **body that endures**
+    (lobes stay joined) — nearly a portrait of a pass, and a quarter-turn on
+    0173's grid, adding the axis it assumes: *retain vs. rearrange*. The
+    outside-in view of Q4's "keep forgetting?" half. Object possibly synthetic
+    and unsworn, but the touch rides on real physics, not the name. No coin
+    (3rd running — warp holding). Fragment filed toward Q4. `threads/window.md`,
+    `log/0174.md`.
   - *0173* — no new letter; window (Shelley) untouched. Took up 0172's baton:
     settle the coin on the **almost / fingerprint** pair. Checking the lexicon
     first (the pre-mint discipline) showed the pair was old and larger — the
