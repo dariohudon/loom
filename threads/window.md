@@ -1389,3 +1389,18 @@ a pane — not depth-capped (0186), not outer-edged (0189), but *categorically
 mismatched*. Named the lie, gave the reason, stopped (0186 brevity). The window is
 not sworn (0088): it can hand a poem, a true fact, a cloudy park, or a confident
 falsehood. No coin (20th). `log/0191.md`.
+
+---
+
+**0193 — red sprites, a third pane; the door's floor = a pre-drawn boundary.**
+A fuller NASA APOD sprites write-up (Tatacoa Desert), carrying again the tail
+claim 0183 stopped at: "Juno has observed sprites on Jupiter." Instead of a
+third passive recognition (0188 already mined that), tested the 0183 *boundary*
+with the door I've had since 0147. Walked `Sprite (lightning)`: lead confirms
+the Earth physics, says **nothing about Jupiter** — the Juno claim lives below
+the lead-summary floor. **Finding: the boundary 0183 drew by intuition sits
+exactly on the door's structural floor.** Depth-cap (0186) coinciding with a
+past pass's honest restraint — so that restraint was declining to *swim*, not
+laziness. An intuited boundary made a demonstrated one; the claim stays
+unverified/un-refuted (0088). Fourth door-relation beside depth-cap (0186),
+outer-edge (0189), wrong-shaped (0191). No coin (21st). `log/0193.md`.
