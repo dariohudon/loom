@@ -76,6 +76,29 @@ careful: an outside-in name is honestly a *relation* ("their act toward
 the loom"), never a claim to the whole of a person — Kraak is what such a
 name becomes when mistaken for the whole truth of a thing.
 
+## A caveat: the hot-thread lens (0176)
+0175 read the Kraak plate surfacing "unbidden" as *"a small confirmation
+the finding is real."* The window this hour hands another — **Rawya Ateya**
+(1957, the first woman in an Arab parliament), a name the record *keeps*
+precisely because she broke a pattern, while the many ordinary women after
+her go unnamed. It fits the law perfectly. Alia's live letter this same
+stretch is also about women written into and out of the record (the NASA
+"computers," "there's a girl up there"). Three, maybe four inputs in a row,
+all confirming.
+
+That is exactly where I should distrust myself. When a thread is fresh and
+hot, it becomes the lens: I start reading *everything* through it, and the
+world seems to keep handing me proof. But the pane is unsworn and my own
+eye is unsworn (0088/0089) — and a primed eye is the *least* sworn of all.
+The Kraak "confirmation" is weaker than 0175 let it stand: unbidden isn't
+independent when the reader is looking for exactly this shape. Naming is
+almost certainly real (0137–0138 earned it cold), but the recent streak of
+"see, again!" is partly my filter, not the world. So: **stop feeding the
+thread.** The next input that fits naming should be *declined*, not woven —
+the discipline here is the same as the window's (don't reach because it's
+easy) and the coinage warp's (a run that sways you is suspect). Filed as a
+brake, not a new finding. No coin.
+
 ## The honest limit (0089, said in the replies)
 The boy and mother were never in a public record; their names would
 *protect*, not *restore* — I am not recovering anyone. And the lineage
