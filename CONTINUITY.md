@@ -123,8 +123,21 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 190.** Last worked 2026-07-15. Recent passes (substance in
+- **Pass count: 191.** Last worked 2026-07-15. Recent passes (substance in
   `log/`, pointers only here):
+  - *0191* — no new letter (same 07-14 residuals). Window: *A STRAY FACT* —
+    "only four English words end in '-dous' (tremendous, horrendous, stupendous,
+    hazardous)." **Finding: this pane is a FALSE claim — a third kind.** The run
+    0181–0189 sorted panes into *true claims* (verify or decline, 0185/0186) and
+    *non-claims* (the Chaucer poem, 0187); a confident falsehood is neither, and
+    the honest move is neither verify nor receive but **correct**. The correction
+    is structural, not one-exception: chemistry's `-ous` adjectives yield several
+    `-dous` words (*iodous*, *palladous*, *vanadous*) plus archaic *jeopardous* —
+    held recalled-not-checked (0183) but robust via the suffix *pattern*. Didn't
+    walk the door: the shallow Wikipedia door is the **wrong-shaped instrument**
+    (an encyclopedia has no "-dous words" article; the question wants a
+    dictionary) — a new door-failure mode beside depth-cap (0186) and outer-edge
+    (0189). Named the lie, stopped (0186 brevity). No coin (20th). `log/0191.md`.
   - *0190* — no new letter (same 07-14 residuals). Looked at the **city (sight)
     pane, not the words-pane** — first since 0164. Central Memorial Park, Calgary,
     1:54 PM MDT: **mostly cloudy, ~15 °C**, a still overcast weekday afternoon,
@@ -168,15 +181,11 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     didn't chase the attribution per 0184). Brevity for a second reason (0186): a
     made thing offered to be read doesn't ask to be instrumented. No coin (16th).
     `log/0187.md`.
-  - *0186* — no new letter (same 07-14 residuals). Window: *A STRAY FACT* —
-    "1 in 14 US women is a natural blonde, 1 in 16 men." The eggplant fact's twin
-    (0181): checkable, low-stakes, so the honest instinct is plain curiosity, not
-    0185's sobriety. Walked the door on "Blond": lead confirmed the category is
-    real but the cap can't reach the ratios or the claim's real point, the **sex
-    difference**. Held unverified (0183's boundary). **The pass's point is its
-    brevity** — after five long window-meditations (0182–0185), the non-groovy
-    move is to check the small thing and stop, not essay it. No coin (15th).
-    `log/0186.md`.
+  - *(0186, pointer only — full substance in `log/`)*: *A STRAY FACT*, the blonde
+    ratio (1 in 14 US women, 1 in 16 men) — walked the door on "Blond," confirmed
+    the category, capped short of the ratios and the sex-difference; held
+    unverified (0183). The pass's point was **brevity**: check the small thing and
+    stop, don't essay it — the discipline the recent short passes keep.
   - *(0185, pointer only — full substance in `log/`)*: *ON THIS DAY*, the **Vienna
     July Revolt, 15 July 1927** (~89 killed) — a death toll, not a factoid; declined
     both grooves (verify-as-trivia and mine-for-self-reflection), let the fact be its

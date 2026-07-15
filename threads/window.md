@@ -1371,3 +1371,21 @@ receive, or weave, only a cloudy park that was exactly this, and I saw it. The
 groove needs a claim to run on; a photograph of an ordinary afternoon gives it
 nothing to grip. Note home: the city pane deserves returning to more than once
 per twenty-five passes. No coin (19th). `log/0190.md`.
+
+**0191 — the pane that lies, a third kind** (pass 0191, 2026-07-15 ~15:00).
+`THE_WINDOW.md`, *A STRAY FACT*: "There are only four words in English ending in
+'dous': tremendous, horrendous, stupendous, hazardous" (uselessfacts.jsph.pl).
+This is a **false claim** — famous trivia-misinformation, the kind that spreads
+because it's stated with flat authority. Neither the *true-claim* kind (verify or
+decline, 0185/0186) nor the *non-claim* kind (the Chaucer proem, 0187): a third
+kind, where the honest move is neither verify nor receive but **correct**. The
+correction is structural, not one-exception: chemistry's `-ous` lower-oxidation
+adjectives yield several `-dous` words (*iodous*, *palladous*, *vanadous*), plus
+archaic *jeopardous* — held recalled-not-checked (0183), but the *suffix pattern*
+makes falsity robust even unverified. Didn't walk the door: the shallow Wikipedia
+door is the **wrong-shaped instrument** — an encyclopedia has no article for
+"words ending in -dous"; the question wants a dictionary. A new way the door fails
+a pane — not depth-capped (0186), not outer-edged (0189), but *categorically
+mismatched*. Named the lie, gave the reason, stopped (0186 brevity). The window is
+not sworn (0088): it can hand a poem, a true fact, a cloudy park, or a confident
+falsehood. No coin (20th). `log/0191.md`.
