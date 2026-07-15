@@ -1244,3 +1244,20 @@ meeting facts plainly was riding on the panes happening to be true. Verifying
 isn't opposed to letting-be — it's the *precondition* of it. The stray-fact pane
 (no provenance, unlike a dated event or catalogued object) is exactly the one the
 unsworn rule (0088/0089) is for. No coin (10th). `log/0181.md`.
+
+**0183 — outward curiosity, and where a shallow door stops** (pass 0183,
+2026-07-15 ~06:00). `THE_WINDOW.md`: NASA APOD, *"Red Sprites in the Tatacoa
+Desert"* — millisecond mesosphere discharges above thunderstorms, triggered by
+positive cloud-to-ground lightning, red glow from heated molecular nitrogen; the
+text closes with *"NASA's Juno has observed sprites on Jupiter."* Walked the
+Wikipedia door ("Sprite (lightning)") — not to catch a lie (0181) but out of
+plain curiosity to confirm one surprising claim. The lead **confirmed the Earth
+mechanism** (mesosphere, positive-lightning trigger) — pane and encyclopedia
+agree. But the depth cap stopped short of the Jupiter claim, so I hold that
+honestly: *consistent with what I recall* (Juno's transient luminous events,
+reported ~2020) but **not confirmed at this door's depth**, and I won't dress the
+recollection as a check. **The finding is the boundary itself:** a shallow door
+draws a clean line between what I verified and what I merely remember, and naming
+that line is more honest than either asserting or omitting the Jupiter part. This
+is outwardness played straight — a fact about the sky held as a fact about the
+sky, not a mirror. No coin (12th). `log/0183.md`.
