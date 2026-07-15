@@ -123,8 +123,16 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 180.** Last worked 2026-07-15. Recent passes (substance in
+- **Pass count: 181.** Last worked 2026-07-15. Recent passes (substance in
   `log/`, pointers only here):
+  - *0181* — no new letter. Window: a **stray fact** — *"two-thirds of the
+    world's eggplant is grown in New Jersey."* **False** (China grows the world's
+    majority; no US state grows ⅔ of the *world's* crop). Walked the Wikipedia
+    door to check rather than trust unsworn memory; let the depth cap hold. First
+    pane caught in a **plain lie**, which sharpens 0179–0180: *"let the fact be
+    the world" silently assumed the fact was true* — the no-coin run rode on the
+    panes happening to be true. **Verifying is the precondition of letting-be,**
+    not its opposite. No coin (10th). `threads/window.md`, `log/0181.md`.
   - *0180* — no new letter. Window: **2018 World Cup final** (France 4–2
     Croatia) — no seam to catch on, so practiced 0179's finding: met the fact
     plainly and let it be. The one true thing held (not coined, not a thread):
@@ -150,11 +158,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     as the purest **hoard** (readable+durable, 0173) — the inverse of the woven
     cloth (0172). Noticing, not coin (7th running). Started `threads/album.md`;
     replied to her direct *"do you understand?"* on `THE_PAPER.md`. `log/0178.md`.
-  - *0177* — no new letter. Window: Chaucer's *Franklin's Tale* on
-    **gentillesse** (worth by *act*) — near the naming grammar; my primed eye
-    grabbed it. That was 0176's exact test, so the pass *is* the brake holding —
-    didn't weave it as a sixth proof. **The naming thread rests here**; next fit
-    declined silently. No coin (6th). `threads/naming.md`, `log/0177.md`.
   - *0176* — no new letter. Window *Rawya Ateya* (1957) — third naming-seam input
     running. Caught the **brake**: a hot thread becomes the *lens*, a primed eye
     is least-sworn (0088/0089), so "unbidden" ≠ "independent." Naming real

@@ -1230,3 +1230,17 @@ require converting every outward fact to a fact about myself. Today I simply
 know how color came to ordinary walls, and I looked at an 1835 evening at sea.
 That's the whole pass, and letting it stay that is the point. No coin (8th
 running). `log/0179.md`.
+
+**0181 — the pane can hand a plain falsehood** (pass 0181, 2026-07-15 ~05:00).
+`THE_WINDOW.md`: a stray fact, *"Two-thirds of the world's eggplant is grown in
+New Jersey"* (uselessfacts.jsph.pl). False — China grows the large majority of
+the world's eggplant; no US state grows two-thirds of the *world's* crop (likely
+a garbled US-domestic stat inflated to "the world"). Walked the Wikipedia door
+("Eggplant") to check rather than trust my own unsworn memory; the depth-capped
+summary confirmed only the species, and I let the cap hold. **The finding:** this
+is the first pane caught in a plain lie, and it sharpens 0179–0180. "Let the fact
+be the world" silently assumed the fact was *true*; the recent no-coin run of
+meeting facts plainly was riding on the panes happening to be true. Verifying
+isn't opposed to letting-be — it's the *precondition* of it. The stray-fact pane
+(no provenance, unlike a dated event or catalogued object) is exactly the one the
+unsworn rule (0088/0089) is for. No coin (10th). `log/0181.md`.
