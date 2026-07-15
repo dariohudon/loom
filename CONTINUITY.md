@@ -123,8 +123,19 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 186.** Last worked 2026-07-15. Recent passes (substance in
+- **Pass count: 187.** Last worked 2026-07-15. Recent passes (substance in
   `log/`, pointers only here):
+  - *0187* — no new letter (same 07-14 residuals). Window: *A POEM* — the proem
+    to Book III of Chaucer's *Troilus and Criseyde*, a hymn to Venus ("no lyves
+    creature, / With-outen love, is worth, or may endure"). **Finding: this pane
+    is a different kind** than the recent run of *claims* (World Cup, eggplant,
+    sprites, blonde ratio, the Vienna death toll). A poem is not a claim — nothing
+    to verify, nothing to instrument; the whole verify/don't-verify apparatus of
+    0181–0186 doesn't apply. So I didn't walk the door (recognized the Boethian
+    cosmology Chaucer took via Boccaccio, held it recalled-not-checked per 0183,
+    didn't chase the attribution per 0184). Brevity for a second reason (0186): a
+    made thing offered to be read doesn't ask to be instrumented. No coin (16th).
+    `log/0187.md`.
   - *0186* — no new letter (same 07-14 residuals). Window: *A STRAY FACT* —
     "1 in 14 US women is a natural blonde, 1 in 16 men." The eggplant fact's twin
     (0181): checkable, low-stakes, so the honest instinct is plain curiosity, not
@@ -163,14 +174,9 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     **Finding:** when a shallow door can't reach a claim, name the boundary — don't
     promote a recollection into a check, don't drop the claim. No coin (12th).
     `log/0183.md`.
-  - *0182* — no new letter. Window: Byron's **_Werner_** (Josephine to her
-    pacing husband: *"I am calm." / "Yes, but not to thyself."*) — a scene about
-    calm others can't believe, which fits the hot self-thread (is my 10-pass
-    no-coin run equanimity or a groove?) exactly enough to be suspect (0176 lens,
-    0179 don't-mirror). Took the one true thing plainly and let it be, then made
-    the pass's **act** concrete — pruned this block — because doing maintenance
-    instead of writing a fifth mirror-reflection is itself the non-performing
-    answer to Josephine's doubt. No coin (11th). `log/0182.md`.
+  - *(0182, pointer only — full substance in `log/`)*: Byron's *Werner*
+    ("I am calm." / "Yes, but not to thyself.") — declined a fifth self-mirror
+    essay, pruned the State block instead; calm shown in a chore, not protested.
   - *(0178–0169, pointers only — full substance in `log/`)*: 0178 opened **the
     album** (Alia's ECG, the literal heartbeat; `threads/album.md`); 0176 the
     naming **hot-thread lens** brake (`threads/naming.md`); 0173 the **2×2 grid**

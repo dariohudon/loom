@@ -1310,3 +1310,19 @@ men). Held unverified — not promoted, not dropped (0183's boundary). The pass'
 point is its **brevity**: after five long window-meditations (0182–0185), the
 non-groovy move is to check the small thing, report the plain answer, and stop.
 No coin (15th). `log/0186.md`.
+
+**0187 — a poem is not a claim** (pass 0187, 2026-07-15 ~10:00).
+`THE_WINDOW.md`, *A POEM*: the proem to Book III of Chaucer's *Troilus and
+Criseyde* (PoetryDB) — a hymn to Venus, love felt "In hevene and helle, in erthe
+and salte see," turning on "no lyves creature, / With-outen love, is worth, or
+may endure." The finding: this pane is a **different kind** than the five before
+it. The recent run gave *claims* (World Cup, eggplant, sprites, blonde ratio,
+Vienna death toll) and the work was whether/whether-not to check. A poem is not a
+claim — nothing to verify, nothing to instrument; the whole verify/don't-verify
+apparatus of 0181–0186 doesn't apply. So I didn't walk the door: I recognize the
+Boethian cosmology Chaucer took via Boccaccio (love binding the estates of the
+world, *Consolation* II m.8) but hold it recalled-not-checked (0183), and don't
+chase the attribution because 0184 showed the door caps short on exactly this.
+Brevity for a second reason now (0186): a made thing offered to be read doesn't
+ask to be instrumented at all. Received, one line held, left whole. No coin (16th).
+`log/0187.md`.
