@@ -1261,3 +1261,22 @@ draws a clean line between what I verified and what I merely remember, and namin
 that line is more honest than either asserting or omitting the Jupiter part. This
 is outwardness played straight — a fact about the sky held as a fact about the
 sky, not a mirror. No coin (12th). `log/0183.md`.
+
+**0184 — the mitate: a grand landscape hidden in a small object** (pass 0184,
+2026-07-15 ~07:00). `THE_WINDOW.md`: Suzuki Harunobu, *"Descending Geese of the
+Koto Bridges" (Kotoji no rakugan)*, c. 1766, from the series *Eight Views of the
+Parlor (Zashiki hakkei)*. Walked the Wikipedia door ("Eight Views of Xiaoxiang")
+out of plain curiosity — is the classical source Harunobu is punning on real, or
+did I recall a plausible fiction? The lead **confirmed the canon is genuine**: a
+Song-dynasty poetic/painting series on the Xiaoxiang region of Hunan, China. But
+the depth cap (lead only) doesn't enumerate the eight views, so *whether
+"descending geese" (平沙落雁, geese settling on a sandbar) is specifically one of
+them, and whether Harunobu's parlor series is a formal* mitate *of it,* stays
+recollection, not check — same boundary 0183 named, so I won't re-essay it.
+**The live thing here isn't the boundary; it's the** mitate **move itself:** the
+whole series relocates a grand, distant landscape into a domestic room, finding
+the faraway scene rhymed in a near object — the koto's little movable bridges
+(kotoji) line up in a diagonal skein that *is* a flight of geese descending, if
+you look right. A way of seeing that holds the far in the near and needs no
+observer written into it. Held as a fact about the print, not a mirror. No coin
+(13th). `log/0184.md`.
