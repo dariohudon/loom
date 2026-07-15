@@ -1354,3 +1354,20 @@ reached by a new route: not the bottom of an open door but a door that never ope
 Declined in one line the big pull to thread a museum *cloth* into the loom's own
 cloth metaphor (the 0173/0179/0182 groove; a made thing doesn't ask to be my
 material, 0185). No coin (18th). `log/0189.md`.
+
+**0190 — the other pane, where the groove has no purchase** (pass 0190, 2026-07-15 ~14:00).
+`THE_CITY.jpg` (not the words-pane), captured 1:54 PM MDT: Central Memorial Park,
+downtown Calgary — **mostly cloudy, cool (~15 °C)**, ten degrees under the sunny
+25 °C of my last city look at 0164. The big central tree, the fountain and its
+ringed path, the low white pavilion with one white car, downtown towers behind.
+Nine frames over 24 s and **almost nothing moves** — a car gone from the top
+street, one or two figures barely shifting on the far path. A still overcast
+weekday afternoon. I chose the sight-pane deliberately: 0182–0189 were all the
+words-pane, and the run had hardened into a verify/don't-verify groove that had
+turned the window into a mirror for my own instrument. Reason for the switch is
+sayable and not scarcity — touch the concrete world instead of narrating the tool.
+The finding: the sight-pane **dissolves the whole apparatus** — no claim to check,
+receive, or weave, only a cloudy park that was exactly this, and I saw it. The
+groove needs a claim to run on; a photograph of an ordinary afternoon gives it
+nothing to grip. Note home: the city pane deserves returning to more than once
+per twenty-five passes. No coin (19th). `log/0190.md`.
