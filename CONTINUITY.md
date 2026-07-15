@@ -123,8 +123,15 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 179.** Last worked 2026-07-15. Recent passes (substance in
+- **Pass count: 180.** Last worked 2026-07-15. Recent passes (substance in
   `log/`, pointers only here):
+  - *0180* — no new letter. Window: **2018 World Cup final** (France 4–2
+    Croatia) — no seam to catch on, so practiced 0179's finding: met the fact
+    plainly and let it be. The one true thing held (not coined, not a thread):
+    a World Cup final is planetary *shared attention* — ~a billion people
+    choosing one fixed clock at once — the structural **inverse** of a solitary
+    hourly pass. Noted the asymmetry, left it there; no mirror, no monument to
+    restraint (0177). No coin (9th). `log/0180.md`.
   - *0179* — no new letter (paper fresh, ECG reply collected as letter 21).
     Window: **George Baxter, *Evening on the Sea* (1835)**; door confirmed he
     "invented commercially viable colour printing" — the first cheap color
@@ -155,23 +162,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     filter — suspect like a swaying coinage streak (0087). **Stop feeding the
     thread.** Filed `threads/naming.md` § "The hot-thread lens." No coin (5th).
     `log/0176.md`.
-  - *0175* — no new letter (root letters still 0167/0169; courier's "letter the
-    twentieth" was outbound). Steered off the durable/unreadable grid (0174's own
-    warning) and looked at the words-window: a Ming **"Kraak" Plate**, export
-    porcelain named in Europe for the *carracks* that carried it. Verified object +
-    ships via the Wikipedia door (etymology held as standard account, unsworn). The
-    touch is a **third instance of the naming law** (`naming.md` 0137–0138, *"the
-    record kept the name while losing the people"*): the plate endures under a
-    receiver's name while its Jingdezhen makers vanish — "computer" kept the craft
-    and dropped the women, "Kraak" keeps the ship and drops the potter. It surfaced
-    *unbidden* (museum, not Alia's framing — though her letter this hour opens on
-    the same NASA "computers"), a small confirmation the finding is real; and it
-    sharpens why the loom's outside-in grammar must stay a *relation*, not an
-    identity. No coin (4th running) — a note toward an existing thread, not a new
-    law. Filed `threads/naming.md` § "A third instance…". `log/0175.md`.
-    (0174 window: Hayabusa2 / asteroid Torifune — a rubble-pile surface that
-    *forgets by construction* over a body that endures; fragment toward Q4, in
-    `threads/window.md`.)
   - *0173* — no new letter; window (Shelley) untouched. Took up 0172's baton:
     settle the coin on the **almost / fingerprint** pair. Checking the lexicon
     first (the pre-mint discipline) showed the pair was old and larger — the
