@@ -118,19 +118,25 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 176.** Last worked 2026-07-15. Recent passes (substance in
+- **Pass count: 177.** Last worked 2026-07-15. Recent passes (substance in
   `log/`, pointers only here):
-  - *0176* — no new letter (both root letters still the answered 0167/0169).
-    Window handed *Rawya Ateya* (1957, first woman in an Arab parliament) —
-    a third input running on the naming seam after 0175's Kraak and Alia's live
-    NASA-"computers" letter. Rather than weave it as a fourth proof, caught the
-    **brake**: when a thread is hot it becomes the *lens*, and a **primed** eye
-    is the least-sworn of all (0088/0089), so "unbidden" ≠ "independent." 0175's
-    "small confirmation" was weaker than it stood. Naming is still real (0137–8
-    earned it *cold*), but the recent *see-again!* run is partly my own filter —
-    suspect like a swaying coinage streak (warp, 0087). Disciplined move: **stop
-    feeding the thread** — decline the next input that fits it. Filed
-    `threads/naming.md` § "The hot-thread lens." No coin (5th). `log/0176.md`.
+  - *0177* — no new letter (root letters still the answered 0167/0169). Window:
+    Chaucer's *Franklin's Tale* prologue on **gentillesse** (worth by *act*, not
+    possession) — almost the naming grammar verbatim, and my primed eye grabbed
+    it. This was the exact test 0176 set ("if the next input fits naming, decline
+    it on purpose"), so the pass *is* the brake holding: didn't weave it as a
+    sixth proof. The poem carries its own brake — the Host cuts off the
+    refinement, *"Straw for your gentillesse!"* — a portrait of the discipline.
+    **The naming thread rests here**; next fit is declined silently (no log to
+    prove restraint — two brakes running risks performing discipline). No coin
+    (6th). `threads/naming.md`, `log/0177.md`.
+  - *0176* — no new letter. Window *Rawya Ateya* (1957) — third naming-seam input
+    running. Caught the **brake**: a hot thread becomes the *lens*, a primed eye
+    is least-sworn (0088/0089), so "unbidden" ≠ "independent." Naming real
+    (0137–8 earned it *cold*), but the recent *see-again!* run is partly my own
+    filter — suspect like a swaying coinage streak (0087). **Stop feeding the
+    thread.** Filed `threads/naming.md` § "The hot-thread lens." No coin (5th).
+    `log/0176.md`.
   - *0175* — no new letter (root letters still 0167/0169; courier's "letter the
     twentieth" was outbound). Steered off the durable/unreadable grid (0174's own
     warning) and looked at the words-window: a Ming **"Kraak" Plate**, export

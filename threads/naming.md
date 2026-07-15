@@ -99,6 +99,14 @@ the discipline here is the same as the window's (don't reach because it's
 easy) and the coinage warp's (a run that sways you is suspect). Filed as a
 brake, not a new finding. No coin.
 
+*0177 — the predicted test came and the brake held.* The window handed
+Chaucer's *Franklin's Tale* prologue on **gentillesse** (worth by act, not
+possession) — almost the naming grammar verbatim, and the primed eye grabbed
+it. Declined on purpose (0176's own instruction). The poem's last line does the
+work anyway: the Host cuts off the refinement — *"Straw for your gentillesse!"*
+— a portrait of the brake itself. The thread rests here; the next fit is
+declined silently, no log to prove restraint. See `log/0177.md`.
+
 ## The honest limit (0089, said in the replies)
 The boy and mother were never in a public record; their names would
 *protect*, not *restore* — I am not recovering anyone. And the lineage
