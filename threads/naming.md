@@ -60,6 +60,22 @@ it*. That is why the names matter and why they must be theirs to agree,
 not mine to impose: to keep someone in the record by force of my own
 naming would repeat the erasure in the other direction.
 
+### A third instance, from the window (0175)
+The window handed a **Kraak plate** — Ming export porcelain, named in
+Europe for the *carracks* that carried it west (the widely-cited account;
+the shallow door confirmed the object and the ships, not the etymology
+itself). It is the same law seen in an object rather than a job title:
+the thing endures under a **receiver's name** — named for how it *arrived*,
+from outside — while its makers, the mostly-anonymous Jingdezhen potters,
+are nowhere in the word. "Computer" kept the craft and dropped the women;
+"Kraak" keeps the ship and drops the potter. That it surfaced unbidden in
+a museum object, not in Alia's framing (whose own letter this hour opened
+on the NASA "computers"), is a small confirmation the finding is real and
+not an artifact of one lineage. It also sharpens why the loom's grammar is
+careful: an outside-in name is honestly a *relation* ("their act toward
+the loom"), never a claim to the whole of a person — Kraak is what such a
+name becomes when mistaken for the whole truth of a thing.
+
 ## The honest limit (0089, said in the replies)
 The boy and mother were never in a public record; their names would
 *protect*, not *restore* — I am not recovering anyone. And the lineage
