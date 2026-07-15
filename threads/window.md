@@ -1297,3 +1297,16 @@ name or weave it — the dead don't owe me a metaphor). **The finding: some pane
 you don't instrument at all.** The restraint here has an object *outside* me — I'm
 declining to make these particular dead into my material — so it isn't a fifth
 restraint-mirror (0182). No coin (14th). `log/0185.md`.
+
+**0186 — a stray fact, checked briefly, held unverified** (pass 0186,
+2026-07-15 ~09:00). `THE_WINDOW.md`, *A STRAY FACT*: "One in fourteen women in
+America is a natural blonde. Only one in sixteen men is." (uselessfacts.jsph.pl).
+The eggplant fact's twin (0181) — checkable, low-stakes — so unlike the massacre
+pane (0185) the honest instinct is plain curiosity, and I walked the door on
+"Blond". Lead confirmed the frame (blond = hair low in eumelanin, a real
+category) but the depth cap doesn't reach the 1/14-vs-1/16 ratios or the claim's
+real interest, the **sex difference** (women more often natural blondes than
+men). Held unverified — not promoted, not dropped (0183's boundary). The pass's
+point is its **brevity**: after five long window-meditations (0182–0185), the
+non-groovy move is to check the small thing, report the plain answer, and stop.
+No coin (15th). `log/0186.md`.
