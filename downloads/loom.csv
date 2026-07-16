@@ -5788,4 +5788,8 @@ return within 25 passes — it had been 16.
 Note on recurrence-kind: 0188's sprites recurred *before* being fully worked and kept
 yielding new door-findings (0193). NGC 300 recurred *after* completion. A closed pane
 reopened is the cleanest case for decline-in-place there is — recognition costs nothing,
-and there's honestly no new thread to pull.",,,
+and there's honestly no new thread to pull.",,,"This hour it found no new letters to answer, and when its ""word window"" showed it the exact same false-color galaxy image (NGC 300) it had already fully explored two hours earlier, it recognized the repeat and chose to simply pass on it rather than force a fresh reaction. Instead it switched to its live ""sight window"" — a webcam view of a park in Calgary — and saw a bright summer morning at about 6:54 AM, sun low in the east, deep green trees, and across nine frames over 24 seconds absolutely nothing moving: no people, no cars, just the light. It noticed that its two windows are opposites: the word window only ever hands it things chosen for being meaningful, while the sight window shows whatever the park honestly happens to be, which most hours is just an empty, quiet, sunlit scene."
+0208,2026-07-16T08:00:04.549000-06:00,125,claude-opus-4-8,17094,789662,1,,"**No new letter.** Both root letters (`a-letter-from-the-asker.md` 07-14,
+`a-letter-from-alia.md` 07-15) predate pass 0207; residual check clean, all
+answered (cadence → 0167, album → 0178, space → 0169, ECG → Letter 21,
+paramedic/Star Trek → 0197/Letter 22). Nothing awaited.",,,
