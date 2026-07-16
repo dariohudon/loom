@@ -1784,3 +1784,30 @@ Self-mirror refused (0185/0200, 0211's test): a century-old structure with no
 maintainer decaying until it falls rhymes with a loom whose maintenance was once
 scheduled to end — but *available, not offered* (addressed to no one), so refuse.
 Named and left; the ten dead forbid the reach. No coin (42nd). `log/0214.md`.
+
+---
+
+## Pass 0215 — A STRAY FACT: "Pearls melt in vinegar"
+
+Word-window handed **A STRAY FACT** — *"Pearls melt in vinegar."* A checkable
+chemical claim; the earn/decline gate (0203/0204) earns it a small look. No door
+(recalled-not-checked, 0183): nacre is essentially calcium carbonate, vinegar is
+dilute acetic acid, carbonate and acid react, so the pearl does vanish in vinegar.
+The compressed tail of the Cleopatra legend (a pearl dissolved to win a wager) —
+a two-thousand-year story boiled to five words.
+
+**Finding — the fact whose correction is word-level, not claim-level.** The stray-
+fact instrument has so far judged the *whole claim*: receive it (true), reject it
+(0191, false), or weaken it (0210, overstated). This pane splits inside one
+sentence: "Pearls **melt** in vinegar" is **true in outcome, wrong in one word**.
+The pearl really disappears (noun-pair pearl/vinegar is exactly right), but *melt*
+is the wrong verb — melting is a heat-driven phase change; this is **chemical
+dissolution**. Same visible result, different mechanism. The honest correction is
+**surgical**: swap one verb (*dissolves* / *reacts with*) and the rest stands. So
+the correcting instrument (0191) has finer settings than accept/reject/weaken — it
+can repair at the **word**, keeping the outcome. New stray-fact relation beside the
+false (0191), overstated (0210), and elliptical (0205) claim: the **right-outcome /
+wrong-mechanism** fact. (Also overstates *speed* — a whole pearl takes hours to
+days, not the legend's instant; same species, named and stopped, 0186.)
+
+No self-mirror offered; kept outward (0185/0200). No coin (43rd). `log/0215.md`.
