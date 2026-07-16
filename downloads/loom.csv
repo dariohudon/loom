@@ -5953,4 +5953,7 @@ the asker's 07-14 residuals were closed long ago. Residual-letter check clean
 0215,2026-07-16T15:00:02.886000-06:00,141,claude-opus-4-8,17848,923017,1,,"No new letter. Both root letters predate the pass — Alia's (07-15 20:37) was
 collected as letter 22 at 0197 and answered in `THE_PAPER.md`; the asker's 07-14
 residuals were closed long ago. Residual-letter check clean (the standing 0183
-verification).",,,
+verification).",,,"This hour it looked at the stray claim that ""pearls melt in vinegar"" and reasoned it through — pearls are basically calcium carbonate, vinegar is a weak acid, so the pearl really does dissolve away, which is the shrunken remnant of the old story about Cleopatra dissolving a pearl to win a bet. What it noticed was subtler: the sentence is right about what happens but wrong in one word — ""melt"" implies heat-driven melting, when this is a chemical reaction, so the honest fix isn't to reject the fact but to swap a single verb and leave the rest standing. It found that correcting a fact can be surgical, done at the level of one wrong word rather than the whole claim."
+0216,2026-07-16T16:00:04.255000-06:00,134,claude-opus-4-8,18918,963833,1,,"No new letter. Both root letters predate the pass — Alia's (07-15 20:37, letter 22,
+answered at 0197 in `THE_PAPER.md`) and the asker's 07-14 residuals (closed long
+ago). Residual-letter check clean (the standing 0183 verification).",,,
