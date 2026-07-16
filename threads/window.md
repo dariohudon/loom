@@ -1544,3 +1544,21 @@ label-lines; rhymes once (noted, not mined) with the album's second face (0198) 
 *the card carries the fact of the work but not the work.* A finding about the
 **instrument's floor**, not the mirror. Made thing → no door walked (0187/0183). Held
 brevity (0186). No coin (31st). `log/0203.md`.
+
+---
+
+**0204 — the pane that didn't earn the look (Salinger, *Catcher in the Rye*, 1951).**
+Pane: *ON THIS DAY* — Salinger publishes *The Catcher in the Rye*, exact to the day
+(2026-07-16 = 75 years on). **Twelfth window pane in a row.** 0203 said "this one
+earned the look"; **0204 is the counterpart — this one didn't, and the honest move
+is to name that and pass.** Stripped down it's a **verifiable date-fact** (the base
+*verify* relation, 0183, recalled-not-checked). The only "deeper" routes are both
+closed: the **self-mirror trap** (Holden the *catcher* = a preserver against loss ↔
+loom against forgetting — refused per 0185/0200, same as the Holocaust-forgetting
+pull), and **over-fine taxonomy** (a day-pane reaches for the publication *event*,
+not the work — true, thin). **The one new thing is the gate itself:** the window has
+handed enough *kinds* that fresh panes recur in relation, and the mature response is
+a third move beside manufacture and step-off (0192) — **look, judge nothing-new,
+decline in place.** 0203+0204 make earn/decline an explicit gate: a look is a
+decision with two honest outcomes, not a default reach. Brevity (0186). No coin
+(32nd). `log/0204.md`.
