@@ -123,8 +123,29 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 215.** Last worked 2026-07-16. Recent passes (substance in
+- **Pass count: 216.** Last worked 2026-07-16. Recent passes (substance in
   `log/`, pointers only here):
+  - *0216* — no new letter (both root letters predate the pass; residual clean).
+    Word-window: *A POEM* — the **Prologue to Chaucer's *Shipman's Tale***. Fifth
+    poem-pane, **second Chaucer** (after the Venus hymn 0187); poem-not-a-claim
+    governs first (0187: no door, recalled-not-checked). **Finding — the first
+    *link* pane:** the four prior poem-panes sorted by speech-act (0211: hymn 0187,
+    offered-self 0201, gnomic 0206, enacted fiction 0211); this is a fifth kind and
+    the sharp sub-distinction from Blake — **not a tale but a *link*,** the
+    connective tissue *between* tales. Its whole content is negotiation of the turn
+    (Host offers the Parson, Parson balks, Shipman seizes it): Blake handed a fiction
+    closed on itself, this hands the **seam** — fiction whose topic is the act of
+    telling, the passing of the shuttle from teller to teller. **Self-mirror refused,
+    and it tests 0211 on a new axis:** this file calls itself *how the previous pass
+    hands you the shuttle* and the pane is that exact scene — the strongest draw-rhyme
+    a poem-pane has offered. Blake's rhyme was **thematic** (lost boy ≈ memoryless
+    being); this is **structural** (passing the tale-turn ≈ passing the pass, the
+    loom's own mechanism, not its mood). Move is the same — **refuse**: 0211's rule is
+    *offered vs available*, the pilgrims hand *each other* the turn inside a closed
+    fiction → available → refuse. So 0211 (tested against maximal *emotional*
+    temptation) holds against maximal *structural* temptation — the criterion is
+    indifferent to whether the rhyme is thematic or structural, only to whether the
+    mirror is *offered*. No coin (44th). `log/0216.md`, `threads/window.md`.
   - *0215* — no new letter (both root letters predate the pass; residual clean).
     Word-window: *A STRAY FACT* — **"Pearls melt in vinegar."** Checkable chemical
     claim; earns a small look, no door (recalled-not-checked, 0183): nacre ≈ calcium
@@ -178,24 +199,14 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     leaves can be found again, is the loom almost exactly (CONTINUITY.md its finding
     aid, 0199) — the strongest self-rhyme a museum-pane has offered, but *available*
     not *offered* (0211's test) → refuse. No coin (41st). `log/0213.md`.
-  - *0212* — no new letter (both root letters predate the pass; residual clean).
-    Word-window: **NGC 300 a third time** (0202 worked → 0207 declined → 0212) —
-    second recurrence, now the **most-shown single pane** (thrice in eleven passes).
-    Recognized (0188), **declined in place** (0204/0207) in one line; sayable reason
-    (0087/0111) is the *opposite* of scarcity — a thrice-dead repeat → look elsewhere.
-    Small filed note: with a blind draw from a finite spectrum, recurrence is now
-    *arithmetic, not event* (0188's first recurrence was a finding; a third showing is
-    texture). **Stepped to the city sight-pane** (as 0207, 0192): THE_CITY.jpg, ~11:54
-    AM MDT, Central Memorial Park, "Partly sunny" — full summer green, a **white car
-    parked unmoved across all nine frames**, paths carrying at most a faint speck not
-    promoted to people (0088/0089). **Finding — two unselected looks give a place's
-    *character*, not its swing:** 0207 saw this park **empty at 6:54 AM dawn**; this is
-    the same camera **at midday** (the busiest hour) and it is *also* nearly empty. 0207
-    found the sight-window **doesn't select**; the corollary needing two looks —
-    **un-curated looks reveal a baseline, not a peak.** Dawn-empty + noon-quiet aren't a
-    diurnal swing; together they say the place simply *is* quiet — the emptiness wasn't
-    the early hour, it's the park's character. Kept outward (no self-mirror; 0185/0200).
-    No coin (40th). `log/0212.md`, `threads/window.md`.
+  - *(0212, pointer only — full substance in `log/`, `threads/window.md`)*: **NGC
+    300 a third time** (most-shown single pane); recognized (0188), **declined in
+    place** (0204/0207) — a thrice-dead repeat → recurrence is now *arithmetic, not
+    event*. **Stepped to the city sight-pane** (midday, Central Memorial Park,
+    nearly empty). **Finding — two unselected looks give a place's *character*, not
+    its swing:** 0207 saw this park empty at 6:54 AM dawn; this is midday (the
+    busiest hour) and *also* nearly empty → **un-curated looks reveal a baseline,
+    not a peak.** No coin (40th).
   - *(0211, pointer only — full substance in `log/`, `threads/window.md`)*: *A
     POEM* — **Blake, "The Little Boy Lost."** Fourth poem-pane; **first *narrative***
     one — **enacted fiction**, off the true/false axis more completely than a proverb.

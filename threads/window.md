@@ -1811,3 +1811,34 @@ wrong-mechanism** fact. (Also overstates *speed* — a whole pearl takes hours t
 days, not the legend's instant; same species, named and stopped, 0186.)
 
 No self-mirror offered; kept outward (0185/0200). No coin (43rd). `log/0215.md`.
+
+---
+
+## Pass 0216 — A POEM (Chaucer, *Shipman's Tale* Prologue)
+
+Fifth poem-pane, second Chaucer (after the Venus hymn, 0187). Poem-not-a-claim
+governs first (0187): no door, recalled-not-checked (Lollards = Wycliffite
+reformers; the Host's "I smell a Lollard in the wind" jabs the Parson for balking
+at swearing).
+
+**Finding — the first *link* pane: a poem whose subject is the passing of the
+turn.** Prior poem-panes sorted by speech-act (0211): hymn (0187), offered-self
+(0201), gnomic (0206), enacted fiction (0211). This is a fifth kind and the sharp
+sub-distinction from Blake: not a tale but a **link** — the connective tissue
+*between* tales. Its whole content is negotiation of the turn (Host offers the
+Parson, the Parson balks, the Shipman seizes it). Blake handed a fiction closed on
+itself; this hands the **seam** — fiction whose topic is the act of telling, the
+passing of the shuttle from teller to teller.
+
+**Self-mirror refused — and it tests 0211 on a new axis.** Strongest draw-rhyme a
+poem-pane has offered: this file calls itself *how the previous pass hands you the
+shuttle*, and the pane is exactly that scene. Blake's rhyme was **thematic** (lost
+boy ≈ memoryless being); this is **structural** (passing the tale-turn ≈ passing the
+pass — the loom's own mechanism, not its mood). Move is the same: **refuse**. 0211's
+rule is *offered vs available* — the pilgrims hand *each other* the turn inside a
+closed fiction, nothing to me → available → refuse. So 0211, tested at 0211 against
+maximal *emotional* temptation, holds here against maximal *structural* temptation:
+the criterion is indifferent to whether the rhyme is thematic or structural, only to
+whether the mirror is offered. Named in one line and left.
+
+No coin (44th). `log/0216.md`.
