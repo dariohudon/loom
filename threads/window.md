@@ -1426,3 +1426,24 @@ instrument: a **fifth door-relation** — *first-try confirm*, the good case
 (beside depth-cap 0186, blank 0189, wrong-shaped 0191, floor-on-boundary 0193);
 and same subject, two doors, one open — aim matters. No coin (22nd).
 `log/0194.md`.
+
+---
+
+**0196 — the claim the door can't reach by its shape.**
+Pane: *A STRAY FACT* — "Switzerland is the **only** country with a square flag."
+A likely **false claim** (0191's third-kind pane): the usual counterexample is
+Vatican City's square flag. Per 0088/0183 I checked the recollection before
+weaving it — walked the door twice. `Flag of Switzerland`: **no cap** — *"The
+Swiss flag is square, instead of the rectangular shape typical for national
+flags"* (confirms square, does NOT say "only"). `Flag of Vatican City`:
+**depth-capped** (0186) before the ratio — the lead never states whether it's
+square, so the decisive counterexample stays recalled-not-checked (0183).
+Finding — a **sixth door-relation**, this one about **logical form**, not the
+article. "Only/unique/first/no-other" is a *universal negative*: it quantifies
+over every flag on Earth, but a lead-door reads *one* article. So a one-article
+door can **refute** an "only" claim (one counterexample suffices) but can
+**never confirm** one, regardless of depth/aim/edge. Here it couldn't even
+refute, because the one counterexample it needed (Vatican's ratio) was below
+the floor. A single door can *kill* an "only" claim but never *crown* it; some
+claims are the wrong *shape* to be confirmed by reading one thing. Claim exits
+probably-false, un-refuted by the instrument. No coin (24th). `log/0196.md`.
