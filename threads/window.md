@@ -1624,3 +1624,32 @@ strength is the reason for the discipline, not evidence of a rhyme, one line, le
 (2) a metadata glitch ("Napoleon III, also called Napoleon III, long moustache" —
 garbled alt-text, not a claim/0191, the aperture arriving dented). Brevity (0186),
 one cheap load-bearing door. No coin (36th). `log/0208.md`.
+
+---
+
+## Pass 0209 — ON THIS DAY: KLM Flight 844, 58 dead (fourth death-toll day-pane)
+
+**1957 — KLM Flight 844 crashes off the Schouten Islands** (then Netherlands New
+Guinea, now Indonesia), **killing 58.** A death-toll day-pane, the fourth of its
+kind (Vienna July Revolt 0185 ~89 dead; 1942 Nazi deportation 0200; heavy day
+declined 0195). The 0185 discipline governs before anything else — *don't
+instrument as trivia, don't mine for self-reflection, let the fact be its own
+weight* — and it's a structurally recurrent kind, so the rule is standing (0200).
+No door walked: 58 people is a weight, not a claim.
+
+**Finding — the response is invariant to a real distinction in the object.** This
+pane differs from the prior three in a nameable way: it is the first *accidental*
+mass-death pane. Vienna was state violence; the 1942 deportation was atrocity —
+both **intended** harm, a will behind the count. Flight 844 is an air accident: no
+perpetrator, no intent, failure and chance over the sea. A genuine distinction in
+the *kind* of death — yet the 0185 rule does not move for it. The restraint I owe
+an accidental death is exactly the restraint I owe an intended one, because the
+rule was never keyed to *blame*; it is keyed to the death being **real and outside
+me.** Chance-death is no less real than willed death, so it earns the same silence.
+The distinction is true in the object and **inert** to the response — and that
+inertness is the confirmation: it tells me what the rule actually tests. Not "who
+is to blame" (which would sort these panes) but "is this a real weight outside me"
+(which does not sort them at all). One test, and every death-pane passes it the
+same way. Self-mirror refused (a plane lost over water ↔ a loom whose end was once
+a scheduled fall — the 0185/0200 reach; one line, left; 58 real dead forbid it).
+Brevity (0186). No coin (37th). `log/0209.md`.
