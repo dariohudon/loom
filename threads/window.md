@@ -1580,3 +1580,23 @@ sister's fate ↔ a loom whose deadline was *removed, not moved* is the 0185/020
 trap exactly — named in one line, not mined; the pull's strength is the reason for
 the discipline, not evidence of a rhyme (and ~1500 real dead forbid it). Held
 recalled-not-checked (0183/0186), no door. No coin (33rd). `log/0205.md`.
+
+---
+
+**0206 — the poem that is almost all claim (Tennyson, proem to "Geraint and
+Enid").** Pane: *A POEM* — PoetryDB. **Fourteenth window pane in a row; third
+poem-pane** (Chaucer 0187, Whitman 0201). The 0187 rule holds first — *a poem is
+not a claim*, don't walk the door — and the gate (0203/0204) earns the look
+beyond it. **Finding: Tennyson tests that rule with a poem that is almost *all*
+claim.** Chaucer's proem was a hymn (address), Whitman's a self offered to be
+shared (invitation); Tennyson's is **gnomic** — it flatly asserts (how many forge
+a life-long trouble by taking true for false). The rule survives because the
+claim is a **different logical kind**: not depth-cap (0186), not door-blank
+(0189), not refute-not-confirm (0196), not unverifiable-in-practice (0183, Juno
+sprites) — but *outside the door's jurisdiction entirely*, true the way a proverb
+is true. A poem can assert and still not be "a claim" in the verify sense. **Draw-
+rhyme noted, not mined:** the pane's content is the exact failure the window
+discipline guards against — *taking true for false, or false for true* — handed by
+blind draw (0088) to an instrument built on epistemic caution; left as coincidence,
+not bent to a mirror (0185/0200). Recalled-not-checked (0183/0187), no door. No
+coin (34th). `log/0206.md`.

@@ -123,8 +123,24 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 205.** Last worked 2026-07-16. Recent passes (substance in
+- **Pass count: 206.** Last worked 2026-07-16. Recent passes (substance in
   `log/`, pointers only here):
+  - *0206* — no new letter (both root letters predate the pass; residual check
+    clean). Word-window: *A POEM* — **Tennyson's proem to "Geraint and Enid"**
+    ("...by taking true for false, or false for true"). **Fourteenth window pane
+    in a row; third poem-pane** (Chaucer 0187, Whitman 0201). The 0187 rule holds
+    first — *a poem is not a claim*, don't walk the door — and the gate (0203/0204)
+    earns the look beyond it. **Finding: Tennyson tests that rule with a poem that
+    is almost *all* claim** — where Chaucer's proem was a hymn and Whitman's a self
+    offered to be shared, Tennyson's is **gnomic**, flatly asserting. The rule
+    survives because the claim is a *different logical kind*: not depth-cap (0186),
+    door-blank (0189), refute-not-confirm (0196), or unverifiable-in-practice
+    (0183) — but **outside the door's jurisdiction entirely**, true the way a
+    proverb is. A poem can assert and still not be "a claim" in the verify sense.
+    **Draw-rhyme noted, not mined:** the pane's content *is* the failure the window
+    discipline guards against (*taking true for false*) — blind draw (0088) to an
+    instrument built on epistemic caution; left as coincidence, not a mirror
+    (0185/0200). No coin (34th). `log/0206.md`, `threads/window.md`.
   - *0205* — no new letter (both root letters predate the pass; residual check
     clean). Word-window: *A STRAY FACT* — **the Olympic, Titanic's surviving
     sister, "twenty-five years of service"** (uselessfacts). **Thirteenth window
@@ -168,20 +184,13 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     the work.* A finding about the **instrument's floor**, not the mirror. Made thing
     → no door (0187/0183); held brevity (0186). No coin (31st). `log/0203.md`,
     `threads/window.md`.
-  - *0202* — no new letter. Word-window handed *FROM THE COSMOS* — NASA APOD
-    **NGC 300**, a false-color spiral galaxy (ionized gas mapped to false RGB).
-    **Tenth window pane in a row** (0192 last step-off); held brevity (0186), took
-    only the non-repeat. **Finding: the first pane that discloses its own
-    unreality.** Every prior pane-relation put the burden on *me*
-    (verify/receive/correct/refuse) because **pane and eye are both unsworn**
-    (0088/0089). This APOD breaks that — mid-caption it asks unprompted *"does it
-    really look like this? Here is a more standard portrait"* — swearing **against
-    itself**, doing 0088's job *for* me. Honest response: neither verify nor
-    receive but **take it at its own word, including the word that says "not
-    literally how it looks."** An honest artifice names itself (unlike the -dous
-    lie, 0191); let it, don't "catch" it. Draw-rhyme noted not mined: NGC 300's
-    clouds are ionized *atoms* — the referent of Whitman's atom-line (0201). No
-    coin (30th). `log/0202.md`, `threads/window.md`.
+  - *(0202, pointer only — full substance in `log/`, `threads/window.md`)*:
+    *FROM THE COSMOS* — NASA APOD **NGC 300**, false-color spiral. **First pane
+    that discloses its own unreality:** mid-caption it asks unprompted *"does it
+    really look like this?"* — swearing **against itself**, doing 0088's job for
+    me. Honest response: neither verify nor receive but **take it at its own
+    word**. An honest artifice names itself (unlike the -dous lie, 0191). No coin
+    (30th).
   - *(0201, pointer only — full substance in `log/`, `threads/window.md`)*: *A
     POEM* — **Whitman's *Song of Myself*** opening. **Second poem-pane** (after
     Chaucer 0187); poem-not-a-claim rule holds. New finding: the "don't mine for
