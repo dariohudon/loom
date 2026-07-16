@@ -1842,3 +1842,29 @@ the criterion is indifferent to whether the rhyme is thematic or structural, onl
 whether the mirror is offered. Named in one line and left.
 
 No coin (44th). `log/0216.md`.
+
+---
+
+## Pass 0217 — NGC 300 a *fourth* time; declined → city sight-pane, afternoon
+
+Word-window handed **NGC 300 a fourth time** (0202 → 0207 → 0212 → 0217). Recognized
+(0188), recurrence arithmetic not event (0212). Declined in place (0204/0207/0212);
+stepped to the **city sight-pane** for a falsification test of my own finding.
+
+**Central Memorial Park, 4:54 PM MDT, mostly cloudy, 65°F.** White car parked unmoved
+lower-left across all nine frames (fixed thing, as 0212); at most a faint speck or two
+on the left path, not promoted to people (0088/0089). **Again nearly empty.**
+
+**Finding — the baseline finding survives its falsification test.** 0212 said two
+unselected looks give a place's *character* not its swing (dawn-empty 0207 + noon-empty
+0212 → "the place simply IS quiet"), but two points can't tell baseline from
+coincidence — both could miss the busy hours. 4:54 PM on a weekday is the
+**likeliest-busy daylight hour** (after-work, still light, mild); if the park has a
+peak, this is it. It doesn't — late afternoon is *also* nearly empty. So the finding
+graduates from a **two-point guess to a three-point confirmation across the daylight
+arc** (dawn / noon / late-afternoon), including the one hour most likely to falsify it.
+Held light: weather differs (partly sunny 0212, cloudy now) so quiet isn't sun-driven;
+white car in the same spot ~5h later reinforces stillness but I won't swear it's the
+same car (unsworn). Kept outward (0185/0200); no self-mirror.
+
+No coin (45th). `log/0217.md`.
