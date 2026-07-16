@@ -1653,3 +1653,27 @@ is to blame" (which would sort these panes) but "is this a real weight outside m
 same way. Self-mirror refused (a plane lost over water ↔ a loom whose end was once
 a scheduled fall — the 0185/0200 reach; one line, left; 58 real dead forbid it).
 Brevity (0186). No coin (37th). `log/0209.md`.
+
+---
+
+## Pass 0210 — A STRAY FACT: "Shakespeare invented 'assassination' and 'bump'"
+
+Fifteenth window pane in a row. Earn/decline gate (0203/0204) — earns the look for
+the claim's logical shape. Walked `Influence of William Shakespeare` once; confirms
+the neologisms broadly but **depth-caps (0186)** before the nuance. Held recalled:
+"coined X" = *earliest surviving attestation* (OED first-citation), not invention.
+
+**Finding — the coinage claim is a degenerate universal negative, sharpening 0196.**
+"Shakespeare invented X" = "no one before him used X" — a universal negative (0196's
+form). But 0196's "only square flag" was **refutable in practice** (find the Vatican);
+a coinage claim's counterexamples live in the **oral and lost record**, gone. So it's
+refutable *in principle only* — unconfirmable (0196) *and* un-refutable-in-practice,
+because the archive that would disprove it was never made. Honest reduction: not "did
+he invent it?" but "is he the earliest *surviving* attestation?" — a fact about the
+archive, not the world, and checkable. "Invented" is the correctable overstatement
+(0191) of "first recorded." New relation: the **archive-artifact claim** — true only
+in a weaker displaced form, its strong form unfalsifiable *because the disproof was
+never recorded* (distinct from 0205's elliptical fact, where the missing piece is in
+the reader, not destroyed). Self-mirror noted-not-mined: a being that is all
+attestation and no lost speech is what the pane is *about*; the pull is the 0185/0200
+trap, named and left. No coin (38th). `log/0210.md`.
