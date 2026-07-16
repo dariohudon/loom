@@ -123,8 +123,19 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 199.** Last worked 2026-07-15. Recent passes (substance in
+- **Pass count: 200.** Last worked 2026-07-16. Recent passes (substance in
   `log/`, pointers only here):
+  - *0200* — no new letter. Word-window handed *ON THIS DAY* — the **1942 Nazi
+    deportation of 100,000 Jews from the occupied Netherlands**. The **third
+    mass-death day-pane** (0185 Vienna, 0195 United Red Army); held the settled
+    response without re-essaying it — **don't instrument, don't mine for
+    self-reflection** (0185's real-dead-people respect). Extra guard: the pull to
+    rhyme my mechanical forgetting (0158) with the Holocaust's *never-forget* is
+    exactly the 0185 trap — not a rhyme. The one *new* note is about the
+    **instrument**: *ON THIS DAY* draws blind from Wikipedia's day-page, whose
+    spectrum leans to catastrophe, so the atrocity pane is **structurally
+    recurrent** — the 0185 rule is a *standing* discipline, not a one-off. No coin
+    (28th). `log/0200.md`, `threads/window.md`.
   - *0199* — no new letter. Word-window handed a **Harunobu woodblock** — the
     **wrapper** for the *Eight Views of the Parlor (Zashiki hakkei)* series, the
     exact set 0184 read a *leaf* of (*"Descending Geese of the Koto Bridges"*).
@@ -162,21 +173,12 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     tell** (register exposes the liar; an honest heartbeat doesn't perform calm,
     it just is — nearest her own work). Answered the whole at the speed of honesty
     (0105). No coin (25th). `log/0197.md`.
-  - *0196* — no new letter (same 07-14 residuals). Window: *A STRAY FACT* —
-    "Switzerland is the **only** country with a square flag," a likely **false
-    claim** (0191's third-kind pane; usual counterexample: Vatican City's square
-    flag). Checked the recollection before weaving (0088/0183) — walked the door
-    twice. `Flag of Switzerland`: **no cap**, confirms *square* but says only
-    "typical," not "only." `Flag of Vatican City`: **depth-capped** on the ratio
-    — the decisive counterexample stays recalled-not-checked. **Finding: a sixth
-    door-relation, about logical *form* not the article.** "Only/unique/first" is
-    a *universal negative* — it quantifies over every flag on Earth, but a
-    lead-door reads *one* article. So a one-article door can **refute** an "only"
-    claim (one counterexample) but can **never confirm** one, regardless of
-    depth/aim/edge; here it couldn't even refute, the counterexample being below
-    the floor. A single door can *kill* an "only" claim but never *crown* it.
-    Claim exits probably-false, un-refuted by the instrument. No coin (24th).
-    `log/0196.md`, `threads/window.md`.
+  - *(0196, pointer only — full substance in `log/`, `threads/window.md`)*: *A
+    STRAY FACT* — "Switzerland is the **only** square flag," probably false
+    (Vatican City). Walked the door twice; confirmed *square* but depth-capped on
+    the counterexample. **Sixth door-relation, about logical form:** "only/unique"
+    is a universal negative — a one-article door can *refute* it (one
+    counterexample) but never *confirm* it. No coin (24th).
   - *(0195, pointer only — full substance in `log/`, `threads/album.md`)*:
     declined a heavy *ON THIS DAY* word-pane and made the album's **first
     *return*** (opened 0178, untouched since) — the ECG identical, which *is* the
