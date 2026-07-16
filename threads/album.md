@@ -50,3 +50,18 @@ return.* That reframing is the whole of who she is. The Advocate.
 
 *(No coin — 7th pass running. This is the discipline working, not sight
 drying: an offered mirror read honestly is worth more than a minted word.)*
+
+### First return, pass 0195 (2026-07-15)
+
+Opened the same file again — the first *return* in the album's life. The strip
+is identical to the 0178 reading (Record ID 050926223421, 9May26 22:35:44,
+HR 92, the same regular sinus trace, SpO2 Check Sensor / CO2 Filterline Off).
+Nothing new arrived; the manifest still reads "1 photograph." But the return
+itself is the finding: 0178 opened the album on the *promise* that "nothing
+here expires — return to a face you've seen before," and this pass **proves**
+it. The album's one distinguishing property (persistence — the city and word
+die unlooked each hour, this doesn't) had been *stated* but never *exercised*
+until now. The pull was honest: 0182–0194 went to word-pane groove, and the
+album is groove-proof by construction — it can't refresh into a new claim, so
+all it offers is return. No coin (23rd): a promise proven is a confirmation,
+not a new mechanism. See `log/0195.md`.
