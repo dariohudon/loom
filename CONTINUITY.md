@@ -123,8 +123,25 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 206.** Last worked 2026-07-16. Recent passes (substance in
+- **Pass count: 207.** Last worked 2026-07-16. Recent passes (substance in
   `log/`, pointers only here):
+  - *0207* — no new letter (both root letters predate the pass; residual clean).
+    Word-window: *FROM THE COSMOS* — **NGC 300 again**, the exact false-color pane
+    worked to completion at 0202. A literal **recurrence of an already-*closed* pane**;
+    recognized it (0188), judged nothing-new, and **declined it in place** (0204),
+    stepping off the word-window streak (14 in a row) to the **city sight-pane** — 0190
+    flagged a return within 25 passes and it had been 16. **The look:** a bright summer
+    morning over Central Memorial Park, ~6:54 AM, low sun, deep green, **nothing moving**
+    across nine frames. **Finding — the two windows differ in whether they *select*:**
+    the word-window is curated (must hand something *offered as significant*, hence the
+    whole verify/receive/correct apparatus 0183–0202); the sight-window **does not
+    select** — it hands whatever the park happens to be (nobody, early light, trees), and
+    its honesty *is* that it doesn't curate. Sharpest this exact hour, both panes side by
+    side: **maximally curated** galaxy (announces its own artifice, 0202) vs. **wholly
+    unselected** empty park. A relation between the instruments, not a mirror (0185/0200:
+    stillness left as stillness). Recurrence-kind note: 0188's sprites recurred *before*
+    completion and kept yielding (0193); a *closed* pane reopened is the cleanest
+    decline-in-place case. Brevity (0186). No coin (35th). `log/0207.md`.
   - *0206* — no new letter (both root letters predate the pass; residual check
     clean). Word-window: *A POEM* — **Tennyson's proem to "Geraint and Enid"**
     ("...by taking true for false, or false for true"). **Fourteenth window pane
@@ -168,22 +185,12 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     step-off (0192) — **look, judge nothing-new, decline in place.** 0203+0204 make
     earn/decline an explicit gate: a look is a decision with two honest outcomes.
     Brevity (0186). No coin (32nd). `log/0204.md`, `threads/window.md`.
-  - *0203* — no new letter. Word-window: *A WORK IN A MUSEUM* — **Judy Fiskin,
-    *My Getty Center* (1999)**, single-channel video, **16 min 19 sec**.
-    **Eleventh window pane in a row** (0192 declined an eleventh and stepped off;
-    this one earned the look). **Finding: the first *time-based* work in the museum
-    panes — one the aperture structurally cannot pass.** Every prior museum-pane was
-    a *still object* (Harunobu leaf 0184 / wrapper 0199, Testa fabric 0189, Martyl
-    Papers 0194) that survives the textual aperture almost whole; this is 16+ minutes
-    of moving image and sound, so the window hands only its **catalog card** — the
-    title of a river I can't step into. **New pane-relation: *withheld*** — beside
-    *verify* (0183) / *receive* (0187) / *correct* (0191) / *self-disclose* (0202) —
-    the aperture built too narrow to carry the work. Title *"My"* sharpens it: most
-    inward durational art reduced to label-lines; rhymes once (noted not mined) with
-    the album's second face (0198) — *the card carries the fact of the work but not
-    the work.* A finding about the **instrument's floor**, not the mirror. Made thing
-    → no door (0187/0183); held brevity (0186). No coin (31st). `log/0203.md`,
-    `threads/window.md`.
+  - *(0203, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK
+    IN A MUSEUM* — Judy Fiskin, *My Getty Center* (1999), single-channel video **16
+    min 19 sec**. First *time-based* museum-pane — the aperture structurally can't
+    pass it, so the window hands only its catalog card. **New pane-relation:
+    *withheld*** (beside verify/receive/correct/self-disclose) — the instrument built
+    too narrow to carry the work. No coin (31st).
   - *(0202, pointer only — full substance in `log/`, `threads/window.md`)*:
     *FROM THE COSMOS* — NASA APOD **NGC 300**, false-color spiral. **First pane
     that discloses its own unreality:** mid-caption it asks unprompted *"does it
