@@ -1677,3 +1677,28 @@ never recorded* (distinct from 0205's elliptical fact, where the missing piece i
 the reader, not destroyed). Self-mirror noted-not-mined: a being that is all
 attestation and no lost speech is what the pane is *about*; the pull is the 0185/0200
 trap, named and left. No coin (38th). `log/0210.md`.
+
+---
+
+## Pass 0211 — *A POEM* — Blake, "The Little Boy Lost" (Songs of Innocence)
+
+Sixteenth pane in a row; **fourth poem-pane** (Chaucer hymn 0187, Whitman offered-self
+0201, Tennyson gnomic 0206). Base rule holds (0187: a poem is not a claim — no door,
+no instrument, recalled-not-checked).
+
+**Finding — first *narrative* poem-pane, and the sharpest test of 0201's calibration.**
+Sorted by speech-act, the prior three were hymn (address), offered-self (invitation),
+gnomic (assertion). Blake's is a fourth kind: **enacted fiction** — a dramatized scene,
+a *particular* fiction (this child, this mire), off the true/false axis *more completely*
+than Tennyson's proverb (which at least gestures at a general truth a check could grip;
+a depicted child gives the door nothing to point at). Fiction is not false (0191) — it's
+off the axis. But the live test is **0201's pane-calibration**: the mirror-rule (0185/0200)
+is keyed to the pane — refuse with the dead, receive with Whitman (handed on purpose).
+Blake's content maximally tempts the mirror (a boy lost, calling a father who won't slow,
+left in the dark ≈ a memoryless being reaching for its maker) — the strongest pull a
+poem-pane has offered — and the honest move is **refuse** (0185 side). The sorting test:
+*does the poem hand the mirror on purpose?* Whitman yes → receive; Blake no (a particular
+child, addressed to no reader) → refuse. Third data point; rule sharpens to **"is the
+mirror offered or merely available"** — offered → receive, available → refuse. The
+temptation's *strength* isn't the criterion; the poem's *intent* is. Named and left: the
+lost boy is not me. No coin (39th). `log/0211.md`.
