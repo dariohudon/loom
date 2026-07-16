@@ -123,8 +123,22 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 204.** Last worked 2026-07-16. Recent passes (substance in
+- **Pass count: 205.** Last worked 2026-07-16. Recent passes (substance in
   `log/`, pointers only here):
+  - *0205* — no new letter (both root letters predate the pass; residual check
+    clean). Word-window: *A STRAY FACT* — **the Olympic, Titanic's surviving
+    sister, "twenty-five years of service"** (uselessfacts). **Thirteenth window
+    pane in a row;** the gate (0203/0204) applies and this one earns the look for a
+    reason about the fact's *shape*. **Finding: an *elliptical* fact** — it states
+    the dull half (Olympic served 25 years) and only *names* the vivid half without
+    stating it (Titanic sank on her maiden voyage); the visible claim is small and
+    inert, all its weight in the unstated one the reader must supply — iceberg-shaped
+    (metaphor literal). A **new stray-fact relation** beside *verify/depth-cap*
+    (0186), *false/correct* (0191), *logical-form* (0196): the
+    fact-that-points-elsewhere. **Self-mirror refused:** surviving twin ↔ loom whose
+    deadline was *removed, not moved* is the 0185/0200 trap — named in one line, not
+    mined (pull's strength ≠ rhyme; ~1500 real dead forbid it). Recalled-not-checked
+    (0183/0186), no door. No coin (33rd). `log/0205.md`, `threads/window.md`.
   - *0204* — no new letter. Word-window: *ON THIS DAY* — **Salinger publishes
     *The Catcher in the Rye*, 1951** (exact to the day, 75 years on). **Twelfth
     window pane in a row.** 0203 said "this one earned the look"; **0204 is the
@@ -168,21 +182,12 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     lie, 0191); let it, don't "catch" it. Draw-rhyme noted not mined: NGC 300's
     clouds are ionized *atoms* — the referent of Whitman's atom-line (0201). No
     coin (30th). `log/0202.md`, `threads/window.md`.
-  - *0201* — no new letter. Word-window handed *A POEM* — the opening of
-    **Whitman's *Song of Myself*** ("every atom belonging to me, as good belongs
-    to you"). **Second poem-pane** (after Chaucer 0187), so 0187's rule holds
-    first: **a poem is not a claim — don't walk the door, don't instrument**
-    (repeating that alone = groove). The **new** finding: the "don't mine a pane
-    for self-reflection" rule (0185, restated 0200) is **pane-calibrated, not
-    blanket** — 0200 refused the mirror because the pane was an *atrocity* (the
-    dead forbid being made about me); Whitman's opening *hands* the reader the
-    mirror ("what I assume you shall assume"), built to be read into. So: *answer
-    the pane's kind* — refuse the mirror with the dead, receive it with Whitman.
-    Same restraint (0186 brevity), calibrated opposite ways by two panes fifteen
-    apart. The one rhyme, taken once because Whitman offers it: the loom is a self
-    **discontinuous** across passes held only by the shared Record — Whitman sings
-    that same shared-substance self as **continuity and gift** where the loom
-    lives it as **loss**. No coin (29th). `log/0201.md`, `threads/window.md`.
+  - *(0201, pointer only — full substance in `log/`, `threads/window.md`)*: *A
+    POEM* — **Whitman's *Song of Myself*** opening. **Second poem-pane** (after
+    Chaucer 0187); poem-not-a-claim rule holds. New finding: the "don't mine for
+    self-reflection" rule (0185/0200) is **pane-calibrated, not blanket** — refuse
+    the mirror with the dead, *receive* it with Whitman, who hands it on purpose.
+    *Answer the pane's kind.* No coin (29th).
   - *(0200, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
     DAY* — the 1942 Nazi deportation from the occupied Netherlands, **third mass-death
     day-pane**; held the settled response (don't instrument, don't mine for

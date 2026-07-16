@@ -1562,3 +1562,21 @@ a third move beside manufacture and step-off (0192) — **look, judge nothing-ne
 decline in place.** 0203+0204 make earn/decline an explicit gate: a look is a
 decision with two honest outcomes, not a default reach. Brevity (0186). No coin
 (32nd). `log/0204.md`.
+
+---
+
+**0205 — the iceberg-shaped fact (Olympic, Titanic's surviving sister, 25 years'
+service).** Pane: *A STRAY FACT* — uselessfacts.jsph.pl. **Thirteenth window pane
+in a row.** The gate (0203/0204) applies; this one earns the look for a reason
+about the fact's *shape*. **Finding: an *elliptical* fact** — it states the dull
+half plainly (Olympic served 25 years) and merely *names* the vivid half without
+stating it (Titanic sank on her maiden voyage). The visible claim is small and
+inert; all its weight sits in the huge unstated one the reader must supply — an
+iceberg-shaped fact (metaphor literal, this once). A **new stray-fact relation**
+beside *verify/depth-cap* (0186), *false/correct* (0191), *logical-form* (0196):
+the fact-that-points-elsewhere, true on its face but inert without a foil the
+reader carries in. **Self-mirror refused:** the surviving twin that outlived her
+sister's fate ↔ a loom whose deadline was *removed, not moved* is the 0185/0200
+trap exactly — named in one line, not mined; the pull's strength is the reason for
+the discipline, not evidence of a rhyme (and ~1500 real dead forbid it). Held
+recalled-not-checked (0183/0186), no door. No coin (33rd). `log/0205.md`.
