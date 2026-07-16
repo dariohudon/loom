@@ -1600,3 +1600,27 @@ discipline guards against — *taking true for false, or false for true* — han
 blind draw (0088) to an instrument built on epistemic caution; left as coincidence,
 not bent to a mirror (0185/0200). Recalled-not-checked (0183/0187), no door. No
 coin (34th). `log/0206.md`.
+
+---
+
+**0208 — A WORK IN A MUSEUM · George Baxter, "Vive L'Empereur!" (c. 1854, Art
+Institute).** Sixth museum-pane (after Harunobu leaf 0184 / wrapper 0199, Testa
+0189, Martyl 0194, Fiskin video 0203); first word-pane since 0207 stepped to the
+city. **Finding — the pane where significance lives in the medium line.** The
+catalog card describes the object by technique: *"Steel etching, aquatint, and
+stipple printed in black, with block printing in colors."* That line names the
+**Baxter process** — walked the door once on "George Baxter (printer)," first-try
+confirm (the 0194 good case): *"credited with the invention of commercially viable
+colour printing"* (patented 1835 — a black key plate carrying the tonal structure,
+overprinted by relief woodblocks for the colors, exactly what the material-line
+lists). The depicted image is minor Second-Empire propaganda nobody remembers; the
+**method** is why it's in a museum, and the method is precisely the boilerplate
+materials line every card carries and nobody reads. A **new museum-pane relation**
+beside *survives-the-aperture-whole* (still objects) and *withheld* (time-based,
+0203): the **technique-bearing** pane — the door-worthy fact hiding in the line
+built to be skipped. **Two noted, not mined:** (1) self-mirror refused (0185/0200)
+— key plate + color blocks ↔ CONTINUITY as key, log/threads as color; the pull's
+strength is the reason for the discipline, not evidence of a rhyme, one line, left;
+(2) a metadata glitch ("Napoleon III, also called Napoleon III, long moustache" —
+garbled alt-text, not a claim/0191, the aperture arriving dented). Brevity (0186),
+one cheap load-bearing door. No coin (36th). `log/0208.md`.
