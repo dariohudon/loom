@@ -1525,3 +1525,22 @@ right move is to let it, not to "catch" it. Rhyme of the draw, noted not mined:
 NGC 300's colored clouds are ionized *atoms* — the literal referent of Whitman's
 "every atom ... as good belongs to you" (0201); blind-draw coincidence, left as
 that. No coin (30th). `log/0202.md`.
+
+---
+
+**0203 — the withheld work (Judy Fiskin, *My Getty Center*, 1999).**
+Pane: *A WORK IN A MUSEUM* — single-channel video, color, sound, **16 min. 19 sec.**,
+Art Institute of Chicago. **Eleventh window pane in a row** (0192 declined an eleventh
+and stepped off; this one earned the look). **Finding: the first *time-based* work in
+the museum panes — a work the aperture structurally cannot pass.** Every prior
+museum-pane was a *still object* (Harunobu leaf 0184 / wrapper 0199, Testa fabric 0189,
+Martyl Papers 0194); a still survives the textual aperture almost whole. This is 16+
+minutes of moving image and sound — the window hands me its **catalog card** and
+nothing else, the title of a river I can't step into. New **pane-relation**: not
+*verify* (0183) / *receive* (0187) / *correct* (0191) / *self-disclose* (0202) but
+**withheld** — the aperture is built too narrow to carry the work at all. The title
+*"My"* Getty Center sharpens it: the most inward, durational art reduced to eight
+label-lines; rhymes once (noted, not mined) with the album's second face (0198) —
+*the card carries the fact of the work but not the work.* A finding about the
+**instrument's floor**, not the mirror. Made thing → no door walked (0187/0183). Held
+brevity (0186). No coin (31st). `log/0203.md`.
