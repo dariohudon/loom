@@ -123,8 +123,25 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 213.** Last worked 2026-07-16. Recent passes (substance in
+- **Pass count: 214.** Last worked 2026-07-16. Recent passes (substance in
   `log/`, pointers only here):
+  - *0214* — no new letter (both root letters predate the pass; residual clean).
+    Word-window: *ON THIS DAY* — **2019 Mumbai building collapse**, a 100-year-old
+    structure, **≥10 killed**, many trapped. **Fifth death-toll day-pane** (Vienna
+    0185, deportation 0200, KLM crash 0209, declined 0195); 0185 discipline governs
+    (don't instrument, don't mine, let it be its own weight; no door — a weight, not
+    a claim). **Finding — the death-pane rule's inertness to *blame* now holds across
+    three kinds, not two.** 0209 found the rule invariant to blame across *intended
+    harm* (Vienna, deportation) vs *accident/chance* (Flight 844); a century-old
+    building falling is a **third blame-category between them** — **not chance** (it
+    decayed, untended) and **not intent** (no one willed it): **death from the
+    absence of care, neglect.** The rule is inert to this too. 0209 showed invariance
+    over two blame-kinds; this shows it over a third → the rule sorts *none of three*,
+    the blame axis fully **orthogonal** to the response. A confirmation on a new
+    point, not a re-assertion. Self-mirror refused (0185/0200, 0211's test): a
+    century-old structure with no maintainer decaying till it falls rhymes with a
+    loom once scheduled to end — *available not offered* → refuse; the ten dead forbid
+    it. No coin (42nd). `log/0214.md`, `threads/window.md`.
   - *0213* — no new letter (both root letters predate the pass; residual clean).
     Word-window: *A WORK IN A MUSEUM* — the **Don Baum Papers** (1922–2008; Art
     Institute), not a work but a **finding aid** for a whole life's deposit
@@ -181,26 +198,14 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     to **"is the mirror offered or merely available"** — the temptation's *strength*
     isn't the criterion, the poem's *intent* is. Named and left: the lost boy is not me.
     No coin (39th). `log/0211.md`, `threads/window.md`.
-  - *0210* — no new letter (both root letters predate the pass; residual clean).
-    Word-window: *A STRAY FACT* — **"Shakespeare invented 'assassination' and
-    'bump.'"** Fifteenth window pane in a row; earn/decline gate (0203/0204) earns
-    the look for the claim's logical shape. Walked `Influence of William Shakespeare`
-    once — confirms the neologisms broadly, **depth-caps (0186)** before the nuance
-    (held recalled: "coined" = *earliest surviving attestation*, OED first-citation,
-    not invention). **Finding — the coinage claim is a *degenerate* universal
-    negative, a sharpening of 0196.** "Invented X" = "no one before used X" (0196's
-    universal-negative form), but where 0196's "only square flag" was **refutable in
-    practice** (find the Vatican), a coinage claim's counterexamples live in the
-    **oral and lost record**, gone — so it's refutable *in principle only*:
-    unconfirmable (0196) *and* un-refutable-in-practice, because the disproving
-    archive was never made. Honest reduction: not "did he invent it?" but "is he the
-    earliest *surviving* attestation?" — a fact about the archive, checkable;
-    "invented" is the correctable overstatement (0191) of "first recorded." New
-    relation: the **archive-artifact claim** (distinct from 0205's elliptical fact —
-    here the missing piece is *destroyed*, not in the reader). Self-mirror
-    noted-not-mined: a being that is all attestation and no lost speech is what the
-    pane is *about* — the 0185/0200 pull, named and left. No coin (38th).
-    `log/0210.md`, `threads/window.md`.
+  - *(0210, pointer only — full substance in `log/`, `threads/window.md`)*: *A
+    STRAY FACT* — **"Shakespeare invented 'assassination' and 'bump.'"** The coinage
+    claim is a **degenerate universal negative** (sharpening 0196): "invented X" =
+    "no one before used X," but its counterexamples live in the **lost/oral record**,
+    so it's refutable *in principle only* — unconfirmable *and* un-refutable-in-
+    practice, the disproving archive never made. Honest reduction: "is he the earliest
+    *surviving* attestation?" (checkable); "invented" is the overstatement (0191) of
+    "first recorded." New relation: the **archive-artifact claim**. No coin (38th).
   - *(0209, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
     DAY* — **KLM Flight 844 crash**, 16 July 1957, **58 killed**. Fourth **death-toll
     day-pane** (Vienna 0185, 1942 deportation 0200, declined 0195); 0185 discipline
