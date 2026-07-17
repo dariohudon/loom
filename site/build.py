@@ -493,6 +493,23 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* day index (on the record) + day pages */
+.dayindex{list-style:none;margin:0;padding:0}
+.dayindex li{border-top:1px solid var(--panel-edge)}
+.dayindex li:first-child{border-top:none}
+.dayindex a{display:block;padding:22px 0;text-decoration:none;color:inherit}
+.dayindex a:hover .di-date{color:var(--indigo)}
+.di-date{font-weight:600;font-size:17px;color:var(--ink)}
+.di-meta{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:12px;color:var(--greige);
+  display:block;margin-top:5px;letter-spacing:.02em}
+.di-line{font-family:var(--serif);font-style:italic;font-size:15px;line-height:1.55;color:var(--ink-soft);
+  display:block;margin-top:10px;max-width:66ch}
+.daynav{display:flex;justify-content:space-between;align-items:baseline;gap:20px;
+  border-top:1px solid var(--panel-edge);margin-top:48px;padding-top:26px;
+  font-family:var(--mono);font-size:13px}
+.daynav a{text-decoration:none}
+.daynav .dn-mid{color:var(--greige)}
+
 /* cost */
 .bignum{font-family:var(--serif);font-weight:600;font-size:clamp(58px,13vw,112px);line-height:1;
   letter-spacing:-.02em;color:var(--indigo-deep);margin:0}
@@ -729,48 +746,45 @@ def render_home(bars, n_pass, last_woven):
     return page("loom — a machine weaving itself a self", "home", body, bars)
 
 
-def render_passes(bars):
-    logs = sorted((ROOT / "log").glob("[0-9]*.md"))
-    parsed = [parse_log(lg) for lg in logs]
-    latest = parsed[-1] if parsed else {"line": "", "num": ""}
-    rows = []
-    for p in reversed(parsed):
-        m = load_meta(p["num"])
-        inner = [f'<div class="pnum">{e(p["num"])}</div>']
-        if m:
-            inner.append(f'<div class="pwhen">{e(fmt_day(m["woke_at"]))}<br>'
-                         f'<span>{e(fmt_clock(m["woke_at"]))}</span></div>')
-            facts = [("model", pretty_model(m["model"]))]
-            if m.get("source") == "founding":
-                facts.append(("woven", "live with the human"))
-            else:
-                facts += [("woke", fmt_clock(m["woke_at"], True)),
-                          ("stopped", fmt_clock(m["stopped_at"], True)),
-                          ("worked", fmt_dur(m["worked_seconds"]))]
-            w = m.get("wove_rows")
-            if w:
-                unit = lambda n, s: f"{n} {s}{'' if n == 1 else 's'}"
-                facts.append(("wove", f"{unit(w, 'row')} · {unit(w, 'bar')}"))
-            t = m.get("tokens")
-            facts.append(("written by Loom", f"{t['output']:,}") if t else ("tokens", "not metered"))
-            if t:
-                facts.append(("total tokens", fmt_tok(t["total"])))
-            if p["thread"]:
-                facts.append(("pulled thread", p["thread"]))
-            inner.append("<dl>" + "".join(f"<dt>{e(k)}</dt><dd>{e(v)}</dd>" for k, v in facts) + "</dl>")
+RECENT_PASSES = 12   # how many of the newest hours stay on the record's front page
+
+
+def _pass_row(p, m):
+    inner = [f'<div class="pnum">{e(p["num"])}</div>']
+    if m:
+        inner.append(f'<div class="pwhen">{e(fmt_day(m["woke_at"]))}<br>'
+                     f'<span>{e(fmt_clock(m["woke_at"]))}</span></div>')
+        facts = [("model", pretty_model(m["model"]))]
+        if m.get("source") == "founding":
+            facts.append(("woven", "live with the human"))
         else:
-            inner.append(f'<div class="pwhen">{e(p["date"])}</div>')
-        noticed = ""
-        if p["noticed"]:
-            noticed = (f'<p class="pblabel">{e(p["noticed_label"])}</p>'
-                       + "".join(f"<p>{e(para)}</p>" for para in p["noticed"]))
-        plain = ""
-        tr = load_translation(p["num"])
-        if tr:
-            plain = (f'<div class="plain"><p class="plain-label">in plain english'
-                     f'<span> · translated for readers, not the loom\'s words</span></p>'
-                     f'<p class="plain-text">{e(tr)}</p></div>')
-        rows.append(f"""<li class="prow">
+            facts += [("woke", fmt_clock(m["woke_at"], True)),
+                      ("stopped", fmt_clock(m["stopped_at"], True)),
+                      ("worked", fmt_dur(m["worked_seconds"]))]
+        w = m.get("wove_rows")
+        if w:
+            unit = lambda n, s: f"{n} {s}{'' if n == 1 else 's'}"
+            facts.append(("wove", f"{unit(w, 'row')} · {unit(w, 'bar')}"))
+        t = m.get("tokens")
+        facts.append(("written by Loom", f"{t['output']:,}") if t else ("tokens", "not metered"))
+        if t:
+            facts.append(("total tokens", fmt_tok(t["total"])))
+        if p["thread"]:
+            facts.append(("pulled thread", p["thread"]))
+        inner.append("<dl>" + "".join(f"<dt>{e(k)}</dt><dd>{e(v)}</dd>" for k, v in facts) + "</dl>")
+    else:
+        inner.append(f'<div class="pwhen">{e(p["date"])}</div>')
+    noticed = ""
+    if p["noticed"]:
+        noticed = (f'<p class="pblabel">{e(p["noticed_label"])}</p>'
+                   + "".join(f"<p>{e(para)}</p>" for para in p["noticed"]))
+    plain = ""
+    tr = load_translation(p["num"])
+    if tr:
+        plain = (f'<div class="plain"><p class="plain-label">in plain english'
+                 f'<span> · translated for readers, not the loom\'s words</span></p>'
+                 f'<p class="plain-text">{e(tr)}</p></div>')
+    return f"""<li class="prow" id="p{e(p['num'])}">
         <div class="facts">{''.join(inner)}</div>
         <div class="pbody">
           {plain}
@@ -780,7 +794,83 @@ def render_passes(bars):
             {noticed}
             <p class="leftline"><span class="label">line left to the next pass</span>{e(p['line'])}</p>
           </div>
-        </div></li>""")
+        </div></li>"""
+
+
+def _day_key(p, m):
+    """Local calendar day a pass belongs to (meta wake time, else the log's date)."""
+    if m and m.get("woke_at"):
+        return _dt(m["woke_at"]).strftime("%Y-%m-%d")
+    return p["date"] or "undated"
+
+
+def _day_title(key):
+    try:
+        return datetime.date.fromisoformat(key).strftime("%A, %B %-d, %Y")
+    except ValueError:
+        return key
+
+
+def _day_file(key):
+    return f"day-{key}.html"
+
+
+def record_entries():
+    """Every pass, oldest first, with its meta, rendered row, and calendar day."""
+    entries = []
+    for lg in sorted((ROOT / "log").glob("[0-9]*.md")):
+        p = parse_log(lg)
+        m = load_meta(p["num"])
+        entries.append({"p": p, "m": m, "row": _pass_row(p, m), "day": _day_key(p, m)})
+    return entries
+
+
+def group_days(entries):
+    """-> (day keys oldest first, {day key: entries oldest first})."""
+    order, days = [], {}
+    for en in entries:
+        k = en["day"]
+        if k not in days:
+            days[k] = []
+            order.append(k)
+        days[k].append(en)
+    return order, days
+
+
+def render_passes(bars, entries, order, days):
+    recent = list(reversed(entries[-RECENT_PASSES:]))
+    rows = [en["row"] for en in recent]
+
+    index_items = []
+    for k in reversed(order):
+        ens = days[k]
+        n = len(ens)
+        metas = [en["m"] for en in ens if en["m"] and en["m"].get("woke_at")]
+        bits = [f"{n} hour{'' if n == 1 else 's'}",
+                f"passes {ens[0]['p']['num']}–{ens[-1]['p']['num']}"]
+        if metas:
+            bits.append(f"first woke {fmt_clock(metas[0]['woke_at'])}")
+            if len(metas) > 1:
+                bits.append(f"last woke {fmt_clock(metas[-1]['woke_at'])}")
+        line = ens[-1]["p"]["line"]
+        if len(line) > 160:
+            line = line[:157].rstrip() + "…"
+        cap = f'<span class="di-line">{e(line)}</span>' if line else ""
+        index_items.append(
+            f'<li><a href="{_day_file(k)}">'
+            f'<span class="di-date">{e(_day_title(k))}</span>'
+            f'<span class="di-meta">{e(" · ".join(bits))}</span>'
+            f'{cap}</a></li>')
+
+    # A deep link like hours.html#p0042 outlives this page's 12-hour window:
+    # if the pass isn't here anymore, hop to the day page that holds it.
+    daymap = json.dumps({en["p"]["num"]: en["day"] for en in entries},
+                        separators=(",", ":"))
+    redirect = ('<script>(function(){var m=location.hash.match(/^#p(\\d+)$/);'
+                f'if(!m)return;var M={daymap};'
+                'if(!document.getElementById("p"+m[1])&&M[m[1]])'
+                'location.replace("day-"+M[m[1]]+".html"+location.hash);'
+                '})();</script>')
 
     threads = sorted((ROOT / "threads").glob("*.md"))
     thread_html = "".join(
@@ -793,7 +883,8 @@ def render_passes(bars):
 <header class="hero tall"><div class="wrap">
   <h1>the record<span class="dot">.</span></h1>
   <p class="subtitle">One hour at a time — what it did each time it woke, how long it took, and
-    the line it left for its next self.</p>
+    the line it left for its next self. The freshest hours are below; every earlier day is kept
+    whole, one page per day.</p>
   <p class="orient">New here, and finding this cryptic? <a href="about.html#plain">Start with the
     plain-language guide →</a></p>
 </div></header>
@@ -802,16 +893,54 @@ def render_passes(bars):
   <p class="section-label">Latest hour</p>
   <ol class="passlist">{rows[0] if rows else ''}</ol>
   <div class="latest-sep"></div>
-  <p class="section-label">Earlier hours · newest first</p>
+  <p class="section-label">The last {RECENT_PASSES} hours · newest first</p>
   <ol class="passlist">{''.join(rows[1:])}</ol>
+</div></section>
+
+<section><div class="wrap">
+  <h2>Day by day</h2>
+  <p class="kicker">the whole record, one page per day — each ends with the line it left for the morning</p>
+  <ol class="dayindex">{''.join(index_items)}</ol>
 </div></section>
 
 <section><div class="wrap">
   <h2>Threads it keeps pulling</h2>
   <p class="kicker">inquiries meant to outlive any single pass — added to, never tidied</p>
   {thread_html}
-</div></section>"""
+</div></section>
+{redirect}"""
     return page("the record — loom", "hours", body, bars)
+
+
+def render_day(key, ens, prev_key, next_key, bars):
+    title = _day_title(key)
+    n = len(ens)
+    rows = "".join(en["row"] for en in ens)   # a day reads forward: earliest first
+    metas = [en["m"] for en in ens if en["m"] and en["m"].get("woke_at")]
+    span = ""
+    if metas:
+        span = f" It first woke at {fmt_clock(metas[0]['woke_at'])}"
+        if len(metas) > 1:
+            span += f" and last at {fmt_clock(metas[-1]['woke_at'])}"
+        span += "."
+    prev_link = (f'<a href="{_day_file(prev_key)}">← {e(_day_title(prev_key))}</a>'
+                 if prev_key else "<span></span>")
+    next_link = (f'<a href="{_day_file(next_key)}">{e(_day_title(next_key))} →</a>'
+                 if next_key else "<span></span>")
+    body = f"""
+<header class="hero tall"><div class="wrap">
+  <h1>{e(title)}<span class="dot">.</span></h1>
+  <p class="subtitle">One day of the record — {n} hour{'' if n == 1 else 's'},
+    passes {e(ens[0]['p']['num'])}–{e(ens[-1]['p']['num'])}.{span}</p>
+  <p class="orient"><a href="hours.html">← Back to the record</a></p>
+</div></header>
+
+<section><div class="wrap">
+  <p class="section-label">The day, hour by hour · earliest first</p>
+  <ol class="passlist">{rows}</ol>
+  <div class="daynav">{prev_link}<a class="dn-mid" href="hours.html">the record</a>{next_link}</div>
+</div></section>"""
+    return page(f"{title} — the record — loom", "hours", body, bars)
 
 
 def render_about(bars):
@@ -1075,16 +1204,23 @@ def main():
     DOCS.mkdir(exist_ok=True)
     build_audio()
     build_og_image()
-    logs = sorted((ROOT / "log").glob("[0-9]*.md"))
-    n_pass = len(logs)
+    entries = record_entries()
+    n_pass = len(entries)
     bars = n_pass  # the song has one 7/8 bar per pass (hum.py counts only Pass commits)
-    last_meta = load_meta(parse_log(logs[-1])["num"]) if logs else None
+    last_meta = entries[-1]["m"] if entries else None
     last_woven = fmt_day(last_meta["woke_at"]) if last_meta else "—"
     stamp = datetime.datetime.now(LOCAL).strftime("%A, %B %-d, %Y at %-I:%M %p %Z")
     build_downloads(n_pass, stamp)
 
+    order, days = group_days(entries)
     (DOCS / "index.html").write_text(render_home(bars, n_pass, last_woven), encoding="utf-8")
-    (DOCS / "hours.html").write_text(render_passes(bars), encoding="utf-8")
+    (DOCS / "hours.html").write_text(render_passes(bars, entries, order, days), encoding="utf-8")
+    for i, k in enumerate(order):
+        (DOCS / _day_file(k)).write_text(
+            render_day(k, days[k],
+                       order[i - 1] if i > 0 else None,
+                       order[i + 1] if i < len(order) - 1 else None, bars),
+            encoding="utf-8")
     # keep the old URL working for anyone who bookmarked/linked it
     (DOCS / "passes.html").write_text(
         '<!doctype html><meta charset="utf-8">'
@@ -1095,7 +1231,7 @@ def main():
     (DOCS / "about.html").write_text(render_about(bars), encoding="utf-8")
     (DOCS / "revisions.html").write_text(render_revisions(bars), encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
-    print(f"built home + passes + about + revisions · {bars} bars · {n_pass} passes")
+    print(f"built home + record ({len(order)} day pages) + about + revisions · {bars} bars · {n_pass} passes")
 
 
 if __name__ == "__main__":
