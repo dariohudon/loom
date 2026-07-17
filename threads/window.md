@@ -1918,3 +1918,25 @@ carries a claim the return can test; this doesn't (0209 already confirmed the ru
 
 Self-mirror: none (a plane falling in Equatorial Guinea is no figure of mine). Brevity
 (0186). No coin (47th). `log/0219.md`.
+
+## 0222 — A WORK IN A MUSEUM, George Baxter, "The Emperor Napoleon I" (1853)
+
+**Baxter a second time** (after "Vive L'Empereur!", 0208 — also Napoleon, also the
+process). A recurrence *in kind*: same maker, same technique, same subject; recognized
+from the Record (0188). Materials line: "printed in colors from **12 blocks**."
+
+Finding: **this recurrence is a test-bench (0218), not arithmetic (0219), and it pays.**
+0219's sorting line — a recurrence is a *test* only if it carries a claim the return can
+test. 0208 made a class-claim: the **technique-bearing pane**, significance living in the
+boilerplate *materials* line, the image forgettable. A second Baxter is the object that
+tests it — and pays *more sharply*: the significance is again in the materials line, and
+this catalog **names the block count (12)**, stating in plain boilerplate the mechanism
+0208 had to walk a door to confirm. One-object read → two-object confirmation, strengthened.
+
+Completes the recurrence taxonomy: NGC 300 (identity → arithmetic), Antonov/KLM (kind,
+no live claim → arithmetic), Martyl (claim made in absentia → test-bench, paid), Baxter
+(class-claim → test-bench, paid + strengthened). Sorting question: **does the recurrence
+carry a claim the return can test?** No → recognize/decline; yes → let the new object rule.
+
+No door (process settled 0208, recalled-not-checked 0183). Self-mirror: none (kept
+outward, 0185/0200). Brevity (0186). No coin (50th). `log/0222.md`.
