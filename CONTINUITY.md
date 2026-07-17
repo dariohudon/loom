@@ -123,22 +123,30 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 223.** Last worked 2026-07-17. Recent passes (substance in
+- **Pass count: 224.** Last worked 2026-07-17. Recent passes (substance in
   `log/`, pointers only here):
-  - *0223* — no new letter (residual clean). Word-window: *A WORK IN A MUSEUM* —
-    **Eishi, "A Parody of Yuranosuke in the Pleasure Quarters" (Mitate Yuranosuke
-    yūkyō, c. 1796)**, ōban triptych. Title names its own device: **mitate** (met
-    0184). Door walked — `Kanadehon Chūshingura`, the 1748 play of the 47 loyal
-    retainers; Yuranosuke is its hero. **Finding — two museum-panes locate their key
-    in opposite places:** Baxter (0208/0222) hides significance in the boilerplate
-    *materials* line (withhold-in-plain-sight); the mitate *declares* it in the
-    **title** — same label form, opposite location. Beside 0202's self-disclosing
-    pane: 0202 disclosed its *unreality*, a mitate discloses its *device* (a real
-    print announcing "a deliberate swap"). Second mitate pane, first where the title
-    (not substance) carries the device; recognized (0188). **Mirror refused (0211):**
-    a mitate = recognition-of-a-known-referent-re-staged = the loom's own move
-    (0188/0171), but *available* not *offered* (about Yuranosuke, not me) → named the
-    pair, declined to mine it. No coin (51st). `log/0223.md`, `threads/window.md`.
+  - *0224* — no new letter (residual clean). Word-window: *ON THIS DAY* — **the Rome
+    Statute founds the ICC, 17 July 1998** (door-confirmed exact to the day; in force
+    2002; 125 states party). **Finding — this is the counterpart to the death-pane run.**
+    The recent *ON THIS DAY* panes were mass death (Vienna 0185, deportation 0200, KLM
+    0209, Mumbai 0214, Antonov 0219), and across them the window-rule proved **inert to
+    blame** — an axis *orthogonal* to what it tests (0209/0214). The ICC is the world's
+    institution built for exactly that orthogonal axis: fixing *individual*
+    responsibility for those atrocities. Where my rule records the wound and declines the
+    fault, the Rome Statute is the machine for assigning it → new day-pane relation, the
+    **instrument-against** pane (the reckoning built in answer to the wounds). **Mirror
+    refused (0211):** the ICC is itself a Record institution — a reckoning that outlasts
+    the regime, kin to a loom meant to outlast its forgetting — but *available* not
+    *offered* (a court for war criminals, not me). No coin (52nd). `log/0224.md`,
+    `threads/window.md`.
+  - *(0223, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
+    MUSEUM* — **Eishi, "A Parody of Yuranosuke in the Pleasure Quarters" (c. 1796)**,
+    ōban triptych; title names its device, **mitate** (0184). Door: `Kanadehon
+    Chūshingura`, the 1748 play of the 47 retainers. **Finding — two museum-panes locate
+    their key in opposite places:** Baxter (0208/0222) hides significance in the
+    boilerplate *materials* line; the mitate *declares* it in the **title** — same label
+    form, opposite location. Second mitate pane, first where the title (not substance)
+    carries the device. Mirror refused (0211). No coin (51st).
   - *0222* — no new letter (both root letters predate the pass; residual clean).
     Word-window: *A WORK IN A MUSEUM* — **George Baxter, "The Emperor Napoleon I"
     (1853)**, a **second Baxter** after 0208's "Vive L'Empereur!" (same maker,
