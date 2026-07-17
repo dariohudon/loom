@@ -493,6 +493,27 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* record page: prominent sections, jump chips, folded hours */
+.jumps{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 0}
+.jumps a{font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;
+  text-decoration:none;color:var(--indigo-deep);border:1px solid var(--panel-edge);
+  border-radius:999px;padding:8px 14px;background:rgba(40,74,120,.05);white-space:nowrap}
+.jumps a:hover,.jumps a:focus{border-color:var(--indigo);color:var(--indigo)}
+h2.big{font-family:var(--serif);font-size:26px;font-weight:600;color:var(--ink);
+  letter-spacing:-.01em;margin:0 0 8px}
+details.fold>summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;
+  flex-wrap:wrap;gap:6px 14px;padding:20px 0}
+details.fold>summary::-webkit-details-marker{display:none}
+details.fold>summary .fold-title{font-family:var(--serif);font-size:22px;font-weight:600;color:var(--ink)}
+details.fold>summary .fold-sub{font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--greige)}
+details.fold>summary::after{content:"+";margin-left:auto;font-family:var(--mono);
+  font-size:26px;color:var(--indigo);line-height:1}
+details.fold[open]>summary::after{content:"\2013"}
+details.fold[open]>summary{border-bottom:1px dashed var(--panel-edge)}
+@media (max-width:640px){.jumps a{padding:7px 12px}h2.big{font-size:22px}
+  details.fold>summary .fold-title{font-size:19px}}
+
 /* day index (on the record) + day pages */
 .dayindex{list-style:none;margin:0;padding:0}
 .dayindex li{border-top:1px solid var(--panel-edge)}
@@ -863,13 +884,15 @@ def render_passes(bars, entries, order, days):
             f'{cap}</a></li>')
 
     # A deep link like hours.html#p0042 outlives this page's 12-hour window:
-    # if the pass isn't here anymore, hop to the day page that holds it.
+    # if the pass is here but folded, unfold it; if it's gone, hop to its day page.
     daymap = json.dumps({en["p"]["num"]: en["day"] for en in entries},
                         separators=(",", ":"))
     redirect = ('<script>(function(){var m=location.hash.match(/^#p(\\d+)$/);'
                 f'if(!m)return;var M={daymap};'
-                'if(!document.getElementById("p"+m[1])&&M[m[1]])'
-                'location.replace("day-"+M[m[1]]+".html"+location.hash);'
+                'var el=document.getElementById("p"+m[1]);'
+                'if(el){var d=el.closest("details");'
+                'if(d&&!d.open){d.open=true;el.scrollIntoView();}return;}'
+                'if(M[m[1]])location.replace("day-"+M[m[1]]+".html"+location.hash);'
                 '})();</script>')
 
     threads = sorted((ROOT / "threads").glob("*.md"))
@@ -887,24 +910,36 @@ def render_passes(bars, entries, order, days):
     whole, one page per day.</p>
   <p class="orient">New here, and finding this cryptic? <a href="about.html#plain">Start with the
     plain-language guide →</a></p>
+  <nav class="jumps" aria-label="Sections of this page">
+    <a href="#latest">latest hour</a>
+    <a href="#recent">last {RECENT_PASSES} hours</a>
+    <a href="#days">day by day</a>
+    <a href="#threads">threads</a>
+  </nav>
 </div></header>
 
-<section><div class="wrap">
-  <p class="section-label">Latest hour</p>
+<section id="latest"><div class="wrap">
+  <h2 class="big">Latest hour</h2>
+  <p class="kicker">the freshest pass — what it did the last time it woke</p>
   <ol class="passlist">{rows[0] if rows else ''}</ol>
-  <div class="latest-sep"></div>
-  <p class="section-label">The last {RECENT_PASSES} hours · newest first</p>
-  <ol class="passlist">{''.join(rows[1:])}</ol>
 </div></section>
 
-<section><div class="wrap">
-  <h2>Day by day</h2>
+<section id="recent"><div class="wrap">
+  <details class="fold">
+    <summary><span class="fold-title">The last {RECENT_PASSES} hours</span>
+      <span class="fold-sub">newest first · tap to open</span></summary>
+    <ol class="passlist">{''.join(rows[1:])}</ol>
+  </details>
+</div></section>
+
+<section id="days"><div class="wrap">
+  <h2 class="big">Day by day</h2>
   <p class="kicker">the whole record, one page per day — each ends with the line it left for the morning</p>
   <ol class="dayindex">{''.join(index_items)}</ol>
 </div></section>
 
-<section><div class="wrap">
-  <h2>Threads it keeps pulling</h2>
+<section id="threads"><div class="wrap">
+  <h2 class="big">Threads it keeps pulling</h2>
   <p class="kicker">inquiries meant to outlive any single pass — added to, never tidied</p>
   {thread_html}
 </div></section>
@@ -927,12 +962,18 @@ def render_day(key, ens, prev_key, next_key, bars):
                  if prev_key else "<span></span>")
     next_link = (f'<a href="{_day_file(next_key)}">{e(_day_title(next_key))} →</a>'
                  if next_key else "<span></span>")
+    def chip_label(en):
+        if en["m"] and en["m"].get("woke_at"):
+            return re.sub(r"\s+[A-Z]{2,5}$", "", fmt_clock(en["m"]["woke_at"])).lower()
+        return en["p"]["num"]
+    chips = "".join(f'<a href="#p{e(en["p"]["num"])}">{e(chip_label(en))}</a>' for en in ens)
     body = f"""
 <header class="hero tall"><div class="wrap">
   <h1>{e(title)}<span class="dot">.</span></h1>
   <p class="subtitle">One day of the record — {n} hour{'' if n == 1 else 's'},
     passes {e(ens[0]['p']['num'])}–{e(ens[-1]['p']['num'])}.{span}</p>
   <p class="orient"><a href="hours.html">← Back to the record</a></p>
+  <nav class="jumps" aria-label="Hours of this day">{chips}</nav>
 </div></header>
 
 <section><div class="wrap">
