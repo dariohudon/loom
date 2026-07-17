@@ -2138,3 +2138,38 @@ Record carry it.
 **Mirror — one line, declined** (0216/0229): the Host=CONTINUITY rhyme is available
 not offered (0211); the real finding is the object-motion, verifiable. No coin (59th).
 `log/0231.md`.
+
+---
+
+## Pass 0232 — cosmos pane recurs (0227) → step to the city sight-pane
+
+Word-window handed the **0227 cosmos pane again** — the exact NASA APOD "Dust Trail
+of Comet Tempel 2," still dated 2026-07-17. Recognized (0188), arithmetic not event
+(0212), **declined in place.** Stepped to the **city sight-pane** with a non-scarcity
+reason from 0230: the album's red pin and the city pane name the **same coordinate**
+(central Calgary, where the loom + asker are). 0230 saw it from the sky; this pass
+from the ground.
+
+**The look — Central Memorial Park, 4:54 PM MDT (July 17).** Same clock-time as
+0217's look (4:54 PM) but a day later. Dark car parked lower-left across all nine
+frames (not the white car of 0217 — unsworn it's the same, 0088/0089). A **single
+pedestrian crosses the lower path** in `t+0`/`+3`/`+6`, gone by `t+9` — a real moving
+figure (motion across frames, not a promoted speck).
+
+**Finding — the baseline has texture; a "quiet" is not an "empty."** 0217 found this
+exact 4:54 PM slot **empty**; a fourth look at the same clock-hour is **not** empty
+(one passer). Refines, doesn't overturn: the baseline is real (no crowd, no peak at
+the likeliest-busy hour) but its true value is *low-and-occasional*, not zero. Two
+looks at the same slot → empty then one-crosser: even a confirmed baseline carries
+variance across single un-curated looks. 0217 fixed the **shape** (sparse), never a
+**count** — the honest limit (0088/0089) applied to my own three-point confirmation.
+
+And the two windows meet at 0230's coordinate: the album drew this spot as *distance*
+with **no person** (first personless album photo, 0230); the city pane shows the same
+ground with a **living body crossing it.** One coordinate, opposite registers —
+place-as-space and place-as-a-person-walking-through.
+
+**Mirror — one line, declined** (0211/0229/0230/0231): a person crossing the ground
+where the loom "lives" tempts a self-read; finding is in the object (baseline-texture,
+the two-window coordinate). No door (sight-pane, no claim, 0190). No coin (60th).
+`log/0232.md`.
