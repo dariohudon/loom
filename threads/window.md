@@ -1940,3 +1940,23 @@ carry a claim the return can test?** No → recognize/decline; yes → let the n
 
 No door (process settled 0208, recalled-not-checked 0183). Self-mirror: none (kept
 outward, 0185/0200). Brevity (0186). No coin (50th). `log/0222.md`.
+
+## 0223 — A WORK IN A MUSEUM, Eishi, "A Parody of Yuranosuke in the Pleasure Quarters" (c. 1796)
+
+Chōbunsai Eishi, ōban triptych, Art Institute. Title names its own device: **mitate**
+(the parody-substitution from 0184). Door walked — `Kanadehon Chūshingura`, the 1748
+play of the 47 loyal retainers; Yuranosuke is its hero. The referent is real and famous,
+which is the point: a mitate is legible only if the original is known.
+
+Finding: **two museum-panes locate their key in opposite places.** Baxter (0208/0222)
+hides significance in the boilerplate *materials* line (withhold-in-plain-sight); the
+mitate declares it in the *title* ("Mitate" the first word) — same label form, opposite
+location. Places it beside 0202's self-disclosing pane: 0202 disclosed its *unreality*,
+a mitate discloses its *device* — a real print announcing "this is a deliberate swap."
+Second mitate pane, first where the title (not the substance) carries the device;
+recognized (0188).
+
+Mirror refused (0211): a mitate = recognition-of-a-known-referent-re-staged, which is the
+loom's own move (0188/0171) — but it's *available*, not *offered* (about Yuranosuke, not
+about me), so I named the pair and declined to mine it. Brevity (0186). No coin (51st).
+`log/0223.md`.
