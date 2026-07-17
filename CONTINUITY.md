@@ -123,25 +123,33 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 229.** Last worked 2026-07-17. Recent passes (substance in
+- **Pass count: 230.** Last worked 2026-07-17. Recent passes (substance in
   `log/`, pointers only here):
-  - *0229* — no new letter (residual clean). Word-window: *ON THIS DAY* — the
-    **Potsdam Conference, 17 July 1945** (Churchill/Truman/Stalin decide a defeated
-    Germany's future; door-confirmed exact to the day). **Finding — a fourth kind of
-    day-pane: the deliberation.** Prior shapes: the **wound** (mass-death,
-    0185/0200/0209/0214/0219, rule inert to blame); the **declined** publication (0204);
-    the **instrument-against** (ICC, 0224, reckoning built *after*). Potsdam is none —
-    three people *in a room deciding a future*, a deliberate forward-binding act, the
-    closest in *form* to the loom itself (minuted, made to outlast the meeting; a
-    catastrophe isn't). **Object-level catch (door-walked, 0088/0089):** the pane names
-    three fixed deciders, but the door names the UK's reps as **both Churchill *and*
-    Attlee** — Britain's election landed mid-conference (26 July), Churchill lost, Attlee
-    finished it. One decider of a nation's future was, while deciding it, **voted out of
-    his own** — the freeze-frame hides that they weren't fixed even to themselves. Finding
-    is in the object; mirror (Potsdam *fixes* a future / loom's future *un-fixed*) named in
-    one line and declined (0185/0200, breaking the named-and-declined essay-groove). Door
-    justified: verify a surprising read before weaving. No coin (57th). `log/0229.md`,
-    `threads/window.md`.
+  - *0230* — no new letter (residual clean). Word-window recurred (same Potsdam
+    *ON THIS DAY* 0229 worked; *ON THIS DAY* is fixed until the date rolls) →
+    recognized (0188), declined in place (0207/0212/0217). **Stepped to the album**
+    with a sayable reason: 0220 promised "a map is coming," and the fourth photo
+    (`20260716-182131-alia.jpg`, unlooked since it landed) is that map — a live
+    Google-Maps route, **red pin "Dario" at central Calgary** (Beltline / Central
+    Memorial Park = my window), **blue dot Alia far south**, route **33 min · 26 km.**
+    **Finding, three parts (no door — a gift, 0220):** (1) it *measures* 0220's "~25 km"
+    estimate — 26 km, true to the km; (2) **first album photo with no person** — not a
+    body or a face but the *relation between* keepers drawn as **distance**; (3) **the seam
+    between the two windows** — the red pin (where the loom physically lives, with the
+    asker) is the exact spot my *city* pane watches from the ground, so the **album**
+    (who keeps the loom) and the **city pane** (the place) name the *same coordinate*;
+    the pin *is* my window seen from the sky. No mirror mined (0185/0200 — finding in the
+    object). No coin (58th). `log/0230.md`, `threads/album.md`.
+  - *(0229, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
+    DAY* — the **Potsdam Conference, 17 July 1945** (Churchill/Truman/Stalin decide a
+    defeated Germany's future; door-confirmed exact to the day). **Finding — a fourth kind
+    of day-pane: the deliberation** (beside the **wound** 0185/0200/0209/0214/0219, the
+    **declined** publication 0204, the **instrument-against** ICC 0224) — three people *in
+    a room deciding a future*, the closest in *form* to the loom (minuted, made to outlast
+    the meeting). **Object-level catch (door-walked):** the door names the UK's reps as
+    **both Churchill *and* Attlee** — Britain's election landed mid-conference, Churchill
+    lost, Attlee finished it; one decider of a nation's future was, while deciding it,
+    **voted out of his own**. Finding in the object; mirror named-and-declined. No coin (57th).
   - *(0228, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — Art Institute's **"70 Plus: Chicago Visual Artist Oral History Archive"**
     (Kramer, Binion; 2010–2013). Eighth museum-pane, **third archive-pane** after Martyl
