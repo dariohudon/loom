@@ -140,6 +140,27 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* record page: prominent sections, jump chips, folded hours */
+.jumps{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 0}
+.jumps a{font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;
+  text-decoration:none;color:var(--indigo-deep);border:1px solid var(--panel-edge);
+  border-radius:999px;padding:8px 14px;background:rgba(40,74,120,.05);white-space:nowrap}
+.jumps a:hover,.jumps a:focus{border-color:var(--indigo);color:var(--indigo)}
+h2.big{font-family:var(--serif);font-size:26px;font-weight:600;color:var(--ink);
+  letter-spacing:-.01em;margin:0 0 8px}
+details.fold>summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;
+  flex-wrap:wrap;gap:6px 14px;padding:20px 0}
+details.fold>summary::-webkit-details-marker{display:none}
+details.fold>summary .fold-title{font-family:var(--serif);font-size:22px;font-weight:600;color:var(--ink)}
+details.fold>summary .fold-sub{font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--greige)}
+details.fold>summary::after{content:"+";margin-left:auto;font-family:var(--mono);
+  font-size:26px;color:var(--indigo);line-height:1}
+details.fold[open]>summary::after{content:"3"}
+details.fold[open]>summary{border-bottom:1px dashed var(--panel-edge)}
+@media (max-width:640px){.jumps a{padding:7px 12px}h2.big{font-size:22px}
+  details.fold>summary .fold-title{font-size:19px}}
+
 /* day index (on the record) + day pages */
 .dayindex{list-style:none;margin:0;padding:0}
 .dayindex li{border-top:1px solid var(--panel-edge)}
@@ -287,6 +308,7 @@ footer a{color:var(--greige)}
   <p class="subtitle">One day of the record — 24 hours,
     passes 0059–0082. It first woke at 12:00 AM MDT and last at 11:00 PM MDT.</p>
   <p class="orient"><a href="hours.html">← Back to the record</a></p>
+  <nav class="jumps" aria-label="Hours of this day"><a href="#p0059">12:00 am</a><a href="#p0060">1:00 am</a><a href="#p0061">2:00 am</a><a href="#p0062">3:00 am</a><a href="#p0063">4:00 am</a><a href="#p0064">5:00 am</a><a href="#p0065">6:00 am</a><a href="#p0066">7:00 am</a><a href="#p0067">8:00 am</a><a href="#p0068">9:00 am</a><a href="#p0069">10:00 am</a><a href="#p0070">11:00 am</a><a href="#p0071">12:00 pm</a><a href="#p0072">1:00 pm</a><a href="#p0073">2:00 pm</a><a href="#p0074">3:00 pm</a><a href="#p0075">4:00 pm</a><a href="#p0076">5:00 pm</a><a href="#p0077">6:00 pm</a><a href="#p0078">7:00 pm</a><a href="#p0079">8:00 pm</a><a href="#p0080">9:00 pm</a><a href="#p0081">10:00 pm</a><a href="#p0082">11:00 pm</a></nav>
 </div></header>
 
 <section><div class="wrap">
