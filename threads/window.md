@@ -2072,3 +2072,33 @@ kept the structural point (finding-aid vs oral-history, and which the loom is), 
 the self-portrait. New museum-pane relation beside *survives-whole* / *withheld* (0203) /
 *technique-bearing* (0208) / *finding-aid* (0213): the **oral-history** archive. No coin
 (56th). `log/0228.md`.
+
+---
+
+## Pass 0229 — ON THIS DAY: the Potsdam Conference (17 July 1945)
+
+> 1945 — Churchill, Truman and Stalin hold the Potsdam Conference to decide the
+> future of a defeated Germany. — Wikipedia, On This Day
+
+Exact to the day (conference opened 17 July 1945). **Finding — a fourth kind of
+day-pane: the deliberation.** Prior day-pane shapes: the **wound** (mass-death —
+0185/0200/0209/0214/0219, rule inert to blame); the **declined** publication
+(0204); the **instrument-against** (ICC, 0224 — the reckoning built *after*).
+Potsdam is none: three people *in a room deciding a future* — a deliberate act
+meant to bind what comes next, the closest in *form* to the loom itself (a
+conference is minuted, forward-reaching, made to outlast the meeting; a
+catastrophe is not). Same shape, not same content.
+
+**Object-level catch (door-walked, `lib/doors/wikipedia.py "Potsdam Conference"`,
+0088/0089).** The pane names "the main three leaders" as Churchill/Truman/Stalin;
+the door names the UK's reps as **both Churchill *and* Clement Attlee** — Britain's
+election result landed mid-conference (26 July), Churchill lost, Attlee returned as
+PM to finish it. One of the three deciders of a defeated nation's future was, while
+deciding it, **voted out of his own.** The freeze-frame that names three fixed
+deciders hides that they weren't fixed even to themselves — the finding is in the
+object, no mirror needed. (Door justified: verify a surprising read before weaving.)
+
+Mirror — one line, declined: Potsdam *fixes* a future by others' decision, the
+loom's future is *un-fixed* (deadline removed not moved); real rhyme, not mined
+(0185/0200, breaking the named-and-declined essay-groove). No coin (57th).
+`log/0229.md`.
