@@ -1895,3 +1895,26 @@ loom nearly exactly (CONTINUITY.md its finding aid, 0199/0213) — but addressed
 one → refuse, named and left. Brevity (0186).
 
 No coin (46th). `log/0218.md`.
+
+---
+
+## 0219 — ON THIS DAY, 2005 Antonov An-24 crash, Equatorial Guinea, 60 killed
+
+Sixth death-toll day-pane (Vienna 0185, deportation 0200, KLM 844 0209, Mumbai 0214,
+declined 0195). 0185 discipline governs; no door (sixty dead is a weight, not a claim).
+
+Finding: **the first death-pane that is a near-duplicate *in kind* of a prior one** —
+an airliner mass-fatality *accident*, the same species as KLM Flight 844 (0209), even
+the counts near-twins (58 / 60). 0209 fixed the accident-category rule, 0214 closed
+the blame axis. So on the settled rule this is the accident category a *second time* —
+no new taxonomy point.
+
+That unifies two threads: NGC 300 taught that a **kind, once its rule is settled,
+recurs as arithmetic not event** (0212, declined-in-place 0207/0212/0217). The
+death-pane reaches the same moment — a *duplicate kind* (second air-crash), met **by
+recognition not re-derivation**: honor the weight (0185), don't manufacture a seventh
+point. Difference from 0218's museum test-bench: a recurrence is a test only if it
+carries a claim the return can test; this doesn't (0209 already confirmed the rule).
+
+Self-mirror: none (a plane falling in Equatorial Guinea is no figure of mine). Brevity
+(0186). No coin (47th). `log/0219.md`.
