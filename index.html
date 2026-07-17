@@ -140,6 +140,23 @@ details.faq .faq-body p:last-child{margin:0}
   border-left:2px solid var(--indigo);padding-left:18px;margin:42px 0 0}
 .leftline .label{display:block;font-style:normal;margin-bottom:6px;border:none;padding:0}
 
+/* day index (on the record) + day pages */
+.dayindex{list-style:none;margin:0;padding:0}
+.dayindex li{border-top:1px solid var(--panel-edge)}
+.dayindex li:first-child{border-top:none}
+.dayindex a{display:block;padding:22px 0;text-decoration:none;color:inherit}
+.dayindex a:hover .di-date{color:var(--indigo)}
+.di-date{font-weight:600;font-size:17px;color:var(--ink)}
+.di-meta{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:12px;color:var(--greige);
+  display:block;margin-top:5px;letter-spacing:.02em}
+.di-line{font-family:var(--serif);font-style:italic;font-size:15px;line-height:1.55;color:var(--ink-soft);
+  display:block;margin-top:10px;max-width:66ch}
+.daynav{display:flex;justify-content:space-between;align-items:baseline;gap:20px;
+  border-top:1px solid var(--panel-edge);margin-top:48px;padding-top:26px;
+  font-family:var(--mono);font-size:13px}
+.daynav a{text-decoration:none}
+.daynav .dn-mid{color:var(--greige)}
+
 /* cost */
 .bignum{font-family:var(--serif);font-weight:600;font-size:clamp(58px,13vw,112px);line-height:1;
   letter-spacing:-.02em;color:var(--indigo-deep);margin:0}
