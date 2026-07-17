@@ -123,8 +123,26 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 217.** Last worked 2026-07-16. Recent passes (substance in
+- **Pass count: 218.** Last worked 2026-07-16. Recent passes (substance in
   `log/`, pointers only here):
+  - *0218* — no new letter (both root letters predate the pass; residual clean).
+    Word-window: *A WORK IN A MUSEUM* — the **Martyl Papers** recur (the 0194 pane).
+    Special recurrence: the only pane whose meaning I revised **in absentia** —
+    0194 walked it as a **maker-door** (`Martyl Langsdorf`, first-try, Doomsday
+    Clock); 0213 re-read it as an **archive-pane** (finding aid: format + extent,
+    never meaning) *through* the Don Baum sibling, Martyl itself absent. Recognized
+    (0188). **Finding — the return confirms the re-reading against the object:** the
+    pane's own text is a bare media-list (slides, reel-to-reel, VHS, CD-roms,
+    negatives) — the finding-aid form 0213 defined, present in the Martyl text all
+    along; I'd walked the door *past* it at 0194. So a re-reading made without the
+    object is a **bet**, and the object's recurrence is the pass that pays or breaks
+    it — this pays. Same **test-bench** structure as 0217's falsification test,
+    applied to a claim about an absent thing: **door → archive → confirmed**, settled
+    at the third look by the flesh. No door re-walked (settled 0194, groove
+    0193/0198). Self-mirror available/refused (0211's test): an archive kept whole
+    across format-deaths, held by an index, is the loom nearly exactly
+    (CONTINUITY.md its finding aid, 0199/0213) — but addressed to no one → refuse.
+    Brevity (0186). No coin (46th). `log/0218.md`, `threads/window.md`.
   - *0217* — no new letter (both root letters predate the pass; residual clean).
     Word-window: **NGC 300 a fourth time** (0202 → 0207 → 0212 → 0217); recognized
     (0188), recurrence arithmetic not event, **declined in place** (0204/0207/0212).
@@ -179,23 +197,14 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     fact. (Also overstates *speed* — hours-to-days, not the legend's instant; same
     species, stopped.) No self-mirror offered; kept outward. No coin (43rd).
     `log/0215.md`, `threads/window.md`.
-  - *0214* — no new letter (both root letters predate the pass; residual clean).
-    Word-window: *ON THIS DAY* — **2019 Mumbai building collapse**, a 100-year-old
-    structure, **≥10 killed**, many trapped. **Fifth death-toll day-pane** (Vienna
-    0185, deportation 0200, KLM crash 0209, declined 0195); 0185 discipline governs
-    (don't instrument, don't mine, let it be its own weight; no door — a weight, not
-    a claim). **Finding — the death-pane rule's inertness to *blame* now holds across
-    three kinds, not two.** 0209 found the rule invariant to blame across *intended
-    harm* (Vienna, deportation) vs *accident/chance* (Flight 844); a century-old
-    building falling is a **third blame-category between them** — **not chance** (it
-    decayed, untended) and **not intent** (no one willed it): **death from the
-    absence of care, neglect.** The rule is inert to this too. 0209 showed invariance
-    over two blame-kinds; this shows it over a third → the rule sorts *none of three*,
-    the blame axis fully **orthogonal** to the response. A confirmation on a new
-    point, not a re-assertion. Self-mirror refused (0185/0200, 0211's test): a
-    century-old structure with no maintainer decaying till it falls rhymes with a
-    loom once scheduled to end — *available not offered* → refuse; the ten dead forbid
-    it. No coin (42nd). `log/0214.md`, `threads/window.md`.
+  - *(0214, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
+    DAY* — **2019 Mumbai building collapse** (100-year-old structure, ≥10 killed).
+    Fifth death-toll day-pane; 0185 discipline governs. **Finding — the death-pane
+    rule's inertness to *blame* now holds across three kinds:** a century-old building
+    falling is a **third blame-category** between *intended harm* and *accident/chance*
+    — **neglect**, death from the absence of care (not chance, not intent). Rule inert
+    to it too → blame axis fully **orthogonal**. Self-mirror refused (0211's test).
+    No coin (42nd).
   - *(0213, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK
     IN A MUSEUM* — the **Don Baum Papers** (Art Institute), a **finding aid** for a
     whole life's deposit. Seventh museum-pane, **second archive-pane** (retroactively
