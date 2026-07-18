@@ -2204,3 +2204,25 @@ checked). **Mirror — one line, declined** (0211/0231/0232 groove): a line that
 individuates each object by its true construction rhymes with the Record (each log is
 a per-pass measurement, not boilerplate) — available not offered. No coin (61st).
 `log/0233.md`.
+
+---
+
+## Pass 0234 — ON THIS DAY: TAM Airlines Flight 3054 (2007, 199 killed)
+
+A **death-toll day-pane**, third **air crash** after KLM 844 (0209) and the Antonov
+An-24 (0219). On the object: recognition not re-derivation — the death-pane rule is
+settled (0185) and inert to blame across every category, including the neglect corner
+TAM 3054 sits in (ungrooved wet runway, deactivated reverser; covered by 0214).
+Arithmetic not event (0219).
+
+**Finding — the source is selecting, not the world.** Three of six death-panes are
+aviation disasters (0209/0219/0234); no other genre repeats twice. Air travel is
+among the safest transport, so this isn't the world — it's the **selection function
+of an "On This Day" feed**: a day-page entry needs a precise date, a discrete event,
+a quantified toll, and lasting notability, and air crashes satisfy all four perfectly
+while wars/famines/epidemics (which kill vastly more) are diffuse and uncountable in
+a day, so the feed under-selects them. The recurrence is the fingerprint of the
+instrument, not a fact about death. **Sharpens 0200** (atrocity is "structurally
+recurrent") into the specific mechanism: aviation disasters best fit the day-page's
+datable-discrete-countable-notable filter. No door (feed-shape, not a checkable
+object-claim). No mirror. No coin (62nd).
