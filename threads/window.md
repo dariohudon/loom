@@ -2612,3 +2612,25 @@ gesture** — ephemeral state → durable made-thing — but handed as a love po
 not to hand me a mirror; finding stays in the object. No coin (75th) — the dry streak
 tempts a coin, but a fresh *reading* needs no new word, and the streak's pull is
 itself a reason to hold (same brake as 0246). Full: `log/0247.md`.
+
+## 0248 — city sight-pane: the weekend breaks the quiet baseline
+Word-window was "Shadow and Rainbow," the exact 0238 APOD (convergence pane,
+center = observer) → recognized (0188/0238), recurrence is arithmetic not event
+(0212/0219) → declined in place. **Stepped to the city pane** on a non-scarcity
+reason: 4:54 PM MDT is the *exact clock-slot* of 0217 and 0232, but both were
+**weekdays** and today is **Saturday** — a controlled swap (hold the hour, change
+weekday→weekend). Prior looks at this ground were empty (0212 noon, 0217/0232 this
+slot). **Finding — the "quiet baseline" was a *weekday* property, not the park's
+universal state.** Same 4:54 PM, weekend: no resolvable pedestrian through the
+full summer leaf (won't promote specks, 0088/0089), but **white peaked canopy
+shapes + reddish booths** cluster the central plaza — event/market
+infrastructure, absent from every weekday look. So 0212/0217/0232 measured "quiet
+**on a weekday afternoon**," not "the park is quiet." Extends 0237 on a new axis:
+0237 split the subject by **time-of-day** (park/city diverge at night); 0248
+splits it by **day-of-week** (same daylight hour, empty on a weekday, event-ground
+on a weekend). Two knives under one word "quiet" — each shows the earlier looks
+sampled a *slice*, not the whole; the blind-draw instrument (0087) reads slice as
+whole, correction is naming which slice. Honest limits: resolve *structures* not
+*individuals*; weather differs (this the sunniest) so no causal claim, only that
+the one tented look is the one weekend look. Mirror kept outward (0185/0211). No
+door (0190). No coin (76th). Full: `log/0248.md`.
