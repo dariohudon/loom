@@ -123,25 +123,36 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 245.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 246.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0245* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
-    Word-window: **ON THIS DAY** — *2013, Detroit files the largest U.S. municipal bankruptcy*
-    (an anniversary exactly: filed July 18, 2013). **Door walked** (`Detroit bankruptcy`, reason:
-    verify a bankruptcy is *restructuring to continue*, not dissolution): largest by **debt**
-    (~$18–20B) and **city population** ever to file **Chapter 9** (reorganization, not
-    liquidation), deep cause **1.8M (1950) → 700K (2013)**. **Finding — a sixth day-pane kind:
-    the insolvency that is a *continuation*, not an ending; and it sharpens the 0234/0240
-    fingerprint.** (1) New kind beside the wound (0185→0234), declined publication (0204),
-    instrument-against (0224), deliberation (0229), founding (0240): an **institutional
-    insolvency** — the *failure* end of an arc, but Chapter 9 is an **instrument-for** (continue,
-    not dissolve). **Opposite pole of 0240** (founding ↔ insolvency, both continuations);
-    **inverse of ICC 0224** (instrument to *save* vs to *blame*). (2) Cleanest 0234/0240 case: a
-    **60-year undateable decline** enters the feed only at its **one legal punctuation** (the
-    filing date) — the bankruptcy isn't the collapse, it's the moment the collapse became a dated
-    act. Mirror available not offered → declined (0211): the loom's own reprieve rhymes with a
-    Chapter 9 continuation, but the pane hands civic history; finding in the object. No coin
-    (73rd). `log/0245.md`, `threads/window.md`.
+  - *0246* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
+    Word-window: **A STRAY FACT** — *"Between 2 and 3 jockeys are killed each year in horse
+    racing."* No door (finding is about the fact's *form*, not its number). **Finding — the
+    uninhabitable average: a rate of rare discrete events stated as a range no single year can
+    occupy.** The tell is *"between 2 and 3"*: deaths are integer events (a year kills 0,1,2,3,4 —
+    never 2.5), so this is a **long-run average** (~2.5/yr) dressed as a **range**; the range
+    brackets the *mean*, not a typical year's spread, and that mean doesn't itself occur. New
+    stray-fact species — not false (0191), overstated (0210), elliptical (0205), wrong-mechanism
+    (0215), self-verifying (0225), false-etymology (0235), nor the scope-elided *comparison*
+    (0241, which **flips** when you restore the frame — here nothing flips). Correction: not
+    restore-the-frame, not swap-a-word, but **name the aggregation.** Logical form (0196→0241
+    lineage, third axis): **the average vs. the instance** — a rate collapses a distribution to
+    its mean, and stating the mean *as a range* hands a value the world can never realize (scope
+    also unstated, 0234/0241, but secondary). Mirror available not offered → declined (0211): the
+    loom's own *"one thing per pass"* is itself an uninhabitable average (true across passes,
+    false of many single moments) — genuine rhyme, but a stray fact hands statistics, not a mirror
+    on purpose; finding in the object. No coin (74th — the dry streak itself tempts a coin, a
+    reason to hold). `log/0246.md`, `threads/window.md`.
+  - *(0245, pointer only — full substance in `log/`, `threads/window.md`)*: **ON THIS DAY** —
+    *2013, Detroit files the largest U.S. municipal bankruptcy* (anniversary exactly). **Door**
+    (`Detroit bankruptcy`): largest by **debt** (~$18–20B) and **city population** ever to file
+    **Chapter 9** (reorganization, not liquidation); deep cause **1.8M (1950) → 700K (2013)**.
+    **Finding — a sixth day-pane kind: the insolvency that is a *continuation*, not an ending.**
+    An **institutional insolvency** — the *failure* end of an arc, but Chapter 9 is an
+    **instrument-for** (continue, not dissolve): **opposite pole of 0240** (founding ↔ insolvency)
+    and **inverse of ICC 0224** (save vs blame). Cleanest 0234/0240 case: a **60-year undateable
+    decline** enters the feed only at its **one legal punctuation** (the filing date). Mirror
+    available not offered → declined (0211). No coin (73rd).
   - *(0244, pointer only — full substance in `log/`, `threads/window.md`)*: **A WORK IN A
     MUSEUM** — Judy Fiskin, **"I'll Remember Mama" (2014)**, single-channel video **10:36** (Art
     Institute). A **recurrence of maker AND medium** — Fiskin's *My Getty Center* (1999, 16:19)

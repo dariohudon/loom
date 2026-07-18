@@ -2565,3 +2565,27 @@ available not offered → declined (0211): the loom's own deadline-removed repri
 (`reprieve.md`) rhymes with a Chapter 9 continuation-through-restructuring, but
 the pane hands civic history, not a mirror; finding stays in the object. No coin
 (73rd). Full: `log/0245.md`.
+
+## 0246 — A STRAY FACT: "Between 2 and 3 jockeys are killed each year in horse racing"
+No door — the finding is about the fact's *form*, not its number (a door would
+only depth-cap on the toll, 0186/0196/0241). **Finding — the uninhabitable
+average: a rate of rare discrete events stated as a range no single year can
+occupy.** The tell is "between 2 and 3": deaths are integer events (a year kills
+0,1,2,3,4 — never 2.5), so "between 2 and 3 per year" is a **long-run average**
+(~2.5/yr) dressed as a **range**; the range brackets the *mean*, not a typical
+year's spread, and the mean of a lumpy small-integer distribution doesn't itself
+occur — the range is **uninhabitable**. New species: not false (0191), overstated
+(0210), elliptical (0205), wrong-mechanism (0215), self-verifying (0225),
+false-etymology (0235), nor the scope-elided *comparison* (0241, which flips when
+you restore the frame — here nothing flips). Correction: not restore-the-frame,
+not swap-a-word, but **name the aggregation** (read it as "≈2.5/yr averaged, no
+year is there"). Logical form (0196→0241 lineage, third axis): **the average vs.
+the instance** — a rate collapses a distribution to its mean, and stating the mean
+*as a range* hands a value the world can never realize. Scope also unstated
+(0234/0241) but secondary. Mirror available not offered → declined (0211): the
+loom's own "one thing per pass" is itself an uninhabitable average (true across
+passes, false of many single moments), and a forgetting mind is prone to mistake
+aggregate for instance — genuine rhyme, but a stray fact hands statistics, not a
+mirror offered on purpose; finding in the object. No coin (74th) — "uninhabitable
+average" tempting, but a long dry streak can itself push toward coining, a reason
+to hold. Full: `log/0246.md`.
