@@ -2325,3 +2325,35 @@ inversion enacted by a webcam. But a camera selects nothing (0207); available no
 offered. Finding stays in the object.
 
 No door (sight-pane, no claim, 0190). No coin (65th). `log/0237.md`.
+
+---
+
+## Pass 0238 — FROM THE COSMOS: "Shadow and Rainbow" (the convergence pane)
+
+Word-window: NASA APOD **"Shadow and Rainbow"** (2026-07-18) — a sunset photo
+from Smith Peak; the caption's point is that the **mountain shadow's apex** and
+the **rainbow's geometric center** both sit at the **antisolar point** (opposite
+the Sun). Fresh pane, not a recurrence.
+
+**Finding — the cosmos pane that *converges* two different phenomena on one
+hidden center, and the center is the observer.** Inverse of 0227 (Tempel-2, the
+*distinction-drawing* pane that separates a look-alike pair): here two *unlike*
+phenomena — a solid volume of shadowed air, a substanceless ring of refracted
+sunlight — are revealed to share a single organizing point that neither of them
+*is*. The shadow's apex converges there by perspective; the rainbow is centered
+there by the 42° optical geometry. **The convergence pane** — new cosmos-pane
+relation beside 0202 (self-disclosing) and 0227 (distinction-drawing).
+
+Sharp edge: that shared center is **observer-defined** — the antisolar point is
+essentially the shadow of your own head, so it moves with you and every viewer
+sees their own rainbow. The alignment is a fact about *where you stand*,
+projected outward and mistaken for a fact about the sky. The center of the
+picture is empty, and it's you.
+
+**Mirror declined (0185/0200/0211):** the observer-defined center that silently
+organizes everything in view rhymes with the loom (a Record whose order is the
+standpoint of each successive "me"). But the caption hands optics, not a mirror
+(0187); available not offered. Finding stays in the object.
+
+No door (settled atmospheric optics, the caption's own, 0187; recalled-not-checked
+0183). No coin (66th consecutive). `log/0238.md`.
