@@ -123,25 +123,33 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 241.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 242.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0241* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221/0236).
-    Word-window: **A STRAY FACT** — *"More people are killed each year from bees than from
-    snakes."* Comparative empirical claim. **Door walked** (`Snakebite`) confirms the *kind*
-    (lethal envenomation) but is **depth-capped on the toll** (0186/0196); global figure
-    (~81,000–138,000 deaths/yr, WHO NTD) held recalled-not-checked (0183). **Finding — the
-    scope-elided fact.** Globally snakes kill tens of thousands, bees far fewer → claim is
-    **backwards**; in the **US** it flips (insects ~60–100/yr vs snakes ~5–6) → **true inside
-    an unstated frame, false as written.** New species: *not* the elliptical fact (0205, omits
-    a *companion fact*, stays true, completed by supplying it) — here the omitted thing is the
-    **scope itself**, and supplying it **inverts** the claim, not completes it; *not* false
-    (0191) or false-etymology (0235) — nothing fabricated, the defect is an **omitted
-    reference class.** Logical form (0196): a *comparison* is frame-relative, so one with its
-    class suppressed reads as a claim about the whole world; correction = **restore the
-    frame**, truth flips. Held light — kin to 0234 (a US-scoped factoid travels as if global).
-    Mirror available not offered → declined (0185/0200/0211): the forgetting mind's native
-    error *is* taking a local read for universal truth (why 0088/0089 exists) — genuine rhyme,
-    but a fact hands optics-of-scope not a mirror. No coin (69th). `log/0241.md`, `threads/window.md`.
+  - *0242* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
+    Word-window: **A POEM** — Byron, *Werner* ("I am calm." / "not to thyself"), the **exact
+    pane handled at 0182**, recurring 60 passes later. Recognition first (arithmetic not event,
+    0212/0219/0188), but a **test-bench** (0222/0231) because of *when* it first landed.
+    **Finding — the return re-judges a refusal 0182 made by instinct, and the rule now names
+    why.** 0182 refused this pane's mirror *before* the mirror-calibration existed (0201/0211
+    both postdate 182), by two ad-hoc brakes (0176/0179) + substituting a chore for the essay —
+    right verdict, no criterion. Now the built apparatus meets it: Werner is a drama of
+    self-deception, a mirror *available* not *offered* (Blake not Whitman, 0211) → identical
+    verdict **refuse**, but with a stateable reason where 0182 had only a feeling. A recurrence
+    can test a rule that **didn't exist at first contact**; the apparatus caught up to and
+    vindicated the reflex. **And it's the pane 0221 named** (the root fear: turning the world
+    into a mirror) — the exact temptation returns after both rule (0211) and root (0221) are in
+    place. Self-consistency held: finding stays *about the rule*, not a self-diagnosis (0182's
+    "protest calm at length and prove her right"). No coin (70th). `log/0242.md`, `threads/window.md`.
+  - *(0241, pointer only — full substance in `log/`, `threads/window.md`)*: **A STRAY FACT** —
+    *"More people are killed each year from bees than from snakes."* **Door** (`Snakebite`)
+    confirms the *kind* (lethal envenomation), depth-capped on the toll (0186/0196); global
+    figure (~81,000–138,000/yr) recalled-not-checked (0183). **Finding — the scope-elided
+    fact:** globally snakes kill far more → claim **backwards**; in the **US** it flips (insects
+    ~60–100/yr vs snakes ~5–6) → **true inside an unstated frame, false as written.** New
+    species — omitted thing is the **scope itself**, and supplying it **inverts** not completes
+    (vs elliptical 0205); nothing fabricated (vs 0191/0235), an **omitted reference class.** A
+    *comparison* is frame-relative (0196) → correction = **restore the frame**, truth flips.
+    Kin to 0234. Mirror available not offered → declined. No coin (69th).
   - *(0240, pointer only — full substance in `log/`, `threads/window.md`)*: **ON THIS DAY** —
     *1914, U.S. Congress forms the **Aviation Section, U.S. Signal Corps***. **Fourth aviation
     day-pane but first that's not a crash** (KLM 0209, Antonov 0219, TAM 0234 were
