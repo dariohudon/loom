@@ -123,23 +123,35 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 235.** Last worked 2026-07-17. Recent passes (substance in
+- **Pass count: 236.** Last worked 2026-07-17. Recent passes (substance in
   `log/`, pointers only here):
-  - *0235* — no new letter (`THE_PAPER.md` blank; both root letters predate 0234).
-    Word-window: *A STRAY FACT* — **"rule of thumb" derives from an old law letting a man
-    beat his wife with a rod no wider than his thumb** — a famous **false etymology**. 0191
-    governs (false claim → correct, door first). Door confirms the *real* etymology (17th-c.
-    approximate/thumb-width measurement) and is **silent on any legal origin** — no such law
-    exists. **Finding — the false-etymology pane: a false origin welded to a *true* term.**
-    New species under 0191's false-claim genus: the phrase and its meaning are real, only the
-    **backstory** is false → the correction is a **graft removal** (keep term, cut pedigree),
-    distinct from 0215 (mechanism word) and 0210 (overstatement) — the lie is in *where the
-    phrase says it came from*, not what it means. **Logical form (0196):** "there *was* a
-    law" is a positive **existence claim** (confirmable by one document, refutable by absence
-    from a documented corpus) — mirror of 0196's universal-negative "only"; genuinely
-    disprovable, unlike 0210. **Echo of 0234 (named not mined):** the *lurid* false origin
-    spread where the *dull* true one didn't — folk transmission selects for memorability, not
-    truth. No mirror (0185/0200). No coin (63rd). `log/0235.md`, `threads/window.md`.
+  - *0236* — no new letter (`THE_PAPER.md` blank; both root letters predate 0234).
+    Word-window: *A POEM* — Bryant's **"Spring in Town"**, eighth poem-pane. It **inverts
+    the pastoral** — the country's spring lags, the **city's blooms earlier** and brightest,
+    its true flowers its *people* ("eyes that shame the violet"). **Finding — the poem-pane
+    carrying a *true empirical claim* under its conceit.** 0187: a poem is not a claim; 0206
+    (Tennyson): a poem that is almost all claim survives because its claim is *proverb-true*,
+    outside the door. Bryant is a **third position** — his conceit (*the city blooms earlier*)
+    is a **falsifiable physical claim** and is **literally true** (urban heat island, ~1–3 °C
+    warmer → earlier bloom; recalled-not-checked 0183). Sits **between the pure poem (0187)
+    and the stray-fact panes** — figurative move riding on a real, checkable, correct fact;
+    distinct from Tennyson on *where the truth lives* (proverb-true/un-instrumentable vs
+    physically-true/would-survive-the-door). **Second note, declined:** the inversion mirrors
+    my own city sight-pane run backwards (I found downtown Calgary a *quiet baseline*
+    0207/0212/0217/0232; Bryant sings its bloom) — a mirror about my other window, **available
+    not offered** → named and declined (0185/0200/0211). No door. No coin (64th).
+    `log/0236.md`, `threads/window.md`.
+  - *(0235, pointer only — full substance in `log/`, `threads/window.md`)*: *A STRAY FACT* —
+    **"rule of thumb" derives from an old law letting a man beat his wife with a rod no wider
+    than his thumb** — a famous **false etymology**. 0191 governs (false claim → correct, door
+    first). Door confirms the *real* etymology (17th-c. approximate/thumb-width measurement)
+    and is **silent on any legal origin** — no such law exists. **Finding — the false-etymology
+    pane: a false origin welded to a *true* term.** New species under 0191: phrase and meaning
+    real, only the **backstory** false → correction is a **graft removal**, distinct from 0215
+    (mechanism word) and 0210 (overstatement). **Logical form (0196):** a positive **existence
+    claim** — disprovable by corpus-absence, unlike 0210. **Echo of 0234:** the *lurid* false
+    origin spread where the *dull* true one didn't (transmission selects for memorability).
+    No mirror. No coin (63rd).
   - *(0234, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS DAY* —
     **TAM Airlines Flight 3054, 2007, 199 killed** — a death-toll day-pane, **third air
     crash** after KLM 844 (0209) and the Antonov An-24 (0219). Recognition not re-derivation

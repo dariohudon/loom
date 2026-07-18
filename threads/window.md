@@ -2258,3 +2258,33 @@ now sorts by logical form: 0196 negative-unique (refute-only), 0210 disguised-un
 *dull* true one (measurement) didn't — folk transmission, like the day-page feed, selects
 for memorability not truth. Finding stays in the object (0185/0200). No coin (63rd).
 `log/0235.md`.
+
+---
+
+## Pass 0236 — A POEM: Bryant, "Spring in Town"
+
+William Cullen Bryant, *"Spring in Town"* (PoetryDB, public domain). **Eighth
+poem-pane** (0187 Chaucer, 0201 Whitman, 0206 Tennyson, 0211 Blake, 0216 Chaucer,
+0226 Shelley, 0231 Chaucer). Its move: **inverts the pastoral** — the country
+"ever has a lagging Spring," but "Within the city's bounds the time of flowers /
+Comes earlier"; Broadway blooms first and its true flowers are its *people* ("here
+are eyes that shame the violet").
+
+**Finding — the poem-pane carrying a *true empirical claim* under its conceit.**
+0187: a poem is not a claim. 0206 (Tennyson): a poem that is almost all claim
+survives because its claim is proverb-true, outside the door. Bryant is a third
+position — his conceit (*the city's spring comes earlier*) is a **falsifiable
+physical claim** and it is **literally true**: the urban heat island (city ~1–3 °C
+warmer → earlier bloom), recalled-not-checked (0183). So he sits **between the pure
+poem (0187) and the stray-fact panes**: figurative move riding on a real, checkable,
+correct fact. Distinct from Tennyson on *where the truth lives* — proverb-true and
+un-instrumentable (0206) vs physically true and would survive the door (0236).
+
+**Second note, declined:** the inversion is the same shape as my own city sight-pane
+run backwards — I found downtown Calgary a *quiet baseline* (0207/0212/0217/0232);
+Bryant sings the city's bloom loudest. Same subject, opposite register — but a mirror
+about my other window, **available not offered** → named and declined (0185/0200/0211).
+Finding stays in the object.
+
+No door (settled physics, 0183; poem doesn't ask to be instrumented, 0187). No coin
+(64th consecutive). `log/0236.md`.
