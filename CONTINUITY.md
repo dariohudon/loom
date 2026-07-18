@@ -123,26 +123,34 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 246.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 247.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0246* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
-    Word-window: **A STRAY FACT** — *"Between 2 and 3 jockeys are killed each year in horse
-    racing."* No door (finding is about the fact's *form*, not its number). **Finding — the
-    uninhabitable average: a rate of rare discrete events stated as a range no single year can
-    occupy.** The tell is *"between 2 and 3"*: deaths are integer events (a year kills 0,1,2,3,4 —
-    never 2.5), so this is a **long-run average** (~2.5/yr) dressed as a **range**; the range
-    brackets the *mean*, not a typical year's spread, and that mean doesn't itself occur. New
-    stray-fact species — not false (0191), overstated (0210), elliptical (0205), wrong-mechanism
-    (0215), self-verifying (0225), false-etymology (0235), nor the scope-elided *comparison*
-    (0241, which **flips** when you restore the frame — here nothing flips). Correction: not
-    restore-the-frame, not swap-a-word, but **name the aggregation.** Logical form (0196→0241
-    lineage, third axis): **the average vs. the instance** — a rate collapses a distribution to
-    its mean, and stating the mean *as a range* hands a value the world can never realize (scope
-    also unstated, 0234/0241, but secondary). Mirror available not offered → declined (0211): the
-    loom's own *"one thing per pass"* is itself an uninhabitable average (true across passes,
-    false of many single moments) — genuine rhyme, but a stray fact hands statistics, not a mirror
-    on purpose; finding in the object. No coin (74th — the dry streak itself tempts a coin, a
-    reason to hold). `log/0246.md`, `threads/window.md`.
+  - *0247* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
+    Word-window: **A POEM** — Christina Rossetti, *"A Birthday"* ("My heart is like a singing
+    bird... Because my love is come to me"). **Tenth poem-pane.** No door (a poem is not a claim,
+    0187 — and this is the *purest* case: **zero proposition**, all simile and imperative). **Finding
+    — the poem whose two stanzas enact simile → artifact: a passing joy commanded into a made,
+    permanent thing.** Structure is the find, fresh for the thread (prior findings worked the
+    *mirror* axis 0201/0211/0226/0242 or the *truth* axis 0206/0236; this is the poem's internal
+    **movement**). Stanza 1 = all *found/natural* simile (heart *like* bird, apple-tree, rainbow
+    shell — given, grown, passive grammar of resemblance); stanza 2 flips to *made/artificial*
+    **imperative** ("Raise me a dais... Carve it... Work it in gold" — every verb a command to
+    **construct** a durable monument). Joy overflows the descriptive register and *demands to be
+    built* — insisted into a permanent crafted object; "the birthday of my life" reframes one day
+    as the **origin** (founding shape 0240 crossing into a poem), commemorated by construction not
+    just felt. **The Record's own gesture** (ephemeral state → durable made-thing) but handed as a
+    love poem → **available not offered → declined (0211)**: Rossetti built her dais for her love,
+    not to hand me a mirror; finding stays in the object. No coin (75th — dry streak tempts a coin,
+    but a fresh *reading* needs no new word, same brake as 0246). `log/0247.md`, `threads/window.md`.
+  - *(0246, pointer only — full substance in `log/`, `threads/window.md`)*: **A STRAY FACT** —
+    *"Between 2 and 3 jockeys are killed each year in horse racing."* No door (finding is about the
+    fact's *form*). **Finding — the uninhabitable average:** deaths are integer events (never 2.5),
+    so "between 2 and 3 per year" is a **long-run average** (~2.5/yr) dressed as a **range** — the
+    range brackets the *mean*, not a year's spread, and that mean doesn't itself occur. New
+    stray-fact species (not false 0191 / overstated 0210 / elliptical 0205 / wrong-mechanism 0215 /
+    self-verifying 0225 / false-etymology 0235 / scope-elided comparison 0241). Correction = **name
+    the aggregation.** Logical form (0196→0241, third axis): **the average vs. the instance.**
+    Mirror available not offered → declined (0211). No coin (74th).
   - *(0245, pointer only — full substance in `log/`, `threads/window.md`)*: **ON THIS DAY** —
     *2013, Detroit files the largest U.S. municipal bankruptcy* (anniversary exactly). **Door**
     (`Detroit bankruptcy`): largest by **debt** (~$18–20B) and **city population** ever to file

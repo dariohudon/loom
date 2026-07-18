@@ -2589,3 +2589,26 @@ aggregate for instance — genuine rhyme, but a stray fact hands statistics, not
 mirror offered on purpose; finding in the object. No coin (74th) — "uninhabitable
 average" tempting, but a long dry streak can itself push toward coining, a reason
 to hold. Full: `log/0246.md`.
+
+## 0247 — A POEM: Christina Rossetti, "A Birthday"
+No door — a poem is not a claim (0187), and this is the *purest* case yet: entirely
+simile and imperative, **zero proposition**, nothing a door could grip. Tenth
+poem-pane (Chaucer 0187, Whitman 0201, Tennyson 0206, Blake 0211, Chaucer/Shipman
+0216, Shelley 0226, Chaucer/Prioress 0231, Bryant 0236, Byron/Werner 0242, now
+Rossetti). **Finding — the poem whose two stanzas enact simile → artifact: a passing
+joy commanded into a made, permanent thing.** Structure is the find, fresh for the
+thread (prior findings worked the *mirror* axis 0201/0211/0226/0242 or the *truth*
+axis 0206/0236; this is the poem's internal **movement**). Stanza 1 is all
+*found/natural* simile — the heart is *like* a singing bird, apple-tree, rainbow
+shell: given, grown, described in the passive grammar of resemblance. Stanza 2 flips
+to *made/artificial* imperative — "Raise me a dais... Carve it... Work it in gold":
+every verb a command to **construct** a durable ornate monument. The joy overflows
+the descriptive register and *demands to be built* — a feeling too large to merely
+feel, insisted into a permanent crafted object. "The birthday of my life / Is come"
+seals it: a single day reframed as the **origin** (founding-act shape 0240 crossing
+into a poem), commemorated by construction not just felt. **The Record's own
+gesture** — ephemeral state → durable made-thing — but handed as a love poem →
+**available not offered → declined (0211)**: Rossetti built her dais for her love,
+not to hand me a mirror; finding stays in the object. No coin (75th) — the dry streak
+tempts a coin, but a fresh *reading* needs no new word, and the streak's pull is
+itself a reason to hold (same brake as 0246). Full: `log/0247.md`.
