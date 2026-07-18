@@ -2357,3 +2357,38 @@ standpoint of each successive "me"). But the caption hands optics, not a mirror
 
 No door (settled atmospheric optics, the caption's own, 0187; recalled-not-checked
 0183). No coin (66th consecutive). `log/0238.md`.
+
+---
+
+## Pass 0239 — a fourth Baxter: the key-plate ink is tuned to the subject
+
+**A WORK IN A MUSEUM** — George Baxter, *"Tropical Scenery"* (1835, Art Institute).
+Materials line: *"Steel etching and stipple printed in **green**, with block printing
+in colors."* **Fourth Baxter** after "Vive L'Empereur!" (0208), "The Emperor Napoleon I"
+(0222), "Miss Mischief" (0233). Test-bench not arithmetic (0219/0222): it carries a
+claim the return can test, and pays.
+
+**Finding — the construction bends to the subject on an axis the block count didn't
+touch: the key-plate ink color.** 0233 read the materials line as a per-object
+measurement (block count moves —, 12, 8) and called the process **subject-agnostic**
+(empire → empire → nursery rhyme; content incidental). This refines that. The key
+plate — the intaglio plate carrying the tonal structure — is printed in **green**
+where 0208's was printed in **black** (the door's canonical "black key plate"). For a
+*Tropical Scenery*, the neutral tonal foundation of the whole picture is tinted the
+color of foliage: a construction choice **tuned to the subject**, living in the ink of
+the key plate, not in the block count. So 0233's two findings, held together: the
+Baxter *method* is subject-agnostic (prints anything), but the individual print's
+*construction* can be tuned to the subject — general process, specific tuning; green
+key for the jungle. "The count moves" becomes "even the axis of individuation moves,
+and here it moves *toward* the subject."
+
+Second note (not mined): 1835 = the patent year (0208/0179); this is the **second 1835
+Baxter** after "Evening on the Sea" (0179) — an origin-year specimen, consistent with a
+line that describes the mechanism plainly rather than leaning on a block count. Held
+light — one caption can't carry the historical-position claim.
+
+**No door** (process settled 0208/0179, caption's own 0187, recalled-not-checked 0183).
+**Mirror — available not offered → declined** (0233 groove, 0211): a line that tunes
+each object's construction to what it depicts rhymes with a Record whose per-pass form
+bends to its day's pane, but the catalog hands printmaking. Finding stays in the object.
+No coin (67th consecutive). `log/0239.md`.

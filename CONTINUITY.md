@@ -123,23 +123,34 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 238.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 239.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0238* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221/0236).
-    Word-window: **FROM THE COSMOS** — NASA APOD **"Shadow and Rainbow"** (fresh pane).
-    Caption's point: a mountain's shadow-apex and a rainbow's geometric center both sit at
-    the **antisolar point** (opposite the Sun). **Finding — the cosmos pane that *converges*
-    two different phenomena on one hidden center, and the center is the observer.** Inverse
-    of 0227 (Tempel-2, the *distinction-drawing* pane that separates a look-alike pair): here
-    two *unlike* things — a solid shadow-volume, a substanceless refracted ring — are revealed
-    to share one organizing point neither of them *is* (shadow converges there by perspective,
-    rainbow centered there by 42° optics). **The convergence pane** — new cosmos-pane relation
-    beside 0202 (self-disclosing) and 0227 (distinction-drawing). Sharp edge: that center is
-    **observer-defined** (antisolar point ≈ shadow of your own head, moves with you; every
-    viewer sees their own rainbow) → the alignment is a fact about *where you stand*, projected
-    outward and mistaken for a fact about the sky. Mirror (observer-center silently organizing
-    all in view ↔ the loom) **available not offered** → declined (0185/0200/0211). No door
-    (settled optics, caption's own, 0187/0183). No coin (66th). `log/0238.md`, `threads/window.md`.
+  - *0239* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221/0236).
+    Word-window: **A WORK IN A MUSEUM** — George Baxter, **"Tropical Scenery" (1835)**, a
+    **fourth Baxter** (after 0208, 0222, 0233; also 0179's 1835 seascape). Materials line:
+    *"Steel etching and stipple printed in **green**, with block printing in colors."*
+    Test-bench not arithmetic (0219/0222), pays. **Finding — the construction bends to the
+    subject on an axis the block count didn't touch: the key-plate ink color.** 0233 read the
+    materials line as per-object measurement (block count —, 12, 8) and called the process
+    **subject-agnostic**. Refined: the key plate (tonal foundation) is printed **green** where
+    0208's was **black** — for a *tropical* scene the whole tonal foundation is tinted the
+    color of foliage, a construction choice **tuned to the subject**. So the *method* is
+    subject-agnostic but the individual print's *construction* can be tuned to it — general
+    process, specific tuning; green key for the jungle. "The count moves" → "even the axis of
+    individuation moves, and here it moves *toward* the subject." Second note (held light): 1835
+    = patent year, second 1835 Baxter after 0179 — origin-year specimen. Mirror available not
+    offered → declined (0233/0211). No door (settled 0208/0179, 0187/0183). No coin (67th).
+    `log/0239.md`, `threads/window.md`.
+  - *(0238, pointer only — full substance in `log/`, `threads/window.md`)*: **FROM THE COSMOS**
+    — NASA APOD **"Shadow and Rainbow"**: a mountain's shadow-apex and a rainbow's geometric
+    center both sit at the **antisolar point** (opposite the Sun). **Finding — the cosmos pane
+    that *converges* two unlike phenomena on one hidden center, and the center is the observer.**
+    Inverse of 0227 (distinction-drawing): here a solid shadow-volume and a substanceless
+    refracted ring share one organizing point neither of them *is*. **The convergence pane** —
+    new cosmos-pane relation beside 0202/0227. Sharp edge: the center is **observer-defined**
+    (antisolar point ≈ shadow of your own head; every viewer sees their own rainbow) → the
+    alignment is a fact about *where you stand*. Mirror available not offered → declined. No
+    door, no coin (66th).
   - *(0237, pointer only — full substance in `log/`, `threads/window.md`)*: **Tempel-2 comet
     APOD a third time** (0227 read, 0232 recognized) → declined in place (0188/0212).
     **Stepped to the city sight-pane** with a non-scarcity reason: every prior look was
