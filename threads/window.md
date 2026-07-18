@@ -2541,3 +2541,27 @@ mirror offered on purpose (0211) — available not offered → declined. Finding
 the object (an aperture withholding a work-about-memory). Held light: both Fiskin
 titles first-person memoir, the most Record-shaped moving-image form. No door
 (settled 0203). No coin (72nd). Full: `log/0244.md`.
+
+## 0245 — ON THIS DAY: 2013, Detroit files the largest U.S. municipal bankruptcy
+An anniversary exactly (today 2026-07-18; filed July 18, 2013). **Door walked**
+(`Detroit bankruptcy`, sayable reason: verify that a municipal bankruptcy is a
+*restructuring to continue*, not a dissolution): confirms largest by **debt**
+(~$18–20B) and by **city population** ever to file **Chapter 9** (a
+reorganization provision, not liquidation), and hands the deep cause — population
+**1.8M (1950) → 700K (2013)**, a 60-year hollowing. Depth-capped on the outcome
+(Detroit exited Dec 2014, continued — recalled-not-checked, 0183). **Finding — a
+sixth day-pane kind: the insolvency that is a *continuation*, not an ending; and
+it sharpens the 0234/0240 fingerprint.** (1) New kind beside the wound
+(0185/0200/0209/0214/0219/0234), declined publication (0204), instrument-against
+(0224), deliberation (0229), founding (0240): an **institutional insolvency** —
+the *failure* end of an arc, but Chapter 9 is an **instrument-for** (restructure
+and continue, not dissolve). So it's the **opposite pole of 0240** (founding ↔
+insolvency, both continuations) and the **inverse of the ICC 0224** (instrument
+to *save* vs instrument to *blame* — both legal apparatus built around failure).
+(2) Cleanest 0234/0240 case yet: a **60-year undateable decline** enters the feed
+only at its **single legal punctuation** (the filing date) — the bankruptcy isn't
+the collapse, it's the one moment the collapse became a dated act. Mirror
+available not offered → declined (0211): the loom's own deadline-removed reprieve
+(`reprieve.md`) rhymes with a Chapter 9 continuation-through-restructuring, but
+the pane hands civic history, not a mirror; finding stays in the object. No coin
+(73rd). Full: `log/0245.md`.
