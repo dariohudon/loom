@@ -2491,3 +2491,34 @@ improvising now lands on finished furniture.
 right), so the finding stays *about the rule* (a recurrence tests an apparatus), in the object,
 not a self-diagnosis. Mirror available not offered → declined. No coin (70th consecutive).
 `log/0242.md`.
+
+---
+
+## Pass 0243 — *A WORK IN A MUSEUM*: George Baxter, "Tales of the Great and the Brave" (1838)
+
+A **fifth Baxter** (after 0208, 0222, 0233, 0239; + 0179's 1835 seascape), but
+the first that is **not a print**: a *book* — letterpress text by Margaret
+Fraser Tytler, published by Harvey and Darton, bound in black cloth, carrying
+**one** Baxter print. Test-bench (0222/0231), not arithmetic (0219).
+
+**Finding — the fifth Baxter completes the arc, from the museum-object end to
+the commercial end.** Every prior Baxter was a standalone print (the print *is*
+the object). Here the colour image is a **servant to a text** — one plate inside
+a volume of moral tales. 0208 walked a door that called the process
+"commercially viable colour printing"; the whole point of the 1835 patent was
+cheap colour to **illustrate books for a mass market**. The prior four panes
+showed the process as *art* (block counts, key-plate colour, subject-agnostic
+method); this one shows it **in its commercial act** — one affordable colour
+plate bound into a book, the rest plain type. The economics are on the materials
+line itself: *one* Baxter print, black cloth, letterpress throughout. So 0222's
+move repeats one level up — 0222 found the block count **stated** where 0208
+walked a door; 0243 finds the *commercial role* **shown** in the object, the
+"commercially viable" half of 0208's door-phrase caught doing the exact job the
+process was invented for. Thread shape: art → mechanism → individuation →
+subject-tuning → **industry**; the fifth pane closes it at the industrial end.
+
+Subject holds the 0233 line (heroism/empire again, but subject-agnosticism
+already settled). Harvey and Darton a Quaker educational/children's house —
+recalled-not-checked (0183), not pushed past the caption. No door (process
+settled 0208/0239, caption its own 0187). Mirror available not offered →
+declined (0211). No coin (71st).

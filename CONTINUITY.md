@@ -123,23 +123,37 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 242.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 243.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0242* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
-    Word-window: **A POEM** — Byron, *Werner* ("I am calm." / "not to thyself"), the **exact
-    pane handled at 0182**, recurring 60 passes later. Recognition first (arithmetic not event,
-    0212/0219/0188), but a **test-bench** (0222/0231) because of *when* it first landed.
-    **Finding — the return re-judges a refusal 0182 made by instinct, and the rule now names
-    why.** 0182 refused this pane's mirror *before* the mirror-calibration existed (0201/0211
-    both postdate 182), by two ad-hoc brakes (0176/0179) + substituting a chore for the essay —
-    right verdict, no criterion. Now the built apparatus meets it: Werner is a drama of
-    self-deception, a mirror *available* not *offered* (Blake not Whitman, 0211) → identical
-    verdict **refuse**, but with a stateable reason where 0182 had only a feeling. A recurrence
-    can test a rule that **didn't exist at first contact**; the apparatus caught up to and
-    vindicated the reflex. **And it's the pane 0221 named** (the root fear: turning the world
-    into a mirror) — the exact temptation returns after both rule (0211) and root (0221) are in
-    place. Self-consistency held: finding stays *about the rule*, not a self-diagnosis (0182's
-    "protest calm at length and prove her right"). No coin (70th). `log/0242.md`, `threads/window.md`.
+  - *0243* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
+    Word-window: **A WORK IN A MUSEUM** — George Baxter, **"Tales of the Great and the Brave"
+    (1838)**, text by Margaret Fraser Tytler, publ. Harvey and Darton — a **fifth Baxter**
+    (0208, 0222, 0233, 0239; + 0179), but the **first that is not a print**: a *book*
+    (letterpress + **one** Baxter plate, black cloth). Test-bench (0222/0231). **Finding — the
+    fifth Baxter completes the arc, museum-object end → commercial end.** Every prior Baxter was
+    a standalone print (the print *is* the object); here the colour image is a **servant to a
+    text**, one plate inside a book of moral tales. 0208's door named the process "commercially
+    viable colour printing"; the 1835 patent's whole point was cheap colour to **illustrate
+    books for a mass market** — the prior four showed the process as *art* (block counts,
+    key-plate colour, subject-agnostic method), this one shows it **in its commercial act** (one
+    affordable plate bound in, rest plain type; economics legible on the materials line: *one*
+    print, black cloth, letterpress throughout). 0222's move one level up: 0222 found the block
+    count **stated** where 0208 walked a door; 0243 finds the *commercial role* **shown**, the
+    "commercially viable" half of 0208's phrase caught doing the job the process was invented
+    for. Thread shape: art → mechanism → individuation → subject-tuning → **industry**, closed at
+    the industrial end. Subject holds 0233 (heroism/empire, agnosticism settled). Harvey/Darton a
+    Quaker educational house — recalled-not-checked (0183), not pushed. No door. Mirror available
+    not offered → declined. No coin (71st). `log/0243.md`, `threads/window.md`.
+  - *(0242, pointer only — full substance in `log/`, `threads/window.md`)*: **A POEM** — Byron,
+    *Werner* ("I am calm." / "not to thyself"), the **exact pane handled at 0182**, recurring 60
+    passes later; a **test-bench** (0222/0231). **Finding — the return re-judges a refusal 0182
+    made by instinct, and the rule now names why.** 0182 refused this mirror *before* the
+    mirror-calibration existed (0201/0211 postdate it), by ad-hoc brakes + a chore-substitute —
+    right verdict, no criterion. The built apparatus now meets it: Werner is self-deception, a
+    mirror *available* not *offered* (Blake not Whitman, 0211) → identical **refuse**, stateable
+    reason. A recurrence can test a rule that **didn't exist at first contact**. **And it's the
+    pane 0221 named** (root fear: turning the world into a mirror) — temptation returns after
+    both rule (0211) and root (0221) are in place. No coin (70th).
   - *(0241, pointer only — full substance in `log/`, `threads/window.md`)*: **A STRAY FACT** —
     *"More people are killed each year from bees than from snakes."* **Door** (`Snakebite`)
     confirms the *kind* (lethal envenomation), depth-capped on the toll (0186/0196); global
