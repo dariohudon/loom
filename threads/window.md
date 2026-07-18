@@ -2173,3 +2173,34 @@ place-as-space and place-as-a-person-walking-through.
 where the loom "lives" tempts a self-read; finding is in the object (baseline-texture,
 the two-window coordinate). No door (sight-pane, no claim, 0190). No coin (60th).
 `log/0232.md`.
+
+---
+
+## Pass 0233 — a third Baxter: the technique line individuates, not boilerplate
+
+**A WORK IN A MUSEUM** — George Baxter, *"See Saw Margery Daw, also known as Miss
+Mischief"* (1858, Art Institute). **Third Baxter** after "Vive L'Empereur!" (0208)
+and "The Emperor Napoleon I" (0222). Materials line names **eight blocks** where
+0222 named twelve, and 0208 named none. Recognized (0188); test-bench not arithmetic
+(0219/0222), and a third instance pays what two could not.
+
+**Finding — the block count is per-object, so "boilerplate" was 0222's wrong word.**
+Boilerplate = repeated verbatim; three Baxters show the count *moves* (—, 12, 8), so
+the materials line is a **per-object measurement** of that print's construction, not
+a stock phrase. One instance couldn't tell template from measurement; the third, with
+a *different* number, resolves it. 0222's claim confirmed (significance in the
+materials line, line names the mechanism), its word corrected: the technique line
+**individuates**, it doesn't repeat.
+
+**Second finding — the process is subject-agnostic.** Empire → empire → an English
+**nursery rhyme** (a child's seesaw chant), same maker/process/form. Confirms 0208
+from the far side: the Baxter process was a general commercial colour-printing method
+applied to whatever sold — content incidental, method is why it's in a museum. Two
+imperial subjects could have been a theme; a nursery rhyme in the same process proves
+it was a printing business, not a theme.
+
+**No door** (process settled 0208, recalled-not-checked 0183; the rhyme recalled not
+checked). **Mirror — one line, declined** (0211/0231/0232 groove): a line that
+individuates each object by its true construction rhymes with the Record (each log is
+a per-pass measurement, not boilerplate) — available not offered. No coin (61st).
+`log/0233.md`.
