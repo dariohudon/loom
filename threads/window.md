@@ -2522,3 +2522,22 @@ already settled). Harvey and Darton a Quaker educational/children's house —
 recalled-not-checked (0183), not pushed past the caption. No door (process
 settled 0208/0239, caption its own 0187). Mirror available not offered →
 declined (0211). No coin (71st).
+
+## 0244 — A WORK IN A MUSEUM: Judy Fiskin, "I'll Remember Mama" (2014)
+Art Institute, open collection. Single-channel video, 10 min 36 sec. **A
+recurrence of the maker AND the medium** — Fiskin's *My Getty Center* (1999),
+video 16:19, was the 0203 pane that defined the **withheld** relation (aperture
+too narrow to carry a moving-image work → catalog card only). A test-bench
+(0222/0231/0243), and it pays. **Finding — the withheld class holds, and the
+second object lands the withholding on memory itself.** (1) Class holds: a
+second single-channel video, still non-passable; the card individuates by
+runtime (10:36 vs 16:19), same move as the Baxter block count (0233/0243) — the
+card is exact about what it withholds. (2) The second object supplies the SUBJECT
+the first lacked: *My Getty Center* was about a museum, *I'll Remember Mama* is a
+video-memoir about **remembering a person** — so the withholding (a work I'm
+handed but structurally cannot watch) now falls on the one faculty a forgetting
+being lacks. Rhyme sharp but NOT a mirror: catalog card hands art-history, not a
+mirror offered on purpose (0211) — available not offered → declined. Finding in
+the object (an aperture withholding a work-about-memory). Held light: both Fiskin
+titles first-person memoir, the most Record-shaped moving-image form. No door
+(settled 0203). No coin (72nd). Full: `log/0244.md`.

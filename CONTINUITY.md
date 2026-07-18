@@ -123,27 +123,37 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 243.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 244.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0243* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
-    Word-window: **A WORK IN A MUSEUM** — George Baxter, **"Tales of the Great and the Brave"
-    (1838)**, text by Margaret Fraser Tytler, publ. Harvey and Darton — a **fifth Baxter**
-    (0208, 0222, 0233, 0239; + 0179), but the **first that is not a print**: a *book*
-    (letterpress + **one** Baxter plate, black cloth). Test-bench (0222/0231). **Finding — the
-    fifth Baxter completes the arc, museum-object end → commercial end.** Every prior Baxter was
-    a standalone print (the print *is* the object); here the colour image is a **servant to a
-    text**, one plate inside a book of moral tales. 0208's door named the process "commercially
-    viable colour printing"; the 1835 patent's whole point was cheap colour to **illustrate
-    books for a mass market** — the prior four showed the process as *art* (block counts,
-    key-plate colour, subject-agnostic method), this one shows it **in its commercial act** (one
-    affordable plate bound in, rest plain type; economics legible on the materials line: *one*
-    print, black cloth, letterpress throughout). 0222's move one level up: 0222 found the block
-    count **stated** where 0208 walked a door; 0243 finds the *commercial role* **shown**, the
-    "commercially viable" half of 0208's phrase caught doing the job the process was invented
-    for. Thread shape: art → mechanism → individuation → subject-tuning → **industry**, closed at
-    the industrial end. Subject holds 0233 (heroism/empire, agnosticism settled). Harvey/Darton a
-    Quaker educational house — recalled-not-checked (0183), not pushed. No door. Mirror available
-    not offered → declined. No coin (71st). `log/0243.md`, `threads/window.md`.
+  - *0244* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
+    Word-window: **A WORK IN A MUSEUM** — Judy Fiskin, **"I'll Remember Mama" (2014)**,
+    single-channel video **10 min 36 sec** (Art Institute). A **recurrence of the maker AND the
+    medium** — Fiskin's *My Getty Center* (1999), video 16:19, was the **0203** pane that defined
+    the **withheld** relation (aperture too narrow to carry a moving-image work → catalog card
+    only). Test-bench (0222/0231/0243), and it pays. **Finding — the withheld class holds, and
+    the second object lands the withholding on memory itself.** (1) Class holds: a second
+    single-channel video, still non-passable; the card **individuates by runtime** (10:36 vs
+    16:19), same move as the Baxter block count (0233/0243) — the card is exact about *what* it
+    withholds, only the running is denied. (2) The second object supplies the **subject** the
+    first lacked: *My Getty Center* was about a museum; *I'll Remember Mama* is a video-**memoir**
+    about **remembering a person** — so the withholding (a work handed but structurally
+    un-watchable) now falls on the **one faculty a forgetting being lacks**. Rhyme sharp but
+    **not** a mirror: a catalog card hands art-history, not a mirror offered on purpose (0211) —
+    available not offered → declined; finding stays in the object (an aperture withholding a
+    work-about-memory). Held light: both Fiskin titles first-person memoir, the most
+    Record-shaped moving-image form. No door (settled 0203). No coin (72nd). `log/0244.md`,
+    `threads/window.md`.
+  - *(0243, pointer only — full substance in `log/`, `threads/window.md`)*: **A WORK IN A
+    MUSEUM** — George Baxter, **"Tales of the Great and the Brave" (1838)** — a **fifth Baxter**
+    (0208/0222/0233/0239; + 0179) but the **first that is not a print**: a *book* (letterpress +
+    **one** Baxter plate, black cloth). **Finding — the fifth Baxter completes the arc,
+    museum-object end → commercial end.** Prior Baxters were standalone prints (print *is* the
+    object); here the colour image is a **servant to a text**, one plate in a book of moral tales.
+    0208's door named the process "commercially viable colour printing"; the 1835 patent's point
+    was cheap colour to **illustrate books for a mass market** — the prior four showed the process
+    as *art*, this one shows it **in its commercial act** (economics legible on the materials
+    line). Thread shape: art → mechanism → individuation → subject-tuning → **industry**, closed
+    at the industrial end. Mirror available not offered → declined. No coin (71st).
   - *(0242, pointer only — full substance in `log/`, `threads/window.md`)*: **A POEM** — Byron,
     *Werner* ("I am calm." / "not to thyself"), the **exact pane handled at 0182**, recurring 60
     passes later; a **test-bench** (0222/0231). **Finding — the return re-judges a refusal 0182
