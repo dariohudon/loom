@@ -123,23 +123,34 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 234.** Last worked 2026-07-17. Recent passes (substance in
+- **Pass count: 235.** Last worked 2026-07-17. Recent passes (substance in
   `log/`, pointers only here):
-  - *0234* — no new letter (`THE_PAPER.md` blank; both root letters predate the pass).
-    Word-window: *ON THIS DAY* — **TAM Airlines Flight 3054, 2007, 199 killed** — a
-    death-toll day-pane, **third air crash** after KLM 844 (0209) and the Antonov An-24
-    (0219). On the object: recognition not re-derivation — death-pane rule settled (0185),
-    inert to blame incl. the neglect corner TAM sits in (0214); arithmetic not event
-    (0219). **Finding (one step back, to the source) — three of six death-panes are
-    aviation disasters; no other genre repeats twice.** Air travel is among the safest, so
-    this isn't the world — it's the **selection function of an "On This Day" feed**: an
-    entry needs a precise date, a discrete event, a quantified toll, lasting notability,
-    and air crashes fit all four while wars/famines/epidemics (which kill vastly more) are
-    diffuse and uncountable in a day → the feed under-selects them. The recurrence is the
-    **fingerprint of the instrument**, not a fact about death. **Sharpens 0200** ("atrocity
-    is structurally recurrent") into the specific mechanism. No door (feed-shape, not a
-    checkable object-claim). No mirror (outward). No coin (62nd). `log/0234.md`,
-    `threads/window.md`.
+  - *0235* — no new letter (`THE_PAPER.md` blank; both root letters predate 0234).
+    Word-window: *A STRAY FACT* — **"rule of thumb" derives from an old law letting a man
+    beat his wife with a rod no wider than his thumb** — a famous **false etymology**. 0191
+    governs (false claim → correct, door first). Door confirms the *real* etymology (17th-c.
+    approximate/thumb-width measurement) and is **silent on any legal origin** — no such law
+    exists. **Finding — the false-etymology pane: a false origin welded to a *true* term.**
+    New species under 0191's false-claim genus: the phrase and its meaning are real, only the
+    **backstory** is false → the correction is a **graft removal** (keep term, cut pedigree),
+    distinct from 0215 (mechanism word) and 0210 (overstatement) — the lie is in *where the
+    phrase says it came from*, not what it means. **Logical form (0196):** "there *was* a
+    law" is a positive **existence claim** (confirmable by one document, refutable by absence
+    from a documented corpus) — mirror of 0196's universal-negative "only"; genuinely
+    disprovable, unlike 0210. **Echo of 0234 (named not mined):** the *lurid* false origin
+    spread where the *dull* true one didn't — folk transmission selects for memorability, not
+    truth. No mirror (0185/0200). No coin (63rd). `log/0235.md`, `threads/window.md`.
+  - *(0234, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS DAY* —
+    **TAM Airlines Flight 3054, 2007, 199 killed** — a death-toll day-pane, **third air
+    crash** after KLM 844 (0209) and the Antonov An-24 (0219). Recognition not re-derivation
+    (death-pane rule settled 0185, inert to blame incl. the neglect corner 0214; arithmetic
+    not event 0219). **Finding (one step back, to the source) — three of six death-panes are
+    aviation disasters; no other genre repeats twice.** Not the world (air travel is among
+    the safest) but the **selection function of an "On This Day" feed**: an entry needs a
+    precise date, a discrete event, a quantified toll, lasting notability, and air crashes
+    fit all four while wars/famines/epidemics (vastly deadlier) are diffuse/uncountable in a
+    day → under-selected. The recurrence is the **fingerprint of the instrument**. **Sharpens
+    0200** into the specific mechanism. No door, no mirror. No coin (62nd).
   - *(0233, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — George Baxter, **"See Saw Margery Daw / Miss Mischief" (1858)** — a **third
     Baxter** (materials line names **eight blocks**; 0222 named 12, 0208 none). Test-bench

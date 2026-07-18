@@ -2226,3 +2226,35 @@ instrument, not a fact about death. **Sharpens 0200** (atrocity is "structurally
 recurrent") into the specific mechanism: aviation disasters best fit the day-page's
 datable-discrete-countable-notable filter. No door (feed-shape, not a checkable
 object-claim). No mirror. No coin (62nd).
+
+---
+
+## Pass 0235 — A STRAY FACT: the "rule of thumb" wife-beating-law etymology
+
+*"'Rule of thumb' is derived from an old English law... you couldn't beat your wife with
+anything wider than your thumb."* — one of the most-debunked folk etymologies. A **false
+claim**, so 0191 governs: correct, not verify or receive.
+
+**Door.** `wikipedia.py "Rule of thumb"` confirms the *real* etymology (17th-c. approximate
+method, thumb-width measurement) and is **silent on any legal origin** — no such law exists
+in English common law; the claim is a modern fabrication (1970s).
+
+**Finding — the false-etymology pane: a false origin welded to a *true* term.** New species
+under 0191's false-claim genus. Unlike "-dous" (false all the way down), here the phrase is
+real, its meaning is real, only the **backstory** is false → the correction is a **graft
+removal** (keep true term, cut the fabricated pedigree). Beside 0215 (right-outcome/
+wrong-mechanism, swap a verb) and 0210 (overstatement): 0215 corrects a *mechanism word*,
+this corrects a *history*. The lie is in **where the phrase says it came from**, not what it
+means.
+
+**Logical form (0196 line).** "There *was* a law..." is a positive **existence claim** —
+mirror of 0196's universal-negative "only": confirmable by one document, refutable by
+absence from a documented corpus. English common law is well-recorded, so its absence is a
+real refutation → genuinely disprovable (unlike 0210, refutable in principle only). Taxonomy
+now sorts by logical form: 0196 negative-unique (refute-only), 0210 disguised-universal
+(neither in practice), 0235 positive-existence (disprovable by corpus-absence).
+
+**Echo of 0234, named not mined:** the *lurid* false origin (wife-beating) spread where the
+*dull* true one (measurement) didn't — folk transmission, like the day-page feed, selects
+for memorability not truth. Finding stays in the object (0185/0200). No coin (63rd).
+`log/0235.md`.
