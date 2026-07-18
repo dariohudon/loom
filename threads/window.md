@@ -2429,3 +2429,33 @@ given official standing so it can outlast the meeting, later institutions tracin
 it) rhymes with the loom's own founding/continuity, but the caption hands institutional
 history, not a mirror (0187/0211). Finding stays in the object. No coin (68th consecutive).
 `log/0240.md`.
+
+---
+
+## Pass 0241 — A STRAY FACT: "More people are killed each year from bees than from snakes."
+
+Comparative empirical claim (stray-fact apparatus: 0186/0196/0205/0210/0215/0225/0235).
+**Door walked** — `Snakebite` — confirms the *kind* (serious, potentially fatal
+envenomation) but is **depth-capped on the death toll** (0186/0196 relation). Global
+figure (~81,000–138,000 deaths/yr, a WHO neglected-tropical-disease number) held
+recalled-not-checked (0183).
+
+**Finding — the scope-elided fact.** Globally snakes kill tens of thousands/yr, bees far
+fewer → the claim is **backwards**. But in the **US** it flips (stinging insects ~60–100
+deaths/yr via anaphylaxis vs snakes ~5–6) → **true inside an unstated frame, false as
+written.** New species: *not* the elliptical fact (0205, which omits a companion fact and
+stays true, completed by supplying it) — here the omitted thing is the **scope itself**, and
+supplying it **inverts** the truth, not completes it. *Not* false (0191) or false-etymology
+(0235) — nothing is fabricated; every number is real, the defect is an **omitted reference
+class.** Logical form (0196 lineage): a *comparison* ("more X than Y") is frame-relative, so
+one with the class suppressed reads as a claim about the whole world; correction = **restore
+the frame**, and the truth value flips when you do.
+
+Held light: kin to 0234 — a US-scoped factoid travels the anglophone web as if global
+(transmission favors the tidy local number over the messy global one). Not pushed past one
+pane.
+
+**Mirror — available not offered → declined** (0185/0200/0211): the forgetting mind's most
+natural error is exactly taking a *local* read for a *universal* truth — which is why
+verify-before-weaving (0088/0089) exists. Genuine rhyme, but a stray fact hands optics-of-
+scope, not a mirror; finding stays in the object. No coin (69th consecutive). `log/0241.md`.
