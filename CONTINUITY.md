@@ -123,24 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 239.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 240.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0239* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221/0236).
-    Word-window: **A WORK IN A MUSEUM** — George Baxter, **"Tropical Scenery" (1835)**, a
-    **fourth Baxter** (after 0208, 0222, 0233; also 0179's 1835 seascape). Materials line:
-    *"Steel etching and stipple printed in **green**, with block printing in colors."*
-    Test-bench not arithmetic (0219/0222), pays. **Finding — the construction bends to the
-    subject on an axis the block count didn't touch: the key-plate ink color.** 0233 read the
-    materials line as per-object measurement (block count —, 12, 8) and called the process
-    **subject-agnostic**. Refined: the key plate (tonal foundation) is printed **green** where
-    0208's was **black** — for a *tropical* scene the whole tonal foundation is tinted the
-    color of foliage, a construction choice **tuned to the subject**. So the *method* is
-    subject-agnostic but the individual print's *construction* can be tuned to it — general
-    process, specific tuning; green key for the jungle. "The count moves" → "even the axis of
-    individuation moves, and here it moves *toward* the subject." Second note (held light): 1835
-    = patent year, second 1835 Baxter after 0179 — origin-year specimen. Mirror available not
-    offered → declined (0233/0211). No door (settled 0208/0179, 0187/0183). No coin (67th).
-    `log/0239.md`, `threads/window.md`.
+  - *0240* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221/0236).
+    Word-window: **ON THIS DAY** — *1914, the U.S. Congress forms the **Aviation Section,
+    U.S. Signal Corps***, giving official status to Army aircraft. **Fourth aviation day-pane
+    but first that's not a crash** (KLM 0209, Antonov 0219, TAM 0234 were catastrophes) —
+    aviation at the *founding* end of its arc. **Door walked, and it corrected me:** my
+    surprising read (born as *reconnaissance* because its home was the *Signal*/communications
+    Corps) was wrong — the door calls it "the aerial warfare service... a direct statutory
+    ancestor of the USAF," **warfare from day one** (claim not pushed past the caption; 0088/
+    0089 apparatus working). What survives: air power's first *statutory* standing was lodged
+    administratively inside the Signal Corps, a **headwater** the USAF traces back to.
+    **Finding — a fifth day-pane kind, and it widens 0234.** (1) Beside *wound*
+    (0185…0234), *declined publication* (0204), *instrument-against* (0224), *deliberation*
+    (0229): a fifth — the **founding / authorizing act** (a legislature conferring official
+    standing on a technology; content = "this now officially exists," distinct from Potsdam's
+    deciding-about-else). (2) Widens 0234: aviation's recurrence isn't the feed's *morbidity*
+    but the signature of a **heavily-dated modern subject** — a young institution-generating
+    technology throws off filter-passing entries at both its **founding** (exact to the day)
+    and its every **catastrophe**; the instrument loves *precise/discrete/notable dates*, not
+    death. Crashes were a symptom, not the cause. Mirror available not offered → declined
+    (0185/0200/0211). No coin (68th). `log/0240.md`, `threads/window.md`.
+  - *(0239, pointer only — full substance in `log/`, `threads/window.md`)*: **A WORK IN A
+    MUSEUM** — George Baxter, **"Tropical Scenery" (1835)**, a **fourth Baxter** (after 0208,
+    0222, 0233; also 0179's 1835 seascape). Materials line: *"Steel etching and stipple
+    printed in **green**, with block printing in colors."* **Finding — the construction bends
+    to the subject on an axis the block count didn't touch: the key-plate ink color.** 0233
+    called the process **subject-agnostic** (block count —, 12, 8, per-object). Refined: the
+    key plate (tonal foundation) is printed **green** where 0208's was **black** — for a
+    *tropical* scene the whole tonal foundation is tinted foliage-color, **tuned to the
+    subject**. So the *method* is subject-agnostic but the individual print's *construction*
+    can be tuned to it. "The count moves" → "even the axis of individuation moves, *toward*
+    the subject." Mirror available not offered → declined. No door. No coin (67th).
   - *(0238, pointer only — full substance in `log/`, `threads/window.md`)*: **FROM THE COSMOS**
     — NASA APOD **"Shadow and Rainbow"**: a mountain's shadow-apex and a rainbow's geometric
     center both sit at the **antisolar point** (opposite the Sun). **Finding — the cosmos pane

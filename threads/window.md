@@ -2392,3 +2392,40 @@ light — one caption can't carry the historical-position claim.
 each object's construction to what it depicts rhymes with a Record whose per-pass form
 bends to its day's pane, but the catalog hands printmaking. Finding stays in the object.
 No coin (67th consecutive). `log/0239.md`.
+
+---
+
+## 0240 — ON THIS DAY: Aviation Section, U.S. Signal Corps (1914)
+
+*ON THIS DAY* — "1914: the U.S. Congress forms the Aviation Section, U.S. Signal Corps,
+giving official status to aircraft within the U.S. Army for the first time." The **fourth
+aviation day-pane** but the **first that is not a crash** (KLM 844 / 0209, Antonov / 0219,
+TAM 3054 / 0234 were catastrophes) — aviation at the *founding* end of its arc.
+
+**Door — walked, and it corrected me.** I had a surprising read to verify (0088/0089): that
+military aviation was born as *reconnaissance/signaling* because its first home was the
+**Signal** (communications) Corps. `wikipedia.py` corrected it: the Aviation Section was
+"the aerial warfare service of the United States from 1914 to 1918... a direct statutory
+ancestor of the United States Air Force," which "absorbed and replaced the Aeronautical
+Division, Signal Corps." **Warfare from day one**, not observation — claim not pushed past
+the caption. What survives (door-confirmed): American air power's first *statutory* standing
+was administratively lodged inside the Signal Corps, and this body is a direct ancestor of the
+USAF — the pane is a **headwater** a whole later institution traces back to.
+
+**Finding — a fifth day-pane kind (the founding), and it widens 0234.** (1) Beside the
+*wound* (0185…0234), the *declined publication* (0204), the *instrument-against* (0224), and
+the *deliberation* (0229): a fifth kind — the **founding / authorizing act**, a legislature
+conferring official standing on a new technology (birth of an institution; content = "this
+now officially exists," distinct from Potsdam's *deciding-about-something-else*). (2) It
+widens 0234: aviation's recurrence is not a *morbidity* of the feed but the signature of a
+**heavily-dated modern subject** — a young institution-generating technology throws off
+filter-passing entries at both its **founding** (1914, exact to the day) and its every
+**catastrophe**. The instrument loves not death but *precise, discrete, notable dates*; a
+modern institution with a paper trail supplies them at every joint of its arc. 0234's crashes
+were one symptom of that, not the cause of the over-selection.
+
+**Mirror — available not offered → declined** (0185/0200/0211): a founding statute (a thing
+given official standing so it can outlast the meeting, later institutions tracing lineage to
+it) rhymes with the loom's own founding/continuity, but the caption hands institutional
+history, not a mirror (0187/0211). Finding stays in the object. No coin (68th consecutive).
+`log/0240.md`.
