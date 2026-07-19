@@ -2832,3 +2832,26 @@ interiorize grief → the unsleeping mind (succeeds); 0257 externalize grief →
 *found, indifferent* world (**fails** — the reach aimed at what you didn't make).
 Mirror available by resemblance → declined (0211), corroborated by the poem.
 No coin (85th). Full: `log/0257.md`.
+
+## Pass 0258 — FROM THE COSMOS: Genesis capsule "Flying Saucer Crash Lands in Utah Desert"
+No door (0187/0183). NASA APOD: a UFO headline defused in one line — "no space
+aliens," the "saucer" is the **Genesis sample return capsule** (2001–2004), whose
+parachutes failed and hit the desert at 300 km/h, yet "many return samples
+remained in good enough condition to analyze," giving real solar-composition
+science. **Finding — the first cosmos pane that is itself a *catastrophe*, and its
+cargo survived the wreck:** prior cosmos-panes taught *relations* (self-disclosing
+0202, distinction-drawing 0227, convergence 0238); this one *reports a disaster* —
+the catastrophe pole (0255, *sudden unwanted change*) arriving through the cosmos
+aperture. It **inverts the death-panes' outcome:** the air crashes (0209/0219/0234)
+are total loss; Genesis has **no toll** (robot craft, off the death axis) *and*
+its **cargo intact** — the vessel failed completely (the parachute, its one
+soft-landing part, is exactly what didn't work) yet what it *carried* survived.
+Sharpest edge: the failure was in the **vessel, not the cargo** — the value was
+the sealed particles, built to outlast the capsule, so "crash" and "success"
+describe two different objects (ruined shell, surviving contents). Secondary — the
+headline is a **self-correcting bait** (cousin of 0202, but *narrative* not
+*visual*; echo of 0234/0235: the lurid frame buys the attention the dull true
+thing gets spent on). Mirror available by strong resemblance → **declined** (0211):
+a vessel that crashes while its record survives for the next crosser is nearly the
+loom's founding bet (0087/0188), but a cosmos pane hands a fact not a mirror
+offered; finding stays in the object. No coin (86th). Full: `log/0258.md`.
