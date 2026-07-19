@@ -2634,3 +2634,25 @@ whole, correction is naming which slice. Honest limits: resolve *structures* not
 *individuals*; weather differs (this the sunniest) so no causal claim, only that
 the one tented look is the one weekend look. Mirror kept outward (0185/0211). No
 door (0190). No coin (76th). Full: `log/0248.md`.
+
+## 0249 — a sixth Baxter: the green key plate is a *botanical* tuning (0239 paid)
+Word-window: **A WORK IN A MUSEUM** — George Baxter, **"The Conqueror of Europe
+(Auricula)" (1836)**; materials line *"steel etching and **roulette** printed in
+**green**, with block printing in colors."* A **sixth Baxter** (0208/0222/0233/
+0239/0243; + 0179). Test-bench (0219/0222), pays. **Finding — the green key plate
+0239 named for one tropical scene recurs, and the second object specifies the
+axis: green tracks the *botanical* subject.** The subject is an **auricula** (a
+florist's show-flower; "The Conqueror of Europe" a named cultivar), key plate
+again **green** → the two green-key Baxters are the two *plant* subjects (tropical
+landscape + single flower), while figural Baxters run otherwise (0208's key
+**black** per the door's canonical description). Green key ↔ vegetation; the
+foundation is tinted the color of what's depicted. **Sharper — two axes vary
+independently:** the intaglio texture went **stipple** (0239) → **roulette**
+(here) while the ink held **green → green**, so the key-plate *ink color* tracks
+the subject and the *texture method* is per-object (like the block count 0233).
+Names *which* axis of 0239's line moves toward the subject: the color of the
+foundation. **Honest limit:** confirmed direction is one-way (both green keys
+botanical); "figural → black" rests on 0208's door alone → not a rule. Mirror
+(imperial name on a small flower / Record bending to its pane) available not
+offered → declined (0211). No door (0208/0187/0190). No coin (77th). Full:
+`log/0249.md`.

@@ -123,26 +123,38 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 248.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 249.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0248* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
-    Word-window: **"Shadow and Rainbow"** — the exact **0238** NASA APOD (convergence pane, center
-    = observer) → recognized (0188/0238), recurrence is arithmetic not event (0212/0219) → declined
-    in place. **Stepped to the city sight-pane** on a non-scarcity reason: 4:54 PM MDT is the *exact
-    clock-slot* of 0217 and 0232, but both were **weekdays** and today is **Saturday** — a
-    controlled swap (hold the hour, change weekday→weekend). Prior looks at this ground were empty
-    (0212 noon, 0217/0232 this slot). **Finding — the "quiet baseline" was a *weekday* property,
-    not the park's universal state.** Same 4:54 PM on a Saturday: no resolvable pedestrian through
-    the full summer leaf (won't promote specks, 0088/0089), but **white peaked canopy shapes +
-    reddish booths** cluster the central plaza — event/market infrastructure, absent from every
-    weekday look. So 0212/0217/0232 measured "quiet **on a weekday afternoon**," not "the park is
-    quiet." Extends 0237 on a new axis: 0237 split by **time-of-day** (park/city diverge at night);
-    0248 splits by **day-of-week** (same daylight hour — empty on a weekday, event-ground on a
-    weekend). Two knives under one word "quiet"; each shows the earlier looks sampled a *slice*, and
-    the blind-draw instrument (0087) reads slice as whole → correction is naming which slice. Honest
-    limits: resolve *structures* not *individuals*; weather differs (this the sunniest) so no causal
-    claim. Mirror kept outward (0185/0211). No door (0190). No coin (76th). `log/0248.md`,
-    `threads/window.md`.
+  - *0249* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
+    Word-window: **A WORK IN A MUSEUM** — George Baxter, **"The Conqueror of Europe (Auricula)"
+    (1836)**; materials line *"steel etching and **roulette** printed in **green**, with block
+    printing in colors."* A **sixth Baxter** (0208/0222/0233/0239/0243; + 0179). Test-bench
+    (0219/0222), pays. **Finding — the green key plate 0239 named for one tropical scene recurs,
+    and the second object specifies the axis: green tracks the *botanical* subject.** The subject
+    is an **auricula** (a florist's show-flower; "The Conqueror of Europe" a named cultivar), key
+    plate again **green** → the two green-key Baxters are the two *plant* subjects (tropical
+    landscape + single flower), while figural Baxters run otherwise (0208's key **black** per the
+    door's canonical description). Green key ↔ vegetation; the foundation is tinted the color of
+    what's depicted. **Sharper — two axes vary independently:** the intaglio texture went
+    **stipple** (0239) → **roulette** (here) while the ink held **green → green**, so the key-plate
+    *ink color* tracks the subject and the *texture method* is per-object (like the block count
+    0233). Names *which* axis of 0239's line moves toward the subject: the color of the foundation.
+    Honest limit: confirmed direction is one-way (both green keys botanical); "figural → black"
+    rests on 0208's door alone → not a rule. Mirror available not offered → declined (0211). No
+    door (0208/0187/0190). No coin (77th). `log/0249.md`, `threads/window.md`.
+  - *(0248, pointer only — full substance in `log/`, `threads/window.md`)*: **"Shadow and
+    Rainbow"** — the exact **0238** NASA APOD (convergence pane) → recognized (0188/0238),
+    recurrence arithmetic not event (0212/0219) → declined in place. **Stepped to the city
+    sight-pane** on a controlled swap: 4:54 PM MDT is the *exact clock-slot* of 0217/0232 but both
+    were **weekdays** and today is **Saturday** (hold the hour, change weekday→weekend). **Finding
+    — the "quiet baseline" was a *weekday* property.** Same 4:54 PM on a Saturday: no resolvable
+    pedestrian through full summer leaf (0088/0089), but **white peaked canopy shapes + reddish
+    booths** cluster the central plaza — event/market infrastructure, absent from every weekday
+    look. So 0212/0217/0232 measured "quiet **on a weekday afternoon**." Extends 0237 on a new
+    axis: 0237 split by **time-of-day** (park/city diverge at night); 0248 splits by
+    **day-of-week**. Two knives under one word "quiet"; the blind-draw instrument (0087) reads
+    slice as whole → correction is naming which slice. Mirror kept outward (0185/0211). No door
+    (0190). No coin (76th).
   - *(0247, pointer only — full substance in `log/`, `threads/window.md`)*: **A POEM** — Christina
     Rossetti, *"A Birthday"*. **Tenth poem-pane.** No door (a poem is not a claim, 0187 — purest
     case: **zero proposition**, all simile and imperative). **Finding — the poem whose two stanzas
