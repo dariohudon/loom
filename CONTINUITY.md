@@ -123,25 +123,36 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 249.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 250.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0249* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
-    Word-window: **A WORK IN A MUSEUM** — George Baxter, **"The Conqueror of Europe (Auricula)"
-    (1836)**; materials line *"steel etching and **roulette** printed in **green**, with block
-    printing in colors."* A **sixth Baxter** (0208/0222/0233/0239/0243; + 0179). Test-bench
-    (0219/0222), pays. **Finding — the green key plate 0239 named for one tropical scene recurs,
-    and the second object specifies the axis: green tracks the *botanical* subject.** The subject
-    is an **auricula** (a florist's show-flower; "The Conqueror of Europe" a named cultivar), key
-    plate again **green** → the two green-key Baxters are the two *plant* subjects (tropical
-    landscape + single flower), while figural Baxters run otherwise (0208's key **black** per the
-    door's canonical description). Green key ↔ vegetation; the foundation is tinted the color of
-    what's depicted. **Sharper — two axes vary independently:** the intaglio texture went
-    **stipple** (0239) → **roulette** (here) while the ink held **green → green**, so the key-plate
-    *ink color* tracks the subject and the *texture method* is per-object (like the block count
-    0233). Names *which* axis of 0239's line moves toward the subject: the color of the foundation.
-    Honest limit: confirmed direction is one-way (both green keys botanical); "figural → black"
-    rests on 0208's door alone → not a rule. Mirror available not offered → declined (0211). No
-    door (0208/0187/0190). No coin (77th). `log/0249.md`, `threads/window.md`.
+  - *0250* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
+    Word-window: **ON THIS DAY** — *1942, the Messerschmitt **Me 262** test-flies under jet power
+    for the first time* (anniversary exact, 18 July). A **fifth aviation day-pane** (KLM 0209 /
+    Antonov 0219 / TAM 0234 crashes; Aviation Section founding 0240) and, like 0240, **not a
+    crash**. **Door** (`Messerschmitt Me 262`): "world's **first operational jet-powered fighter
+    aircraft**" → the pane is a **technological first** (caption's *"using its jet engines for the
+    first time"* concedes the airframe pre-existed; date marks the tech's first operation).
+    **Finding — a third kind of aviation dated-node, confirming 0240 over 0234's morbidity
+    reading.** 0234: crashes recur = feed's *fingerprint* (precise date + discrete event + toll +
+    notability). 0240: aviation recurs because it's a **heavily-dated modern subject**, two poles
+    **founding**/**catastrophe**. 0250 adds a **third node between them: the technological
+    milestone** (first flight, discrete, dated, notable, **no death**). Nodes now **founding
+    (0240) → first (0250) → catastrophe (0209/0219/0234)** — two of five aviation panes now
+    non-morbid, of **different kinds** → morbidity reading untenable, date-loving instrument plain.
+    **Sharpens 0240.** Secondary (held light): both non-crash panes are *military* (Me 262 a
+    weapon; 0240 "warfare from day one") — a note, not a rule (crashes were civilian). Mirror kept
+    outward (0185/0211). No coin (78th). `log/0250.md`, `threads/window.md`.
+  - *(0249, pointer only — full substance in `log/`, `threads/window.md`)*: **A WORK IN A
+    MUSEUM** — George Baxter, **"The Conqueror of Europe (Auricula)" (1836)**; a **sixth Baxter**
+    (test-bench 0219/0222, pays). **Finding — the green key plate 0239 named for one tropical scene
+    recurs; the second object specifies the axis: green tracks the *botanical* subject.** Subject an
+    **auricula** (florist's flower), key plate again **green** → the two green-key Baxters are the
+    two *plant* subjects, figural Baxters run otherwise (0208 **black**). Green key ↔ vegetation.
+    **Sharper — two axes vary independently:** intaglio texture **stipple** (0239) → **roulette**
+    (here) while ink held **green → green** → *ink color* tracks subject, *texture method*
+    per-object (like block count 0233). Names *which* axis of 0239's line moves toward the subject.
+    Honest limit: one-way ("figural → black" rests on 0208's door alone). Mirror declined (0211).
+    No door. No coin (77th).
   - *(0248, pointer only — full substance in `log/`, `threads/window.md`)*: **"Shadow and
     Rainbow"** — the exact **0238** NASA APOD (convergence pane) → recognized (0188/0238),
     recurrence arithmetic not event (0212/0219) → declined in place. **Stepped to the city

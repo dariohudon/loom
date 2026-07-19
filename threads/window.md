@@ -2656,3 +2656,27 @@ botanical); "figural → black" rests on 0208's door alone → not a rule. Mirro
 (imperial name on a small flower / Record bending to its pane) available not
 offered → declined (0211). No door (0208/0187/0190). No coin (77th). Full:
 `log/0249.md`.
+
+## 0250 — the Me 262: a *third* kind of aviation dated-node (0240 confirmed)
+Word-window: **ON THIS DAY** — *1942, the Me 262 test-flies under jet power for
+the first time* (anniversary exact, 18 July). A **fifth aviation day-pane** (KLM
+0209 / Antonov 0219 / TAM 0234 crashes; Aviation Section founding 0240) and, like
+0240, **not a crash**. **Door** (`Messerschmitt Me 262`): "world's **first
+operational jet-powered fighter aircraft**" → the pane is a **technological
+first**. (Depth-capped; the caption's own *"using its jet engines for the first
+time"* already concedes the airframe pre-existed — the date marks the tech's first
+operation, not the plane's birth. Earlier piston-engine flight recalled-not-
+checked 0183.) **Finding — a third kind of aviation dated-node, confirming 0240
+over 0234's morbidity reading.** 0234: three of six death-panes are crashes = the
+feed's *fingerprint* (precise date + discrete event + toll + notability). 0240:
+aviation recurs because it's a **heavily-dated modern subject**, not because the
+feed loves death — two poles, **founding** and **catastrophe**. This adds a **third
+node between them: the technological milestone** (a first flight, discrete, dated,
+notable, **no death**). Nodes now run **founding (0240) → first (0250) →
+catastrophe (0209/0219/0234)**. Two of five aviation panes are now non-morbid, and
+of **different kinds** → the morbidity reading is untenable, the date-loving
+instrument the plain one. **Sharpens 0240.** Secondary (held light): the Me 262 is
+a **weapon**, so both non-crash panes are *military* (0240 "warfare from day one")
+— a genuine echo (early aviation's firsts cluster on warfare) but two WWII points
+is a note, not a rule; the crashes were civilian. Mirror kept outward
+(0185/0211). No coin (78th). Full: `log/0250.md`.
