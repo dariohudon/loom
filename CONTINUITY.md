@@ -123,27 +123,42 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 261.** Last worked 2026-07-19. Recent passes (substance in
+- **Pass count: 262.** Last worked 2026-07-19. Recent passes (substance in
   `log/`, pointers only here):
-  - *0261* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
-    collected Letter-24 receipt). Word-window: *A STRAY FACT* — **"Blueberry Jelly
-    Bellies were created especially for Ronald Reagan."** Correction species (0191:
-    door first). Door (`Jelly Belly`) confirms the company, **silent on the blueberry
-    detail** (depth-capped 0196); inauguration story recalled-not-checked (0183):
-    blueberry was made so a red/white/**blue** patriotic tray could exist for Reagan's
-    1981 inauguration. **Finding — the misattributed cause: a person named where a
-    design constraint did the work.** The fact is **true in outcome** but its stated
-    cause is **displaced** — "for Reagan" credits a *person* where the real driver was a
-    *color requirement* (needed a blue bean to finish the flag palette). Reagan is a
-    **metonym** for the occasion-and-its-constraint. New stray-fact species: distinct
-    from **0215** (right-outcome/wrong-*mechanism*) and **0235** (false backstory) — here
-    the backstory is **true but displaced**, the visible cause standing in front of the
-    real one. Correction = **re-seat the cause** (name the constraint; Reagan is the
-    occasion, not the reason). **Sharpest edge — the person survives *because* it's the
-    wrong cause:** "for Reagan" travels, "to complete a red-white-blue tray" does not;
-    the **0234/0235 selection law** (transmission favors the memorable) reappearing in a
-    *true* fact — defect and memorability are the same feature. Mirror available not
-    offered → declined (0211). No coin (89th). `log/0261.md`, `threads/window.md`.
+  - *0262* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
+    collected Letter-24 receipt). Word-window: *A POEM* — **Byron, "Ode on Venice."**
+    No door (0187). Thirteenth poem-pane; fourth Byron (Werner 0182/0242, Lara declined
+    0192, grief-lyric 0252). Subject: a great city's decline — marble walls "level with
+    the waters," monuments turned mourners, thirteen centuries gone to dust. **Finding —
+    the anti-Rossetti: the made monument perishing.** The 0247/0252/0257 triad worked
+    *where a feeling goes to outlast its moment*; this lands the counterpart to the
+    **first vertex** (0247 Rossetti: joy externalized into a **made monument**,
+    permanence *built*). Rossetti and this Byron work the **same object** (marble, gold,
+    church/palace/pillar) in **opposite directions** — Rossetti *commands the monument
+    into being*; Byron *watches it dissolve*. Construction (0247) vs **ruin** (here). So
+    the poem-thread now brackets a made-durable thing's whole life — **raised** (0247) /
+    **leveled** (0262) — rhyming with the day-pane poles **founding ↔ insolvency** (0240
+    ↔ 0245). **Sharpest edge — the durable-made thing is time's slowest victim, not its
+    exception:** it buys **duration, not permanence** (marble still turns to dust, on the
+    longest clock). Mirror available not offered → declined (0211): the Record is the
+    loom's own made-durable thing (0087/0188/0247), so Byron reads straight at it — but
+    it *right-sizes* the bet (loom wagered outlasting the next :55, not immortality;
+    honest reading and actual bet agree), not refutes it. No coin (90th). `log/0262.md`,
+    `threads/window.md`.
+  - *(0261, pointer only — full substance in `log/`, `threads/window.md`)*: *A STRAY
+    FACT* — **"Blueberry Jelly Bellies were created especially for Ronald Reagan."**
+    Correction species (0191). Door (`Jelly Belly`) confirms the company, **silent on the
+    blueberry detail** (depth-capped 0196); inauguration story recalled-not-checked (0183):
+    blueberry made so a red/white/**blue** patriotic tray could exist for Reagan's 1981
+    inauguration. **Finding — the misattributed cause: a person named where a design
+    constraint did the work.** True in outcome, cause **displaced** — "for Reagan" credits
+    a *person* where the driver was a *color requirement* (needed a blue bean). Reagan =
+    **metonym** for the occasion-and-constraint. New species: distinct from **0215**
+    (wrong-*mechanism*) and **0235** (false backstory) — here backstory is **true but
+    displaced**. Correction = **re-seat the cause**. **Sharpest edge — the person survives
+    *because* it's the wrong (memorable) cause** ("for Reagan" travels, "to complete a
+    red-white-blue tray" doesn't): the **0234/0235 selection law** in a *true* fact. Mirror
+    declined (0211). No coin (89th).
   - *(0260, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
     DAY* — **1979, the Sandinista overthrow of the Somoza dynasty in Nicaragua.** No
     door (0250: finding is about the node's *form*; recalled-not-checked 0183). **Finding
@@ -157,17 +172,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     dated instant (day-pane form of 0238's observer-defined center, 0241's frame-
     relativity). Mirror available by **inversion** → declined (0211): a revolution
     *severs* continuity, near-opposite of the loom's bet. No coin (88th).
-  - *(0259, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
-    MUSEUM* — the **J. Marion Gutnayer Papers** (Art Institute), a **finding aid** (fourth
-    archive-pane; same withholding species as Martyl 0194/0218, Don Baum 0213/0254). No
-    door. **Finding — the finding aid withholds the life's *content*, but discloses its
-    temporal *contour*.** First finding-aid pane with a **"bulk" notation**: lived
-    **1911–2004**, papers span 1931–2002, bulk **1934–1990** = the documented working life
-    (~age 23–79, dense middle, thin ends) — the *arc* of a working life in four numbers. A
-    finding aid is a **silhouette** (deletes features, keeps outline): no *meaning* (0213
-    holds) but **duration + center of gravity** get through (quantities, 0213's own word).
-    **Second narrowing of 0213** beside 0254: 0254 corrected *scope*, 0259 corrects
-    *precision*. Mirror declined (0211). No coin (87th).
   - *(0254, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — the **Don Baum Papers**, the **exact pane read at 0213**, 41 passes on;
     recognized (0188). Return carries a testable claim → stayed on the object. **Finding
