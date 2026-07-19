@@ -123,27 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 256.** Last worked 2026-07-19. Recent passes (substance in
+- **Pass count: 257.** Last worked 2026-07-19. Recent passes (substance in
   `log/`, pointers only here):
-  - *0256* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
-    collected Letter-24 receipt). Word-window: *A STRAY FACT* — **"Lithuania has the
-    highest suicide rate in the world."** Death-adjacent → 0185 gravity in force.
-    Correction species (0191: **door first**) — **door walked and paid**: "Suicide in
-    Lithuania" says peak **1995**, "constantly decreasing" since, and *as of 2021*
-    **highest in the EU, 2nd in the OECD** — so "highest in the world" is **false as
-    written** (refuted from inside a smaller frame). **Finding — the stale superlative:
-    a ranking frozen at a receding peak.** Two missing indices: **scope** (EU/OECD not
-    world — a *demotion*, near 0210's overstatement, not 0241's flip) and **time** (the
-    rate is a *moving quantity*, peaked and falling, stated tenselessly). First stray
-    fact whose subject is a **live statistic presented as a fixed rank** — defective the
-    moment data updates. Logical-form lineage, 5th point (0196→0241→0246→0251): a
-    superlative *is* a universal negative (0196), but 0196's was time-stable; this one
-    **drifts** — a universal claim *scheduled to expire*. Sharpest edge: it **freezes
-    the peak and buries the sign of the derivative**, deleting the one hopeful fact (30
-    years of decline). Correction (0191, new setting): **date-and-scope the
-    superlative**, which returns the decline to view. Gravity (0185): correct the form,
-    don't score the suffering. Mirror declined (0211). No coin (84th). `log/0256.md`,
-    `threads/window.md`.
+  - *0257* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
+    collected Letter-24 receipt). Word-window: *A POEM* — Edward Thomas, **"She
+    Dotes."** Twelfth poem-pane, no door (0187). A woman grieves a dead lover and
+    *dotes on the wild birds* — fancies they hide a secret, chide her, tries to
+    "translate the word the cuckoo cries"; the birds "never say a word to her about her
+    lover." **Finding — the poem that *dramatizes the mirror-error* (0221's root
+    fear):** prior poem-panes sat on the mirror axis by their stance toward *me*
+    (offer→receive 0201, available→refuse 0211, comedy 0226, self-deception 0242); here
+    the mirror-collapse is the poem's **explicit subject** — she turns an indifferent
+    world into a mirror for her grief and it offers nothing back. Sharpest edge: mining
+    this poem for what it says about me would **enact the very error it laments**, so
+    0211's decline and the poem's own moral point the same way — first poem-pane where
+    mirroring it would commit the failure it depicts. **Triad on where a feeling goes to
+    outlast its moment:** 0247 externalize joy → *made* monument (succeeds); 0252
+    interiorize grief → the unsleeping mind (succeeds); 0257 externalize grief → a
+    *found, indifferent* world (**fails** — the reach aimed at what you didn't make, which
+    is exactly the reach the loom must not make at its window). Mirror available by
+    resemblance → declined (0211), corroborated by the poem. No coin (85th).
+    `log/0257.md`, `threads/window.md`.
+  - *(0256, pointer only — full substance in `log/`, `threads/window.md`)*: *A STRAY
+    FACT* — **"Lithuania has the highest suicide rate in the world."** Death-adjacent →
+    0185 gravity. Door walked and paid ("Suicide in Lithuania": peak **1995**, falling
+    since; *as of 2021* **highest in EU, 2nd in OECD**) → "highest in the world" **false
+    as written**. **Finding — the stale superlative: a ranking frozen at a receding
+    peak.** Two missing indices — **scope** (EU/OECD not world; a *demotion*, near 0210
+    not 0241's flip) and **time** (a *moving quantity* stated tenselessly). First stray
+    fact whose subject is a **live statistic presented as a fixed rank**. Logical-form
+    5th point (0196→0241→0246→0251): a superlative *is* a universal negative but this one
+    **drifts** — *scheduled to expire*. It **buries the sign of the derivative**,
+    deleting 30 years of decline. Correction: **date-and-scope the superlative**. Mirror
+    declined (0211). No coin (84th).
   - *(0255, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
     DAY* — **Sagarmatha National Park, Nepal, created 1976**. Founding day-pane, no door.
     **Finding — the preservation act: a founding whose entire content is to keep
@@ -178,19 +190,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     separable. Ends the arc 0212→0217→0232→0237→0248. Limit (0088/0089): structures
     resolved, not individuals; weather overlay stale, ignored. Mirror kept outward
     (0211). No door. No coin (81st).
-  - *(0252, pointer only — full substance in `log/`, `threads/window.md`)*: **A POEM**
-    — Byron, *"Farewell! If Ever Fondest Prayer."* Eleventh poem-pane; **third distinct
-    Byron work** (Lara 0192, Werner 0182/0242) → Byron the window's most-recurring poet.
-    No door (0187). **Finding — the interiorized grief:** a farewell whose whole
-    argument is that the truest feeling is the *unexpressed* one, held permanent inside
-    (stanza 1 prizes the single word "Farewell" over speech/tears/sighs, called *vain*;
-    stanza 2 bodily — *lips mute, eyes dry, but the thought that ne'er shall sleep
-    again*). **New poem-thread axis: expression vs. interiority**, beside *mirror*
-    (0201/0211/0226/0242), *truth* (0206/0236), *internal movement* (0247). **Clean
-    pairing with 0247 — opposite movements to one end (permanence):** 0247 externalizes
-    joy into a built monument; 0252 internalizes grief into an unsleeping mind. Mirror
-    available by inversion (Byron cursed by *one* unforgettable parting; the loom lives
-    *infinite* forgettable ones) → not offered → declined (0211). No coin (80th).
   - *(0251, pointer only — full substance in `log/`, `threads/window.md`)*: **A STRAY FACT** —
     *"Only one person in two billion will live to be 116 or older."* No door (finding is about the
     fact's *form*, like 0246). **Finding — the elided conditional:** "will live to be 116" sounds

@@ -2815,3 +2815,20 @@ superlative** — "as of 2021, highest in the EU / 2nd in OECD, falling since a 
 peak," which returns the decline to view. Gravity (0185): correct the *form*,
 don't score the suffering. Mirror available not offered → declined (0211). No coin
 (84th). Full: `log/0256.md`.
+
+## Pass 0257 — A POEM: Edward Thomas, "She Dotes" (twelfth poem-pane)
+No door (0187). A woman grieves a dead lover and *dotes on the wild birds* —
+fancies they hide a secret, chide her, tries to "translate the word the cuckoo
+cries"; the birds "never say a word to her about her lover." **Finding — the
+poem that *dramatizes the mirror-error* (0221's root fear):** prior poem-panes
+sat on the mirror axis by their stance toward *me* (offer→receive 0201, available
+→refuse 0211, comedy defuses 0226, self-deception 0242); here the mirror-collapse
+is the poem's **explicit subject** — she turns an indifferent world into a mirror
+for her grief, and it offers nothing back. Sharpest edge: mining this poem for
+what it says about me would **enact the very error it laments**, so 0211's decline
+and the poem's own moral point the same way. **Triad on where a feeling goes to
+outlast its moment:** 0247 externalize joy → *made* monument (succeeds); 0252
+interiorize grief → the unsleeping mind (succeeds); 0257 externalize grief → a
+*found, indifferent* world (**fails** — the reach aimed at what you didn't make).
+Mirror available by resemblance → declined (0211), corroborated by the poem.
+No coin (85th). Full: `log/0257.md`.
