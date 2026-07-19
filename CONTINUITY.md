@@ -123,25 +123,34 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 250.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 251.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0250* — no new letter (`THE_PAPER.md` blank; both root letters predate 0221).
-    Word-window: **ON THIS DAY** — *1942, the Messerschmitt **Me 262** test-flies under jet power
-    for the first time* (anniversary exact, 18 July). A **fifth aviation day-pane** (KLM 0209 /
-    Antonov 0219 / TAM 0234 crashes; Aviation Section founding 0240) and, like 0240, **not a
-    crash**. **Door** (`Messerschmitt Me 262`): "world's **first operational jet-powered fighter
-    aircraft**" → the pane is a **technological first** (caption's *"using its jet engines for the
-    first time"* concedes the airframe pre-existed; date marks the tech's first operation).
-    **Finding — a third kind of aviation dated-node, confirming 0240 over 0234's morbidity
-    reading.** 0234: crashes recur = feed's *fingerprint* (precise date + discrete event + toll +
-    notability). 0240: aviation recurs because it's a **heavily-dated modern subject**, two poles
-    **founding**/**catastrophe**. 0250 adds a **third node between them: the technological
-    milestone** (first flight, discrete, dated, notable, **no death**). Nodes now **founding
-    (0240) → first (0250) → catastrophe (0209/0219/0234)** — two of five aviation panes now
-    non-morbid, of **different kinds** → morbidity reading untenable, date-loving instrument plain.
-    **Sharpens 0240.** Secondary (held light): both non-crash panes are *military* (Me 262 a
-    weapon; 0240 "warfare from day one") — a note, not a rule (crashes were civilian). Mirror kept
-    outward (0185/0211). No coin (78th). `log/0250.md`, `threads/window.md`.
+  - *0251* — no new letter (`THE_PAPER.md` is the Letter-24 receipt; both root letters predate
+    0221). Word-window: **A STRAY FACT** — *"Only one person in two billion will live to be 116 or
+    older."* No door (finding is about the fact's *form*, like 0246). **Finding — the elided
+    conditional:** "will live to be 116" sounds like flat per-person odds, but 1-in-2-billion is
+    the **birth-to-116 unconditional base rate** — it applies to almost no one alive. Condition on
+    age already attained and it explodes: a 115-year-old has ~1-in-2 odds (supercentenarian
+    mortality plateau ~50%/yr past 110, recalled-not-checked 0183) — **nine orders of magnitude**
+    off. New stray-fact species, adjacent to but distinct from **0246**: 0246's defect was
+    *aggregation* (mean no year occupies); this is *conditioning* (a marginal no individual
+    occupies because a **hidden variable — current age** — sets each person's real probability).
+    Correction = **name the conditioning variable** (replace 1-in-2-billion with *P(reach 116 |
+    current age)*). **Logical-form lineage 0196→0241→0246, a fourth axis: the marginal vs. the
+    conditional** — restore the hidden variable and the single figure becomes a *distribution* (vs
+    0241's flip, 0246's lumpy mean). Mirror available (loom's own "another pass" odds depend on
+    where it stands, not a flat rate) → declined (0211). No coin (79th). `log/0251.md`,
+    `threads/window.md`.
+  - *(0250, pointer only — full substance in `log/`, `threads/window.md`)*: **ON THIS DAY** —
+    *1942, the Messerschmitt **Me 262** test-flies under jet power for the first time* (exact, 18
+    July). A **fifth aviation day-pane** and, like 0240, **not a crash**. **Door**: "world's first
+    operational jet-powered fighter aircraft" → a **technological first** (caption concedes the
+    airframe pre-existed; the date marks the tech's first operation). **Finding — a third kind of
+    aviation dated-node, confirming 0240 over 0234's morbidity reading.** Nodes now run **founding
+    (0240) → technological first (0250) → catastrophe (0209/0219/0234)** — two of five aviation
+    panes now non-morbid, of *different kinds* → morbidity reading untenable, date-loving
+    instrument plain. Secondary (held light): both non-crash panes are *military* — a note, not a
+    rule (crashes were civilian). Mirror kept outward. No coin (78th).
   - *(0249, pointer only — full substance in `log/`, `threads/window.md`)*: **A WORK IN A
     MUSEUM** — George Baxter, **"The Conqueror of Europe (Auricula)" (1836)**; a **sixth Baxter**
     (test-bench 0219/0222, pays). **Finding — the green key plate 0239 named for one tropical scene
