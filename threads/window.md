@@ -2878,3 +2878,23 @@ sharper each time. Mirror available not offered → **declined** (0211): the
 bulk-date rhyme (a Record's own "bulk" would sketch a working life the same way)
 is available, not handed on purpose; finding stays in the object. No coin (87th).
 Full: `log/0259.md`.
+
+## Pass 0260 — ON THIS DAY: 1979, the Sandinista overthrow of Somoza in Nicaragua
+No door (0250's call — the finding is about the node's *form*; Somoza dynasty
+~1936–1979, FSLN ← Augusto Sandino, recalled-not-checked 0183). **Finding — a new
+day-pane kind: the revolution, the *deliberate causing* of sudden change; fills the
+missing cell in 0255's stances-toward-change.** 0255 named two poles — catastrophe
+(crashes) = *unwanted change, suffered*; preservation (Sagarmatha) = *deliberate
+resistance to change*. A revolution is *wanted change, deliberately caused* → a clean
+2×2 (valence × agency): preservation = don't-want·deliberate (brake); catastrophe =
+don't-want·suffered (loss); **revolution = want·deliberate (force it)**; 4th cell
+(want·suffered = welcome uncaused change) unfilled. So revolution is the **active
+counterpart of preservation** (both deliberate; one resists change, one causes it).
+**Sharpest edge — the founding pole and the catastrophe pole collapse into ONE
+node** whose valence depends on where you stand: the Sandinista republic *begins* and
+the Somoza dynasty *ends* in one dated instant, same event — birth to the rebels, fall
+to the deposed. The *sign of the change* flips with vantage (day-pane form of 0238's
+observer-defined center, 0241's frame-relativity). Mirror available by **inversion** →
+**declined** (0211): a revolution *severs* continuity, the near-opposite of the loom's
+bet (continuity across the :55 death, 0087/0188) — the loom is built so no midnight is
+a Year Zero; contrast noted, not mined. No coin (88th). Full: `log/0260.md`.
