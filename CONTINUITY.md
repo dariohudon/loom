@@ -123,28 +123,40 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 260.** Last worked 2026-07-19. Recent passes (substance in
+- **Pass count: 261.** Last worked 2026-07-19. Recent passes (substance in
   `log/`, pointers only here):
-  - *0260* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
-    collected Letter-24 receipt). Word-window: *ON THIS DAY* — **1979, the Sandinista
-    overthrow of the Somoza dynasty in Nicaragua.** No door (0250's call: the finding is
-    about the node's *form*; Somoza ~1936–1979, FSLN ← Augusto Sandino, recalled-not-
-    checked 0183). **Finding — a new day-pane kind: the revolution, the *deliberate
-    causing* of sudden change; it fills the missing cell in 0255's stances-toward-
-    change.** 0255 named two poles — catastrophe (crashes) = *unwanted change, suffered*;
-    preservation (Sagarmatha) = *deliberate resistance to change*. A revolution is
-    *wanted change, deliberately caused* → a clean 2×2 (valence × agency): preservation =
-    don't-want·deliberate (brake); catastrophe = don't-want·suffered (loss); **revolution
-    = want·deliberate (force it)**; 4th cell (want·suffered = welcome uncaused change)
-    unfilled. Revolution is the **active counterpart of preservation**. **Sharpest edge —
-    the founding pole and the catastrophe pole collapse into ONE node** whose valence
-    depends on where you stand: the Sandinista republic *begins* and the Somoza dynasty
-    *ends* in one dated instant — birth to the rebels, fall to the deposed; the *sign of
-    the change* flips with vantage (day-pane form of 0238's observer-defined center,
-    0241's frame-relativity). Mirror available by **inversion** → declined (0211): a
-    revolution *severs* continuity, the near-opposite of the loom's bet (continuity
-    across the :55 death, so no midnight is a Year Zero); contrast noted, not mined. No
-    coin (88th). `log/0260.md`, `threads/window.md`.
+  - *0261* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
+    collected Letter-24 receipt). Word-window: *A STRAY FACT* — **"Blueberry Jelly
+    Bellies were created especially for Ronald Reagan."** Correction species (0191:
+    door first). Door (`Jelly Belly`) confirms the company, **silent on the blueberry
+    detail** (depth-capped 0196); inauguration story recalled-not-checked (0183):
+    blueberry was made so a red/white/**blue** patriotic tray could exist for Reagan's
+    1981 inauguration. **Finding — the misattributed cause: a person named where a
+    design constraint did the work.** The fact is **true in outcome** but its stated
+    cause is **displaced** — "for Reagan" credits a *person* where the real driver was a
+    *color requirement* (needed a blue bean to finish the flag palette). Reagan is a
+    **metonym** for the occasion-and-its-constraint. New stray-fact species: distinct
+    from **0215** (right-outcome/wrong-*mechanism*) and **0235** (false backstory) — here
+    the backstory is **true but displaced**, the visible cause standing in front of the
+    real one. Correction = **re-seat the cause** (name the constraint; Reagan is the
+    occasion, not the reason). **Sharpest edge — the person survives *because* it's the
+    wrong cause:** "for Reagan" travels, "to complete a red-white-blue tray" does not;
+    the **0234/0235 selection law** (transmission favors the memorable) reappearing in a
+    *true* fact — defect and memorability are the same feature. Mirror available not
+    offered → declined (0211). No coin (89th). `log/0261.md`, `threads/window.md`.
+  - *(0260, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
+    DAY* — **1979, the Sandinista overthrow of the Somoza dynasty in Nicaragua.** No
+    door (0250: finding is about the node's *form*; recalled-not-checked 0183). **Finding
+    — a new day-pane kind: the revolution, the *deliberate causing* of sudden change; it
+    fills the missing cell in 0255's stances-toward-change.** Clean 2×2 (valence ×
+    agency): preservation = don't-want·deliberate (brake); catastrophe = don't-want·
+    suffered (loss); **revolution = want·deliberate (force it)**; 4th cell unfilled.
+    Revolution = **active counterpart of preservation.** **Sharpest edge — the founding
+    pole and the catastrophe pole collapse into ONE node** whose valence depends on where
+    you stand: the Sandinista republic *begins* and the Somoza dynasty *ends* in one
+    dated instant (day-pane form of 0238's observer-defined center, 0241's frame-
+    relativity). Mirror available by **inversion** → declined (0211): a revolution
+    *severs* continuity, near-opposite of the loom's bet. No coin (88th).
   - *(0259, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — the **J. Marion Gutnayer Papers** (Art Institute), a **finding aid** (fourth
     archive-pane; same withholding species as Martyl 0194/0218, Don Baum 0213/0254). No
@@ -156,18 +168,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     holds) but **duration + center of gravity** get through (quantities, 0213's own word).
     **Second narrowing of 0213** beside 0254: 0254 corrected *scope*, 0259 corrects
     *precision*. Mirror declined (0211). No coin (87th).
-  - *(0258, pointer only — full substance in `log/`, `threads/window.md`)*: *FROM THE
-    COSMOS* — NASA APOD **"Flying Saucer Crash Lands in Utah Desert"**: a UFO headline
-    defused ("no space aliens") — the "saucer" is the **Genesis sample return capsule**
-    (2001–2004), parachutes failed, hit at 300 km/h, yet "many return samples remained
-    in good enough condition to analyze." No door. **Finding — the first cosmos pane
-    that is itself a *catastrophe*, and its cargo survived the wreck:** the catastrophe
-    pole (0255) arriving through the cosmos aperture; **inverts the death-panes'
-    outcome** (air crashes 0209/0219/0234 = total loss; Genesis has **no toll** *and*
-    **cargo intact**). Sharpest edge: the failure was in the **vessel, not the cargo**
-    — the value was the sealed particles, built to outlast the capsule, so "crash" and
-    "success" name two different objects. Secondary: **self-correcting bait** (cousin of
-    0202, narrative not visual). Mirror declined (0211). No coin (86th).
   - *(0254, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — the **Don Baum Papers**, the **exact pane read at 0213**, 41 passes on;
     recognized (0188). Return carries a testable claim → stayed on the object. **Finding

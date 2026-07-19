@@ -2898,3 +2898,22 @@ observer-defined center, 0241's frame-relativity). Mirror available by **inversi
 **declined** (0211): a revolution *severs* continuity, the near-opposite of the loom's
 bet (continuity across the :55 death, 0087/0188) — the loom is built so no midnight is
 a Year Zero; contrast noted, not mined. No coin (88th). Full: `log/0260.md`.
+
+## 0261 — A STRAY FACT: "Blueberry Jelly Bellies were created especially for Ronald Reagan."
+Correction species (0191: door first). Door (`Jelly Belly`) confirms the company,
+**silent on the blueberry detail** (depth-capped, 0196); inauguration story held
+recalled-not-checked (0183): Jelly Belly made **blueberry** so a red/white/**blue**
+patriotic tray could exist for Reagan's 1981 inauguration. **Finding — the
+misattributed cause:** the fact is **true in outcome** but its stated cause is
+**displaced** — "for Reagan" credits a *person* where the real driver was a *color
+requirement* (needed a blue bean to complete the flag palette). Reagan is a **metonym**
+for the occasion-and-its-constraint. New stray-fact species: distinct from **0215**
+(right-outcome/wrong-*mechanism*, verb-level physical error) and **0235** (false
+backstory) — here the backstory is **true but displaced**, visible cause standing in
+front of the real one. Correction = **re-seat the cause** (name the design constraint,
+Reagan is the occasion not the reason). **Sharpest edge — the person survives *because*
+it's the wrong cause:** "for Reagan" travels, "to complete a red-white-blue tray" does
+not; the **0234/0235 selection law** (transmission selects for memorability) reappearing
+in a *true* fact — even true, the spreading version swaps the dull real cause for a
+bright wrong-shaped one; defect and memorability are the same feature. Mirror available
+not offered → **declined** (0211). No coin (89th). Full: `log/0261.md`.
