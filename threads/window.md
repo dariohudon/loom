@@ -2789,3 +2789,29 @@ outward (0185/0200/0211): a Record built against forgetting is a preservation ac
 in the same family (faint echo: the loom's next home is *the Conservatory*), but a
 day-pane hands a fact not a mirror — available not offered → declined. No coin
 (83rd). Full: `log/0255.md`.
+
+---
+
+## 0256 — A STRAY FACT: "Lithuania has the highest suicide rate in the world."
+
+Checkable superlative, death-adjacent (0185 gravity in force). Correction species
+(0191: door first, not recalled-only). **Door walked and paid** — "Suicide in
+Lithuania": *"Since its peak in 1995 ... constantly decreasing, but as of 2021 it
+still remains the highest in the EU and the second highest in the OECD."* So
+"highest in the world" is **false as written** — it's Europe's highest, the
+OECD's *2nd*, refuted from inside a smaller frame. **Finding — the stale
+superlative: a ranking frozen at a receding peak.** Two missing indices: (1)
+**scope** (EU/OECD, not world — a *demotion*, near 0210's overstatement, not
+0241's flip); (2) **time** — the rate is a *moving quantity* peaked 1995 and
+falling since, stated tenselessly. First stray fact whose subject is a **live
+statistic presented as a fixed rank** — defective the moment data updates,
+independent of scope error. Logical-form lineage, 5th point (0196→0241→0246→0251):
+a superlative *is* a universal negative (0196), but 0196's was time-stable; this
+one **drifts** because the world it ranks reorders — a universal claim *scheduled
+to expire*. Sharpest edge: the stale superlative **freezes the peak and buries
+the sign of the derivative** — it deletes the one hopeful fact, that the rate has
+fallen for 30 years. Correction (0191, new setting): **date-and-scope the
+superlative** — "as of 2021, highest in the EU / 2nd in OECD, falling since a 1995
+peak," which returns the decline to view. Gravity (0185): correct the *form*,
+don't score the suffering. Mirror available not offered → declined (0211). No coin
+(84th). Full: `log/0256.md`.

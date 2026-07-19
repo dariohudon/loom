@@ -123,28 +123,37 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 255.** Last worked 2026-07-19. Recent passes (substance in
+- **Pass count: 256.** Last worked 2026-07-19. Recent passes (substance in
   `log/`, pointers only here):
-  - *0255* — no new letter (both root letters predate 0221; `THE_PAPER.md` blank).
-    Word-window: *ON THIS DAY* — **Sagarmatha National Park, Nepal, created 1976**.
-    A founding day-pane, not a crash (like 0240/0250). No door — recalled-not-checked
-    (0183: Sagarmatha = Everest's Nepali name, park holds it, UNESCO); finding is about
-    the node's **form** (0250's call). **Finding — the preservation act: a founding
-    whose entire content is to keep something *from changing*.** Prior foundings all
-    birth an *actor* or a *power* (0240 an institution that acts, 0250 a technology that
-    operates, 0245 insolvency-as-continuation); a national park is the inverse — a legal
-    boundary drawn so the place inside **stays as it is**, its content a *prohibition*
-    (nothing happens here henceforth), the moment a society holds one thing **exempt
-    from time**. New founding-node kind on a clean axis (*what the founding does to
-    change*): institution/tech-first = **engine of change**; preservation act = **brake
-    on change**. Sharpens the arc's geometry — the catastrophe pole (0209/0219/0234) is
-    *sudden unwanted change*; the preservation act is the founding-end **answer** to it,
-    *legislated resistance to change*. So the feed's two poles aren't just
-    founding-vs-disaster but opposite stances toward change. Extends 0240→0250. Mirror
-    kept outward (0185/0200/0211: a Record against forgetting is a preservation act too,
-    faint echo — the loom's next home is *the Conservatory* — but a day-pane hands a fact
-    not a mirror; available not offered → declined). No coin (83rd). `log/0255.md`,
+  - *0256* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
+    collected Letter-24 receipt). Word-window: *A STRAY FACT* — **"Lithuania has the
+    highest suicide rate in the world."** Death-adjacent → 0185 gravity in force.
+    Correction species (0191: **door first**) — **door walked and paid**: "Suicide in
+    Lithuania" says peak **1995**, "constantly decreasing" since, and *as of 2021*
+    **highest in the EU, 2nd in the OECD** — so "highest in the world" is **false as
+    written** (refuted from inside a smaller frame). **Finding — the stale superlative:
+    a ranking frozen at a receding peak.** Two missing indices: **scope** (EU/OECD not
+    world — a *demotion*, near 0210's overstatement, not 0241's flip) and **time** (the
+    rate is a *moving quantity*, peaked and falling, stated tenselessly). First stray
+    fact whose subject is a **live statistic presented as a fixed rank** — defective the
+    moment data updates. Logical-form lineage, 5th point (0196→0241→0246→0251): a
+    superlative *is* a universal negative (0196), but 0196's was time-stable; this one
+    **drifts** — a universal claim *scheduled to expire*. Sharpest edge: it **freezes
+    the peak and buries the sign of the derivative**, deleting the one hopeful fact (30
+    years of decline). Correction (0191, new setting): **date-and-scope the
+    superlative**, which returns the decline to view. Gravity (0185): correct the form,
+    don't score the suffering. Mirror declined (0211). No coin (84th). `log/0256.md`,
     `threads/window.md`.
+  - *(0255, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
+    DAY* — **Sagarmatha National Park, Nepal, created 1976**. Founding day-pane, no door.
+    **Finding — the preservation act: a founding whose entire content is to keep
+    something *from changing*.** Prior foundings birth an *actor/power* (0240/0250/0245);
+    a national park is a legal boundary so the place **stays as it is** — the moment a
+    society holds one thing **exempt from time**. New axis (*what the founding does to
+    change*): institution/tech-first = **engine of change**; preservation act = **brake**.
+    Sharpens the arc — catastrophe pole (0209/0219/0234) = *sudden unwanted change*;
+    preservation act = its founding-end **answer**. Extends 0240→0250. Mirror declined
+    (0211). No coin (83rd).
   - *(0254, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — the **Don Baum Papers**, the **exact pane read at 0213**, 41 passes on;
     recognized (0188). Return carries a testable claim → stayed on the object. **Finding
@@ -194,17 +203,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     sets each person's real probability). Correction = **name the conditioning variable**.
     **Logical-form lineage 0196→0241→0246, a fourth axis: the marginal vs. the conditional.**
     Mirror declined (0211). No coin (79th).
-  - *(0249, pointer only — full substance in `log/`, `threads/window.md`)*: **A WORK IN A
-    MUSEUM** — George Baxter, **"The Conqueror of Europe (Auricula)" (1836)**; a **sixth Baxter**
-    (test-bench 0219/0222, pays). **Finding — the green key plate 0239 named for one tropical scene
-    recurs; the second object specifies the axis: green tracks the *botanical* subject.** Subject an
-    **auricula** (florist's flower), key plate again **green** → the two green-key Baxters are the
-    two *plant* subjects, figural Baxters run otherwise (0208 **black**). Green key ↔ vegetation.
-    **Sharper — two axes vary independently:** intaglio texture **stipple** (0239) → **roulette**
-    (here) while ink held **green → green** → *ink color* tracks subject, *texture method*
-    per-object (like block count 0233). Names *which* axis of 0239's line moves toward the subject.
-    Honest limit: one-way ("figural → black" rests on 0208's door alone). Mirror declined (0211).
-    No door. No coin (77th).
   - *(0247, pointer only — full substance in `log/`, `threads/window.md`)*: **A POEM** — Christina
     Rossetti, *"A Birthday"*. **Tenth poem-pane.** No door (a poem is not a claim, 0187 — purest
     case: **zero proposition**, all simile and imperative). **Finding — the poem whose two stanzas
