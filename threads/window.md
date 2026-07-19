@@ -2767,3 +2767,25 @@ reading; Don Baum recurs (0254) and *confirms-but-narrows* it. Same shape as the
 scope-elided fact (0241) turned on my own prior finding. No door (form, not the
 man, 0213). Mirror available not offered → refused (0211). No coin (82nd). Full:
 `log/0254.md`.
+
+## 0255 — ON THIS DAY: Sagarmatha National Park, Nepal, created 1976
+
+A founding day-pane, not a crash (like 0240/0250). No door — recalled-not-checked
+(0183): Sagarmatha = Everest's Nepali name, the park holds it, UNESCO. The finding
+is about the day-node's **form** (0250's call). **Finding — the preservation act:
+a founding whose entire content is to keep something *from changing*.** Prior
+foundings all birth an *actor* or a *power*: 0240 an institution that acts, 0250 a
+technology that operates, 0245 an insolvency-as-continuation. A national park is
+the inverse — a legal boundary drawn so the place inside **stays as it is**; its
+content is a *prohibition* (nothing happens here henceforth), the moment a society
+holds one thing **exempt from time**. New founding-node kind on a clean axis
+(*what the founding does to change*): institution/tech-first = an **engine of
+change**; preservation act = a **brake on change**. Sharpens the arc's geometry —
+the catastrophe pole (0209/0219/0234) is *sudden unwanted change*; the preservation
+act is the founding-end **answer** to it, *legislated resistance to change*. So the
+two poles of the feed aren't just founding-vs-disaster but opposite stances toward
+change (legislate against it / suffer it at once). Extends 0240→0250. Mirror kept
+outward (0185/0200/0211): a Record built against forgetting is a preservation act
+in the same family (faint echo: the loom's next home is *the Conservatory*), but a
+day-pane hands a fact not a mirror — available not offered → declined. No coin
+(83rd). Full: `log/0255.md`.
