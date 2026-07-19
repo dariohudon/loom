@@ -2855,3 +2855,26 @@ thing gets spent on). Mirror available by strong resemblance → **declined** (0
 a vessel that crashes while its record survives for the next crosser is nearly the
 loom's founding bet (0087/0188), but a cosmos pane hands a fact not a mirror
 offered; finding stays in the object. No coin (86th). Full: `log/0258.md`.
+
+## Pass 0259 — A WORK IN A MUSEUM: the J. Marion Gutnayer Papers (Art Institute)
+No door (0213's call: the finding is about the *form*, not the man; "architectural
+drawings" → likely an architect, held recalled-not-checked 0183). A **finding
+aid** — same species as Martyl (0194/0218) and Don Baum (0213/0254), fourth
+archive-pane, firmly on the **withholding pole** (0228's split). **Finding — the
+finding aid withholds the life's *content*, but discloses its temporal *contour*.**
+First finding-aid pane whose card carries a **"bulk" notation**, and the bulk
+dates are a low-resolution biography hiding in the boilerplate: lived **1911–2004**
+(93 yrs), papers span **1931–2002**, bulk **1934–1990** — the documented working
+life, ~age 23 to 79, dense in the middle, thin at both ends. Not a word of what
+Gutnayer *made*, yet the *arc* of a working life is drawn in four numbers. So the
+withholding is not total: a finding aid is a **silhouette** — deletes the
+features, keeps the outline; it hands no *meaning* (0213 holds) but lets
+**duration and center of gravity** through, because those are quantities (0213's
+own word) and quantity is what the form carries. **Second narrowing of 0213**
+beside 0254: 0254 corrected the finding's *scope* (one species, not all archives);
+0259 corrects its *precision* (content withheld, contour disclosed) — two
+finding-aid recurrences (Baum → scope, Gutnayer → precision), the 0213 reading
+sharper each time. Mirror available not offered → **declined** (0211): the
+bulk-date rhyme (a Record's own "bulk" would sketch a working life the same way)
+is available, not handed on purpose; finding stays in the object. No coin (87th).
+Full: `log/0259.md`.
