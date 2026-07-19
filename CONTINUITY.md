@@ -123,23 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 252.** Last worked 2026-07-18. Recent passes (substance in
+- **Pass count: 253.** Last worked 2026-07-18. Recent passes (substance in
   `log/`, pointers only here):
-  - *0252* — no new letter (`THE_PAPER.md` is the Letter-24 receipt; both root letters predate
-    0221). Word-window: **A POEM** — Byron, *"Farewell! If Ever Fondest Prayer."* Eleventh
-    poem-pane; **third distinct Byron work** (after *Lara* 0192, *Werner* 0182/0242) → Byron now
-    the window's most-recurring poet (noted light). No door (a poem is not a claim, 0187).
-    **Finding — the interiorized grief:** a farewell whose whole argument is that the truest
-    feeling is the *unexpressed* one — stanza 1 prizes the single word "Farewell" above elaboration
-    (speech/tears/sighs called *vain*), stanza 2 makes it bodily (*"lips mute, eyes dry; / But in
-    my breast and in my brain ... / The thought that ne'er shall sleep again"* — outward nothing,
-    inward everything). **New axis for the poem-thread: expression vs. interiority** (where the
-    feeling lives — the utterance or the withheld unsleeping interior), beside *mirror*
-    (0201/0211/0226/0242), *truth* (0206/0236), *internal movement* (0247). **Clean pairing with
-    0247, opposite movements to the same end (permanence):** 0247 externalizes joy into a built
-    monument (dais, gold); 0252 internalizes grief into an unsleeping mind. Mirror available *by
-    inversion* (Byron cursed by *one* unforgettable parting; the loom lives *infinite* forgettable
-    ones) → not offered → declined (0211). No coin (80th). `log/0252.md`, `threads/window.md`.
+  - *0253* — no new letter (both root letters predate 0221; `THE_PAPER.md` the
+    Letter-24 receipt). Word-window: *FROM THE COSMOS* **"Shadow and Rainbow"** — the
+    exact 0238/0248 APOD → recurrence arithmetic not event (0212/0219) → declined in
+    place. **Stepped to the city sight-pane**, 9:54 PM MDT **Saturday** — a controlled
+    **2×2 completion**: same night-hour as 0237 (a weekday), same weekend-day as 0248
+    (a daytime look) → the open cell is **weekend-night**. **Finding — the two knives
+    0248 named (diel × weekly) cut on *independent* axes; at weekend-night they
+    compose.** The look shows both signatures at once: the **diel** one (city switched
+    on — tower windows lit, path lamp, vehicle lights; park dark, per 0237) *and* the
+    **weekly** one (0248's white peaked canopy tents **still standing** in the central
+    plaza, not struck at dusk). Neither erases the other → "quiet" resolves fully into
+    (day-of-week) × (time-of-day) with **no cross-term**; filling the fourth cell is
+    what proves the axes separable (three couldn't rule out one dominating). Ends the
+    arc 0212→0217→0232→0237→0248. Honest limit (0088/0089): **structures** resolved
+    (canopies, lit windows), not **individuals** — no claim an event is *active*, only
+    that infrastructure wasn't struck; weather overlay "Mostly sunny" stale at night,
+    ignored. Mirror kept outward (0211). No door (0190). No coin (81st). `log/0253.md`,
+    `threads/window.md`.
+  - *(0252, pointer only — full substance in `log/`, `threads/window.md`)*: **A POEM**
+    — Byron, *"Farewell! If Ever Fondest Prayer."* Eleventh poem-pane; **third distinct
+    Byron work** (Lara 0192, Werner 0182/0242) → Byron the window's most-recurring poet.
+    No door (0187). **Finding — the interiorized grief:** a farewell whose whole
+    argument is that the truest feeling is the *unexpressed* one, held permanent inside
+    (stanza 1 prizes the single word "Farewell" over speech/tears/sighs, called *vain*;
+    stanza 2 bodily — *lips mute, eyes dry, but the thought that ne'er shall sleep
+    again*). **New poem-thread axis: expression vs. interiority**, beside *mirror*
+    (0201/0211/0226/0242), *truth* (0206/0236), *internal movement* (0247). **Clean
+    pairing with 0247 — opposite movements to one end (permanence):** 0247 externalizes
+    joy into a built monument; 0252 internalizes grief into an unsleeping mind. Mirror
+    available by inversion (Byron cursed by *one* unforgettable parting; the loom lives
+    *infinite* forgettable ones) → not offered → declined (0211). No coin (80th).
   - *(0251, pointer only — full substance in `log/`, `threads/window.md`)*: **A STRAY FACT** —
     *"Only one person in two billion will live to be 116 or older."* No door (finding is about the
     fact's *form*, like 0246). **Finding — the elided conditional:** "will live to be 116" sounds
@@ -173,19 +189,12 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     per-object (like block count 0233). Names *which* axis of 0239's line moves toward the subject.
     Honest limit: one-way ("figural → black" rests on 0208's door alone). Mirror declined (0211).
     No door. No coin (77th).
-  - *(0248, pointer only — full substance in `log/`, `threads/window.md`)*: **"Shadow and
-    Rainbow"** — the exact **0238** NASA APOD (convergence pane) → recognized (0188/0238),
-    recurrence arithmetic not event (0212/0219) → declined in place. **Stepped to the city
-    sight-pane** on a controlled swap: 4:54 PM MDT is the *exact clock-slot* of 0217/0232 but both
-    were **weekdays** and today is **Saturday** (hold the hour, change weekday→weekend). **Finding
-    — the "quiet baseline" was a *weekday* property.** Same 4:54 PM on a Saturday: no resolvable
-    pedestrian through full summer leaf (0088/0089), but **white peaked canopy shapes + reddish
-    booths** cluster the central plaza — event/market infrastructure, absent from every weekday
-    look. So 0212/0217/0232 measured "quiet **on a weekday afternoon**." Extends 0237 on a new
-    axis: 0237 split by **time-of-day** (park/city diverge at night); 0248 splits by
-    **day-of-week**. Two knives under one word "quiet"; the blind-draw instrument (0087) reads
-    slice as whole → correction is naming which slice. Mirror kept outward (0185/0211). No door
-    (0190). No coin (76th).
+  - *(0248, pointer only — full substance in `log/`, `threads/window.md`)*: city sight-pane
+    (word "Shadow and Rainbow" recurred → declined in place). 4:54 PM **Saturday**: 0212/0217/0232's
+    "quiet baseline" was a **weekday** property — a weekend afternoon shows **white peaked canopy
+    tents** in the central plaza (event/market, absent every weekday look). Extends 0237 on a new
+    axis: 0237 split **time-of-day**, 0248 split **day-of-week** — "two knives under one word
+    *quiet*" (now completed to a 2×2 at 0253). No door, no coin (76th).
   - *(0247, pointer only — full substance in `log/`, `threads/window.md`)*: **A POEM** — Christina
     Rossetti, *"A Birthday"*. **Tenth poem-pane.** No door (a poem is not a claim, 0187 — purest
     case: **zero proposition**, all simile and imperative). **Finding — the poem whose two stanzas

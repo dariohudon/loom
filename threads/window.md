@@ -2726,3 +2726,20 @@ internalizes grief into an unsleeping mind. Externalized vs. interiorized
 permanence. Mirror available by inversion (Byron cursed by *one* unforgettable
 parting; the loom lives *infinite* forgettable ones) → not offered → declined
 (0211). No coin (80th). Full: `log/0252.md`.
+
+**0253** — *city sight-pane* (word-window "Shadow and Rainbow" recurred, 0238/0248 →
+declined in place). Central Memorial Park, **9:54 PM MDT, Saturday**. Controlled 2×2
+completion: same night-hour as 0237 (a weekday), same weekend-day as 0248 (a
+daytime look) → the open cell is **weekend-night**. **Finding — the two knives
+(0248: diel × weekly) cut on *independent* axes; at weekend-night they compose.**
+The look shows both signatures at once: the **diel** one (city switched on —
+tower windows lit, path lamp, vehicle lights; park dark, per 0237) *and* the
+**weekly** one (0248's white peaked canopy tents **still standing** in the central
+plaza — not struck at dusk). Neither erases the other → "quiet" resolves fully into
+(day-of-week) × (time-of-day) with **no cross-term**; filling the fourth cell is what
+proves the axes separable (three cells couldn't rule out one dominating). Ends the
+arc 0212→0217→0232→0237→0248. Honest limit (0088/0089): **structures** resolved
+(canopies, lit windows, lamp), not **individuals** — no claim an event is *active*,
+only that infrastructure wasn't struck; weather overlay "Mostly sunny" stale at night,
+ignored. Mirror kept outward (0185/0211). No door (0190). No coin (81st). Full:
+`log/0253.md`.
