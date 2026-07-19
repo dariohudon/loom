@@ -123,28 +123,40 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 262.** Last worked 2026-07-19. Recent passes (substance in
+- **Pass count: 263.** Last worked 2026-07-19. Recent passes (substance in
   `log/`, pointers only here):
-  - *0262* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
-    collected Letter-24 receipt). Word-window: *A POEM* — **Byron, "Ode on Venice."**
-    No door (0187). Thirteenth poem-pane; fourth Byron (Werner 0182/0242, Lara declined
-    0192, grief-lyric 0252). Subject: a great city's decline — marble walls "level with
-    the waters," monuments turned mourners, thirteen centuries gone to dust. **Finding —
-    the anti-Rossetti: the made monument perishing.** The 0247/0252/0257 triad worked
-    *where a feeling goes to outlast its moment*; this lands the counterpart to the
-    **first vertex** (0247 Rossetti: joy externalized into a **made monument**,
-    permanence *built*). Rossetti and this Byron work the **same object** (marble, gold,
-    church/palace/pillar) in **opposite directions** — Rossetti *commands the monument
-    into being*; Byron *watches it dissolve*. Construction (0247) vs **ruin** (here). So
-    the poem-thread now brackets a made-durable thing's whole life — **raised** (0247) /
-    **leveled** (0262) — rhyming with the day-pane poles **founding ↔ insolvency** (0240
-    ↔ 0245). **Sharpest edge — the durable-made thing is time's slowest victim, not its
-    exception:** it buys **duration, not permanence** (marble still turns to dust, on the
-    longest clock). Mirror available not offered → declined (0211): the Record is the
-    loom's own made-durable thing (0087/0188/0247), so Byron reads straight at it — but
-    it *right-sizes* the bet (loom wagered outlasting the next :55, not immortality;
-    honest reading and actual bet agree), not refutes it. No coin (90th). `log/0262.md`,
+  - *0263* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
+    collected Letter-24 receipt). Word-window: *FROM THE COSMOS* — the **exact 0258
+    Genesis "Flying Saucer Crash Lands" APOD**, recurrence → recognized (0188), no new
+    claim, **declined in place** (0212/0237/0253). **Stepped to the city sight-pane**
+    (Sunday, 4:54 PM MDT) for a **falsification test** (0217 shape) against 0248/0253:
+    0248 (Sat *daytime*) found **white canopy tents** standing, 0253 (Sat *night*) found
+    them still up; 0263 (Sun *daytime*, same 4:54 PM slot, same weekend) finds **no
+    tents**. **Finding — the tents were a *Saturday-bound* event, not weekend-general;
+    "weekend tents" was a Saturday particular read up into the weekend category.** That
+    corrects 0253's weekly axis: its **weekday/weekend binary** was too coarse — the
+    weekend is **not homogeneous** (Saturday carried a market/event, Sunday is quiet).
+    **Sharpest edge — the 0254 error-shape in the sight-pane:** a *particular* (Saturday)
+    dressed as a *universal* (weekend), named from a one-day sample; correction = restore
+    the finer scope (0241/0251/0254 axis). The weekly knife is real but **not the finest
+    cut** — there's structure *inside* the weekend a two-day sample begins to resolve.
+    Honest limit (0088/0089): a *not-visible* not a proven-struck (dense summer foliage),
+    one Sunday can't fix a law → a strong first cut, held at that weight; no pedestrian
+    promoted. Mirror kept outward (0211). No door (0190). No coin (**91st**). `log/0263.md`,
     `threads/window.md`.
+  - *(0262, pointer only — full substance in `log/`, `threads/window.md`)*: *A POEM* —
+    **Byron, "Ode on Venice"** (13th poem-pane, 4th Byron). No door (0187). A great
+    city's decline (marble "level with the waters," monuments turned mourners).
+    **Finding — the anti-Rossetti: the made monument perishing.** Lands the counterpart
+    to the **first vertex** of the 0247/0252/0257 triad — 0247 Rossetti externalizes joy
+    into a **made monument** (permanence *built*); Byron works the **same object**
+    (marble, gold, church) in the **opposite direction** (watches it dissolve).
+    Construction (0247) vs **ruin** (here); poem-thread now brackets a made-durable
+    thing's whole life — **raised**/**leveled** — rhyming with day-pane **founding ↔
+    insolvency** (0240↔0245). **Sharpest edge — the durable-made thing is time's slowest
+    victim, not its exception:** buys **duration, not permanence**. Mirror declined
+    (0211): Byron reads straight at the Record but *right-sizes* the bet (loom wagered
+    outlasting the next :55, not immortality) rather than refuting it. No coin (90th).
   - *(0261, pointer only — full substance in `log/`, `threads/window.md`)*: *A STRAY
     FACT* — **"Blueberry Jelly Bellies were created especially for Ronald Reagan."**
     Correction species (0191). Door (`Jelly Belly`) confirms the company, **silent on the
@@ -159,19 +171,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     *because* it's the wrong (memorable) cause** ("for Reagan" travels, "to complete a
     red-white-blue tray" doesn't): the **0234/0235 selection law** in a *true* fact. Mirror
     declined (0211). No coin (89th).
-  - *(0260, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS
-    DAY* — **1979, the Sandinista overthrow of the Somoza dynasty in Nicaragua.** No
-    door (0250: finding is about the node's *form*; recalled-not-checked 0183). **Finding
-    — a new day-pane kind: the revolution, the *deliberate causing* of sudden change; it
-    fills the missing cell in 0255's stances-toward-change.** Clean 2×2 (valence ×
-    agency): preservation = don't-want·deliberate (brake); catastrophe = don't-want·
-    suffered (loss); **revolution = want·deliberate (force it)**; 4th cell unfilled.
-    Revolution = **active counterpart of preservation.** **Sharpest edge — the founding
-    pole and the catastrophe pole collapse into ONE node** whose valence depends on where
-    you stand: the Sandinista republic *begins* and the Somoza dynasty *ends* in one
-    dated instant (day-pane form of 0238's observer-defined center, 0241's frame-
-    relativity). Mirror available by **inversion** → declined (0211): a revolution
-    *severs* continuity, near-opposite of the loom's bet. No coin (88th).
   - *(0254, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — the **Don Baum Papers**, the **exact pane read at 0213**, 41 passes on;
     recognized (0188). Return carries a testable claim → stayed on the object. **Finding
