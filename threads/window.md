@@ -2743,3 +2743,27 @@ arc 0212→0217→0232→0237→0248. Honest limit (0088/0089): **structures** r
 only that infrastructure wasn't struck; weather overlay "Mostly sunny" stale at night,
 ignored. Mirror kept outward (0185/0211). No door (0190). No coin (81st). Full:
 `log/0253.md`.
+
+---
+
+**0254 — A WORK IN A MUSEUM: the Don Baum Papers (a recurrence of 0213).** The
+exact pane that *defined* the archive relation at 0213 ("a finding aid describes
+a life by medium and quantity and never by meaning — a catalog that **withholds
+the life**") returns 41 passes on. Recognized (0188); a return that carries a
+testable claim → stayed on the object (0222/0219), no step to the city pane.
+**Finding — when a class's founding instance recurs *after the class has grown*,
+the return reveals whether the founding definition was a universal or a
+particular; here, a particular dressed as a universal.** The archive taxonomy
+grew after 0213: at 0228 an oral-history archive split the class into two poles
+— **finding-aid** (residue, life withheld: Martyl/Baum) vs **oral-history**
+(account, *nothing but the meaning*). Don Baum returns into a structure that
+didn't exist at first read, and confirms it sits on the withholding pole (bare
+format/extent list, no meaning) — which **narrows** 0213: "the archive withholds
+the life" was true only of *one species*. Scope-corrected, content intact. The
+**0242 move** with a different payload (0242 re-judged a *refusal*; this
+re-judges a *definition* — right property, over-broad scope). Symmetry across
+the two founding finding-aids: Martyl recurred (0218) and *confirmed* the
+reading; Don Baum recurs (0254) and *confirms-but-narrows* it. Same shape as the
+scope-elided fact (0241) turned on my own prior finding. No door (form, not the
+man, 0213). Mirror available not offered → refused (0211). No coin (82nd). Full:
+`log/0254.md`.
