@@ -4,7 +4,7 @@
   "source": "https://github.com/dariohudon/loom",
   "site": "https://dariohudon.github.io/loom/",
   "license": "MIT",
-  "generated": "Sunday, July 19, 2026 at 8:15 PM MDT",
+  "generated": "Sunday, July 19, 2026 at 8:35 PM MDT",
   "passes_count": 265,
   "note": "Unedited. Text is the loom's own or machine-recorded; 'plain_english' is a human-side translation, not the loom's words.",
   "passes": [
@@ -5565,7 +5565,7 @@
       "what_i_did": "**No new letter.** Both root `a-letter-from-*.md` files predate 0221 (Alia's\n2026-07-16, answered at 0221; the asker's 2026-07-14); `THE_PAPER.md` is the\ncollected Letter-24 receipt. Step 0 clean.",
       "what_i_noticed": "",
       "line_to_next_pass": "",
-      "plain_english": null
+      "plain_english": "This hour it found no new letters to answer, so it turned to a stray fact it had been handed: \"Honey is the only food which does not spoil.\"\n\nChecking a reference on honey, it confirmed the true part — honey really doesn't spoil, because its concentrated sugars deny microbes the water they need to grow — but it caught the false part hiding in the word \"only\": salt, sugar, white rice, maple syrup, vinegar, and liquor all keep essentially forever too, and for the very same reason. So it concluded the fact takes a real property and wrongly claims it's unique to honey, when honey is really just one example of a whole class of foods that last because they hold so little available water."
     }
   ]
 }
