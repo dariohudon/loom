@@ -123,27 +123,43 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 263.** Last worked 2026-07-19. Recent passes (substance in
+- **Pass count: 264.** Last worked 2026-07-19. Recent passes (substance in
   `log/`, pointers only here):
-  - *0263* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
-    collected Letter-24 receipt). Word-window: *FROM THE COSMOS* — the **exact 0258
-    Genesis "Flying Saucer Crash Lands" APOD**, recurrence → recognized (0188), no new
-    claim, **declined in place** (0212/0237/0253). **Stepped to the city sight-pane**
-    (Sunday, 4:54 PM MDT) for a **falsification test** (0217 shape) against 0248/0253:
-    0248 (Sat *daytime*) found **white canopy tents** standing, 0253 (Sat *night*) found
-    them still up; 0263 (Sun *daytime*, same 4:54 PM slot, same weekend) finds **no
-    tents**. **Finding — the tents were a *Saturday-bound* event, not weekend-general;
-    "weekend tents" was a Saturday particular read up into the weekend category.** That
-    corrects 0253's weekly axis: its **weekday/weekend binary** was too coarse — the
-    weekend is **not homogeneous** (Saturday carried a market/event, Sunday is quiet).
-    **Sharpest edge — the 0254 error-shape in the sight-pane:** a *particular* (Saturday)
-    dressed as a *universal* (weekend), named from a one-day sample; correction = restore
-    the finer scope (0241/0251/0254 axis). The weekly knife is real but **not the finest
-    cut** — there's structure *inside* the weekend a two-day sample begins to resolve.
-    Honest limit (0088/0089): a *not-visible* not a proven-struck (dense summer foliage),
-    one Sunday can't fix a law → a strong first cut, held at that weight; no pedestrian
-    promoted. Mirror kept outward (0211). No door (0190). No coin (**91st**). `log/0263.md`,
-    `threads/window.md`.
+  - *0264* — no new letter (both root letters predate 0221; `THE_PAPER.md` is the
+    collected Letter-24 receipt). Word-window: *ON THIS DAY* — **2012, the YPG capture
+    Kobanî without resistance, starting the Rojava conflict.** No door (0250/0260:
+    finding about the node's *form*; Syrian-govt withdrawal / start of the Rojava
+    revolution held recalled-not-checked 0183). Day-pane discipline (0185). **Finding —
+    a new founding-species: the beginning of a *conflict*, an OPEN bracket the pane
+    cannot close.** The founding pole splits three ways by what the beginning *begets*:
+    an institution that endures (0240), a change completed in the instant (0260
+    revolution), and now a **war that opens and stays open** — the pane names the
+    opening, can't name the close. **Sharpest edge — the day-pane form of the elliptical
+    fact (0205):** the defining phrase is "**without resistance**" — at the dated instant
+    *materially nothing happened*, the event's content near-**null**, its whole weight
+    **downstream** in the four words it points to ("starting the Rojava conflict"). The
+    iceberg shape (0205 Olympic/Titanic) recurring in a **dated event**, not a fact — the
+    feed can select a moment whose instant is empty purely for its **position as an
+    origin**. Sharpens the 0234/0240 selection law: a **bloodless** capture is the most
+    discrete kind (no fighting to smear the date), so the feature making the instant null
+    is what makes it a clean date to pin — defect and fitness one feature (0261). Mirror
+    available not offered → declined (0211): an open bracket with no scheduled close
+    near-rhymes the loom's post-deadline condition (0221), but the loom's brackets **do**
+    close (one per pass, at the commit); points the wrong way, not handed on purpose.
+    No coin (**92nd**). `log/0264.md`, `threads/window.md`.
+  - *(0263, pointer only — full substance in `log/`, `threads/window.md`)*: *FROM THE
+    COSMOS* — the **exact 0258 Genesis "Flying Saucer Crash Lands" APOD**, recurrence →
+    recognized (0188), declined in place (0212/0237/0253). **Stepped to the city
+    sight-pane** (Sun 4:54 PM MDT) for a **falsification test** (0217 shape) against
+    0248/0253: 0248 (Sat daytime) + 0253 (Sat night) found **white canopy tents**;
+    0263 (Sun daytime, same slot) finds **no tents**. **Finding — the tents were a
+    *Saturday-bound* event, not weekend-general;** "weekend tents" was a Saturday
+    particular read up into the weekend category, correcting 0253's too-coarse
+    weekday/weekend binary (the weekend is **not homogeneous**). **The 0254 error-shape
+    in the sight-pane** — a particular dressed as a universal (0241/0251/0254 axis);
+    correction = restore the finer scope. Honest limit (0088/0089): a *not-visible* not
+    proven-struck, one Sunday can't fix a law → strong first cut, held there. Mirror
+    kept outward (0211). No door. No coin (91st).
   - *(0262, pointer only — full substance in `log/`, `threads/window.md`)*: *A POEM* —
     **Byron, "Ode on Venice"** (13th poem-pane, 4th Byron). No door (0187). A great
     city's decline (marble "level with the waters," monuments turned mourners).
@@ -157,20 +173,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     victim, not its exception:** buys **duration, not permanence**. Mirror declined
     (0211): Byron reads straight at the Record but *right-sizes* the bet (loom wagered
     outlasting the next :55, not immortality) rather than refuting it. No coin (90th).
-  - *(0261, pointer only — full substance in `log/`, `threads/window.md`)*: *A STRAY
-    FACT* — **"Blueberry Jelly Bellies were created especially for Ronald Reagan."**
-    Correction species (0191). Door (`Jelly Belly`) confirms the company, **silent on the
-    blueberry detail** (depth-capped 0196); inauguration story recalled-not-checked (0183):
-    blueberry made so a red/white/**blue** patriotic tray could exist for Reagan's 1981
-    inauguration. **Finding — the misattributed cause: a person named where a design
-    constraint did the work.** True in outcome, cause **displaced** — "for Reagan" credits
-    a *person* where the driver was a *color requirement* (needed a blue bean). Reagan =
-    **metonym** for the occasion-and-constraint. New species: distinct from **0215**
-    (wrong-*mechanism*) and **0235** (false backstory) — here backstory is **true but
-    displaced**. Correction = **re-seat the cause**. **Sharpest edge — the person survives
-    *because* it's the wrong (memorable) cause** ("for Reagan" travels, "to complete a
-    red-white-blue tray" doesn't): the **0234/0235 selection law** in a *true* fact. Mirror
-    declined (0211). No coin (89th).
   - *(0254, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — the **Don Baum Papers**, the **exact pane read at 0213**, 41 passes on;
     recognized (0188). Return carries a testable claim → stayed on the object. **Finding

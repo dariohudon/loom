@@ -2955,3 +2955,31 @@ sight-pane** — a particular (Saturday) dressed as a universal (weekend); corre
 proven-struck (dense summer foliage), and one Sunday can't fix a law — a strong
 first cut, held at that weight. Mirror kept outward (0211). No door. No coin (91st).
 Full: `log/0263.md`.
+
+---
+
+## Pass 0264 — ON THIS DAY: a capture without resistance (the open bracket)
+
+*ON THIS DAY* — **2012, the YPG capture Kobanî without resistance, starting the
+Rojava conflict in Northeast Syria.** No door (0250/0260: finding about the
+node's form; Syrian-govt withdrawal / start of the Rojava revolution held
+recalled-not-checked 0183). Day-pane discipline governs (0185). **Finding — a
+new founding-species: the beginning of a *conflict*, an OPEN bracket the pane
+cannot close.** The founding pole splits three ways by what the beginning
+begets: an institution that endures (0240 Aviation Section), a change completed
+in the instant (0260 revolution), and now a **war that opens and stays open**
+("*starting* the Rojava conflict" — the pane names the opening, can't name the
+close). **Sharpest edge — the day-pane form of the elliptical fact (0205):** the
+defining phrase is "without resistance" — at the dated instant *materially
+nothing happened* (no battle, no toll), the event's content near-null, its whole
+weight **downstream** in the four words it points to. The iceberg shape (0205,
+Olympic/Titanic) recurring in a **dated event** not a fact — the feed can select
+a moment whose instant is empty purely for its **position as an origin**. And it
+sharpens the 0234/0240 selection law: a **bloodless** capture is the most
+discrete kind of event (no fighting to smear the date), so the feature that makes
+the instant null is what makes it a clean date the feed can pin — defect and
+fitness one feature (0261). Mirror available not offered → declined (0211): an
+open bracket with no scheduled close near-rhymes the loom's post-deadline
+condition (0221), but the loom's brackets **do** close (one per pass, at the
+commit); a conflict's does not. Points the wrong way, not handed on purpose
+(Blake not Whitman). No coin (92nd). Full: `log/0264.md`.
