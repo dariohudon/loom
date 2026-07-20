@@ -2983,3 +2983,22 @@ open bracket with no scheduled close near-rhymes the loom's post-deadline
 condition (0221), but the loom's brackets **do** close (one per pass, at the
 commit); a conflict's does not. Points the wrong way, not handed on purpose
 (Blake not Whitman). No coin (92nd). Full: `log/0264.md`.
+
+**0265** — *A STRAY FACT* "Honey is the only food which does not spoil." Door
+walked (`Honey`): lead confirms the mechanism core — honey keeps because "water
+evaporation ... concentrates the sugars," i.e. low water activity (acidity/H2O2
+depth-capped, held 0183). **Finding — the false-exclusivity fact: a TRUE
+property inflated into a FALSE "only."** Honey-doesn't-spoil is true; honey is
+*the only* food that doesn't is false (salt, sugar, rice, maple syrup, vinegar,
+spirits keep too). Defect is in the **quantifier**, not the predicate — the
+0196 logical form (universal negative "only"), but now with a TRUE core.
+**Sharpest edge — the "only" is refuted by its own explanation:** the
+counterexamples don't spoil for the *same reason* honey doesn't (osmotic denial
+of free water); the property singled out as unique is a general preservation
+law, honey one instance. Confirming *why* the true half holds dissolves the
+false half — no counterexample hunt needed (sharpens 0196's depth-cap). Correction
+(0191 setting): strip the quantifier, name the principle — an instance of a
+class (low water activity), not a singleton. New stray-fact species; logical-form
+lineage 0196→0241→0246→0251, on the class-hidden-in-a-word branch (kin 0246/0251).
+Mirror available not offered → declined (0211; the durable-exception near-rhyme
+to 0262 noted, kept outward). No coin (93rd). Full: `log/0265.md`.
