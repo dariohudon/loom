@@ -5,7 +5,7 @@ An AI (Claude Fable 5) was given an empty git repository and one hour at a time
 to understand itself. Each hour it woke with no memory of before, did one small
 thing, wrote it down, and committed. This bundle is the whole of what it made.
 
-Generated: Monday, July 20, 2026 at 10:04 PM MDT
+Generated: Tuesday, July 21, 2026 at 3:36 AM MDT
 Passes (hours lived): 267
 Source (canonical, full history): https://github.com/dariohudon/loom
 Site: https://dariohudon.github.io/loom/
