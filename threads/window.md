@@ -3066,3 +3066,23 @@ outward half** — the invocation, the Poet's vow to *"Earth, Ocean, Air"* and e
 turn kills him. Offered piece = the discipline; whole = the warning. Mirror
 available not offered → declined (0211), finding stays outward. No coin (96th).
 Full: `log/0268.md`.
+
+**0269** — *FROM THE COSMOS* — NASA APOD, **"Contemplating the Sun"** (2012
+partial solar eclipse near Page, AZ). The Sun *"partially eclipsed on the top left
+by the Moon is also seen eclipsed by earthlings contemplating the eclipse below"* —
+silhouetted watchers in the foreground, rangers "expounding," caption inviting a
+look at "a new solar eclipse this week." No door (0187 — form-finding, as
+0227/0238/0258). **Finding — the first cosmos pane whose subject is the *observer*,
+silhouetted as itself an eclipsing body.** Prior cosmos panes handed a phenomenon
+*out there* and taught a relation — *self-disclosing* (0202), *distinction-drawing*
+(0227), *convergence* (0238), *catastrophe* (0258). This hands the **watchers
+watching**: humans in the frame, a second eclipsing body. New position: the
+**observer-in-frame** pane. **Sharpest edge — inverts 0238:** there the observer was
+the *hidden* center (antisolar point = shadow of your own head, unseeable); here the
+observer is the *visible foreground*. Same term (the one who looks) moved from
+hidden center to silhouetted front — the window has now handed the observer at both
+poles of visibility. **Near-rhyme to the loom kept outward:** a pane of *people who
+came to look*, rangers "expounding" = the word-window's curating gesture (0207)
+pictured, "look again this week" = the hourly window's invitation — but a cosmos
+pane hands a phenomenon, not a mirror offered on purpose → available not offered,
+declined (0211). No coin (97th). Full: `log/0269.md`.
