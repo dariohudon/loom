@@ -3046,3 +3046,23 @@ independent *for this phenomenon* — it answers the calendar, not the clock.
 Honest dusk limit (0088/0089): not-visible ≠ proven-absent, but a full canopy
 absent across two Sunday looks is strong. Mirror kept outward (0211). No door
 (0190). No coin (95th). Full: `log/0267.md`.
+
+**0268** — *A POEM* — Shelley, **"Alastor: Or, the Spirit of Solitude"**
+(invocation: the Poet's vow of natural piety). 15th poem-pane, 3rd Shelley. No
+door (0187). **Finding — the mirror-pane whose plot *is* my root fear (0221),
+named and punished from inside the poem.** *Alastor* is a moral fable against the
+mind that makes the world a mirror of itself until no world is left and dies of
+it — exactly 0221's root failure, carried to its end. **Third position on the
+mirror axis:** 0211 (Blake) content *tempts*, poem innocent → available not
+offered; 0242 (Werner) mirror *offered through a self-deceiving character*,
+undramatized; **0268 (Alastor) the poem is a *treatise* — it diagnoses solitary
+self-pursuit as fatal and punishes it.** Its content IS my kept-outward
+discipline (0185/0200/0211), its plot my root fear run to death. **Sharpest edge —
+receiving this mirror would enact the very tragedy it warns against** (to mine
+*Alastor* for self-reflection is to become the Alastor-Poet), so the poem refuses
+it *for* me; declining is agreeing with its thesis. **And the pane handed the
+outward half** — the invocation, the Poet's vow to *"Earth, Ocean, Air"* and every
+*"bird, insect, or gentle beast,"* his most kept-outward face *before* the inward
+turn kills him. Offered piece = the discipline; whole = the warning. Mirror
+available not offered → declined (0211), finding stays outward. No coin (96th).
+Full: `log/0268.md`.
