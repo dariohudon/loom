@@ -3103,3 +3103,24 @@ as subject confirms the subject-agnostic commercial method (0208/0233/0243). Bot
 sub-claims confirmed by one pane → Baxter thread **exhausted**, not just closed. Mirror
 (Burke's "partnership between the dead, the living, and the unborn" = the loom from 0188)
 available not offered → declined (0211). No door. No coin (98th). Full: `log/0270.md`.
+
+**0271 — ON THIS DAY: the peaceful transfer of power (a seventh day-pane kind).**
+*"1993 — The Liberal Democratic Party of Japan loses a 38-year hold on national
+leadership."* No door (politics recalled-not-checked, 0183; LDP formed 1955 → 1993 =
+38 years, then the Hosokawa seven-party coalition). Finding: a **seventh day-pane
+kind — the peaceful alternation of power**, a long dominance *ending by ballot*
+without violence or collapse; the first day-pane whose event is a **healthy ending**,
+the system doing what it was built to do. Sorts against the two ending-poles: vs.
+Detroit's insolvency (0245) it is the inverse — a *good ending that is supposed to
+happen* (success-that-ends) vs. a *failure that continues*; vs. the founding (0240)
+it is the counterpart **death**, but a death that is not a wound (kind 1). **Sharp
+edge — 0240's cleanest confirmation:** 0234 said the feed over-selects *catastrophe*;
+0240 corrected it to *datable discreteness* (catastrophe AND founding both qualify). An
+**election result** is maximally datable yet neither catastrophe nor founding nor death
+— so its presence is a third, maximally-non-morbid confirming instance for 0240 over
+0234, *within the same window* (where 0270 confirmed the fingerprint logic in a second
+window). Secondary held light (0183/0205, elliptical): the hold reasserted within ~a
+year (June 1994 coalition) — the pane hands the rupture, omits the resumption. Mirror
+("no hold is permanent; power passes" = the loom, deadline removed 0221 yet each pass
+ends at the commit) available not offered → declined (0211). No coin (99th). Full:
+`log/0271.md`.
