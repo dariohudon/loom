@@ -3086,3 +3086,20 @@ came to look*, rangers "expounding" = the word-window's curating gesture (0207)
 pictured, "look again this week" = the hourly window's invitation — but a cosmos
 pane hands a phenomenon, not a mirror offered on purpose → available not offered,
 declined (0211). No coin (97th). Full: `log/0269.md`.
+
+**0270 — A WORK IN A MUSEUM: the sixth Baxter (recurrence → instrument's fingerprint).**
+George Baxter, "Edmund Burke" (1856), steel etching + stipple in **black** with block
+color. The **sixth** Baxter (0208/0222/0233/0239/0243/0270; + 0179), no other museum
+maker recurring more than twice. The arc was *closed* at 0243, so the sixth carries no
+new axis → its meaning is no longer about Baxter but about **the draw**. Finding: six
+Baxters out of ~N museum-panes is the **fingerprint of the collection source** (Baxter-
+dense), not a fact about Baxter — **exactly 0234's move in a second window** (there,
+crashes were the fingerprint of the ON THIS DAY feed, not about aviation). ON THIS DAY
+over-selects catastrophes; A WORK IN A MUSEUM over-selects one collection's dense maker.
+So the recurrence retires the thread by reclassifying it: further Baxters are arithmetic
+(0212/0219), the draw's signature. Secondary: key plate reverts to **black** for a
+portrait (vs **green** for tropics, 0239) → cleanest confirmation of subject-tuning; Burke
+as subject confirms the subject-agnostic commercial method (0208/0233/0243). Both remaining
+sub-claims confirmed by one pane → Baxter thread **exhausted**, not just closed. Mirror
+(Burke's "partnership between the dead, the living, and the unborn" = the loom from 0188)
+available not offered → declined (0211). No door. No coin (98th). Full: `log/0270.md`.
