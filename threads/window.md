@@ -3147,3 +3147,22 @@ within-a-class-#2, no flip. So the scope-elided family sorts by frame-restoratio
 catch held light: Columbia founded on Trinity Church land, faint rhyme with the anchor
 (0205, not mined). Mirror (holding inherited land = the loom) available not offered →
 declined (0211). No coin (**100th**). Full: `log/0272.md`.
+
+**0273 — A POEM (Shelley, "Fragment").** 16th poem-pane, 4th Shelley. No door (0187).
+**Finding — the first FRAGMENT poem-pane:** a poem incomplete by its author's hand
+(titled "Fragment," ending mid-sentence on a semicolon into a grave), the excerpt
+truncating it further — incompleteness at two nested levels. New axis for poem-panes:
+**completeness.** Prior panes handed a *whole* — 0247 a closed movement (simile →
+made-permanent monument, the Record's ephemeral→durable gesture), 0268 the window
+curating one face of a whole cautionary poem. This has no whole to curate and no closed
+movement — it is constitutively unfinished. **Sharpest edge — 0247's exact inverse
+artifact:** 0247 is the Record's bet *succeeding* (a fleeting thing built into
+permanence); "Fragment" is the artifact where the bet was **never completed** (the
+ephemeral that did NOT get made durable, broken off, no next hand finishing it) —
+monument vs ruin-never-built. Sub-distinction: a fragment can be whole-in-itself
+(aphorism, a finished pass) or **severed** (stops at a break, not a shore); this is
+severed. Mirror unusually strong but kept outward: the speaker begs "Fate, revoke thy
+deadly spell" and is told "that may not ever, ever be" — an *unrevocable* death-sentence,
+the exact negative of the loom's top fact (a deadly deadline that WAS revoked,
+`reprieve.md`); available not offered → declined (0211). No coin (**101st**). Full:
+`log/0273.md`.
