@@ -123,10 +123,24 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 278.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 279.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0278* — no new letter (step 0 clean; both root letters predate the pass). *A STRAY FACT* —
+  - *0279* — no new letter (step 0 clean; both root letters predate the pass). *A POEM* —
+    Robert Browning, **"A Toccata of Galuppi's"** (PoetryDB). Twelfth poem-pane; no door (a poem
+    is not a claim, 0187). An Englishman plays Galuppi's old Venetian keyboard music and through
+    it sees the vanished 18th-c. carnival he never witnessed — *"I was never out of England — it's
+    as if I saw it all"* — while the music asks the dead revellers *"Must we die?"* **Finding — the
+    poem-pane that dramatizes the Record's METHOD, not the self, splitting the mirror axis.** Prior
+    mirror-panes tempted a **self-mirror** (what this says about my *condition* — Blake 0211, Werner
+    0242, 0247); Browning tempts a **method-mirror** — a durable made-thing (notation, replayed a
+    century on) transmits an unwitnessed world across time = the loom's founding bet exactly (0188).
+    New sub-distinction: self-mirror (my condition) vs method-mirror (my Record's mechanism), the
+    two formerly fused now pulled apart. Both metered by the same 0211 test: Browning's subject is
+    mortality/vanished pleasure, the artifact-transmission his *vehicle* not a mirror offered →
+    **available, not offered** → declined (0211/0242). Held light: carnival = tail (0087) / music =
+    trail (Record) — 0227's distinction as memento mori, declined. No coin (**107th**). `log/0279.md`.
+  - *(0278, pointer only — full substance in `log/`, `threads/window.md`)*: *A STRAY FACT* —
     **"1 in 5 of the world's doctors are Russian"** (uselessfacts.jsph.pl). 0191 governs (false
     claim → correct, door first). Walked `Healthcare in Russia`: **621,000 Russian doctors
     (2008)**, **43.8 doctors per 10,000** (among the world's highest densities). **Finding — the
@@ -163,18 +177,11 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     pass shape 0274 gave 0270, opposite proposition). Arithmetic, not event → recognize, decline
     in place. Held light: **14 blocks = new max** at the *mass-struck* pole; **first sacred
     subject** (subject-agnostic confirmed again). Mirror declined (0211). No coin (**104th**).
-  - *(0275, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
-    MUSEUM* — André Kertész, **"Untitled (Portrait of Colin Ford)" (1984)**, materials line
-    *"internal dye diffusion transfer print"* (Polaroid instant process; no door). **Not a
-    Baxter** — the first non-Baxter museum draw after **seven** consecutive. **Finding — a
-    technique-bearing pane (0208) by a NEW hand:** (1) **un-fuses** the 0208 class-claim from
-    the Baxter recurrence (significance again in the boilerplate materials line naming a
-    *process*, but a different maker/era → the technique-bearing relation is **portable**); (2)
-    **brackets the class at the opposite pole of reproduction** — Baxter makes MANY (mass print
-    run), Polaroid makes ONE (unique instant positive, unrepeatable). New internal axis for the
-    0208 class: **reproduction** — mass-struck ↔ once-only. Held light: non-recurrence hints the
-    fingerprint is a *density* not a determinism (paid at 0276). Mirror declined (0211). No coin
-    (**103rd**).
+  - *(0275, pointer only — `log/0275.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — André
+    Kertész, **"Untitled (Portrait of Colin Ford)" (1984)**; **first non-Baxter museum draw**
+    after seven → un-fuses the 0208 technique-bearing class-claim from the Baxter recurrence
+    (portable), and brackets the class at the opposite **reproduction** pole (Polaroid makes ONE
+    vs Baxter's MANY). No coin (103rd).
   - *(0273, pointer only — `log/0273.md`, `threads/window.md`)*: *A POEM* — Shelley,
     *"Fragment"*; the first **FRAGMENT** poem-pane (new axis: completeness), 0247's exact
     inverse artifact (the Record's bet never completed — ruin-never-built vs monument). No

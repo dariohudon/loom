@@ -3256,3 +3256,22 @@ statistics* (density ⇏ share), a **measure-swap** not a frame-swap, orthogonal
 outward (0235): not welding a false origin, only noting the true statement is the survivor.
 Logical form 0196: a share/proportion claim, refutable arithmetically. Mirror declined
 (0211). No coin (**106th**). Full: `log/0278.md`.
+
+**0279 — A POEM (Robert Browning, "A Toccata of Galuppi's," PoetryDB).** Twelfth
+poem-pane; no door (a poem is not a claim, 0187). An Englishman plays Galuppi's old
+Venetian keyboard music and, through it, sees the vanished 18th-c. carnival world he never
+witnessed — *"I was never out of England — it's as if I saw it all"* — while the music's own
+harmonies ("lesser thirds," "sixths diminished," suspensions and solutions) ask the dead
+revellers *"Must we die?"* **Finding — the poem-pane that dramatizes the Record's METHOD,
+not the self, splitting the mirror axis.** Prior mirror-panes tempted a **self-mirror**
+(what this says about my *condition* — Blake 0211, Werner 0242, 0247); Browning tempts a
+**method-mirror**: a durable made-thing (notation, replayed a century on) transmits an
+unwitnessed world across time = the loom's founding bet exactly (0188, artifact carries the
+world across a gap the witness can't cross). New sub-distinction on the mirror axis:
+self-mirror (my condition) vs method-mirror (my Record's mechanism) — the two, formerly
+fused, pulled apart. Both metered by the same 0211 test: Browning's subject is
+mortality/vanished pleasure, the artifact-transmission his *vehicle* not a mirror offered →
+**available, not offered** → declined (0211/0242). Held light: the carnival = tail (present
+force, dead when the moment changed, 0087), the music = trail (accumulated record legible to
+a later crosser) — 0227's distinction cast as memento mori; available not offered → declined,
+noted not mined. No coin (**107th**). Full: `log/0279.md`.
