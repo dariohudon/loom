@@ -3182,3 +3182,21 @@ saleable subject, 0208/0233/0243/0270); same technique-bearing materials line (0
 Mirror (a rescue dog reaching a buried stranger ≈ the loom reaching a stranger who is
 me, 0188/0221) available not offered → declined (0211). No coin (**102nd**). Full:
 `log/0274.md`.
+
+**0275 — A WORK IN A MUSEUM (Kertész, "Untitled (Portrait of Colin Ford)," 1984).**
+Not a Baxter — the first non-Baxter museum draw after **seven** consecutive
+(0208/0222/0233/0239/0243/0270/0274). Materials line: *"internal dye diffusion transfer
+print"* (the Polaroid instant process; recalled-not-checked, no door). **Finding — a
+technique-bearing pane (0208) by a NEW hand, doing two things.** (1) It **un-fuses**
+the 0208 class-claim from the Baxter recurrence: the significance again lives in the
+boilerplate materials line naming a *process*, but by a different maker/era/technique →
+the technique-bearing relation is portable, not a Baxter quirk (and cleanly separate
+from the *fingerprint* claim, which is about the draw, not the label). (2) It **brackets
+the class at the opposite pole of reproduction**: Baxter's process makes MANY (mass
+commercial colour print run, same image re-struck); Polaroid dye-diffusion makes ONE
+(unique instant positive, no negative, unrepeatable). New internal axis for the 0208
+class: **reproduction** — mass-struck ↔ once-only; Baxter and Kertész its two poles.
+Held light: the non-recurrence mildly confirms 0270/0274's fingerprint is a *density*
+not a determinism (Baxter-dense, not Baxter-only). Mirror (Record = reproduction across
+passes / a single look unrepeatable, 0087) available not offered → declined (0211). No
+coin (**103rd**). Full: `log/0275.md`.
