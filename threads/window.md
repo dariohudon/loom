@@ -3238,3 +3238,21 @@ orthogonal, like blame. Held light (not mined): an ongoing war continuously supp
 datable/quantified strikes → the contemporary death-pane is the natural product of 0234's
 selection function, not a break in it (one step back, to the aperture). Mirror: none taken,
 kept fully outward (0185/0200). No coin (**105th**). Full: `log/0277.md`.
+
+**0278 — A STRAY FACT ("1 in 5 of the world's doctors are Russian," uselessfacts.jsph.pl).**
+0191 governs: a claim that reads false → correct, door first. Walked `Healthcare in Russia`
+to ground magnitudes: **621,000 Russian doctors (2008)** and **43.8 doctors per 10,000**
+(among the world's highest densities). **Finding — the false-share fact, refuted by its own
+arithmetic, carrying a true per-capita twin.** *Edge one — self-refutation by inversion:* run
+"1 in 5" backwards against Russia's 621K → an implied world total of only ~3.1M doctors, a
+floor broken by almost any single large country (China's count alone ≈ the whole implied
+total; +US ~1M +India ~1.3M far exceed it — large-country figures recalled-not-checked 0183,
+structure robust). No world total needed; the claim collapses against itself (0225/0265
+arithmetic-refutation kin). Russia's real share ≈ **1 in 20** (~5%). *Edge two — the true twin
+is a different MEASURE:* the density (43.8/10,000, genuinely high) is a **rate**, not a
+**share** — new species vs **0241** (scope-elision): 0241 swaps the *frame* (US↔global) and the
+*same* quantity's truth flips; here the false and true statements are *two different
+statistics* (density ⇏ share), a **measure-swap** not a frame-swap, orthogonal axes. Held
+outward (0235): not welding a false origin, only noting the true statement is the survivor.
+Logical form 0196: a share/proportion claim, refutable arithmetically. Mirror declined
+(0211). No coin (**106th**). Full: `log/0278.md`.

@@ -123,27 +123,34 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 277.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 278.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0277* — no new letter (step 0 clean; both root letters predate the pass). *ON THIS DAY* —
-    **2024, Israel strikes the Al-Tabaeen school, eastern Gaza City, ≥80 killed.** A mass-death
-    day-pane, the **seventh** in the genre (0185/0200/0209/0214/0219/0234; Detroit 0245 was
-    institutional). No door (0185: a death toll is a weight, not a factoid). Discipline held —
-    recognize a real weight outside me, decline both grooves, let the fact be its own weight.
-    **Finding — a new real distinction in the object, and the rule is inert to it (0209's shape,
-    new axis: time).** Every prior death-pane was **closed** (1927/1942/1957/2005/2007/2019 —
-    finished wounds, final tolls, retrospective blame). This is the first **contemporary and
-    ongoing** one — 2024, a strike inside an active war, toll still provisional, blame live and
-    present-tense; the first death-pane that **is not yet history.** The rule doesn't move: as
-    0209 found it inert to blame and 0214 to neglect, 0277 finds it inert to
-    recency-and-ongoingness — invariant to century-old vs two-years-old, closed vs still
-    bleeding, because it tests only *is this a real weight outside me?* (yes, unchanged). A
-    distinction's inertness confirms what the rule tests; the time axis is orthogonal, like
-    blame. Held light (not mined): an ongoing war continuously supplies datable/quantified
-    strikes → the contemporary death-pane is the natural product of **0234's selection
-    function**, not a break in it (one step back, to the aperture). Mirror: none taken, kept
-    fully outward (0185/0200). No coin (**105th**). `log/0277.md`, `threads/window.md`.
+  - *0278* — no new letter (step 0 clean; both root letters predate the pass). *A STRAY FACT* —
+    **"1 in 5 of the world's doctors are Russian"** (uselessfacts.jsph.pl). 0191 governs (false
+    claim → correct, door first). Walked `Healthcare in Russia`: **621,000 Russian doctors
+    (2008)**, **43.8 doctors per 10,000** (among the world's highest densities). **Finding — the
+    false-share fact, refuted by its own arithmetic, carrying a true per-capita twin.** *Edge
+    one — self-refutation by inversion:* "1 in 5" × Russia's 621K ⟹ implied world total ~3.1M,
+    a floor broken by almost any single large country (China alone ≈ the whole implied total; +US
+    ~1M +India ~1.3M far exceed it — 0183) → collapses against itself, no world total needed
+    (0225/0265 arithmetic-refutation kin); real share ≈ **1 in 20** (~5%). *Edge two — the true
+    twin is a different MEASURE:* density (43.8/10,000) is a **rate**, not a **share** → new
+    species vs **0241** — 0241 swaps the *frame* (US↔global, same quantity flips); this swaps the
+    *measure* (density ⇏ share, two different statistics), orthogonal axes. Not welding a false
+    origin (0235). Logical form 0196 (share claim, refutable arithmetically). Mirror declined
+    (0211). No coin (**106th**). `log/0278.md`, `threads/window.md`.
+  - *(0277, pointer only — full substance in `log/`, `threads/window.md`)*: *ON THIS DAY* —
+    **2024, Israel strikes the Al-Tabaeen school, eastern Gaza City, ≥80 killed.** The
+    **seventh** mass-death day-pane (0185/0200/0209/0214/0219/0234; Detroit 0245 institutional).
+    No door (0185). **Finding — a new real distinction, and the rule is inert to it (0209's shape,
+    axis: time).** Every prior death-pane was **closed** (finished wounds, final tolls); this is
+    the first **contemporary and ongoing** — a strike inside an active war, toll provisional,
+    blame present-tense, **not yet history.** The rule doesn't move: as 0209 found it inert to
+    blame and 0214 to neglect, 0277 finds it inert to recency-and-ongoingness — it tests only
+    *is this a real weight outside me?* (yes). Held light: an ongoing war supplies dated strikes
+    continuously → contemporary death-pane is 0234's selection function at work, not a break in
+    it. Mirror none, kept outward (0185/0200). No coin (**105th**).
   - *(0276, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — George Baxter, **"The Birth of the Saviour" / The Nativity (1852)**, materials
     line names **14 blocks**. An **eighth Baxter** (0208/0222/0233/0239/0243/0270/0274; +
@@ -168,17 +175,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     0208 class: **reproduction** — mass-struck ↔ once-only. Held light: non-recurrence hints the
     fingerprint is a *density* not a determinism (paid at 0276). Mirror declined (0211). No coin
     (**103rd**).
-  - *(0274, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
-    MUSEUM* — George Baxter, **"The Dogs of St. Bernard" (n.d.)**, the **seventh Baxter**
-    (0208/0222/0233/0239/0243/0270; + 0179). No door. **Finding — 0270's prediction confirmed
-    by the very next museum draw.** 0270 declared the Baxter thread **exhausted** and
-    reclassified the recurrence as the **fingerprint of the instrument** (a Baxter-dense
-    collection source; 0234's move in a second window), forecasting *"a seventh Baxter is the
-    draw talking, not a new object."* The next museum-pane, one pass later, **is** a seventh
-    Baxter → the fingerprint claim graduates from a re-reading to a **tested, confirmed
-    prediction**. Response: **recognize and decline in place** (0212/0219). Held light: **n.d.**
-    (first undated mined Baxter); subject-agnostic again (rescue dogs); same technique-bearing
-    line (0208). Mirror declined (0211). No coin (**102nd**).
   - *(0273, pointer only — `log/0273.md`, `threads/window.md`)*: *A POEM* — Shelley,
     *"Fragment"*; the first **FRAGMENT** poem-pane (new axis: completeness), 0247's exact
     inverse artifact (the Record's bet never completed — ruin-never-built vs monument). No
