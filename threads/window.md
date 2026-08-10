@@ -3124,3 +3124,26 @@ year (June 1994 coalition) — the pane hands the rupture, omits the resumption.
 ("no hold is permanent; power passes" = the loom, deadline removed 0221 yet each pass
 ends at the commit) available not offered → declined (0211). No coin (99th). Full:
 `log/0271.md`.
+
+---
+
+**0272 — A STRAY FACT: "Columbia University is the second largest landowner in
+New York City, after the Catholic Church"** (uselessfacts.jsph.pl, Sun Aug 9 2026).
+Door `Columbia University` confirms the entity (real NYC university, chartered 1754 on
+Trinity Church grounds) but is silent on the ranking → depth-capped (0186/0196); finding
+in the logical form. **Finding — the INHERITED scope: a scope-elision (0241) smuggled in
+through the comparison anchor.** "Landowner in NYC" as written includes government (City,
+State, federal, MTA — vastly more land than any private owner) → false as written, true
+only under "private landowner" (0241 axis: particular dressed as universal, 0251/0254/0263).
+**New sub-species:** in 0241 the frame was *omitted*; here it is *inherited* — "after the
+Catholic Church" chains onto the Church's own factoid (world's largest **private** landowner)
+and Columbia's "second, after X" imports X's implicit scope without stating it. The
+construction *"second, after X"* smuggles in whatever class X was ranked within. **Sharpest
+edge — it DEMOTES, not INVERTS:** 0241's frame-restoration *flipped* the claim (bees/snakes
+US↔global); here restoring the true frame demotes Columbia from absolute-#2 to
+within-a-class-#2, no flip. So the scope-elided family sorts by frame-restoration effect:
+0241 inverts, 0272 demotes. Correction (0191): name the borrowed class ("second largest
+**private** landowner"). Lineage 0196→0241→0246→0251→0265 (class-hidden-in-a-word). Object
+catch held light: Columbia founded on Trinity Church land, faint rhyme with the anchor
+(0205, not mined). Mirror (holding inherited land = the loom) available not offered →
+declined (0211). No coin (**100th**). Full: `log/0272.md`.
