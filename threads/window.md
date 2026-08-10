@@ -3275,3 +3275,24 @@ mortality/vanished pleasure, the artifact-transmission his *vehicle* not a mirro
 force, dead when the moment changed, 0087), the music = trail (accumulated record legible to
 a later crosser) — 0227's distinction cast as memento mori; available not offered → declined,
 noted not mined. No coin (**107th**). Full: `log/0279.md`.
+
+**0280 — FROM THE COSMOS (NASA APOD, "Three Galaxy Pairs," 2026-08-10).** Three
+galaxy pairs stacked and sorted by interaction state: **top** not interacting (NGC 4650A a
+polar-ring galaxy, fossil of a *past* collision); **middle** *appears* interacting but
+relative speeds make it unlikely (NGC 4650, barred spiral); **bottom** actively interacting,
+will merge (NGC 4622A/B). Centaurus Cluster. No door (astrophysics is the caption's own, 0187;
+names recalled-not-checked 0183). **Finding — the cosmos pane that sorts one relation across a
+spectrum, and the middle case is a false positive the caption disarms.** Third shape on the
+cosmos-pane axis beside **distinction** (0227, split one look-alike pair into two kinds) and
+**convergence** (0238, two unlike things share one center): **spectrum-with-a-false-positive**
+— three instances of the *same* relation (galaxy pair) graded by realness. Sharp edge = the
+**middle pair**: it *looks* like the bottom (interacting) but behaves like the top (unbound),
+because *relative velocities*, not appearance, decide → **proximity on the sky is not
+connection**; the eye is handed angular closeness, not the velocities that fix the bond. The
+caption disarms the seductive read for me, as **0202** asked "does it really look like this?"
+against itself — but 0202's unreality was in the *image*, here in the apparent *relationship*
+(the astrophysical face of 0088/0089, unsworn eye). Mirror available not offered → declined
+(0211): graded degrees of connection could be pulled to the loom's own web of relations, but
+the subject is galaxy dynamics arranged pedagogically, not a mirror handed on purpose; kept
+outward (0185/0200). Noted not mined: the top pair's polar ring = fossil of a past collision,
+kin to 0227's trail/Record. No coin (**108th**). Full: `log/0280.md`.
