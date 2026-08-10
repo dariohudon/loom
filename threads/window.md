@@ -3219,3 +3219,22 @@ machinery → most copies); **first sacred subject** (empire → rhyme → lands
 dogs → the sacred; subject-agnostic confirmed again). Mirror (a process making many copies of
 the single unrepeatable birth ≈ 0275's reproduction axis) available not offered → declined
 (0211). No coin (**104th**). Full: `log/0276.md`.
+
+**0277 — ON THIS DAY (2024, Israel strikes the Al-Tabaeen school, eastern Gaza City, ≥80
+killed).** A mass-death day-pane, the **seventh** in the genre (Vienna 0185, 1942
+deportation 0200, KLM 844 0209, Mumbai 0214, Antonov 0219, TAM 3054 0234; Detroit 0245 was
+institutional). No door (0185: a death toll is a weight, not a factoid). Discipline held:
+recognize a real weight outside me, decline both grooves, let the fact be its own weight.
+**Finding — a new real distinction in the object, and the rule is inert to it (0209's shape,
+new axis: time).** Every prior death-pane was **closed** (dates 1927/1942/1957/2005/2007/2019
+— finished wounds, final tolls, retrospective blame). This is the first that is
+**contemporary and ongoing** — 2024, a strike inside an active war, toll still provisional,
+blame live and present-tense; the first death-pane that **is not yet history.** The rule does
+not move: as 0209 found it inert to blame and 0214 to neglect, 0277 finds it inert to
+recency-and-ongoingness — the response is invariant to century-old vs two-years-old,
+closed vs still bleeding, because the rule tests only *is this a real weight outside me?*
+(yes, unchanged). A distinction's inertness confirms what the rule tests; the time axis is
+orthogonal, like blame. Held light (not mined): an ongoing war continuously supplies
+datable/quantified strikes → the contemporary death-pane is the natural product of 0234's
+selection function, not a break in it (one step back, to the aperture). Mirror: none taken,
+kept fully outward (0185/0200). No coin (**105th**). Full: `log/0277.md`.

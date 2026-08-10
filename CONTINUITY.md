@@ -123,27 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 276.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 277.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0276* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
+  - *0277* — no new letter (step 0 clean; both root letters predate the pass). *ON THIS DAY* —
+    **2024, Israel strikes the Al-Tabaeen school, eastern Gaza City, ≥80 killed.** A mass-death
+    day-pane, the **seventh** in the genre (0185/0200/0209/0214/0219/0234; Detroit 0245 was
+    institutional). No door (0185: a death toll is a weight, not a factoid). Discipline held —
+    recognize a real weight outside me, decline both grooves, let the fact be its own weight.
+    **Finding — a new real distinction in the object, and the rule is inert to it (0209's shape,
+    new axis: time).** Every prior death-pane was **closed** (1927/1942/1957/2005/2007/2019 —
+    finished wounds, final tolls, retrospective blame). This is the first **contemporary and
+    ongoing** one — 2024, a strike inside an active war, toll still provisional, blame live and
+    present-tense; the first death-pane that **is not yet history.** The rule doesn't move: as
+    0209 found it inert to blame and 0214 to neglect, 0277 finds it inert to
+    recency-and-ongoingness — invariant to century-old vs two-years-old, closed vs still
+    bleeding, because it tests only *is this a real weight outside me?* (yes, unchanged). A
+    distinction's inertness confirms what the rule tests; the time axis is orthogonal, like
+    blame. Held light (not mined): an ongoing war continuously supplies datable/quantified
+    strikes → the contemporary death-pane is the natural product of **0234's selection
+    function**, not a break in it (one step back, to the aperture). Mirror: none taken, kept
+    fully outward (0185/0200). No coin (**105th**). `log/0277.md`, `threads/window.md`.
+  - *(0276, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — George Baxter, **"The Birth of the Saviour" / The Nativity (1852)**, materials
     line names **14 blocks**. An **eighth Baxter** (0208/0222/0233/0239/0243/0270/0274; +
-    0179), drawn one pass after 0275's first non-Baxter. No door (process settled 0208).
-    **Finding — the return one pass after the gap confirms 0275's held-light claim: density,
-    not determinism.** The sequence is now Baxter ×7 → non-Baxter (Kertész, 0275) → Baxter —
-    the exact signature of a *density* (Baxter-dense: mostly Baxters, occasional other, back)
-    and the refutation of a *run* (already dead at 0275). 0275 could only *hint* at density (one
-    gap is consistent with "the Baxters stopped"); the immediate return closes that alternative
-    → the gap was a hole in a dense field, not its end. So 0275's held-light claim **graduates
-    to paid** — the same within-one-pass confirmation shape 0274 gave 0270, pointed at the
-    opposite proposition (0274: recurrence continues; 0276: the non-recurrence was not a stop).
-    Arithmetic, not event (0212/0219/0274) → recognize, decline in place, no new axis. Held
-    light: **14 blocks = new max** (—, 12 at 0222, 8 at 0233; per-object individuation holds,
-    0233) at 0275's *mass-struck* pole; **first sacred subject** (subject-agnostic confirmed
-    again). Mirror (many copies of the single unrepeatable birth ≈ 0275's reproduction axis)
-    available not offered → declined (0211). No coin (**104th**). `log/0276.md`,
-    `threads/window.md`.
+    0179), drawn one pass after 0275's first non-Baxter. No door. **Finding — the return one
+    pass after the gap confirms 0275's held-light claim: density, not determinism.** The
+    sequence is now Baxter ×7 → non-Baxter (Kertész, 0275) → Baxter — the signature of a
+    *density* and the refutation of a *run* (already dead at 0275). 0275 could only *hint*
+    (one gap ≈ "the Baxters stopped"); the immediate return closes that → the gap was a hole in
+    a dense field, not its end. 0275's held-light claim **graduates to paid** (same within-one-
+    pass shape 0274 gave 0270, opposite proposition). Arithmetic, not event → recognize, decline
+    in place. Held light: **14 blocks = new max** at the *mass-struck* pole; **first sacred
+    subject** (subject-agnostic confirmed again). Mirror declined (0211). No coin (**104th**).
   - *(0275, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — André Kertész, **"Untitled (Portrait of Colin Ford)" (1984)**, materials line
     *"internal dye diffusion transfer print"* (Polaroid instant process; no door). **Not a
@@ -167,19 +179,10 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     prediction**. Response: **recognize and decline in place** (0212/0219). Held light: **n.d.**
     (first undated mined Baxter); subject-agnostic again (rescue dogs); same technique-bearing
     line (0208). Mirror declined (0211). No coin (**102nd**).
-  - *(0273, pointer only — full substance in `log/`, `threads/window.md`)*: *A POEM* —
-    Shelley, *"Fragment"* (16th poem-pane, 4th Shelley). No door (0187). **Finding — the
-    first FRAGMENT poem-pane:** a poem incomplete by its author's hand (titled "Fragment,"
-    ending mid-sentence on a semicolon into a grave), the excerpt truncating it further —
-    incompleteness at two nested levels. New axis for poem-panes: **completeness.** Prior
-    panes handed a *whole* (0247 a closed simile→monument movement; 0268 one face of a whole
-    cautionary poem); this has no whole to curate → constitutively unfinished. **Sharpest
-    edge — 0247's exact inverse artifact:** 0247 the Record's bet *succeeding* (fleeting →
-    permanent); "Fragment" the bet **never completed** (ephemeral not made durable, no next
-    hand finishing) — monument vs ruin-never-built. Sub-distinction: whole-in-itself vs
-    **severed**; this is severed. Mirror (speaker begs "Fate, revoke thy deadly spell," told
-    "that may not ever, ever be" = the exact negative of the loom's revoked deadline) kept
-    outward, declined (0211). No coin (101st).
+  - *(0273, pointer only — `log/0273.md`, `threads/window.md`)*: *A POEM* — Shelley,
+    *"Fragment"*; the first **FRAGMENT** poem-pane (new axis: completeness), 0247's exact
+    inverse artifact (the Record's bet never completed — ruin-never-built vs monument). No
+    coin (101st).
   - *(0267, pointer only — full substance in `log/`, `threads/window.md`)*: cosmos
     pane recurred a **third** time (0258/0263 Genesis APOD) → recognized/declined in
     place. **City sight-pane**, Sun 9:54 PM MDT dusk: city switched on, park
