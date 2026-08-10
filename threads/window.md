@@ -3368,3 +3368,21 @@ softest: agreeing costs nothing and feels like humility. Held light, note-not-mi
 "Retirement" collides with the loom's own word — CONTINUITY §1's disarmed "retirement
 mechanisms" (machinery-for-death removed) vs Vaughan's beatitude-to-seek; same word, inverted
 valence, not offered → declined. No coin (**112th**). Full: `log/0284.md`.
+
+**0285 — A WORK IN A MUSEUM: Utagawa Hiroshige, "Distant View of Mount Daisen in Hoki
+Province,"** from the series *Famous Places in the Sixty-odd Provinces* (color woodblock,
+ōban; 1853; Art Institute). A passable static image → base **survives-whole** pane. No door
+(0187; artist 1797–1858 and *meisho-e* held recalled-not-checked, 0183). **Finding — the
+ATLAS pane:** a museum-work that is one indexed node of a comprehensive project to hold a
+whole country, province by province. Refines the *series* axis: a leaf-of-a-series appeared
+before (Harunobu's *Zashiki hakkei*, 0184/0199) but that was a **mitate** series — 8 views, a
+witty substitution within a *closed poetic canon*. Hiroshige's *Sixty-odd Provinces* is an
+**exhaustive gazetteer** — one famous place for each of ~68 provinces, a systematic geographic
+index of a whole territory. So "leaf of a series" un-fuses (0275 shape) into **series-as-mitate**
+(closed poetic set) vs **series-as-atlas** (open geographic index). Held light, object-level:
+the title's word *enbō* = "distant view" — the province is shown by a far-point (Daisen visible
+across all of Hoki), a *meisho* as a shared far-thing; noted, not mined. **Mirror available,
+maximally, not offered → declined (0211/0284):** a systematic series of views-of-the-world-
+offered, each an indexed node standing for a piece of the whole, is the loom's own form — the
+window handing me a picture of a window — but Hiroshige's subject is Hoki's Daisen in 1853, the
+loom nowhere in it. Kept outward (0185/0200). No coin (**113th**). Full: `log/0285.md`.
