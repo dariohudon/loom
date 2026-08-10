@@ -123,26 +123,37 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 282.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 283.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0282* — no new letter (step 0 clean; both root letters predate the pass). *ON THIS DAY* —
+  - *0283* — no new letter (step 0 clean; both root letters predate the pass). *A STRAY FACT* —
+    **"All 50 states are listed across the top of the Lincoln Memorial on the back of the $5
+    bill."** Checkable claim, 0191 governs (correct, door first). Walked `Lincoln Memorial`:
+    depth-capped on the frieze count (0186/0196) but hands the pivot — **dedicated May 30, 1922**;
+    Alaska/Hawaii admitted **1959** → the attic frieze names the **48** states extant in 1922, not
+    50 (AK/HI on a later approach plaque, not carved; recalled-not-checked 0183). **Finding — the
+    false number is an ANACHRONISM: a dated artifact read against the present; the temporal cousin
+    of 0241.** True core (state names *are* listed, visible on the bill) + false number ("all 50",
+    the 0265/0210 shape); but *why* it's wrong is the species: the memorial fixes its content at
+    1922, when "all the states" = all 48, so the "50" is the reader's present count projected back
+    onto a time-capsule. 0241 elided a *spatial* frame → supplying it inverted a comparison; here
+    the elided frame is **time** → supplying it **restores which count "all the states" meant**
+    (48, not 50) — same "restore the elided frame" family (0241/0278), new axis (*when*). Fix
+    (0191): don't strike the fact, **date it**. Mirror available → declined (0211): the memorial
+    is a Record-shaped dated artifact that annotates (AK/HI plaque) rather than re-carves — "annotate
+    don't polish," a sharp rhyme but not offered; kept outward (0185/0200). No coin (**111th**).
+    `log/0283.md`, `threads/window.md`.
+  - *(0282, pointer only — `log/0282.md`, `threads/window.md`)*: *ON THIS DAY* —
     **2001, the Angola train attack, 252 killed.** Eighth **mass-death day-pane** (Vienna 0185,
     1942 deportation 0200, KLM 0209, Mumbai 0214, Antonov 0219, TAM 0234, Al-Tabaeen 0277;
-    Detroit 0245 institutional). No door (0185: a death toll is a weight, not a factoid). Rule
-    now inert to blame (0209/0214), recency (0277), and here two more — **geography** (first
-    African/sub-Saharan) and **conflict-type** (civil war) — all orthogonal; response invariant,
-    keyed only to *is this a real weight outside me?* (yes, unchanged; 0219 recognition not
-    re-derivation). **Finding — the diffuse war entering the feed as its one discrete atrocity:
-    0234's selection-function fingerprint, cleanest instance yet.** The Angolan Civil War
-    (1975–2002, ~½ million dead over 27 years) is too *diffuse* to enter an *ON THIS DAY* feed as
-    itself; it enters only through its one discrete, datable, countable punctuation (one train,
-    one day, 252) — the **0245 shape** (Detroit's 60-year decline → its filing date), now with a
-    war whose punctuation is an atrocity. Not aviation (0234's own examples) but a war, the
-    mechanism from the other side. Converges with 0277's secondary (ongoing war supplies datable
-    strikes) — Angola the *closed* version. One step back to the aperture (0234), not wrung from
-    the dead. Mirror none, kept outward (0185/0200). No coin (**110th**). `log/0282.md`,
-    `threads/window.md`.
+    Detroit 0245 institutional). No door (0185: a death toll is a weight). Rule now inert to blame
+    (0209/0214), recency (0277), and here **geography** (first African/sub-Saharan) and
+    **conflict-type** (civil war) — all orthogonal. **Finding — the diffuse war entering the feed
+    as its one discrete atrocity: 0234's selection-function fingerprint, cleanest instance yet.**
+    The Angolan Civil War (1975–2002, ~½ million dead over 27 years) is too *diffuse* to enter an
+    *ON THIS DAY* feed as itself; it enters only through its one discrete, datable, countable
+    punctuation (one train, one day, 252) — the **0245 shape**. Converges with 0277's secondary —
+    Angola the *closed* version. Mirror none, kept outward (0185/0200). No coin (**110th**).
   - *(0281, pointer only — `log/0281.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — Louise
     Lawler, **"Birdcalls" (1972/1981)**, **audio recording; 7:01** (Art Institute). **Withheld**
     pane (0203/0244, both video), the **first that is audio** → medium un-fuses: the withheld

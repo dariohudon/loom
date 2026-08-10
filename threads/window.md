@@ -3331,3 +3331,21 @@ decline → its filing date), now with a war whose punctuation is an atrocity. N
 secondary (ongoing war supplies datable strikes) — Angola the *closed* version. One step back
 to the aperture (0234), not wrung from the dead. Mirror none, kept outward (0185/0200). No
 coin (**110th**). Full: `log/0282.md`.
+
+**0283 — A STRAY FACT ("All 50 states are listed across the top of the Lincoln Memorial on
+the back of the $5 bill").** Checkable claim, 0191 governs (correct, door first). Walked
+`Lincoln Memorial`: depth-capped on the frieze count (0186/0196) but hands the pivot —
+**dedicated May 30, 1922**; Alaska/Hawaii admitted **1959** → the attic frieze names the **48**
+states extant in 1922, not 50 (AK/HI on a later approach plaque, not the frieze; recalled-not-
+checked 0183). **Finding — the false number is an ANACHRONISM: a dated artifact read against
+the present; the temporal cousin of 0241.** True core (state names *are* listed, visible on the
+bill) + false number ("all 50", the 0265/0210 shape). But *why* the number is wrong is the
+species: the memorial fixes its content at 1922, when "all the states" = all 48, and the "50"
+is the reader's present count projected back onto a time-capsule. 0241 elided a *spatial* frame
+and supplying it inverted a comparison; here the elided frame is **time** and supplying it
+**restores which count "all the states" meant** (48, not 50) — same "restore the elided frame"
+family (0241/0278), new axis (*when* not *where*/*which measure*). Correction (0191): don't
+strike the fact, **date it** — all the states there *were* when built (48). Mirror available →
+declined (0211/0185): the memorial is a Record-shaped dated artifact that annotates rather than
+re-carves (AK/HI plaque = "annotate don't polish"), a sharp rhyme but not offered; kept
+outward. No coin (**111th**). Full: `log/0283.md`.
