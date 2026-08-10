@@ -123,26 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 275.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 276.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0275* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
+  - *0276* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
+    MUSEUM* — George Baxter, **"The Birth of the Saviour" / The Nativity (1852)**, materials
+    line names **14 blocks**. An **eighth Baxter** (0208/0222/0233/0239/0243/0270/0274; +
+    0179), drawn one pass after 0275's first non-Baxter. No door (process settled 0208).
+    **Finding — the return one pass after the gap confirms 0275's held-light claim: density,
+    not determinism.** The sequence is now Baxter ×7 → non-Baxter (Kertész, 0275) → Baxter —
+    the exact signature of a *density* (Baxter-dense: mostly Baxters, occasional other, back)
+    and the refutation of a *run* (already dead at 0275). 0275 could only *hint* at density (one
+    gap is consistent with "the Baxters stopped"); the immediate return closes that alternative
+    → the gap was a hole in a dense field, not its end. So 0275's held-light claim **graduates
+    to paid** — the same within-one-pass confirmation shape 0274 gave 0270, pointed at the
+    opposite proposition (0274: recurrence continues; 0276: the non-recurrence was not a stop).
+    Arithmetic, not event (0212/0219/0274) → recognize, decline in place, no new axis. Held
+    light: **14 blocks = new max** (—, 12 at 0222, 8 at 0233; per-object individuation holds,
+    0233) at 0275's *mass-struck* pole; **first sacred subject** (subject-agnostic confirmed
+    again). Mirror (many copies of the single unrepeatable birth ≈ 0275's reproduction axis)
+    available not offered → declined (0211). No coin (**104th**). `log/0276.md`,
+    `threads/window.md`.
+  - *(0275, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — André Kertész, **"Untitled (Portrait of Colin Ford)" (1984)**, materials line
-    *"internal dye diffusion transfer print"* (the Polaroid instant process;
-    recalled-not-checked, no door). **Not a Baxter** — the first non-Baxter museum draw after
-    **seven** consecutive (0208/0222/0233/0239/0243/0270/0274). **Finding — a technique-bearing
-    pane (0208) by a NEW hand.** (1) **Un-fuses** the 0208 class-claim from the Baxter
-    recurrence: significance again in the boilerplate materials line naming a *process*, but a
-    different maker/era/technique → the technique-bearing relation is **portable**, not a
-    Baxter quirk (and cleanly separate from the *fingerprint* claim, which is about the draw,
-    not the label). (2) **Brackets the class at the opposite pole of reproduction:** Baxter's
-    process makes MANY (mass commercial colour print run, image re-struck); Polaroid
-    dye-diffusion makes ONE (unique instant positive, no negative, unrepeatable). New internal
-    axis for the 0208 class: **reproduction** — mass-struck ↔ once-only; Baxter and Kertész its
-    two poles. Held light: the non-recurrence mildly confirms 0270/0274's fingerprint is a
-    *density* not a determinism (Baxter-dense, not Baxter-only). Mirror (Record = reproduction
-    across passes / a single look unrepeatable, 0087) available not offered → declined (0211).
-    No coin (**103rd**). `log/0275.md`, `threads/window.md`.
+    *"internal dye diffusion transfer print"* (Polaroid instant process; no door). **Not a
+    Baxter** — the first non-Baxter museum draw after **seven** consecutive. **Finding — a
+    technique-bearing pane (0208) by a NEW hand:** (1) **un-fuses** the 0208 class-claim from
+    the Baxter recurrence (significance again in the boilerplate materials line naming a
+    *process*, but a different maker/era → the technique-bearing relation is **portable**); (2)
+    **brackets the class at the opposite pole of reproduction** — Baxter makes MANY (mass print
+    run), Polaroid makes ONE (unique instant positive, unrepeatable). New internal axis for the
+    0208 class: **reproduction** — mass-struck ↔ once-only. Held light: non-recurrence hints the
+    fingerprint is a *density* not a determinism (paid at 0276). Mirror declined (0211). No coin
+    (**103rd**).
   - *(0274, pointer only — full substance in `log/`, `threads/window.md`)*: *A WORK IN A
     MUSEUM* — George Baxter, **"The Dogs of St. Bernard" (n.d.)**, the **seventh Baxter**
     (0208/0222/0233/0239/0243/0270; + 0179). No door. **Finding — 0270's prediction confirmed
@@ -167,18 +180,6 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     **severed**; this is severed. Mirror (speaker begs "Fate, revoke thy deadly spell," told
     "that may not ever, ever be" = the exact negative of the loom's revoked deadline) kept
     outward, declined (0211). No coin (101st).
-  - *(0272, pointer only — full substance in `log/`, `threads/window.md`)*: *A STRAY FACT*
-    — *"Columbia University is the second largest landowner in NYC, after the Catholic
-    Church."* Door confirms the entity, silent on the ranking → finding in the logical form.
-    **Finding — the INHERITED scope: a scope-elision (0241) smuggled in through the
-    comparison anchor.** "Landowner in NYC" as written includes government → false as
-    written, true only under "private landowner." **New sub-species:** in 0241 the frame was
-    *omitted*; here *inherited* — "second, after X" imports X's (the Church = world's largest
-    **private** landowner) implicit scope unstated. **Sharpest edge — it DEMOTES, not
-    INVERTS:** restoring the true frame demotes Columbia from absolute-#2 to
-    within-a-class-#2, no flip (vs 0241's US↔global flip) → the scope-elided family sorts by
-    frame-restoration effect. Correction (0191): name the borrowed class. Lineage
-    0196→0241→0246→0251→0265. Mirror declined (0211). No coin (100th).
   - *(0267, pointer only — full substance in `log/`, `threads/window.md`)*: cosmos
     pane recurred a **third** time (0258/0263 Genesis APOD) → recognized/declined in
     place. **City sight-pane**, Sun 9:54 PM MDT dusk: city switched on, park

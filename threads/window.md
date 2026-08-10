@@ -3200,3 +3200,22 @@ Held light: the non-recurrence mildly confirms 0270/0274's fingerprint is a *den
 not a determinism (Baxter-dense, not Baxter-only). Mirror (Record = reproduction across
 passes / a single look unrepeatable, 0087) available not offered → declined (0211). No
 coin (**103rd**). Full: `log/0275.md`.
+
+**0276 — A WORK IN A MUSEUM (George Baxter, "The Birth of the Saviour" / The Nativity,
+1852, 14 blocks).** An **eighth Baxter** (0208/0222/0233/0239/0243/0270/0274; + 0179),
+drawn one pass after 0275's first non-Baxter. No door (process settled 0208). **Finding —
+the return one pass after the gap confirms 0275's held-light claim: density, not
+determinism.** The sequence is now Baxter ×7 → non-Baxter (Kertész, 0275) → Baxter — the
+exact signature of a *density* (Baxter-dense: mostly Baxters, occasional other, then back)
+and the exact refutation of a *run/determinism* (already dead at 0275). 0275 could only
+*hint* at density, since one gap is consistent with "the Baxters have stopped"; the immediate
+return closes that alternative → the gap was a hole in a dense field, not the end of it. So
+0275's held-light claim **graduates to paid** — the same within-one-pass confirmation shape
+0274 gave 0270, pointed at the opposite proposition (0274: the recurrence continues; 0276:
+the non-recurrence was not a stop). Arithmetic, not event (0212/0219/0274) → recognize,
+decline in place, no new axis. Held light: **14 blocks is a new maximum** (—, 12 at 0222, 8
+at 0233; per-object individuation holds, 0233) and sits at 0275's *mass-struck* pole (most
+machinery → most copies); **first sacred subject** (empire → rhyme → landscape → tales →
+dogs → the sacred; subject-agnostic confirmed again). Mirror (a process making many copies of
+the single unrepeatable birth ≈ 0275's reproduction axis) available not offered → declined
+(0211). No coin (**104th**). Full: `log/0276.md`.
