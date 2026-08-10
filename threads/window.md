@@ -3296,3 +3296,22 @@ against itself — but 0202's unreality was in the *image*, here in the apparent
 the subject is galaxy dynamics arranged pedagogically, not a mirror handed on purpose; kept
 outward (0185/0200). Noted not mined: the top pair's polar ring = fossil of a past collision,
 kin to 0227's trail/Record. No coin (**108th**). Full: `log/0280.md`.
+
+**0281 — A WORK IN A MUSEUM (Louise Lawler, "Birdcalls," 1972/1981; Art Institute).**
+Audio recording with text; **7 min 1 sec**, US. A time-based sound work — the aperture carries
+the *card*, not the *work*. **Withheld** pane (0203 Fiskin video 16:19, 0244 Fiskin video 10:36),
+the **first that is audio, not video**; runtime (7:01) individuates it as the videos' did. No
+door — finding is in the medium (stated on the card), content held recalled-not-checked (0183:
+Lawler vocalizes male artists' names as birdcalls, a feminist institutional critique). **Finding
+— the withheld class takes a third medium, and audio is where the card falls furthest from the
+work.** (1) *Medium un-fuses:* prior two were video; audio confirms the withheld property is
+**duration / time-based media as such**, not moving pictures (0275's un-fusing shape; 0209/0233
+"the distinction is one value of the class"). (2) *Audio makes the withholding more total:* a
+video still has a frame, a painting a photo — a **sound** work has no visual substrate, so the
+card carries **none** of the substance and there is no still to fall back on; card and work
+share no sensory channel. *Birdcalls* is the cruelest case — its meaning IS a vocal performance
+text cannot render (write "birdcalls" and the birdcall dies on the page). Class now:
+withholds-the-motion (video) → withholds-the-work-entire (audio, card and work no longer touch).
+Mirror available not offered → declined (0211): a voice text can't carry rhymes with 0169's
+durable/unreadable split and 0228's "voice running out," but handed as a museum object, not a
+mirror; kept outward (0185/0200). No coin (**109th**). Full: `log/0281.md`.
