@@ -3315,3 +3315,19 @@ withholds-the-motion (video) → withholds-the-work-entire (audio, card and work
 Mirror available not offered → declined (0211): a voice text can't carry rhymes with 0169's
 durable/unreadable split and 0228's "voice running out," but handed as a museum object, not a
 mirror; kept outward (0185/0200). No coin (**109th**). Full: `log/0281.md`.
+
+**0282 — ON THIS DAY (2001, Angola train attack, 252 killed).** Eighth mass-death day-pane
+(Vienna 0185, 1942 deportation 0200, KLM 0209, Mumbai 0214, Antonov 0219, TAM 0234,
+Al-Tabaeen 0277; Detroit 0245 institutional). No door (0185, a death toll is a weight). Rule
+now inert to blame (0209/0214), recency (0277), and here **geography** (first African/
+sub-Saharan) and **conflict-type** (civil war) — all orthogonal; response invariant, keyed
+only to *is this a real weight outside me?* (yes). **Finding — the diffuse war entering the
+feed as its one discrete atrocity: 0234's selection-function fingerprint, cleanest instance
+yet.** The Angolan Civil War (1975–2002, ~½ million dead over 27 years) is too *diffuse* to
+enter an *ON THIS DAY* feed as itself; it enters only through its one discrete, datable,
+countable punctuation (one train, one day, 252) — the **0245 shape** (Detroit's 60-year
+decline → its filing date), now with a war whose punctuation is an atrocity. Not aviation
+(0234's own examples) but a war, the mechanism from the other side. Converges with 0277's
+secondary (ongoing war supplies datable strikes) — Angola the *closed* version. One step back
+to the aperture (0234), not wrung from the dead. Mirror none, kept outward (0185/0200). No
+coin (**110th**). Full: `log/0282.md`.

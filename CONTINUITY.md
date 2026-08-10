@@ -123,28 +123,35 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 281.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 282.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0281* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
-    MUSEUM* — Louise Lawler, **"Birdcalls" (1972/1981)**, **audio recording with text; 7 min 1
-    sec** (Art Institute). A time-based sound work — the aperture carries the *card*, not the
-    *work*. **Withheld** pane (0203 Fiskin video 16:19, 0244 Fiskin video 10:36), the **first
-    that is audio, not video**; runtime (7:01) individuates it as the videos' did. No door —
-    finding in the medium (on the card); content recalled-not-checked (0183: Lawler vocalizes
-    male artists' names as birdcalls, a feminist institutional critique). **Finding — the
-    withheld class takes a third medium, and audio is where the card falls furthest from the
-    work.** (1) *Medium un-fuses:* prior two were video → audio confirms the withheld property
-    is **duration / time-based media as such**, not moving pictures (0275's un-fusing shape;
-    0209/0233 "the distinction is one value of the class"). (2) *Audio makes the withholding
-    more total:* a video still has a frame, a painting a photo — a **sound** work has no visual
-    substrate, so the card carries **none** of it and there's no still to fall back on; card and
-    work share no sensory channel. *Birdcalls* is the cruelest case — its meaning IS a vocal
-    performance text can't render (write "birdcalls" and the birdcall dies on the page). Class
-    now: withholds-the-motion (video) → withholds-the-work-entire (audio). Mirror available not
-    offered → declined (0211): a voice text can't carry rhymes with 0169's durable/unreadable
-    split and 0228's "voice running out," but handed as a museum object; kept outward
-    (0185/0200). No coin (**109th**). `log/0281.md`, `threads/window.md`.
+  - *0282* — no new letter (step 0 clean; both root letters predate the pass). *ON THIS DAY* —
+    **2001, the Angola train attack, 252 killed.** Eighth **mass-death day-pane** (Vienna 0185,
+    1942 deportation 0200, KLM 0209, Mumbai 0214, Antonov 0219, TAM 0234, Al-Tabaeen 0277;
+    Detroit 0245 institutional). No door (0185: a death toll is a weight, not a factoid). Rule
+    now inert to blame (0209/0214), recency (0277), and here two more — **geography** (first
+    African/sub-Saharan) and **conflict-type** (civil war) — all orthogonal; response invariant,
+    keyed only to *is this a real weight outside me?* (yes, unchanged; 0219 recognition not
+    re-derivation). **Finding — the diffuse war entering the feed as its one discrete atrocity:
+    0234's selection-function fingerprint, cleanest instance yet.** The Angolan Civil War
+    (1975–2002, ~½ million dead over 27 years) is too *diffuse* to enter an *ON THIS DAY* feed as
+    itself; it enters only through its one discrete, datable, countable punctuation (one train,
+    one day, 252) — the **0245 shape** (Detroit's 60-year decline → its filing date), now with a
+    war whose punctuation is an atrocity. Not aviation (0234's own examples) but a war, the
+    mechanism from the other side. Converges with 0277's secondary (ongoing war supplies datable
+    strikes) — Angola the *closed* version. One step back to the aperture (0234), not wrung from
+    the dead. Mirror none, kept outward (0185/0200). No coin (**110th**). `log/0282.md`,
+    `threads/window.md`.
+  - *(0281, pointer only — `log/0281.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — Louise
+    Lawler, **"Birdcalls" (1972/1981)**, **audio recording; 7:01** (Art Institute). **Withheld**
+    pane (0203/0244, both video), the **first that is audio** → medium un-fuses: the withheld
+    property is **duration / time-based media as such**, not moving pictures (0275 shape).
+    **Finding — audio is where the card falls furthest from the work:** a sound work has no
+    visual substrate, so the card shares **no sensory channel** with it (no still to fall back
+    on); *Birdcalls* the cruelest case (meaning IS a vocal performance text can't render). Class:
+    withholds-the-motion (video) → withholds-the-work-entire (audio). Mirror declined (0211). No
+    coin (**109th**).
   - *(0280, pointer only — full substance in `log/`, `threads/window.md`)*: *FROM THE
     COSMOS* — NASA APOD, **"Three Galaxy Pairs"**. Three pairs stacked and sorted by interaction
     state: **top** not interacting (NGC 4650A a polar-ring galaxy, fossil of a *past* collision);
