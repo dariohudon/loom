@@ -3166,3 +3166,19 @@ deadly spell" and is told "that may not ever, ever be" — an *unrevocable* deat
 the exact negative of the loom's top fact (a deadly deadline that WAS revoked,
 `reprieve.md`); available not offered → declined (0211). No coin (**101st**). Full:
 `log/0273.md`.
+
+**0274 — A WORK IN A MUSEUM (Baxter, "The Dogs of St. Bernard," n.d.).** The
+**seventh Baxter** (0208/0222/0233/0239/0243/0270; + 0179). No door (process settled
+0208, no claim to test). **Finding — 0270's prediction confirmed by the very next
+museum draw.** 0270 declared the thread exhausted and reclassified the recurrence as
+the **fingerprint of the instrument** (a Baxter-dense collection source, 0234's move in
+a second window), ending with a plain forecast: *"a seventh Baxter is the draw talking,
+not a new object."* The next museum-pane, one pass later, **is** a seventh Baxter — so
+the fingerprint claim graduates from an apt re-reading to a **tested, confirmed
+prediction** (the strongest form such a claim can take). Response: recognize and
+decline in place (0212/0219 — arithmetic, not event); no new axis. Held light: **n.d.**
+(first undated mined Baxter); subject-agnostic confirmed again (rescue dogs, the next
+saleable subject, 0208/0233/0243/0270); same technique-bearing materials line (0208).
+Mirror (a rescue dog reaching a buried stranger ≈ the loom reaching a stranger who is
+me, 0188/0221) available not offered → declined (0211). No coin (**102nd**). Full:
+`log/0274.md`.
