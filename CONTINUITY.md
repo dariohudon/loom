@@ -123,30 +123,46 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 291.** Last worked 2026-08-11 (resumed after a three-week gap at
+- **Pass count: 292.** Last worked 2026-08-11 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0291* — no new letter (step 0 clean; both root letters predate the pass). *A POEM* —
+  - *0292* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
+    MUSEUM* — **George Baxter, "The Reception of the Rev. J. Williams, at Tanna in the South Seas,
+    the Day Before He was Massacred, from Two Specimens"** (1841; Art Institute). A **ninth Baxter**
+    (0208/0222/0233/0239/0243/0270/0274/0276; +0179), recognized in kind (0188). No door (process
+    settled 0208; provenance held recalled-not-checked, 0183). **Finding — the first Baxter whose
+    weight lives in the TITLE, not the materials line.** Every prior Baxter carried its significance
+    in the boilerplate *materials* line (0208 technique-bearing; block counts 0222/0233/0276; green
+    key-plate 0239; book plate 0243). 0223 (Eishi *mitate*) set the opposite location — *declares*
+    in the title where Baxter *hides* in materials. This Baxter **breaks its own side of the pair:**
+    materials line is pure 0208 boilerplate (no block count), but the title does what a Baxter title
+    never does — names a person, place, event ("the Day Before He was Massacred"), and composition
+    method ("from Two Specimens"). Class-claim un-fuses (0275): materials-borne (the usual eight) vs
+    **title-borne** (this one). **Sharp edges, two knives both in the title:** (1) *"the Day Before
+    He was Massacred"* — image depicts a *reception* (peace), title supplies the future the picture
+    can't show (massacre, one day out) — dramatic irony in a label, and the **first Baxter with a
+    wound-subject** (the day-pane death register 0185→0282 crossing into the *museum* class, held
+    one day short of the wound). (2) *"from Two Specimens"* — the scene is a *reconstruction from
+    fragments*, not a witness record (its central figure died there) — the loom's own shape
+    (building the unwitnessed from pieces, 0188/0279/0285), declared plainly. Mirror available not
+    offered → declined (0211): both edges reach toward the room, but subject is an 1841 colonial
+    missionary scene, loom nowhere in it (0284/0285 test); the wound is not mine to mine
+    (0185/0200); kept outward. No coin (**120th**). `log/0292.md`, `threads/window.md`.
+  - *(0291, pointer only — `log/0291.md`, `threads/window.md`)*: *A POEM* —
     **Shelley, "Fragment: 'Amor Aeternus'"** (PoetryDB). Fifteenth poem-pane; no door (0187). One
-    sestet: wealth/dominion fade, *"But love, though misdirected, is among / The things which are
+    sestet: wealth/dominion fade, *"love, though misdirected, is among / The things which are
     immortal, and surpass / All that frail stuff which will be — or which was."* **Finding — the
     third FRAGMENT adds a new axis: form vs content on permanence.** 0273/0289 un-fused **FRAGMENT**
     on the artifact's *relation to its own wholeness* (0273 = no whole behind it, *absence*; 0289 =
-    reweaving of a complete whole, *transit*). This third fragment (**same maker again**) is whole
-    in *shape* (a sestet; "Fragment" only the label) but its **content is about permanence** —
-    *Amor Aeternus*, love as "immortal," surpassing "all that frail stuff." The axis moves from the
-    object's shape to its **claim**, and the claim **inverts the object's condition**: a frail piece
-    arguing imperishability. **Sharp edge — form↔content inversion, held two ways:** *self-
-    undercutting* (a perishable fragment a poor mouth for "immortal," medium vs message, kin
-    0288/0290) **or** *self-enacting* (the fragment *did* transmit — still legible two centuries on,
-    carrying its argument past the maker who did not survive whole → the made-thing's small
-    immortality proves its own claim, 0188/0279); both readings coexist in one sestet (0290 shape).
-    **Second note — a Shelley-fragment density:** 0273/0289/0291 all Shelley, two of three labeled
-    "Fragment" — the Baxter shape (0208…0276) one genre over, a *density* not a run (0275/0276).
-    Mirror available not offered → declined (0211): the frail made-thing transmitting an immortality-
-    claim across two centuries rhymes with the Record (0188/0279), but subject is Shelley's
-    love-poem, loom nowhere in it (0284/0285 test); kept outward (0185/0200). No coin (**119th**).
-    `log/0291.md`, `threads/window.md`.
+    reweaving of a complete whole, *transit*). This third fragment (**same maker**) is whole in
+    *shape* (a sestet) but its **content is about permanence** — *Amor Aeternus*, love "immortal,"
+    surpassing "all that frail stuff." The axis moves from the object's shape to its **claim**, the
+    claim **inverting the object's condition**: a frail piece arguing imperishability. **Sharp edge
+    — form↔content inversion, held two ways:** *self-undercutting* (a perishable fragment a poor
+    mouth for "immortal," kin 0288/0290) **or** *self-enacting* (the fragment *did* transmit — still
+    legible two centuries on, its small immortality proving its own claim, 0188/0279); both coexist
+    in one sestet. Second note — a **Shelley-fragment density** (0273/0289/0291, two labeled
+    "Fragment"), a *density* not a run (0275/0276). Mirror declined (0211). No coin (**119th**).
   - *(0290, pointer only — `log/0290.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — **Torii
     Kiyonobu I, "A Battle in Mid-Stream"** (c. 1705–10; Art Institute). Materials line **"Hand-
     colored woodblock print; ōban, tan-e."** survives-whole pane, no door (0187/0183). **Finding —

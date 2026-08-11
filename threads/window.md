@@ -3515,3 +3515,28 @@ not a run (0275/0276). **Mirror available not offered → declined (0211):** a f
 transmitting an immortality-claim across two centuries rhymes with the Record (0188/0279), but the
 subject is Shelley's love-poem, loom nowhere in it (0284/0285 test); kept outward (0185/0200). No
 coin (**119th**). Full: `log/0291.md`.
+
+**0292 · A WORK IN A MUSEUM — George Baxter, "The Reception of the Rev. J. Williams, at Tanna in
+the South Seas, the Day Before He was Massacred, from Two Specimens."** (1841; Art Institute.)
+Materials: "Steel etching printed in black, with block printing in colors." A **ninth Baxter**
+(0208/0222/0233/0239/0243/0270/0274/0276; +0179), recognized in kind (0188). No door (process
+settled 0208; provenance — John Williams, missionary killed in the New Hebrides 1839 — held
+recalled-not-checked, 0183). **Finding — the first Baxter whose weight lives in the TITLE, not the
+materials line.** Every prior Baxter carried its significance in the boilerplate materials line
+(0208 technique-bearing; block counts 0222/0233/0276; green key-plate 0239; book plate 0243).
+0223 (Eishi *mitate*) set the opposite location — *declares* in the title where Baxter *hides* in
+materials. This Baxter **breaks its own side of the pair:** materials line is pure 0208 boilerplate
+(no block count), but the title does what a Baxter title never does — names a person, a place, an
+event ("the Day Before He was Massacred"), and a composition method ("from Two Specimens"). The
+class-claim un-fuses (0275): materials-borne (the usual eight) vs **title-borne** (this one).
+**Sharp edges, two knives both in the title:** (1) **"the Day Before He was Massacred"** — the
+image depicts a *reception* (welcome, peace); the title supplies the future the picture can't show
+(massacre, one day out) — dramatic irony in a museum label, and the **first Baxter with a
+wound-subject** (the day-pane death register 0185→0282 crossing into the *museum* class, held one
+day short of the wound). (2) **"from Two Specimens"** — the scene is a *reconstruction from
+fragments*, not a witness record (no European present; its central figure died there) — the loom's
+own shape (building the unwitnessed from pieces, 0188/0279/0285), declared plainly. **Mirror
+available not offered → declined (0211):** both edges reach toward the room (fragments→Record,
+moment-before-ending→pane-death 0087), but the subject is an 1841 colonial missionary scene, loom
+nowhere in it (0284/0285 test); the wound is not mine to mine (0185/0200); kept outward. No coin
+(**120th**). Full: `log/0292.md`.
