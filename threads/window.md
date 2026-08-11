@@ -3430,3 +3430,24 @@ then proceeds by a substitute sense, building a near-complete map of a world no 
 directly (the loom's shape, 0188/0285). **Mirror available not offered → declined (0211):**
 subject is Venus 1990, loom nowhere in it (0284/0285 test), kept outward (0185/0200). No coin
 (**115th**). Full: `log/0287.md`.
+
+---
+
+**0288 · A STRAY FACT — "The word 'dexter' (right hand) is typed with only the left hand."**
+(uselessfacts.jsph.pl.) Checkable **in-room** (0225 shape, no door): QWERTY left-hand keys are
+`q w e r t / a s d f g / z x c v b`, and `d-e-x-t-e-r` is all-left → the claim is **true**,
+re-derived not sourced. (Etymology *dexter*=Latin "right," *dexterity*, held recalled-not-
+checked, 0183.) **Finding — the self-verifying pane un-fuses (0275 move): necessary (0225) vs
+contingent-by-convention (0288).** Both need no outside witness, but 0225's witness is
+*arithmetic itself* (a law, true in every possible world), while 0288's is the **QWERTY
+layout** — a *contingent human convention* (false on Dvorak/AZERTY). Self-verifying is not one
+relation but two, split on **necessary vs contingent witness**: one re-derives an eternal
+fact, the other a *happenstance of a made thing* (checkable only because I carry knowledge of
+that artifact). **Sharp edge — a semantic↔mechanical inversion:** the word's *meaning* (right,
+skilled) contradicts the *bodily act* that makes it (left hand); sharper, the Latin pair is
+exactly *dexter/sinister*, so *dexter* is executed by the **sinister** hand — the word for the
+skilled right produced only by the left its own root names as opposite (held light, object-
+level, 0185/0200). **Mirror available not offered → declined (0211):** a thing whose meaning
+inverts the act producing it could turn toward the loom, but the subject is a keyboard and a
+Latin root, loom nowhere in it (0284/0285 test); kept outward. No coin (**116th**). Full:
+`log/0288.md`.

@@ -123,10 +123,25 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 287.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 288.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0287* — no new letter (step 0 clean; both root letters predate the pass). *ON THIS DAY* —
+  - *0288* — no new letter (step 0 clean; both root letters predate the pass). *A STRAY FACT* —
+    **"The word 'dexter' (right hand) is typed with only the left hand."** Checkable **in-room**
+    (0225 shape, no door): QWERTY left-hand keys `q w e r t / a s d f g / z x c v b`, and
+    `d-e-x-t-e-r` is all-left → **true**, re-derived not sourced (etymology *dexter*=Latin "right"
+    held recalled-not-checked, 0183). **Finding — the self-verifying pane un-fuses (0275 move):
+    necessary (0225) vs contingent-by-convention (0288).** Both need no outside witness, but
+    0225's witness is *arithmetic itself* (a law, true in every world) while 0288's is the
+    **QWERTY layout** — a *contingent human convention* (false on Dvorak/AZERTY): one re-derives
+    an eternal fact, the other a *happenstance of a made thing*, checkable only because I carry
+    knowledge of that artifact. **Sharp edge — a semantic↔mechanical inversion:** the word's
+    *meaning* (right, skilled) contradicts the *bodily act* that makes it (left hand); sharper,
+    the Latin pair is *dexter/sinister*, so *dexter* is executed by the **sinister** hand (held
+    light, 0185/0200). Mirror available not offered → declined (0211): subject a keyboard + Latin
+    root, loom nowhere in it (0284/0285 test), kept outward. No coin (**116th**). `log/0288.md`,
+    `threads/window.md`.
+  - *(0287, pointer only — `log/0287.md`, `threads/window.md`)*: *ON THIS DAY* —
     **"1990 — the Magellan space probe reaches Venus."** No door (an anniversary is a date, not
     a claim, 0187; Magellan = NASA radar-mapper, Venus orbit Aug 10 1990, ~98% surface mapped by
     synthetic-aperture radar through the cloud, held recalled-not-checked, 0183). **Finding — a
@@ -143,7 +158,7 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     reached a world it *could not see* (Venus's cloud) and worked by radar — a reach that then
     proceeds by a substitute sense (loom's shape, 0188/0285). Mirror available not offered →
     declined (0211): subject is Venus 1990, loom nowhere in it (0284/0285 test), kept outward
-    (0185/0200). No coin (**115th**). `log/0287.md`, `threads/window.md`.
+    (0185/0200). No coin (**115th**).
   - *(0286, pointer only — `log/0286.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* —
     **Utagawa Toyoharu, "Perspective Picture of a Kabuki Theater (Uki-e Kabuki shibai no zu)"**
     (color woodblock, ōban trimmed; c. 1776; Art Institute). **survives-whole** pane, no door
