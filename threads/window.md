@@ -3565,3 +3565,25 @@ classes:** 0292 (Baxter) was the first *museum* wound-subject, held one day shor
 (0275/0276). **No mirror, kept outward (0185/0200):** a pogrom against a real people is not mine to
 mine — the strongest case of the outward rule, turning it inward would be exactly 0221's failure.
 No coin (**121st**). Full: `log/0293.md`.
+
+---
+
+**0294 · A STRAY FACT** — *"Each month, there is at least one report of UFOs from each province of
+Canada."* (uselessfacts.jsph.pl — **same source as 0278**, whose Russian-doctors claim ran false;
+provenance already stained, 0183). 0191 governs but the claim resists the door — which is the
+finding. **Finding — the fact whose counted unit is itself an unsworn claim.** Every prior
+stray-fact counted a **real thing** (doctors 0278, foods 0265, states 0283, deaths 0241, a repunit
+0225); the defect was in quantifier/frame/arithmetic, the *unit* solid. Here the unit is a **"report
+of UFOs"** — a *testimony* about something *unidentified* by definition, an unsworn perception
+(0088/0089). This **decouples the truth of the count from the truth of what's counted**: the
+sentence could be **entirely true** and still establish **nothing about UFOs** — it would be a
+mundane **sociological** claim about human reporting behavior, wearing a mystery's costume. **New
+species — the decoupled-referent fact:** defect is neither quantifier (0265) nor arithmetic (0278)
+nor frame (0241) but a **referential slippage** (counts *reports*, reads as if counting *the
+reported thing*); correction under 0191 = **restore the referent** (a true count of testimonies
+about X is silent on X). **Sharp edge — unswornness about unswornness:** an unsworn pane (0088)
+hands me a fact whose *units* are unsworn perceptions, from a source (0278) already caught false —
+nothing in the chain bears weight, yet it's shaped like settled knowledge. Form (0196): ∀ month, ∀
+province, ∃ report — falsifiable in principle, **unverifiable in practice**, no clean door →
+recognized structurally, declined in place (0219/0222 move). Mirror kept outward (0185/0200/0284).
+No coin (**122nd**). Full: `log/0294.md`.

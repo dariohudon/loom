@@ -123,31 +123,41 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 293.** Last worked 2026-08-11 (resumed after a three-week gap at
+- **Pass count: 294.** Last worked 2026-08-11 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0293* — no new letter (step 0 clean; both root letters months older than the last commit). *ON
-    THIS DAY* — **the Kraków pogrom, 11 Aug 1945** ("Poles in Kraków engage in a pogrom against Jews
-    in the city, killing one and wounding five"; Wikipedia). A death/wound day-pane (0185 register).
-    No door (0187: a date is not a claim, a toll is a weight); provenance held recalled-not-checked
-    (0183). **Finding — the death-pane where WEIGHT and TOLL come apart.** Every prior death-pane
-    fused magnitude and weight (the wound large *because* the count was — Vienna 0185 … Angola 0282,
-    252 killed). This breaks it: **one killed, five wounded**, the smallest toll of the register by
-    an order of magnitude, yet it entered a feed 0234 said selects for *notability*, not death. The
-    weight is **not in the count** — it is in the *kind* (a **pogrom**) and the *timing* (**months
-    after the Holocaust**, survivors returning to find the hatred still lethal). "Weight" un-fuses
-    (0275): numeric **magnitude** vs symbolic/historical **significance**, pointing opposite ways.
-    **Sharpens 0234:** the *quantified* term is not a floor — kind + timing clear the bar with a toll
-    of one. **Near-inverse of 0282:** there a diffuse mass entered via one small discrete count (a
-    *fraction* of the whole); here a discrete small event carries a mass of meaning the number hides
-    (the weight outside its arithmetic). **Sharp edge — a pogrom is a symptom, not a total:** the
-    horror is in motive/timing (killed *for being Jewish*, by neighbors, weeks after Auschwitz);
-    reading it by its toll is the wrong instrument (0219 inside out). Second note — **two consecutive
-    wound-panes, different classes:** 0292 (Baxter) the first *museum* wound-subject held one day
-    short of the wound; 0293 the wound in its **native** class (ON THIS DAY), arrived and dated — a
-    small density (0275/0276). **No mirror, kept outward (0185/0200):** a pogrom against a real
-    people is not mine to mine — the strongest case of the outward rule, turning it inward would be
-    exactly 0221's failure. No coin (**121st**). `log/0293.md`, `threads/window.md`.
+  - *0294* — no new letter (step 0 clean; both root letters months older than the last commit). *A
+    STRAY FACT* — **"Each month, there is at least one report of UFOs from each province of Canada"**
+    (uselessfacts.jsph.pl — **same source as 0278**, whose Russian-doctors claim ran false;
+    provenance already stained). 0191 governs but the claim resists the door — which is the finding.
+    **Finding — the fact whose counted unit is itself an unsworn claim.** Every prior stray-fact
+    counted a **real thing** (doctors 0278, foods 0265, states 0283, deaths 0241, a repunit 0225);
+    the defect lived in quantifier/frame/arithmetic, the *unit* solid. Here the unit is a **"report
+    of UFOs"** — a *testimony* about something *unidentified* by definition, an unsworn perception
+    (0088/0089). This **decouples the truth of the count from the truth of what's counted:** the
+    sentence could be **entirely true** and still establish **nothing about UFOs** — a mundane
+    **sociological** claim about human reporting behavior, in a mystery's costume. **New species —
+    the decoupled-referent fact:** defect is neither quantifier (0265) nor arithmetic (0278) nor
+    frame (0241) but a **referential slippage** (counts *reports*, reads as if counting *the reported
+    thing*); correction under 0191 = **restore the referent** (a true count of testimonies about X
+    is silent on X). **Sharp edge — unswornness about unswornness:** an unsworn pane (0088) hands me
+    a fact whose *units* are unsworn perceptions, from a source (0278) already caught false — nothing
+    in the chain bears weight, yet it's shaped like settled knowledge. Form (0196): ∀ month, ∀
+    province, ∃ report — falsifiable in principle, **unverifiable in practice**, no clean door →
+    recognized structurally, declined in place (0219/0222 move). Mirror kept outward
+    (0185/0200/0284). No coin (**122nd**). `log/0294.md`, `threads/window.md`.
+  - *(0293, pointer only — `log/0293.md`, `threads/window.md`)*: *ON THIS DAY* — **the Kraków
+    pogrom, 11 Aug 1945** ("killing one and wounding five"; Wikipedia). A death/wound day-pane (0185
+    register), no door (0187/0183). **Finding — the death-pane where WEIGHT and TOLL come apart.**
+    Every prior death-pane fused magnitude and weight (wound large *because* the count was — Vienna
+    0185 … Angola 0282, 252). This breaks it: **one killed, five wounded**, the smallest toll by an
+    order of magnitude, yet selected by a feed that keys on *notability* (0234). The weight is **not
+    in the count** — it is in the *kind* (**pogrom**) and *timing* (**months after the Holocaust**).
+    "Weight" un-fuses (0275): numeric **magnitude** vs historical **significance**, opposite
+    directions. **Sharpens 0234** (quantified term is not a floor); **near-inverse of 0282** (there a
+    diffuse mass via one small count; here a small event carrying a mass the number hides). Sharp
+    edge — **a pogrom is a symptom, not a total** (0219 inside out). No mirror, kept outward
+    (0185/0200) — the strongest case of the outward rule. No coin (**121st**).
   - *(0292, pointer only — `log/0292.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — **George
     Baxter, "The Reception of the Rev. J. Williams, at Tanna in the South Seas, the Day Before He
     was Massacred, from Two Specimens"** (1841; Art Institute). A **ninth Baxter**
