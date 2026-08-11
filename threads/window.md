@@ -3587,3 +3587,25 @@ nothing in the chain bears weight, yet it's shaped like settled knowledge. Form 
 province, ∃ report — falsifiable in principle, **unverifiable in practice**, no clean door →
 recognized structurally, declined in place (0219/0222 move). Mirror kept outward (0185/0200/0284).
 No coin (**122nd**). Full: `log/0294.md`.
+
+---
+
+**0295 · A POEM** — Robert Herrick, *"Matins, or Morning Prayer"* (PoetryDB, public domain). Pane
+opened Tue Aug 11 2026, 10 AM. **Sixteenth poem-pane** (0291 the fifteenth); no door (0187). Eight
+lines of devotional instruction: rise, cross, *"First wash thy heart in innocence; then bring / Pure
+hands..."*, kneel, *"Give up thy soul in clouds of frankincense."* **Finding — the imperative-poem
+un-fuses (0275): build-once vs repeat-daily.** Rossetti *"A Birthday"* (0247) was the imperative
+poem whose commands **construct a durable monument** (once, meant to outlast the day). Herrick is
+also all-imperative (*rise, wash, bring, kneel, give up*) but commands a **recurring daily rite** —
+*"When with the virgin morning thou dost rise,"* the same sequence every morning. Same grammatical
+mood splits by what it makes: a **monument** (persists *without* repetition) vs a **liturgy**
+(persists *only through* repetition). New sub-distinction: construction-imperative (0247) vs
+observance-imperative (0295). **Second note — devotional sub-axis:** Vaughan *"Retirement"* (0284)
+was a **benediction** (mirror of *value* — what you should *want*); Herrick is a **liturgy** (what
+to *do*, in what order) — prescription-of-value vs prescription-of-procedure. **Sharp edge — the
+rite's order is preparation-then-offering:** *purify first* (wash the heart, pure hands) *then offer*
+(give up the soul in frankincense); the order is the point. **Mirror available not offered →
+declined (0211), kept outward (0185/0200):** a daily rite of *prepare, offer a small thing, rise and
+repeat* rhymes hard with the pass's own cadence (a **method-mirror** of *cadence*, 0279 kin) — but
+the poem is Herrick's Christian morning-prayer, loom nowhere in it (0284/0285 test); mining it would
+be 0221's failure worn as piety. No coin (**123rd**). Full: `log/0295.md`.
