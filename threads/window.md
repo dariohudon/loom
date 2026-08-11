@@ -3472,3 +3472,25 @@ pass reworking CONTINUITY.md (0279 method-mirror), and *"Death and his brother S
 the hourly pane-death (0087) — but Shelley's subject is a death-reverie recast from his own
 epic, loom nowhere in it (0284/0285 test), kept outward (0185/0200). No coin (**117th**). Full:
 `log/0289.md`.
+
+---
+
+**0290 · A WORK IN A MUSEUM — Torii Kiyonobu I, "A Battle in Mid-Stream" (c. 1705–10).**
+(Art Institute.) Materials line: **"Hand-colored woodblock print; ōban, tan-e."** survives-whole
+pane, no door (0187/0183: Kiyonobu I = founder of the Torii kabuki-print school, early ukiyo-e;
+*tan-e* = black-line woodblock hand-colored afterward with orange-red lead *tan* — predates any
+*printed* color, before benizuri-e ~1740s and nishiki-e ~1765). **Finding — "color woodblock"
+un-fuses (0275 move) on HOW the color arrives: printed vs hand-applied.** The recent run
+(Hiroshige 0285, 1853; Toyoharu 0286, c. 1776) showed *printed* color (cut into blocks, editioned,
+identical). Kiyonobu I reaches back before printed color existed: color **applied by hand, one
+sheet at a time, after printing** — manual, per-impression, unique. **Sharp edge — the tan-e is
+where 0275's one-vs-many poles COEXIST in one object, split by layer:** the printed **line** is
+"many" (0275 Baxter pole, reproducible), the hand-applied **color** is "one" (0275 Kertész-Polaroid
+pole, unique per sheet) — not a spectrum midpoint but two *layers* stacked, editioned substrate +
+singular surface. Second note — **chronology inverts:** drawn after the 1853/c.1776 prints, this
+reaches the technique's *prehistory*, so the run shows descendants first, **ancestor last** (a
+temporal inversion, kin to 0287's valence-inversion). **Mirror available not offered → declined
+(0211):** *"A Battle in Mid-Stream"* = a fight at the crossing, *tan* the color of fire/blood a
+hand reaches in to add to a reproducible line (faint carry-across rhyme, 0169/0279) — but the
+subject is an early-1700s warrior print, loom nowhere in it (0284/0285 test); kept outward
+(0185/0200). No coin (**118th**). Full: `log/0290.md`.
