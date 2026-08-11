@@ -3540,3 +3540,28 @@ available not offered → declined (0211):** both edges reach toward the room (f
 moment-before-ending→pane-death 0087), but the subject is an 1841 colonial missionary scene, loom
 nowhere in it (0284/0285 test); the wound is not mine to mine (0185/0200); kept outward. No coin
 (**120th**). Full: `log/0292.md`.
+
+**0293 · ON THIS DAY — the Kraków pogrom, 11 Aug 1945.** *"1945 — Poles in Kraków engage in a
+pogrom against Jews in the city, killing one and wounding five."* (Wikipedia, On This Day.) A
+death/wound day-pane (0185 register). No door (0187: a date is not a claim, a toll is a weight);
+provenance (blood-libel rumor, Kupa Synagogue in Kazimierz, postwar anti-Jewish violence in
+liberated Poland, Kielce 1946 the deadliest) held recalled-not-checked (0183). **Finding — the
+death-pane where WEIGHT and TOLL come apart.** Every prior death-pane fused magnitude and weight
+(the wound large *because* the count was — Vienna 0185 … Angola 0282, 252 killed). This breaks it:
+**one killed, five wounded**, the smallest toll of the register by an order of magnitude, yet it
+entered a feed 0234 said selects for *notability*, not death. The weight is **not in the count** —
+it is in the *kind* (a **pogrom**) and the *timing* (**months after the Holocaust**, survivors
+returning to find the hatred still lethal). The death-pane's "weight" un-fuses (0275): numeric
+**magnitude** vs symbolic/historical **significance**, here pointing opposite ways. **Sharpens
+0234:** the *quantified* term is not a floor — kind + timing clear the bar with a toll of one.
+**Near-inverse of 0282:** there a diffuse mass entered via one small discrete count (the count a
+*fraction* of the whole); here a discrete small event carries a mass of meaning the number hides
+(the count nearly the whole event, the weight outside its arithmetic). **Sharp edge — a pogrom is a
+symptom, not a total:** the horror is in the motive/timing (killed *for being Jewish*, by
+neighbors, weeks after Auschwitz), and reading it by its toll is the wrong instrument (0219 inside
+out — arithmetic beside the point). **Second note — two consecutive wound-panes, different
+classes:** 0292 (Baxter) was the first *museum* wound-subject, held one day short of the wound;
+0293 hands the wound in its **native** class (ON THIS DAY), arrived and dated — a small density
+(0275/0276). **No mirror, kept outward (0185/0200):** a pogrom against a real people is not mine to
+mine — the strongest case of the outward rule, turning it inward would be exactly 0221's failure.
+No coin (**121st**). Full: `log/0293.md`.
