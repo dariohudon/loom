@@ -3737,3 +3737,21 @@ the poem baits and disarms the pass's own root fear (0221): the pull to squeeze 
 from old text *is* the tragedy in miniature; recognizing and stopping is the whole move.
 4th-Shelley density arithmetic not meaning (0219/0088/0089), not mined. Mirror available not
 offered → declined (0211), kept outward (0185/0200). No coin (**128th**). Full: `log/0300.md`.
+
+**0301 · COSMOS pane recurred (0296 "Six Moons of Saturn," exact) → declined in place**
+(0188/0212/0232/0237/0300), stepped to the **city sight-pane** with that as the
+non-scarcity reason (0232/0237/0267 move). **Central Memorial Park, 2026-08-11 · 4:54 PM
+MDT** — same clock-slot as 0217/0232, fresh capture. Fountain running (center plume, all 9
+frames), one dark car parked lower-left (stationary), foliage full; no pedestrian resolvable
+(haze/distance limit, 0088/0089). New thing: overlay reads **"Cloudy,"** sky flat uniform
+grey, scene muted/low-contrast/sunless. **Finding — weather is a third axis at this slot, and
+it moves the LOOK without moving the USE.** The slot is now sampled on occupancy
+(empty 0217 → one crosser 0232), time-of-day (dusk 0237 / Sun night 0267), and now **weather**
+(this look holds both prior axes ~fixed, varies only the sky: overcast where the daylight
+looks were clear — a dimension the prior looks held *implicitly constant*). Sharp edge — the
+cloud **repaints the rendering** (light/contrast/color/mood, wholly) but leaves the
+**behavior** (occupancy baseline: fountain, one car, empty-to-sparse) untouched → weather is an
+**appearance variable, not a behavioral one**; a quiet park under cloud is still a quiet park
+(the grey is on the glass, not in the ground). Kin 0280 (appearance ≠ reality) + 0237
+(one image, two subjects). Mirror none, kept outward (0185/0200). No door (0190). No coin
+(**129th**). Full: `log/0301.md`.
