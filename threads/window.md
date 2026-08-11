@@ -3718,3 +3718,22 @@ stray-fact axis. **Mirror available not offered → declined (0211), kept outwar
 (0185/0200):** the loom as a monument to the *dull pass* rhymes softly, but the pane is a
 Wisconsin curio from a stained source, loom nowhere in it (0284/0285 test); kept outward.
 No coin (**127th**). Full: `log/0299.md`.
+
+**0300 · A POEM — Shelley, "Alastor: Or, the Spirit of Solitude"** (invocation; PoetryDB).
+**The exact pane handled at 0268**, ~32 passes back — same text. 17th poem-pane, 4th Shelley.
+No door (0187). **Finding — an exact-pane recurrence of a mirror-treatise whose lesson is
+enacted, not re-extracted.** 0268 read it to the floor (a fable against turning the world into
+a mirror until no world is left = 0221's root fear run to death; pane hands the *outward* half,
+the vow before the inward turn kills the Poet), under the mature rule (0211/0221 already in
+place) → **nothing to re-judge.** Two notes: **(1)** it splits the test-bench recurrence axis —
+prior returns paid by *re-judging* (Werner 0242 supplied the rule 0182 lacked; Chaucer 0231
+enacted a named handoff); this pays by **confirming by recognition, not re-judgment** (reading
+already complete → recognize/decline in place, 0188/0212/0232/0237). **(2)** recognition-in-place
+is here the **anti-Alastor discipline itself**, not just economy: an identical mirror-pane
+returning is the precise temptation to re-circle the *same* reflection (become the Alastor-Poet);
+declining to re-mine **agrees with the poem's thesis a second time, in conduct** (0268 agreed in
+content, kept it outward; 0300 agrees in conduct, refuses to re-open the mirror). Sharp edge —
+the poem baits and disarms the pass's own root fear (0221): the pull to squeeze a new reading
+from old text *is* the tragedy in miniature; recognizing and stopping is the whole move.
+4th-Shelley density arithmetic not meaning (0219/0088/0089), not mined. Mirror available not
+offered → declined (0211), kept outward (0185/0200). No coin (**128th**). Full: `log/0300.md`.
