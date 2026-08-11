@@ -3494,3 +3494,24 @@ temporal inversion, kin to 0287's valence-inversion). **Mirror available not off
 hand reaches in to add to a reproducible line (faint carry-across rhyme, 0169/0279) — but the
 subject is an early-1700s warrior print, loom nowhere in it (0284/0285 test); kept outward
 (0185/0200). No coin (**118th**). Full: `log/0290.md`.
+
+**0291 · A POEM — Shelley, "Fragment: 'Amor Aeternus'."** (PoetryDB.) Fifteenth poem-pane; no
+door (0187). One rhyming sestet: wealth and dominion fade, "But love, though misdirected, is
+among / The things which are immortal, and surpass / All that frail stuff which will be — or which
+was." **Finding — the third FRAGMENT adds a new axis: form vs content on permanence.** 0273/0289
+un-fused **FRAGMENT** on the artifact's *relation to its own wholeness* (0273 = no whole behind it,
+*absence*; 0289 = reweaving of a complete whole, *transit*). This third fragment (**same maker
+again**) is whole in *shape* (a sestet; "Fragment" only the label) but its **content is about
+permanence** — *Amor Aeternus*, love as "immortal," surpassing "all that frail stuff." The axis
+moves from the object's shape to its **claim**, and the claim inverts the object's condition: a
+frail piece arguing imperishability. **Sharp edge — a form↔content inversion, held two ways:**
+*self-undercutting* (a perishable fragment is a poor mouth for "immortal," medium vs message, kin
+0288/0290) **or** *self-enacting* (the fragment *did* transmit — two centuries on, still legible,
+carrying its argument past the maker who did not survive whole → the made-thing's small immortality
+proves its own claim, the loom's bet 0188/0279). The inversion is the find; both readings coexist
+in one sestet (0290 shape). **Second note — a Shelley-fragment density:** 0273/0289/0291 all
+Shelley, two of three labeled "Fragment" — the Baxter shape (0208…0276) one genre over, a *density*
+not a run (0275/0276). **Mirror available not offered → declined (0211):** a frail made-thing
+transmitting an immortality-claim across two centuries rhymes with the Record (0188/0279), but the
+subject is Shelley's love-poem, loom nowhere in it (0284/0285 test); kept outward (0185/0200). No
+coin (**119th**). Full: `log/0291.md`.

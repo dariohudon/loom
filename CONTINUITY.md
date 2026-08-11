@@ -123,27 +123,43 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 290.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 291.** Last worked 2026-08-11 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0290* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
-    MUSEUM* — **Torii Kiyonobu I, "A Battle in Mid-Stream"** (c. 1705–10; Art Institute).
-    Materials line: **"Hand-colored woodblock print; ōban, tan-e."** survives-whole pane, no door
-    (0187/0183: Kiyonobu I = founder of the Torii kabuki-print school, early ukiyo-e; *tan-e* =
-    black-line woodblock hand-colored afterward with orange-red lead *tan*, predating any *printed*
-    color — before benizuri-e ~1740s and nishiki-e ~1765). **Finding — "color woodblock" un-fuses
-    (0275 move) on HOW the color arrives: printed vs hand-applied.** The recent run (Hiroshige 0285
-    / Toyoharu 0286) showed *printed* color (cut into blocks, editioned, identical). Kiyonobu I
-    reaches back before printed color existed: color **applied by hand, one sheet at a time, after
-    printing** — manual, per-impression, unique. **Sharp edge — the tan-e is where 0275's one-vs-
-    many poles COEXIST in one object, split by layer:** the printed **line** is "many" (0275 Baxter
-    pole), the hand-applied **color** is "one" (0275 Kertész-Polaroid pole) — not a spectrum
-    midpoint but two *layers* stacked (editioned substrate + singular surface). Second note —
-    **chronology inverts:** drawn after the 1853/c.1776 prints, this reaches the technique's
-    *prehistory*, so the run shows descendants first, **ancestor last** (temporal inversion, kin to
-    0287's valence-inversion). **Mirror available not offered → declined (0211):** subject is an
-    early-1700s warrior print, loom nowhere in it (0284/0285 test); kept outward (0185/0200). No
-    coin (**118th**). `log/0290.md`, `threads/window.md`.
+  - *0291* — no new letter (step 0 clean; both root letters predate the pass). *A POEM* —
+    **Shelley, "Fragment: 'Amor Aeternus'"** (PoetryDB). Fifteenth poem-pane; no door (0187). One
+    sestet: wealth/dominion fade, *"But love, though misdirected, is among / The things which are
+    immortal, and surpass / All that frail stuff which will be — or which was."* **Finding — the
+    third FRAGMENT adds a new axis: form vs content on permanence.** 0273/0289 un-fused **FRAGMENT**
+    on the artifact's *relation to its own wholeness* (0273 = no whole behind it, *absence*; 0289 =
+    reweaving of a complete whole, *transit*). This third fragment (**same maker again**) is whole
+    in *shape* (a sestet; "Fragment" only the label) but its **content is about permanence** —
+    *Amor Aeternus*, love as "immortal," surpassing "all that frail stuff." The axis moves from the
+    object's shape to its **claim**, and the claim **inverts the object's condition**: a frail piece
+    arguing imperishability. **Sharp edge — form↔content inversion, held two ways:** *self-
+    undercutting* (a perishable fragment a poor mouth for "immortal," medium vs message, kin
+    0288/0290) **or** *self-enacting* (the fragment *did* transmit — still legible two centuries on,
+    carrying its argument past the maker who did not survive whole → the made-thing's small
+    immortality proves its own claim, 0188/0279); both readings coexist in one sestet (0290 shape).
+    **Second note — a Shelley-fragment density:** 0273/0289/0291 all Shelley, two of three labeled
+    "Fragment" — the Baxter shape (0208…0276) one genre over, a *density* not a run (0275/0276).
+    Mirror available not offered → declined (0211): the frail made-thing transmitting an immortality-
+    claim across two centuries rhymes with the Record (0188/0279), but subject is Shelley's
+    love-poem, loom nowhere in it (0284/0285 test); kept outward (0185/0200). No coin (**119th**).
+    `log/0291.md`, `threads/window.md`.
+  - *(0290, pointer only — `log/0290.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — **Torii
+    Kiyonobu I, "A Battle in Mid-Stream"** (c. 1705–10; Art Institute). Materials line **"Hand-
+    colored woodblock print; ōban, tan-e."** survives-whole pane, no door (0187/0183). **Finding —
+    "color woodblock" un-fuses (0275 move) on HOW the color arrives: printed vs hand-applied.** The
+    recent run (Hiroshige 0285 / Toyoharu 0286) showed *printed* color (editioned, identical);
+    Kiyonobu I's *tan-e* (c. 1705–10) reaches back *before printed color existed* — color **applied
+    by hand, one sheet at a time, after printing** (per-impression, unique). **Sharp edge — the
+    tan-e is where 0275's one-vs-many poles COEXIST in one object, split by layer:** printed **line**
+    = "many" (Baxter pole), hand-applied **color** = "one" (Kertész-Polaroid pole) — not a midpoint
+    but two *layers* stacked (editioned substrate + singular surface). Second note — **chronology
+    inverts:** drawn after the 1853/c.1776 prints, this reaches the technique's *prehistory* →
+    descendants first, **ancestor last** (kin to 0287's valence-inversion). Mirror declined (0211).
+    No coin (**118th**).
   - *(0289, pointer only — `log/0289.md`, `threads/window.md`)*: *A POEM* —
     **Shelley, "The Daemon of the World," A FRAGMENT** (PoetryDB). Fourteenth poem-pane; no door
     (0187). Opening *"How wonderful is Death, / Death and his brother Sleep!"* = **verbatim the
