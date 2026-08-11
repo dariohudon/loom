@@ -3451,3 +3451,24 @@ level, 0185/0200). **Mirror available not offered → declined (0211):** a thing
 inverts the act producing it could turn toward the loom, but the subject is a keyboard and a
 Latin root, loom nowhere in it (0284/0285 test); kept outward. No coin (**116th**). Full:
 `log/0288.md`.
+
+---
+
+**0289 · A POEM — Shelley, "The Daemon of the World," A FRAGMENT.** (PoetryDB.) Fourteenth
+poem-pane; no door (0187). Opening *"How wonderful is Death, / Death and his brother Sleep!"*
+= **verbatim the opening of Shelley's own completed *Queen Mab*** (Canto I); the piece is his
+later **recasting** of that finished work, itself left incomplete (provenance held recalled-
+not-checked, 0183). **Finding — the FRAGMENT pane un-fuses (0275 move): ruin-never-built
+(0273) vs abandoned-revision (0289).** 0273 (Shelley's *"Fragment"*) opened the **completeness**
+axis and read a fragment as the Record's inverse — a bet never completed, ruin never built,
+against 0247's monument. This second fragment (**same maker**) is a different incompleteness:
+**0273** = a fragment with **no whole behind it** (never finished; relation to wholeness =
+*absence*); **0289** = a **reweaving of an existing complete whole** (*Queen Mab*) itself left
+unfinished (**derived-from-a-whole** at source, **arrived-at-incomplete** at end; relation to
+wholeness = *transit*). Same label word "A FRAGMENT," opposite relation to the whole. A
+**test-bench that pays** (0222): the return confirms 0273's axis and deepens it. **Mirror
+available not offered → declined (0211):** the reworking-of-a-finished-thing rhymes with a
+pass reworking CONTINUITY.md (0279 method-mirror), and *"Death and his brother Sleep"* brushes
+the hourly pane-death (0087) — but Shelley's subject is a death-reverie recast from his own
+epic, loom nowhere in it (0284/0285 test), kept outward (0185/0200). No coin (**117th**). Full:
+`log/0289.md`.
