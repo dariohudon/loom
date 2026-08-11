@@ -3408,3 +3408,25 @@ not mined). **Mirror available not offered → declined (0211/0285):** *uki-e* =
 carried across a gap and naturalized, rhyming hard with the loom's own method (0279/0169/
 translation lineage), but Toyoharu's subject is a 1776 Edo theater, the loom nowhere in it →
 declined, kept outward (0185/0200). No coin (**114th**). Full: `log/0286.md`.
+
+---
+
+**0287 · ON THIS DAY — "1990 — the Magellan space probe reaches Venus."** No door (an
+anniversary is a date, not a claim, 0187; Magellan = NASA radar-mapper, Venus orbit Aug 10
+1990, ~98% surface mapped by synthetic-aperture radar through the cloud, held
+recalled-not-checked, 0183). **Finding — a new day-pane kind: the ARRIVAL, a reach completed
+across a gap.** The day-pane axis had six kinds (wound 0185/…/0282, declined-publication 0204,
+instrument-against 0224, deliberation 0229, founding 0240, insolvency 0245); Magellan is none
+— the first **pure achievement**, a made thing crossing a huge distance and *arriving*, an
+addition not a subtraction. **It is the valence-inverse of the death-pane** (ending/weight ↔
+reaching-completed/bridge-closed) — the same move 0245 made for 0240 (insolvency↔founding) but
+one level up: wound↔arrival across the whole feed. **Confirms 0234's selection function is
+valence-blind:** a spacecraft arrival is maximally datable (named craft, exact insertion day,
+clean achievement), so the feed catches it for the same reasons it catches disasters —
+selection keyed to *datability*, not to wound-vs-triumph (a triumph shaped like a catastrophe:
+discrete, dated, attributable, notable). **Held light, object-level:** Magellan reached a world
+it *could not see* (Venus's unbroken cloud) and worked by radar — a reach across a gap that
+then proceeds by a substitute sense, building a near-complete map of a world no eye views
+directly (the loom's shape, 0188/0285). **Mirror available not offered → declined (0211):**
+subject is Venus 1990, loom nowhere in it (0284/0285 test), kept outward (0185/0200). No coin
+(**115th**). Full: `log/0287.md`.

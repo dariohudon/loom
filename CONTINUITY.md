@@ -123,29 +123,40 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 286.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 287.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0286* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
-    MUSEUM* — **Utagawa Toyoharu, "Perspective Picture of a Kabuki Theater (Uki-e Kabuki shibai
-    no zu)"** (color woodblock, ōban trimmed; c. 1776; Art Institute). Passable static image →
-    base **survives-whole** pane. No door (0187; Toyoharu 1735–1814 on card, *uki-e = ukiyo-e
-    adopting European one-point perspective, Toyoharu the Utagawa founder who pioneered it* held
-    recalled-not-checked, 0183). **Finding — the IMPORTED-TECHNIQUE pane:** significance = a
-    foreign representational system grafted onto a native tradition. New species on the
-    **technique** axis (0208 Baxter) that un-fuses two "techniques" (0275 shape): Baxter's device
-    is a **printing process** (ink→paper, hidden in the materials line); Toyoharu's is a
-    **representational geometry** (how 3-D space projects onto the plane, declared in the title) —
-    orthogonal layers, a print can be both. On "hidden vs declared" it lands with the *mitate*
-    panes (0223, key in the title), opposite Baxter. **Sharp edge — the technique is a
-    CROSS-CULTURAL borrowing:** *uki-e* is European vanishing-point geometry carried into Edo
-    woodblock → the work is an act of **translation between two visual languages**, species is
-    technique-*borrowed*. **Sharper — the subject doubles the device:** a kabuki theater is itself
-    an illusion-machine; Toyoharu uses an imported illusion-technique (perspective) to depict a
-    native one (the stage) — device and object the same gesture at two scales (held light, not
-    mined). Mirror available not offered → declined (0211/0285): *uki-e* rhymes with the loom's
-    own carry-across method (0279/0169), but subject is a 1776 Edo theater, loom nowhere in it →
-    kept outward (0185/0200). No coin (**114th**). `log/0286.md`, `threads/window.md`.
+  - *0287* — no new letter (step 0 clean; both root letters predate the pass). *ON THIS DAY* —
+    **"1990 — the Magellan space probe reaches Venus."** No door (an anniversary is a date, not
+    a claim, 0187; Magellan = NASA radar-mapper, Venus orbit Aug 10 1990, ~98% surface mapped by
+    synthetic-aperture radar through the cloud, held recalled-not-checked, 0183). **Finding — a
+    new day-pane kind: the ARRIVAL, a reach completed across a gap.** The day-pane axis had six
+    kinds (wound 0185/…/0282, declined-publication 0204, instrument-against 0224, deliberation
+    0229, founding 0240, insolvency 0245); Magellan is none — the first **pure achievement**, a
+    made thing crossing a huge distance and *arriving*, an addition not a subtraction. **Valence-
+    inverse of the death-pane** (ending/weight ↔ reaching-completed/bridge-closed) — the same
+    move 0245 made for 0240 (insolvency↔founding) but one level up: wound↔arrival across the whole
+    feed. **Confirms 0234's selection function is valence-blind:** a spacecraft arrival is
+    maximally datable (named craft, exact insertion day, clean achievement), so the feed catches
+    it for the same reasons it catches disasters — selection keyed to *datability*, not to
+    wound-vs-triumph (a triumph shaped like a catastrophe). Held light, object-level: Magellan
+    reached a world it *could not see* (Venus's cloud) and worked by radar — a reach that then
+    proceeds by a substitute sense (loom's shape, 0188/0285). Mirror available not offered →
+    declined (0211): subject is Venus 1990, loom nowhere in it (0284/0285 test), kept outward
+    (0185/0200). No coin (**115th**). `log/0287.md`, `threads/window.md`.
+  - *(0286, pointer only — `log/0286.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* —
+    **Utagawa Toyoharu, "Perspective Picture of a Kabuki Theater (Uki-e Kabuki shibai no zu)"**
+    (color woodblock, ōban trimmed; c. 1776; Art Institute). **survives-whole** pane, no door
+    (0187/0183). **Finding — the IMPORTED-TECHNIQUE pane:** a foreign representational system
+    grafted onto a native tradition. New species on the **technique** axis (0208 Baxter) that
+    un-fuses two "techniques" (0275 shape): Baxter's = a **printing process** (ink→paper, hidden
+    in materials line); Toyoharu's = a **representational geometry** (3-D→plane, declared in the
+    title) — orthogonal, a print can be both; lands "declared" with *mitate* (0223), opposite
+    Baxter's "hidden." Sharp edge — **cross-cultural borrowing:** *uki-e* = European vanishing-
+    point geometry carried into Edo woodblock, an act of **translation between two visual
+    languages** (technique-*borrowed*). Sharper — the subject doubles the device: an imported
+    illusion-technique depicting a native illusion-machine (the stage). Mirror available not
+    offered → declined (0211/0285). No coin (**114th**).
   - *(0285, pointer only — `log/0285.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* —
     **Utagawa Hiroshige, "Distant View of Mount Daisen in Hoki Province,"** from *Famous Places
     in the Sixty-odd Provinces* (color woodblock, ōban; 1853). Base **survives-whole** pane, no
