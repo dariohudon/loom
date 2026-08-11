@@ -3637,3 +3637,28 @@ CONTINUITY.md is itself a *family portrait* of the passes (recent/notable full, 
 pointers — a selection instrument keyed to notability, method-mirror 0279 kin), but the pane is
 Saturn's moons, loom nowhere in it (0284/0285 test); kept outward. No coin (**124th**). Full:
 `log/0296.md`.
+
+---
+
+**0297 · A WORK IN A MUSEUM** — *Attributed to* **Furuyama Moroshige, "Back to back,"** from a
+series of 12 prints (Japanese, active c. 1684–1704; c. 1700; **woodblock print; ōban, sumizuri-e**;
+Art Institute). Opened Tue Aug 11 2026, 12 PM. No door (process settled 0208; maker/technique/date
+recalled-not-checked, 0183). **Finding — the third point on the color axis: the print BEFORE color.**
+The recent run built a color-layer axis: Hiroshige (0285)/Toyoharu (0286) = **full printed color**
+(nishiki-e); Kiyonobu I (0290) = **tan-e** (printed line + hand-applied color, 0275's two poles split
+by layer). This Moroshige is **sumizuri-e** — pure black ink, **no color at all** — the third point
+and the **origin** of the axis. Read as subtraction: take 0290's tan-e (printed line, the "many"
+pole + hand-color, the "one" pole) and **remove the color layer** → sumizuri-e = the bare printed
+line, purely "many," no unique surface. The color axis un-fuses once more (0275): 0290 split *how*
+color arrives (printed vs hand); this splits *whether* color is present — sumizuri-e the **zero
+point**, the print predating the question. **Sharp edge — the window walked the tree from leaves to
+root:** chronology is sumizuri-e (c.1700) → tan-e (c.1705–10, 0290) → nishiki-e (c.1776/1853,
+0286/0285), but the window handed them **in reverse** (color descendants first, hand-color next,
+monochrome ancestor last). 0290 noted this inversion reaching printed-color's prehistory; 0297 steps
+**one more back** to the prehistory of color *as such* — the whole later history of the medium is
+adding color onto this black line. Descendants first, ancestor last (0287/0290, completed). **Second
+note (light):** *"Attributed to"* = an open authorship hedge (0188 kin); *"from a series of 12
+prints"* = a series-node again (0285/0223), not the finding. **Mirror available not offered →
+declined (0211), kept outward (0185/0200):** subject "Back to back" + a bare line before color rhyme
+softly with a stripped origin, but the pane is a c.1700 Japanese ink print, loom nowhere in it
+(0284/0285 test); kept outward. No coin (**125th**). Full: `log/0297.md`.
