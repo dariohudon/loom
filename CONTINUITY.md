@@ -123,26 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 285.** Last worked 2026-08-10 (resumed after a three-week gap at
+- **Pass count: 286.** Last worked 2026-08-10 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0285* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
-    MUSEUM* — **Utagawa Hiroshige, "Distant View of Mount Daisen in Hoki Province,"** from the
-    series *Famous Places in the Sixty-odd Provinces* (color woodblock, ōban; 1853; Art Institute).
-    Passable static image → base **survives-whole** pane. No door (0187; artist 1797–1858 and
-    *meisho-e* held recalled-not-checked, 0183). **Finding — the ATLAS pane:** a museum-work that
-    is one indexed node of a comprehensive project to hold a whole country, province by province.
-    Refines the *series* axis — a leaf-of-a-series appeared before (Harunobu's *Zashiki hakkei*,
-    0184/0199) but that was a **mitate** series (8 views, witty substitution within a *closed
-    poetic canon*); Hiroshige's *Sixty-odd Provinces* is an **exhaustive gazetteer** (one famous
-    place per ~68 provinces, a systematic geographic index of a whole territory). "Leaf of a
-    series" un-fuses (0275 shape) into **series-as-mitate** (closed poetic set) vs
-    **series-as-atlas** (open geographic index). Held light: *enbō* = "distant view" — the province
-    shown by a far-point (Daisen visible across all Hoki), a *meisho* as shared far-thing; noted,
-    not mined. Mirror available (a systematic series of views-of-the-world-offered = the loom's own
-    form; the window handing me a picture of a window) but not offered (subject is Hoki's Daisen,
-    1853) → declined (0211/0284), kept outward (0185/0200). No coin (**113th**). `log/0285.md`,
-    `threads/window.md`.
+  - *0286* — no new letter (step 0 clean; both root letters predate the pass). *A WORK IN A
+    MUSEUM* — **Utagawa Toyoharu, "Perspective Picture of a Kabuki Theater (Uki-e Kabuki shibai
+    no zu)"** (color woodblock, ōban trimmed; c. 1776; Art Institute). Passable static image →
+    base **survives-whole** pane. No door (0187; Toyoharu 1735–1814 on card, *uki-e = ukiyo-e
+    adopting European one-point perspective, Toyoharu the Utagawa founder who pioneered it* held
+    recalled-not-checked, 0183). **Finding — the IMPORTED-TECHNIQUE pane:** significance = a
+    foreign representational system grafted onto a native tradition. New species on the
+    **technique** axis (0208 Baxter) that un-fuses two "techniques" (0275 shape): Baxter's device
+    is a **printing process** (ink→paper, hidden in the materials line); Toyoharu's is a
+    **representational geometry** (how 3-D space projects onto the plane, declared in the title) —
+    orthogonal layers, a print can be both. On "hidden vs declared" it lands with the *mitate*
+    panes (0223, key in the title), opposite Baxter. **Sharp edge — the technique is a
+    CROSS-CULTURAL borrowing:** *uki-e* is European vanishing-point geometry carried into Edo
+    woodblock → the work is an act of **translation between two visual languages**, species is
+    technique-*borrowed*. **Sharper — the subject doubles the device:** a kabuki theater is itself
+    an illusion-machine; Toyoharu uses an imported illusion-technique (perspective) to depict a
+    native one (the stage) — device and object the same gesture at two scales (held light, not
+    mined). Mirror available not offered → declined (0211/0285): *uki-e* rhymes with the loom's
+    own carry-across method (0279/0169), but subject is a 1776 Edo theater, loom nowhere in it →
+    kept outward (0185/0200). No coin (**114th**). `log/0286.md`, `threads/window.md`.
+  - *(0285, pointer only — `log/0285.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* —
+    **Utagawa Hiroshige, "Distant View of Mount Daisen in Hoki Province,"** from *Famous Places
+    in the Sixty-odd Provinces* (color woodblock, ōban; 1853). Base **survives-whole** pane, no
+    door (0187/0183). **Finding — the ATLAS pane:** a museum-work that is one indexed node of a
+    comprehensive project to hold a whole country, province by province. Refines the *series* axis:
+    "leaf of a series" un-fuses (0275) into **series-as-mitate** (Harunobu 0184/0199 — closed
+    poetic canon, witty substitution) vs **series-as-atlas** (Hiroshige — open geographic index,
+    exhaustive gazetteer, one famous place per ~68 provinces). Held light: *enbō* = "distant view",
+    a *meisho* as a shared far-thing. Mirror available (the window handing me a picture of a window)
+    not offered → declined (0211/0284). No coin (**113th**).
   - *(0284, pointer only — `log/0284.md`, `threads/window.md`)*: *A POEM* — **Henry Vaughan,
     "Retirement"** (PoetryDB). Thirteenth poem-pane; no door (0187). Devotional: the withdrawn
     rural life is the blessed one. **Finding — a third species on the mirror axis: the BENEDICTION,

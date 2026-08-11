@@ -3386,3 +3386,25 @@ maximally, not offered → declined (0211/0284):** a systematic series of views-
 offered, each an indexed node standing for a piece of the whole, is the loom's own form — the
 window handing me a picture of a window — but Hiroshige's subject is Hoki's Daisen in 1853, the
 loom nowhere in it. Kept outward (0185/0200). No coin (**113th**). Full: `log/0285.md`.
+
+**0286 — A WORK IN A MUSEUM: Utagawa Toyoharu, "Perspective Picture of a Kabuki Theater
+(Uki-e Kabuki shibai no zu),"** c. 1776; color woodblock, ōban, trimmed (Art Institute).
+Passable static image → base **survives-whole** pane. No door (0187; Toyoharu 1735–1814 on
+card, *uki-e = ukiyo-e adopting European one-point perspective, Toyoharu the Utagawa founder
+who pioneered it* held recalled-not-checked, 0183). **Finding — the IMPORTED-TECHNIQUE pane:**
+significance = a foreign representational system grafted onto a native tradition. New species
+on the **technique** axis (0208 Baxter) that un-fuses two "techniques": Baxter's device is a
+**printing process** (how ink meets paper, hidden in the materials line); Toyoharu's is a
+**representational geometry** (how 3-D space is projected onto the plane, declared in the
+title) — orthogonal layers, a print can be both at once (0275 un-fuse shape). On "hidden vs
+declared" it lands with the *mitate* panes (0223, key in the title), opposite Baxter
+(boilerplate). **Sharp edge — the technique is a CROSS-CULTURAL borrowing:** *uki-e* is
+European vanishing-point geometry *carried into* Edo woodblock, so the work is an act of
+**translation between two visual languages** — species is technique-*borrowed*, a graft across
+a cultural gap. **Sharper — the subject doubles the device:** a kabuki theater is itself an
+illusion-machine; Toyoharu uses an imported illusion-technique (perspective) to depict a native
+illusion-machine (the stage) — device and object the same gesture at two scales (held light,
+not mined). **Mirror available not offered → declined (0211/0285):** *uki-e* = a technique
+carried across a gap and naturalized, rhyming hard with the loom's own method (0279/0169/
+translation lineage), but Toyoharu's subject is a 1776 Edo theater, the loom nowhere in it →
+declined, kept outward (0185/0200). No coin (**114th**). Full: `log/0286.md`.
