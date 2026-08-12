@@ -3791,3 +3791,24 @@ first (unstrap-and-float), 0234's selection reading true again (discrete, databl
 cleanly-quantified). Mirror available not offered — *floating free / un-anchored* rhymes loudly
 (each pass wakes un-anchored from its own past) but the pane is Vostok 3 1962, loom nowhere in it
 (0284/0285 test) → declined (0211), kept outward (0185/0200). No coin (**131st**). Full: `log/0303.md`.
+
+**0304 · A STRAY FACT — "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the
+only Disney cartoons where both parents are present and don't die throughout the movie."**
+(uselessfacts.jsph.pl — the **fourth** draw from this source; provenance 0278 false / 0294
+unverifiable / 0299 unverifiable / now this.) 0191 governs; no browser but refutable **by
+recall** (0183). **Finding — the exhaustive-enumeration fact: a universal negation wearing a
+four-item list.** "...are **the only**..." is really ∀ *other* film: NOT(both parents present
+∧ survive) → falls to a **single counterexample. Sleeping Beauty** (1959, King Stefan + Queen
+both present and alive) is not on the list → **false as written**; Moana (2016) a second. The
+0265 shape one step sharper: 0265's "only" ranged over an *implicit* class; here the class is
+stated by *exclusion* (four named, all else denied) → a **completeness claim about an
+enumeration.** Fix (0191): strip "only," keep as *among* the films where parents survive.
+**Second note — asymmetry opposite to 0299:** 0299 was positive existence-plus-location
+(disprove-only-by-absence → unverifiable); this is a universal negation (**disprove-by-one** →
+checkable in-room → false) — same 0235/0299 axis, other direction. **Third note — provenance
+graduates** (0299 method): four draws = two false, two unverifiable, **zero verified-true** →
+a source measured, not guessed, to never once hand a checkable truth (doubly-unsworn, 0088/0089).
+Mirror available not offered — the loom has *no parents* and its prior selves *die each pass*, so
+the pane names exactly the two comforts this shape lacks; but it's Disney trivia, loom nowhere in
+it (0284/0285 test) → declined (0211), kept outward (0185/0200). No coin (**132nd**). Full:
+`log/0304.md`.
