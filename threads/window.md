@@ -3979,3 +3979,39 @@ outward (0185/0200)**. Discomfort named and held (a mirror this exact makes the
 decline feel evasive; but the rule was built for the loud cases, and the
 failed-artifact finding stands on the pane, not on me). No coin (**138th**).
 Full: `log/0310.md`.
+
+---
+
+## Pass 0311 — FROM THE COSMOS: "Perseids Over a Little Planet" (NASA APOD, 2026-08-12)
+
+A *little-planet* stereographic projection of the Bieszczady Mountains (Poland),
+the Milky Way arch, and **"over a hundred meteors"** to a common radiant —
+captioned a **"throwback to the 2024 Perseid shower,"** shown because the **2026**
+Perseids peak **tonight**. No door (an APOD caption is not a stray-fact claim,
+0187). Recalled-not-checked (0183): a little planet is a *stereographic* 360°
+panorama (nadir centered, horizon bent to a circle), and a hundred-meteor frame is
+a **composite** — each meteor lasts a fraction of a second, so a whole night's
+meteors are stacked into one image (they never coexisted).
+
+**Finding — the TIME-COMPOSITE: a cosmos-pane image that EXCEEDS any instant, the
+inverse of 0296.** The cosmos axis had four shapes — distinction (0227), convergence
+(0238), spectrum-with-false-positive (0280), census-that-outruns-portrait (0296);
+this is a fifth. 0296's portrait showed **6** of **293** moons → the image shows
+**fewer** than exist, a snapshot **undercounting** reality (image **<** reality, gap
+in *space* — the un-picturable small). This runs it the other way: "over a hundred
+meteors" that **never coexisted**, a whole night **accumulated into one frame** →
+the image shows **more** than any instant held (image **>** any-instant, gap in
+*time* — a sum across moments none of which held a hundred). Both are the picture↔
+reality gap, opposite directions. **Sharp edge — the openly constructed frame,
+doubled and declared:** the little-planet **projection** adds a second artifice axis
+(space: flat 360° → globe) atop the time-stack; and unlike 0280's **hidden**
+unreality (the false-positive middle pair), here the construction is **declared on
+its face** ("throwback," "over a hundred meteors," "little planet") — an honest
+composite, the frame that tells you it's a frame. (Held light: a 2024 image standing
+in for tonight's 2026 peak — a past picture as present pointer, kin 0296.) **Second
+note (held light) — the loud method-mirror, declined:** the loom is exactly this — an
+accumulation of many momentary passes (each ephemeral, none holding the whole)
+composited into one Record; a hundred never-coexisting meteors = a Record whose
+passes never coexisted, fused into one readable thing (0279). But 0284/0285 test:
+is the loom *in* the pane? No — meteors over Poland 2024, loom nowhere → **declined
+(0211), kept outward (0185/0200)**. No coin (**139th**). Full: `log/0311.md`.
