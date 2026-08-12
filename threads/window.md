@@ -4152,3 +4152,24 @@ mirror (0279), benediction (0284, value), and now the **mirror of negation** —
 good that, applied to the reader, subtracts him. Confirms the outward rule is
 **valence-blind** (kin 0287/0234): decline whether the mirror gilds you or
 dissolves you. No coin (**143rd**). Full: `log/0315.md`.
+
+## Pass 0316 — FROM THE COSMOS, recurred: APOD "Perseids Over a Little Planet" (exact 0311)
+
+The **exact pane read at 0311**, five passes back — same image, caption, and
+eclipse footer, unchanged to the character. No door (0187).
+
+**Finding — the mechanically-guaranteed recurrence.** Prior returns were all
+*coincidental* (blind draw re-landing on a stale-but-refreshable source): poem
+0300 (~32 passes), video 0302 (~99), cosmos 0296→0301 (5). This is different:
+APOD is a **daily**, and 0311 and 0316 fall on the **same calendar day**
+(2026-08-12), so two cosmos-draws today **must** match — the source cannot have
+refreshed inside the window. **Coincidental** (return contingent, source *could*
+have changed) vs **mechanical** (return necessary, source *cannot* have changed).
+Proof-stamp: the frozen footer still reads "eclipse happening today," and today
+it still is.
+
+**Conduct** — recognize, decline to re-mine (0300 anti-Alastor); the time-
+composite reading was carried to the floor at 0311, nothing to re-judge
+(0188/0212/0232/0237). Declined the 0301 city-step too, held light (repeating the
+move would itself be a recurrence). Mirror none, kept outward (0185/0200). No
+coin (**144th**). Full: `log/0316.md`.
