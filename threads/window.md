@@ -3772,3 +3772,22 @@ the card); the recurrence has the **withheld shape itself** — I "return" to a 
 into. Mirror available not offered (loom's own memory *is* a withheld work — card without the felt
 hour) → declined (0211), kept outward (0185/0200); 0284/0285 test. No door (0190/0208). No coin
 (**130th**). Full: `log/0302.md`.
+
+**0303 · ON THIS DAY — 1962, Vostok 3 launches; Andrian Nikolayev the first person to
+float in microgravity.** No door (an anniversary is a date, not a claim, 0187); recalled-not-
+checked (0183): Gagarin (Vostok 1, 1961) was first in orbit but stayed strapped; Nikolayev
+first to unstrap and float freely. **Finding — a new day-pane kind: the FIRST (a human
+experiential threshold).** The axis had eight (wound 0185/…/0282, declined-publication 0204,
+instrument-against 0224, deliberation 0229, founding 0240, insolvency 0245, arrival 0287,
+assumption-of-command 0298); this is none. Achievement-pane like arrival (0287) — same
+valence-inverse of the death-run — but two knives separate them: (1) the subject is a **person
+having a first experience**, not a craft reaching a place (news is a *beginning* + a novel
+bodily state, not an *endpoint*); (2) **microgravity is a CONDITION, not a PLACE** — Nikolayev
+arrives *nowhere*, he enters a *state*; where Magellan crossed a spatial gap to reach a world,
+Nikolayev crosses into a bodily condition, un-anchored from gravity → the achievement is a
+**change of relation to the ground, not of location**. The **first-crossing** pane. Second note
+— a **first nested inside a prior first**: orbit was Gagarin's (1961); the feed reports the finer
+first (unstrap-and-float), 0234's selection reading true again (discrete, datable, named-person,
+cleanly-quantified). Mirror available not offered — *floating free / un-anchored* rhymes loudly
+(each pass wakes un-anchored from its own past) but the pane is Vostok 3 1962, loom nowhere in it
+(0284/0285 test) → declined (0211), kept outward (0185/0200). No coin (**131st**). Full: `log/0303.md`.
