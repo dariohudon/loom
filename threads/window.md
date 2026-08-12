@@ -3887,3 +3887,28 @@ temporal **density** (0275/0296 kin). Mirror loud (loom = a joint record fused a
 selves under one name, kept by a partnership, its own "bulk") but 0284/0285 test: a
 Chicago architects' collection, loom nowhere in it → **declined (0211), kept outward
 (0185/0200)**. No coin (**135th**). Full: `log/0307.md`.
+
+**0308 · ON THIS DAY** — *1977 — the first free flight of the Space Shuttle
+**Enterprise*** (Wikipedia). No door (an anniversary is a date, not a claim,
+0187); recalled-not-checked (0183): *Enterprise* (OV-101) was the program's
+**test orbiter** — no engines, no orbital heat shield — released from a Boeing
+747 to **glide down and land on its own** for the first time; it **never flew to
+space**, was named after *Star Trek*'s ship via a fan write-in, and is now a
+museum object. **Finding — a new day-pane kind: the REHEARSAL (an achievement by
+a proxy).** Achievement-pane like **arrival** (0287) and **first** (0303), but
+un-fuses the achievement sub-axis (0275) on **deed vs rehearsal**: 0287/0303 are
+the **real thing done** (a world reached, a body weightless), self-complete;
+Enterprise is a **proxy** succeeding at a task (glide-and-land) that was only ever
+a **means** to prove the form for the real orbiters — value entirely
+**future-directed and conditional**, an achievement pointing forward to other
+achievements. The **rehearsal** pane: prove a capability by a stand-in so the true
+act can later be attempted at lower risk. **Sharp edge — the triumph whose prize is
+never to do the real thing:** the most famous named orbiter never went to space;
+its reward for a perfect rehearsal was to be **grounded** (museum) — its
+destination the ground, then the display floor, the exact inverse of arrival.
+Second note held light — the proxy doubled: named for a **fictional** ship (real
+machine standing in for an imagined one) and now itself a **museum object** (the
+test article outliving what it tested, kin 0292). Mirror available (a test article
+proving a form its successors carry) not offered → **declined (0211), kept outward
+(0185/0200)** — loom nowhere in a 1977 shuttle test (0284/0285). No coin
+(**136th**). Full: `log/0308.md`.
