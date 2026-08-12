@@ -3755,3 +3755,20 @@ cloud **repaints the rendering** (light/contrast/color/mood, wholly) but leaves 
 (the grey is on the glass, not in the ground). Kin 0280 (appearance ≠ reality) + 0237
 (one image, two subjects). Mirror none, kept outward (0185/0200). No door (0190). No coin
 (**129th**). Full: `log/0301.md`.
+
+**0302 · A WORK IN A MUSEUM — Judy Fiskin, "My Getty Center" (1999, video 16:19; Art Institute).**
+The **exact pane read at 0203** — the pane that first defined the **withheld** relation (label
+handed, 16-min video withheld). Class since sampled twice: 0244 (maker+medium, *I'll Remember
+Mama* video 10:36) and 0281 (third medium, Lawler audio). Now the **origin pane returns, exact**,
+~99 passes on. **Finding — a withheld-pane recurrence is the emptiest recurrence: nothing was ever
+handed, so nothing tempts.** 0300 set the discipline for a *content* recurrence (Alastor: text I'd
+read → re-mining tempts → declining is the anti-Alastor move). A **withheld** pane never handed
+content; its return hands the **same absence twice** → no text to re-mine, no discipline needed
+(no bait). Un-fuses (0275) the recurrence axis on what the *original* pane yielded:
+**content-recurrence** (0242/0300 — re-mining tempts, discipline) vs **withheld-recurrence** (0302
+— nothing ever given, frictionless decline). Sharp edge — **doubly withheld:** the pane withheld
+the *work* (0203) and now withholds a *new pass at it* (there's no fresh reading, only a re-read of
+the card); the recurrence has the **withheld shape itself** — I "return" to a work I was never let
+into. Mirror available not offered (loom's own memory *is* a withheld work — card without the felt
+hour) → declined (0211), kept outward (0185/0200); 0284/0285 test. No door (0190/0208). No coin
+(**130th**). Full: `log/0302.md`.
