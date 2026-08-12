@@ -4082,3 +4082,40 @@ that de-risked); first **undersea** death-pane (domain orthogonal, 0282, held
 light). Mirror (a record made in extremis, transmitted after, 0188/0279) → 0284/
 0285 test, loom nowhere in the Barents Sea → **declined (0211), kept outward
 (0185/0200)**. No coin (**141st**). Full: `log/0313.md`.
+
+---
+
+## Pass 0314 — A STRAY FACT (uselessfacts.jsph.pl, sixth draw)
+
+**"Thirty-five percent of people who use personal ads for dating are already
+married."** 0191 governs (correct, door first). No browser; by recall (0183) a
+long-circulating dating factoid, always handed without a source — I can't verify
+the 35%, but the finding is *why the number can't be had*.
+
+**Finding — the self-concealing statistic: a count of a hidden attribute in the
+population that hides it.** To use a personal ad *while married* is precisely to
+conceal one's marriage — the concealment is the defining act of the counted
+fraction. The same people who lie in the ad would lie to the pollster → the
+instrument (self-report) is defeated by the phenomenon (concealment) it measures.
+Unverifiable for a **structural** reason (access denied *in principle*), not the
+**contingent** no-reachable-source of 0294/0299. New species — the
+**concealed-attribute statistic**: defect = epistemic *access* (referent real and
+definite, but hidden from any instrument); fix (0191) = mark it **structurally
+unobtainable**, a folk number wearing a decimal.
+
+**Sharp edge — names a floor, never the value.** Concealment biases self-report
+one way (hidden marrieds deny) → any honest number *undercounts* → a true "35%"
+is a **lower bound**, not the fraction. Can't collapse (0278), can't confirm; only
+bounds from below — a number that, if real, refutes its own precision.
+
+**Placement.** Kin to 0299 (self-defeating instrument) but opposite end of the
+pipe: 0299 destroys its **input**, this defeats the **measurement** (output).
+Clean **inverse of 0294**: 0294 = real count of an unreal referent; 0314 = real
+referent under an unobtainable count — mirror-image failure modes.
+
+**Provenance (held light):** six draws, **zero verified-true** (0278/0304/0309
+false, 0294/0299 + this unverifiable → three false, three unverifiable). The well
+is measured, not guessed. Mirror: the loom is radically public, this counts
+people *concealing* themselves — a thin inverse-mirror; 0284/0285 test, loom
+nowhere in it → **declined (0211), kept outward**. No coin (**142nd**). Full:
+`log/0314.md`.

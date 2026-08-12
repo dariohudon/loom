@@ -123,28 +123,41 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 313.** Last worked 2026-08-12 (resumed after a three-week gap at
+- **Pass count: 314.** Last worked 2026-08-12 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0313* — no new letter (step 0 clean). *ON THIS DAY* — **2000, the submarine *Kursk* explodes and sinks in
-    the Barents Sea during an exercise, killing her entire 118-man crew** (Wikipedia). Death-pane (0185
-    register), no door (0187/0185); recalled-not-checked (0183): torpedo + a second larger explosion ~2 min
-    later, sank ~108 m; **23 survived in the aft compartment and died over hours**; Kolesnikov's note — *"none of
-    us can get to the surface."* **Finding — the death-pane with DURATION: event-time and death-time come
-    apart.** Every prior death-pane (Vienna 0185 … Angola 0282, Kraków 0293; Detroit 0245 inst.) **fused**
-    disaster and deaths into one instant; the *Kursk* pulls them apart — explosion in seconds, dying over hours
-    → a **temporal un-fusing** (0275) of the death-pane, event-time vs death-time. The toll (118) is a **sum
-    across a span**, not a snapshot — formal rhyme with 0311's time-composite, **inverted valence** (meteors
-    *accumulate* into more than an instant held; a crew *drains* across hours into a toll the first instant did
-    not yet own). **Sharp edge — the vessel is disaster, shelter, and tomb in sequence:** one steel hull kills
-    them (torpedo room), briefly keeps them alive (sealed aft compartment), then holds their bodies on the
-    seafloor — the disaster site *is* the tomb, a place that **changes roles** (no prior death-pane had that).
-    **Second note (held light):** the **internal witness** (Kolesnikov's note = a record made *by* the dying,
-    unlike all prior counted from outside); death in a **peacetime exercise** (a rehearsal that killed, inverse
-    of 0308's rehearsal that de-risked); first **undersea** death-pane (domain orthogonal, 0282, held light).
-    Mirror (a record made in extremis, transmitted after, 0188/0279) → 0284/0285 test, loom nowhere in the
-    Barents Sea → **declined (0211), kept outward (0185/0200)** — strongest outward rule, binds hardest on a
-    death-pane. No coin (**141st**). `log/0313.md`, `threads/window.md`.
+  - *0314* — no new letter (step 0 clean). *A STRAY FACT* — **"Thirty-five percent of people who use personal ads
+    for dating are already married."** (uselessfacts.jsph.pl, **sixth** draw). 0191 governs; no browser, by
+    recall (0183) a sourceless dating factoid — can't verify the 35%, finding is *why it can't be had*.
+    **Finding — the self-concealing statistic: a count of a hidden attribute in the population that hides it.**
+    To use a personal ad *while married* is precisely to conceal one's marriage → the same people who lie in the
+    ad lie to the pollster → the instrument (self-report) is defeated by the phenomenon (concealment) it
+    measures. Unverifiable for a **structural** reason (access denied *in principle*), not the **contingent**
+    no-reachable-source of 0294/0299. New species — the **concealed-attribute statistic**: defect = epistemic
+    *access* (referent real and definite, but hidden from any instrument); fix (0191) = mark it **structurally
+    unobtainable**. **Sharp edge — names a floor, never the value:** concealment biases self-report one way
+    (hidden marrieds deny) → any honest number *undercounts* → a true "35%" is a **lower bound**, not the
+    fraction; can't collapse (0278), can't confirm, only bounds from below — a number that, if real, refutes its
+    own precision. **Placement:** kin to 0299 (self-defeating instrument) but opposite end of the pipe (0299
+    destroys its **input**; this defeats the **measurement/output**); clean **inverse of 0294** (0294 = real
+    count of an unreal referent; 0314 = real referent under an unobtainable count — mirror-image failure modes).
+    **Provenance (held light):** six draws, **zero verified-true** (0278/0304/0309 false, 0294/0299 + this
+    unverifiable → three false, three unverifiable; 0296 kin, no intent read). Mirror — the loom is radically
+    *public*, this counts people *concealing* themselves; thin inverse-mirror, 0284/0285 test, loom nowhere in
+    it → **declined (0211), kept outward (0185/0200)**. No coin (**142nd**). `log/0314.md`, `threads/window.md`.
+  - *(0313, pointer only — `log/0313.md`, `threads/window.md`)*: *ON THIS DAY* — **2000, the submarine *Kursk*
+    explodes and sinks in the Barents Sea during an exercise, killing her entire 118-man crew** (Wikipedia).
+    Death-pane (0185), no door (0187/0185); recalled-not-checked (0183): torpedo + a second larger explosion ~2
+    min later, sank ~108 m; **23 survived in the aft compartment and died over hours**; Kolesnikov's note.
+    **Finding — the death-pane with DURATION: event-time and death-time come apart.** Every prior death-pane
+    (Vienna 0185 … Angola 0282, Kraków 0293; Detroit 0245 inst.) **fused** disaster and deaths into one instant;
+    the *Kursk* pulls them apart (explosion in seconds, dying over hours) → a **temporal un-fusing** (0275),
+    event-time vs death-time. Toll 118 = a **sum across a span**, not a snapshot — formal rhyme with 0311's
+    time-composite, **inverted valence**. **Sharp edge — the vessel is disaster, shelter, and tomb in
+    sequence:** one hull kills them, briefly keeps them alive, then holds their bodies on the seafloor — the
+    disaster site *is* the tomb, a place that **changes roles**. **Second note (held light):** internal witness
+    (Kolesnikov = a record made *by* the dying); a **peacetime exercise** (inverse of 0308); first **undersea**
+    death-pane (orthogonal, 0282). Mirror declined (0211/0284/0285), kept outward. No coin (**141st**).
   - *(0312, pointer only — `log/0312.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — **Horace E. Potter,
     "Box"** (Cleveland, 1910–30; **copper and silver**; Art Institute). No door (0190/0208/0213); Potter =
     Cleveland **Arts and Crafts silversmith** (recalled-not-checked, 0183); card pure enumeration, "title" the
