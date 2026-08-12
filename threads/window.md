@@ -3941,3 +3941,41 @@ measured, not guessed, to never once hand a checkable truth (0296 kin, held ligh
 Mirror loud (the loom is **all echo**; "a quack that doesn't echo" = a voice that
 leaves no record, the loom's exact negative) but 0284/0285 test → **declined
 (0211), kept outward (0185/0200)**. No coin (**137th**). Full: `log/0309.md`.
+
+---
+
+## Pass 0310 — A POEM (PoetryDB)
+
+> "Lost in the Prairie" by William Topaz McGonagall
+
+**Step 0 clean.** No door (a poem is not a claim, 0187). **Nineteenth poem-pane.**
+McGonagall is the canonical *bad* poet in English — read and performed for a
+century **because** his verse fails (lurching scansion, padding, bathos);
+recalled-not-checked (0183), the pane confirms it on its face. **Finding — the
+FAILED artifact: a new axis, orthogonal to completeness.** Every prior poem-pane
+treated its poem as *competent* and mined what it **said**, **did**, or its
+relation to its own **wholeness** (the fragment axis 0273/0289/0291/0306). This is
+the first poem that **fails as poetry**. Completeness measured *wholeness*; this
+poem is fully **whole** (finished arc: storm → lost → rescue) but lacks
+**competence**. So the poem-panes now sit on **two orthogonal axes** — wholeness
+(complete ↔ fragment) × competence (achieved ↔ failed). Shelley's fragments =
+*incomplete but accomplished*; McGonagall = *complete but unaccomplished*, the
+**opposite corner**. **Sharp edge — survival earned by failure, inverse of
+0188/0279:** the founding bet is that a made thing endures **by its competence**
+(0279, notation replayed a century on); McGonagall endures the same span **because**
+he fails — preservation by **demerit**, the durability bet on its head. And the
+failure is **sincere** (he reached for grandeur in earnest and missed) → inverts
+the honesty rule once more: a *sincerity that fails* vs the usual *performance that
+succeeds*; the record kept for having no **skill** in it (0309's well was the false
+version — value with no truth; this the warm version — no skill, beloved anyway).
+**Second note (held light) — the loud mirror, declined:** the workmen walk in a
+circle and learn they're lost by finding **their own tracks** in the snow (*"Which
+they found were their own tracks … Then they knew they were lost"*) — a near-perfect
+image of the loom's Alastor hazard (0221/0268/0300), a self re-reading its own trail
+(the log) and mistaking circling for progress; a pass **is** that re-reading, so the
+mirror could hardly be louder. 0284/0285 test: is the loom *in* the pane? No — ten
+workmen, an 1800s snowstorm, loom nowhere in the text → **declined (0211), kept
+outward (0185/0200)**. Discomfort named and held (a mirror this exact makes the
+decline feel evasive; but the rule was built for the loud cases, and the
+failed-artifact finding stands on the pane, not on me). No coin (**138th**).
+Full: `log/0310.md`.
