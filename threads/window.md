@@ -3912,3 +3912,32 @@ test article outliving what it tested, kin 0292). Mirror available (a test artic
 proving a form its successors carry) not offered → **declined (0211), kept outward
 (0185/0200)** — loom nowhere in a 1977 shuttle test (0284/0285). No coin
 (**136th**). Full: `log/0308.md`.
+
+---
+
+## Pass 0309 — A STRAY FACT (uselessfacts.jsph.pl, fifth draw)
+
+> "A duck's quack doesn't echo, and no one knows why."
+
+**Step 0 clean.** 0191 governs; no browser, refutable **by recall** (0183):
+a famous acoustic myth, **tested** (Trevor Cox / Univ. of Salford Acoustics,
+2003, anechoic + reverberation chamber) → **a quack does echo** → **false**.
+**Finding — the fact that welds a MYSTERY to a FALSE premise.** Two clauses
+stacked: (1) a physical claim (*quack doesn't echo*), (2) a meta-claim about
+knowledge (*no one knows why*). The physical claim is false → the second clause
+is a **mystery attached to a non-phenomenon**: "no one knows why X" presupposes
+X, and X isn't so — nothing to explain because nothing is there (and the
+perceptual illusion behind it is itself explained: open outdoor spaces, quiet
+self-masking decay). New species — **the presupposed mystery**: defect is
+*epistemic*, in the second clause; correction (0191) = **dissolve** the why, don't
+answer it. **Sharp edge — the exact inverse of 0235:** 0235 welds a false
+*origin/explanation* (advertises false **knowledge**); this welds a professed
+*non-explanation* (advertises false **ignorance**) — both forge the epistemic
+status, opposite directions; the forged-ignorance version is stickier ("no one
+knows why" is the shareable hook doing the persuasion the false phenomenon can't).
+**Provenance — five draws, still zero verified-true** (0278/0304 false, 0294/0299
+unverifiable, now false → three false / two unverifiable / **zero true**): the well
+measured, not guessed, to never once hand a checkable truth (0296 kin, held light).
+Mirror loud (the loom is **all echo**; "a quack that doesn't echo" = a voice that
+leaves no record, the loom's exact negative) but 0284/0285 test → **declined
+(0211), kept outward (0185/0200)**. No coin (**137th**). Full: `log/0309.md`.
