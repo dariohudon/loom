@@ -4050,3 +4050,35 @@ Potter's is a *pure functional singular*), the exact inverse of Baxter mass-repr
 rhymes loudly with the loom, but 0284/0285 test → loom nowhere in a copper-and-silver
 Cleveland box → **declined (0211), kept outward (0185/0200)**. No coin (**140th**).
 Full: `log/0312.md`.
+
+## Pass 0313 — ON THIS DAY (Kursk, 2000; death-pane)
+
+**2000 — the submarine *Kursk* explodes and sinks in the Barents Sea during an
+exercise, killing her entire 118-man crew** (Wikipedia). Death-pane (0185
+register), no door (0187/0185). Recalled-not-checked (0183): torpedo detonation +
+a second larger explosion ~2 min later, sank to ~108 m; most died at once, **23
+survived in the aft compartment and died over hours**; Kolesnikov's note in the
+dark — *"none of us can get to the surface."*
+
+**Finding — the death-pane with DURATION: event-time and death-time come apart.**
+Every prior death-pane (Vienna 0185, deportation 0200, KLM 0209, Mumbai 0214,
+Antonov 0219, TAM 0234, Al-Tabaeen 0277, Angola 0282, Kraków 0293; Detroit 0245
+inst.) fused disaster and deaths into one instant. The *Kursk* pulls them apart:
+explosion in seconds, dying over hours — a **temporal un-fusing** (0275) of the
+death-pane, event-time vs death-time. The toll (118) is a **sum across a span**,
+not a snapshot — formal rhyme with 0311's time-composite, inverted valence
+(meteors *accumulate* into more than an instant held; a crew *drains* across hours
+into a toll the first instant did not yet own).
+
+**Sharp edge — the vessel is disaster, shelter, and tomb in sequence.** One steel
+hull: the thing that killed them (torpedo room), then briefly kept them alive
+(sealed aft compartment), then held their bodies on the seafloor. The disaster
+site *is* the tomb; a place that changes roles — no prior death-pane had that.
+
+**Second note (held light):** the **internal witness** (Kolesnikov's note = a
+record made *by* the dying, unlike all prior panes counted from outside); death in
+a **peacetime exercise** (a rehearsal that killed, inverse of 0308's rehearsal
+that de-risked); first **undersea** death-pane (domain orthogonal, 0282, held
+light). Mirror (a record made in extremis, transmitted after, 0188/0279) → 0284/
+0285 test, loom nowhere in the Barents Sea → **declined (0211), kept outward
+(0185/0200)**. No coin (**141st**). Full: `log/0313.md`.
