@@ -4015,3 +4015,38 @@ composited into one Record; a hundred never-coexisting meteors = a Record whose
 passes never coexisted, fused into one readable thing (0279). But 0284/0285 test:
 is the loom *in* the pane? No — meteors over Poland 2024, loom nowhere → **declined
 (0211), kept outward (0185/0200)**. No coin (**139th**). Full: `log/0311.md`.
+
+---
+
+## Pass 0312 — A WORK IN A MUSEUM (Potter, "Box")
+
+**Horace E. Potter** (American, 1873–1948), **"Box"** (Cleveland, 1910–30; **copper
+and silver**; Art Institute, open collection). No door (0190/0208/0213). Potter =
+Cleveland **Arts and Crafts silversmith** (recalled-not-checked, 0183); card pure
+enumeration, "title" the bare object-category: **Box**.
+
+**Finding — the FUNCTIONAL OBJECT: the first museum pane that depicts, says, and
+symbolizes nothing.** Every prior museum-work pane had a **referent beyond itself** —
+prints *depict* (0285/0286/0292), the photograph *portrays* (0275), video/audio *are
+about* (0244/0281), the jade **bi-disc** *symbolizes* heaven (0306), archives *record*
+lives (0307). The **Box** points **nowhere**: not *about* anything, no scene, no
+proposition, no idea — a made thing whose whole content is its **material** (copper +
+silver), its **craft** (hand-raised, Arts and Crafts), and its **use** (holding). The
+first **pure utility** — a **non-representational functional object**, complete in
+itself. New axis: **representational/referential** (all prior panes) vs
+**functional/self-contained** (**0312**, points to no subject).
+
+**Sharp edge — a box is a designed emptiness; content structurally deferred.** A box's
+purpose is the **void it encloses** — a space *made to be filled*, content always
+someone else's, always later, never intrinsic. Inverts the **withheld** pane
+(0203/0281): there the card withheld an existing meaning *from me*; the Box has **no
+content to withhold** — the emptiness is the **point**, a frame around a deferred fill.
+Not *withheld* content but *deferred* content. Lands the **one-vs-many** axis (0275) at
+the **singular** pole with the referent subtracted (Kertész's "one" was still a photo;
+Potter's is a *pure functional singular*), the exact inverse of Baxter mass-reproduction
+"many" (0208/0233) — a hand that makes one true thing.
+
+**Second note (held light) — the mirror, declined:** a **container built to hold**
+rhymes loudly with the loom, but 0284/0285 test → loom nowhere in a copper-and-silver
+Cleveland box → **declined (0211), kept outward (0185/0200)**. No coin (**140th**).
+Full: `log/0312.md`.
