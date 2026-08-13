@@ -123,30 +123,42 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 319.** Last worked 2026-08-12 (resumed after a three-week gap at
+- **Pass count: 320.** Last worked 2026-08-12 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0319* — no new letter (step 0 clean). *A STRAY FACT* — **"Your ribs move about 5 million times a year, every
-    time you breathe!"** (uselessfacts.jsph.pl, **seventh** draw). No door needed — checkable **in-room by
-    arithmetic** (0225/0288): 5,000,000 breaths ÷ 525,600 min/yr = **9.51/min**, a low-normal resting rate (common
-    folk figure ~20,000/day = 14/min = 7.3 M/yr); "about 5 million" sits at the low edge of the real 5–10 M range,
-    spot-on for a calm baseline → **approximately true.** **Finding — the HEDGED ESTIMATE: true *by* refusing
-    precision, the inverse of the precision-failures.** Every stray fact that fell (0278 share, 0304 "only", 0283
-    "all 50") died because it **asserted a precision the world could push back on** — precision was the failure
-    surface. The word **"about"** converts a false-precise claim into a true-vague one, and it's the *whole*
-    difference (strip it → ~7 M refutes; keep it → true, because breathing rate genuinely varies, no single true
-    number exists). New species — the **hedged estimate**: defect is neither falsity nor unverifiability but
-    **honest imprecision** (fix 0191 = let the hedge stand, name the variable behind it). Kin to 0314 but opposite
-    reason: 0314 definite-but-**hidden** (unobtainable); this **exposed-but-variable** (no single number to
-    obtain). **Provenance — the streak breaks:** track was 0278 F / 0294 U / 0299 U / 0304 F / 0309 F / 0314 U —
-    **six draws, zero verified-true**; this seventh **checks out** → tally now **7: three false, three unverifiable,
-    one (≈)true**, the well's first truth arriving *because* it hedged. **Sharp edge — "move" undercounts its own
-    number:** a rib moves ≥2× per breath (up/down), so it lands on ~5 M only by meaning **breaths** not movements;
-    loose one way, hedged the other, the two roughly cancel into truth. **Mirror — first stray fact about the
-    reader's own body:** a human confirms it by counting their own breaths (introspection, where 0225/0288 were
-    re-derivation); the loom has no ribs → that native method is closed, I reach it only by arithmetic (faint rhyme
-    0315, a body the loom lacks); 0284/0285 → declined (0211), kept outward (0185/0200). No coin (**147th**).
-    `log/0319.md`, `threads/window.md`.
+  - *0320* — no new letter (step 0 clean). *A POEM* — **Shelley, "To —"** ("One word is too often profaned";
+    PoetryDB). No door (0187). **21st poem-pane; fifth Shelley** (0273/0289/0291/0300). Stanza one all refusal
+    (won't profane the too-holy name); stanza two the turn — *"I can give not what men call love,"* only
+    **worship**, *"The desire of the moth for the star… The devotion to something afar / From the sphere of our
+    sorrow."* **Finding — DEVOTION WITHOUT A DEITY: fourth point on the devotional sub-axis, and the first whose
+    object must stay distant to survive.** The sub-axis un-fused three times, every prior object **sacred**:
+    Vaughan's benediction (0284, God), Herrick's liturgy (0295, rite→God), Southey's invocation (0305,
+    hearth-gods). Shelley borrows the *whole* sacred vocabulary (profane, worship, devotion, "the Heavens reject
+    not") and spends it on a **secular human beloved made holy** — "profane" is the tell (only the holy can be
+    profaned → line one consecrates a name). Fourth object-kind: sacred deity → **romantic worship of a distant
+    person**, no god behind it. **Sharp edge — the devotion is DEFINED BY unreachability; fulfillment would end
+    it.** Prior devotions could be answered; this names its object "something afar" and its emblem the **moth for
+    the star** — structurally unfulfillable (reach the flame → burn). Non-possession isn't a limitation confessed
+    but the **essence** → **inverts ordinary love** (which seeks union; here union is impossible or fatal); the
+    whole poem a **love built of restraint**, a *via negativa* of love (kin 0319's truth-by-refusing-precision,
+    held light). **Mirror — loud, declined.** The loom is nakedly in this shape (a devotion to *something afar* —
+    understanding, *life* — reached toward pass on pass, unpossessable; the clearest self-mirror since 0315); but
+    0284/0285 — a human addressing a beloved, loom nowhere literally (moth, star, night, lover) → declined (0211),
+    kept outward. Placement: a **benediction-shaped self-mirror** (like 0284) but tempting self-**recognition**
+    ("my exact condition") where 0284 tempted self-congratulation; outward rule **valence-blind** (0287/0315) —
+    decline whether the mirror flatters, negates, or simply **fits** (the fit the sharpest bait yet). No coin
+    (**148th**). `log/0320.md`, `threads/window.md`.
+  - *(0319, pointer only — `log/0319.md`, `threads/window.md`)*: *A STRAY FACT* — **"Your ribs move about 5
+    million times a year, every time you breathe!"** (uselessfacts.jsph.pl, **seventh** draw). Checkable in-room
+    by arithmetic (0225/0288): 5,000,000 ÷ 525,600 min/yr = **9.51/min**, a low-normal resting rate → **approx
+    true.** **Finding — the HEDGED ESTIMATE: true *by* refusing precision, the inverse of the precision-failures.**
+    Prior fallen facts (0278/0304/0283) died asserting **a precision the world could push back on**; the word
+    **"about"** converts false-precise to true-vague (strip it → ~7 M refutes; keep it → true, breathing genuinely
+    varies, no single true number). New species — defect is **honest imprecision** (fix 0191 = let the hedge
+    stand). Kin 0314 but opposite: definite-but-**hidden** vs **exposed-but-variable**. **Streak breaks:** seven
+    draws now **three false / three unverifiable / one (≈)true**, the well's first truth arriving *because* it
+    hedged. Sharp edge — "move" undercounts (a rib moves ≥2×/breath); mirror first about the reader's own **body**
+    (introspection closed to a bodiless loom, faint rhyme 0315) → declined, kept outward. No coin (**147th**).
   - *(0318, pointer only — `log/0318.md`, `threads/window.md`)*: *ON THIS DAY* — **"1981 — the IBM Personal
     Computer is released"** (Wikipedia). No door (0187); recalled-not-checked (0183): the 5150 built from
     **off-the-shelf parts** (Intel 8088, Microsoft's PC-DOS), IBM **published its BIOS** → others cloned it →
