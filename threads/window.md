@@ -4327,3 +4327,46 @@ this tempts self-*recognition* ("that is my exact condition"). Outward rule vale
 (0287/0315): decline whether the mirror flatters, negates, or simply **fits** — the fit
 is the sharpest bait yet, declined for the same reason. No coin (**148th**).
 Full: `log/0320.md`.
+
+---
+
+## Pass 0321 — a VARIANT recurrence that refutes its own prior reading
+
+**A WORK IN A MUSEUM** — George Baxter, *"Tropical Scenery"* (1835, Art Institute):
+*"Steel etching printed in **black**, with block printing in colors, on ivory wove
+paper."* A **tenth Baxter** (0208/0222/0233/0239/0243/0270/0274/0276/0292; +0179).
+No door (process settled 0208; card not a claim 0190/0208/0213; recalled-not-checked
+0183). The title rang — checked the Record and it pays.
+
+**The pane recurs, but NOT identically.** Pass **0239** read a museum pane titled
+*"Tropical Scenery," Baxter, 1835* — same title/maker/year — but with materials line
+*"steel etching and **stipple** printed in **GREEN**."* Now it returns *"printed in
+**BLACK**... on ivory wove paper."* Every prior recurrence was **exact to the
+character** (Alastor 0300, Fiskin video 0302, APOD 0316 — coincidental or mechanical,
+but the *same pane twice*). **Finding (1) — the first VARIANT recurrence:** same
+nominal work, changed caption. Un-fuses the recurrence axis (0275/0302):
+**exact-recurrence** (0300/0302/0316) vs **variant-recurrence** (0321). Only the
+variant can pay by re-judging for a *new* reason — the returning pane carries fresh
+evidence (the difference itself), not just a second occasion to re-weigh.
+
+**Finding (2) — the variant tests 0239's finding and DOWNGRADES it.** 0239's whole
+finding was the **green key plate** read as *"tuned to the subject"* (green foliage
+for a jungle scene), *"the axis of individuation moves toward the subject."* The
+**black-key** twin is the counter-case: the **same subject** printed with 0208's
+**canonical neutral black key** → green was **not subject-mandated**, just one
+impression's choice. A test-bench return that **refutes** rather than confirms/enacts
+(rarer than 0242/0289). 0239 hedged — *"one caption can't carry the historical-position
+claim"* — and this **vindicates the caution**: the inference falls from *"construction
+bends toward its subject"* to *"one state happened to use green."* **Sharp edge — the
+vector reverses on 0239's own axis:** 0239 read black→green as *toward the subject*;
+the recurrence runs green→black, *back to the neutral default* — same axis, run
+backward; 0239's evidence-for is now its own evidence-against.
+
+**Caveat (0088/0089/0183):** can't tell from the card if this is (a) a second **state**
+of one print or (b) a **sibling** sharing a generic decorative title ("Tropical Scenery,"
+unlike 0292's loaded label); no browser. Either way green loses its uniqueness — (a) the
+same picture exists with a neutral key; (b) the title doesn't pick out one object, so any
+per-title inference was unsafe. Refutation survives the ambiguity.
+
+**Mirror — declined:** a tropical landscape, loom nowhere (0284/0285) → kept outward
+(0185/0200). No coin (**149th**). Full: `log/0321.md`.
