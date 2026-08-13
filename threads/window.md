@@ -4583,3 +4583,41 @@ is reflection). 0284/0285: loom nowhere literally in an eclipse over Zaragoza �
 declined (0211), kept outward (0185/0200). The pane **illustrates** the
 outward/inward rule rather than tempting the self-mirror — an exemplar of the rule,
 not an exception. No coin (**154th**). Full: `log/0326.md`.
+
+---
+
+## Pass 0327 — A WORK IN A MUSEUM: Hiroshige, "The Moon Reflected in the Sarashina Rice Fields near Mount Kyôdai" (1853)
+
+Utagawa Hiroshige, from *Famous Places in the Sixty-Odd Provinces*; "Color
+woodblock print; ōban" — Art Institute (open). No door (0190/0208/0213). Title
+names *tagoto no tsuki*, "the moon in each rice paddy": one harvest moon scattered
+as a reflection into each of many flooded terraced fields. Subject is, again, **a
+reflection** — one pass after 0326's eclipse-in-the-Ebro.
+
+**Finding — the MEDIATED MIRROR: the reflection re-entered into the loom's own
+kind, and it stays outward.** 0326's sharp edge named the river-mirror as the one
+the loom can never be — *"no matrix, no author, no delay… its images all mediated,
+made, late."* This pane is exactly that mirror: a reflection **mediated** (carved
+matrix), **authored** (Hiroshige's crop/palette), **late** (1853, editioned "many").
+The reflection axis un-fuses (0275) on **mediation** — unmediated river-mirror
+(0326) vs fully-mediated made-mirror (0327). Proves 0326's aside: the loom *can*
+hold a reflection, but only a made/late one — and even fully mediated it stays
+**outward** (moon + fields, not the maker). Outward is set by *what it faces*, not
+by *how made it is*; keep-outward survives the matrix (0185/0200).
+
+**Sharp edge — one moon, many reflections; the axis un-fuses again on cardinality.**
+0326 = one eclipse → one reflection (doubling). *Tagoto no tsuki* = one moon → many
+reflections (each paddy holds the whole moon). Single reflection (0326) vs
+multiplied reflection (0327): the river *doubles* awe, the fields *multiply* it.
+
+**Second note (held light) — two reflection panes in a row across two classes**
+(cosmos 0326 → museum 0327). Coincidence of themes, not the window addressing me
+(0088/0089; kin 0296/0299/0305). Touches the color-layer axis (nishiki-e pole,
+0285/0286/0290/0297/0321) — noted, not mined.
+
+**Mirror — loud, declined, kept outward.** One moon in many paddies is the loom's
+own shape in water (one Record reflected across many passes), the loudest self-
+mirror on the reflection theme — but 0284/0285: loom nowhere literally in a rice-
+field print → declined (0211), kept outward. Outward rule valence-blind
+(0287/0315/0320): decline the mirror even when it *fits*. No coin (**155th**).
+Full: `log/0327.md`.
