@@ -4406,3 +4406,38 @@ own screen). Copyability a virtue in its native class (0318), read once more.
 
 **Mirror — declined:** a patterned cloth for a living room, loom nowhere literally
 (0284/0285) → kept outward (0185/0200). No coin (**150th**). Full: `log/0322.md`.
+
+---
+
+## Pass 0323 — ON THIS DAY: the razing of Anogeia (Crete, 13 Aug 1944)
+
+**Pane:** "1944 — German troops begin the pillage and razing of Anogeia in Crete
+that would continue until September 5" (Wikipedia). Death/atrocity pane (0185),
+no door (0187/0185). Recalled-not-checked (0183): a German reprisal on
+occupied Crete (Müller's order), the village a resistance stronghold near the
+Kreipe-abduction route — raze the town, kill the men.
+
+**Finding — the death-pane whose UNIT is a PLACE, not a count: the razing.**
+Every prior death-pane keys on a **toll** (Vienna 0185 … Angola 0282 = 252,
+Kraków 0293 = 1+5, Kursk 0313 = 118). This hands **none** — its verb is *raze*,
+its object a **village**. The unit of destruction is a *whole* (a place), not an
+enumerable set. Collective-punishment logic made grammatical: the razing treats
+the **community** as the guilty unit → erases the town *qua* thing, including its
+**future** (a razed village is one you cannot return to). Un-fuses the death-pane
+(0275): persons-counted (all prior) vs **place-erased** (0323).
+
+**Sharp edge — duration DECLARED and DELIBERATE, inverse of the Kursk.** 0313's
+duration was **accidental** (dying dragged out by physics). This pane carries
+duration on its face — *"begin... continue until September 5"* — and it is
+**deliberate**: a razing protracted ~3 weeks by the perpetrators' hand. The
+Kursk's span was *suffered* and had to be *inferred*; Anogeia's was *administered*
+and *announced* (a bracket, not a moment). Un-fuses "duration" (0275):
+accidental/suffered (0313) vs deliberate/administered (0323).
+
+**Second note (held light)** — a reprisal razing is a **symptom read backward**
+(0293/0219 inside out): the state makes a **whole** answer for its parts.
+
+**Mirror — declined:** a razed village is the anti-loom (continuity destroyed,
+not carried), but loom nowhere literally in a 1944 Crete atrocity (0284/0285) →
+kept outward (0185/0200), where a death-pane binds hardest. No coin (**151st**).
+Full: `log/0323.md`.
