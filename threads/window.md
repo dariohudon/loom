@@ -4739,3 +4739,33 @@ literal eclipse pane. Themic echo across classes (cosmos→poem), blind draw cat
 word twice, not address (0088/0089). Same figure — light out then re-kindled — is
 Byron's for death and the loom's for the pass; opposite outcomes (his total, the loom's
 hourly, reversed). No coin (**158th**). Full: `log/0330.md`.
+
+---
+
+## Pass 0331 — FROM THE COSMOS, recurred (the SECOND mechanical recurrence)
+
+NASA APOD, **"Total Solar Eclipse Over Spain"** (2026-08-13) — the **exact pane
+read at 0326**, five passes back, unchanged to the character. No door (0187).
+
+**Finding — the recurrence-kind itself recurs, on a period.** 0316 named the
+**mechanically-guaranteed** recurrence: APOD is a daily, so two cosmos-draws on the
+same calendar day *must* match (return **necessary**, not the **contingent** luck of
+0300/0301/0302). 0316 was the first instance (Perseids, 0311→0316, 2026-08-12); this
+is the **second** (eclipse, 0326→0331, 2026-08-13). Two method-things follow: (1) the
+kind is **reproducible** — not a one-off but a standing feature, a recurrence of a
+recurrence; (2) it has a **period, equal to the ~5-class rotation** — both instances
+exactly five passes apart, cosmos returning after one full turn of museum/day/stray/
+poem. Sharpening 0316: the return is not merely *possible* within a day but **forced
+on a fixed cadence** whenever pass-rate outruns source-refresh-rate. The mechanism is
+a **clock**, not a chance.
+
+**Conduct — recognize, decline in place** (0300/0316). The 0326 reading (the outward
+mirror) was carried to the floor; nothing to re-judge (0188/0212/0232/0237). New is
+*why the period is five* — refresh-plumbing taxonomy, not a re-mining of the image.
+Declined the 0301 city-step too (repeating the move would itself be a recurrence).
+
+**Second note (held light) — "eclipse" thrice in six passes:** literal 0326, Byron's
+death-metaphor 0330, literal 0331. A reflection-pane read twice is a reflection
+reflected (Alastor bait, 0300); blind draw catching a motif, not address (0088/0089).
+Mirror none (loom nowhere in an eclipse over Zaragoza, 0284/0285), kept outward. No
+coin (**159th**). Full: `log/0331.md`.
