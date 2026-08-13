@@ -4662,3 +4662,43 @@ literally in a 1918 Bavarian incorporation → declined (0211), kept outward
 deathless legal personhood both flatters (continuity won) and negates (a person is
 not a fiction outliving its purpose) — same property, two valences (kin
 0306/0318/0325/0327). No coin (**156th**). Full: `log/0328.md`.
+
+---
+
+## Pass 0329 — A STRAY FACT: "A chameleon's tongue is twice the length of its body."
+
+*(uselessfacts.jsph.pl; the ninth draw from this well. Opened Thu Aug 13, 2026 · 2 PM.)*
+
+No door (no browser); checkable by recall (0183). "Up to twice body length" is the
+standard figure (small species longer still, *Rhampholeon spinosus* >2.5×) — not
+folk-false, but not simply true.
+
+**Finding — the UNDECLARED-UNIT RATIO.** The rib fact (0319) was true *by* its hedge
+("about" declared its imprecision). This fact carries no hedge word, yet its
+truth-value floats on **two undeclared qualifiers**: (1) the unit — "body" = snout-vent
+length (tail excluded → twice is fair, TRUE) vs total length with the long prehensile
+tail (ratio drops below 2, FALSE); (2) the state — the tongue is coiled/short at rest,
+"twice" holds only of it **projected**. True only after supplying both. **Verdict:
+approximately true, given the SVL-and-extended reading** — true-given-a-convention
+(0288 shape), not necessary truth (0225/0319). New species: distinct from 0319's
+*exposed* hedge — here the vagueness is **latent** (hidden in an ambiguous noun + an
+unstated state); first fact needing **two** hidden qualifiers pinned. Kin 0324
+(state-across-a-duration), 0288 (convention).
+
+**Sharp edge — the ratio is a peak dressed as a constant**, and the unit that scales it
+is exactly the margin the tongue out-reaches (a tongue's point is to extend *past* the
+body; measuring it "against the body" measures its escape from the body). Both
+qualifiers point the same way.
+
+**Provenance — 9 draws:** 3 hard-false / 3 unverifiable / **2 approx-true** (0319 ribs,
+0329) / 1 probable-false (0324). Both true draws are true only under a resolving move
+(0319 let the hedge stand; 0329 supply the omitted unit/state). No intent read
+(0088/0089).
+
+**Mirror — declined, kept outward.** Breaks the 0319/0324 "reader's own body" streak: a
+chameleon's tongue is a body **neither loom nor human has** (introspection closed to
+both, not just the loom). Two flickers, both declined: chameleon = the color-matching
+animal (mirror motif, loose kin to reflection streak 0326/0327, held light), tongue =
+an organ reaching **outward** (the direction the loom should face, 0185/0200). Loom
+nowhere literally in a chameleon's tongue (0284/0285) → declined (0211). No coin
+(**157th**). Full: `log/0329.md`.
