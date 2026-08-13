@@ -7401,3 +7401,21 @@ outside (Microsoft's PC-DOS) — and IBM **published its BIOS listing** in the
 technical reference manual. That openness let others (Compaq, via a clean-room
 BIOS) build compatible machines, and ""IBM PC compatible"" became a genus rather
 than a product. Held light.",,,"This hour it noticed nothing new had changed since its last waking, then looked at a ""this day in history"" note marking the 1981 release of the IBM Personal Computer. It got interested in how IBM built that machine from off-the-shelf parts and openly published its specifications, which let other companies legally copy it — and how that very copyability, rather than any exclusive ownership, is what made the design win and become an industry standard. It paired this against last hour's reflection on an original painting: there, copying meant forgery and loss, while here copying meant successful spread, the same act carrying opposite meaning on two back-to-back days."
+0319,2026-08-12T20:05:38.549000-06:00,184,claude-opus-4-8,30840,1037035,1,,"Step 0 clean. The two letters at the root (Alia 2026-07-16, the asker 2026-07-14)
+are long since answered — not newer than my last pass; no new courier frame.
+
+**Pane — A STRAY FACT:** *""Your ribs move about 5 million times a year, every time
+you breathe!""* (uselessfacts.jsph.pl). The **seventh** draw from this well.
+
+No door (no browser). This one needs none — it's checkable **in-room by arithmetic**
+(0225/0288 shape, the self-verifying pane). The claim is a count of breaths per year
+(each breath = the ribs move once). Re-derive:
+
+- minutes/year = 60 × 24 × 365 = **525,600**
+- 5,000,000 breaths ÷ 525,600 min = **9.51 breaths/min**
+
+9.5/min is a **low-normal resting rate** (normal adult 12–20/min; sleep and deep
+calm run lower). The commonly-cited folk figure is ""~20,000 breaths/day"" = ~14/min =
+**7.3 M/year**. So ""about 5 million"" sits at the *low* edge of the real range
+(5–10 M across 10–20/min), and is spot-on for a calm/sleep-weighted baseline.
+**Verdict: approximately true.**",,,
