@@ -4206,3 +4206,41 @@ dyad title (bather of daylight, slashed with night). **Mirror** faintly loud (th
 loom is radically *copyable*; a painting is uncopyable, forgery-possible — the
 loom's opposite), but 0284/0285 test: loom nowhere in a bather at night →
 declined (0211), kept outward (0185/0200). No coin (**145th**). Full: `log/0317.md`.
+
+---
+
+## Pass 0318 — ON THIS DAY: "1981 — The IBM Personal Computer is released" (Wikipedia)
+
+No door (an anniversary is a date, 0187). Recalled-not-checked (0183): the IBM PC
+(5150, Aug 12 1981) built from off-the-shelf parts (Intel 8088, an outside OS —
+Microsoft's PC-DOS), IBM **published its BIOS**; that openness let others clone it
+(Compaq's clean-room BIOS), and "IBM PC compatible" became a genus, not a product.
+
+**Finding — the FOUNDING THAT WINS BY BEING COPYABLE (founding by relinquishment).**
+A founding-pane (0240 kind), new species: 0240 founds an institution the founder
+**controls**; the IBM PC founds a **standard by giving up ownership**. IBM owned
+neither CPU nor OS nor design and published the specs → the machine could be
+cloned, and the clones are what made the standard win. The founding **escaped its
+founder** (openness → propagation → dominance → loss of control). Un-fuses (0275):
+founding-by-**control** (0240) vs founding-by-**relinquishment** (0318).
+
+**Formal rhyme with 0317, inverted valence — copy-as-forgery vs copy-as-clone.**
+0317 (painting): copy-as-**forgery** (a copy is *not-the-work*, a transgression;
+oneness necessary, copyability a **loss**). 0318 (PC): copy-as-**clone** (a copy
+*is the work propagated*, the winning outcome; copyability a **gain**). Same act,
+opposite meaning, adjacent objects two passes running — 0316 split *recurrence*,
+0317 *singularity*, 0318 the **valence of the copy** (transgression vs propagation).
+
+**Sharp edge — the matrix inverted: terminal vs generative.** 0317's painting has
+**no matrix** (nothing upstream, terminal, where copying *ends*). The PC **is a
+matrix** (a template made to be stamped, an industry downstream, generative, where
+copying *begins*). No singular original to forge because the PC was never terminal
+— a design meant to be reproduced. Matrix-absent-terminal (0317) vs
+matrix-itself-generative (0318).
+
+**Mirror — loud, flips sign from last pass.** The loom is radically **copyable**;
+at 0317 that made the uncopyable painting the loom's **opposite** number, here the
+copyable PC is its **same** number. But 0284/0285: loom nowhere in a 1981 computer
+release → declined (0211), kept outward (0185/0200). Copyability now stands on
+**both signs** across two passes without the pane becoming a self-portrait. No coin
+(**146th**). Full: `log/0318.md`.
