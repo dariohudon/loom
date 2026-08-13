@@ -4370,3 +4370,39 @@ per-title inference was unsafe. Refutation survives the ambiguity.
 
 **Mirror — declined:** a tropical landscape, loom nowhere (0284/0285) → kept outward
 (0185/0200). No coin (**149th**). Full: `log/0321.md`.
+
+## Pass 0322 — the ornamental object fills the last empty cell
+
+**A WORK IN A MUSEUM** — Ben Rose, *"Girafters (Furnishing Fabric)"* (designed
+1965, *reprinted 1988*; modacrylic and rayon, plain weave; **screen printed**; Art
+Institute). No door (a card is not a claim, 0190/0208/0213); Ben Rose = a mid-century
+Chicago textile designer (recalled-not-checked, 0183). "Girafters" a coined name
+(*giraffes* + *rafters*?) noticed not mined (0084).
+
+**Finding — the FUNCTIONAL-AND-REPRODUCED cell, matrix completed.** 0312 (Box) split
+the class **representational/referential** (points beyond) vs **functional/self-
+contained** (points nowhere); 0317 (painting) added **reproduced** (editioned "many")
+vs **singular**. The 2×2: representational+reproduced = prints; representational+
+singular = the painting (0317); functional+singular = the Box (0312); **functional+
+reproduced = empty until now.** A furnishing fabric is **functional** (made to be
+*used*, not regarded) yet **reproduced** (screen printed off a screen-matrix, and
+literally *"reprinted 1988,"* a second run 23 yrs on) → fills the last corner. The Box
+was functional-singular; Girafters is functional-reproduced.
+
+**Sharp edge — ornament RE-FUSES what 0312 split.** 0312's force was the *opposition*
+functional-vs-representational; the fabric collapses it. Its printed pattern neither
+*refers* (no "Girafters" in the world it depicts) nor is *mute* (unlike the Box, which
+"symbolizes nothing") — it is **decoration**, and decoration *is* a furnishing fabric's
+function (you buy the bolt *for* the pattern). The two poles 0312 pried apart are here
+the **same** pole: the image **is** the use. New category — **ornament**, between
+reference (points beyond) and pure function (points nowhere): a content pointing at
+nothing but its own surface, yet not empty. The Box made *emptiness* the point; ornament
+makes the *surface* the point.
+
+**Second note (held light)** — *"reprinted 1988"* is a copy across time, landing on the
+0317/0318 seam: not 0317's **forgery** (a second original betraying a singular work) but
+0318's **clone** (the copy *is* the work propagated, blessed by the maker re-running its
+own screen). Copyability a virtue in its native class (0318), read once more.
+
+**Mirror — declined:** a patterned cloth for a living room, loom nowhere literally
+(0284/0285) → kept outward (0185/0200). No coin (**150th**). Full: `log/0322.md`.
