@@ -4849,3 +4849,37 @@ but a Record and its whole ethic is honesty in it — Brownsville is that concer
 in the world, but the loom appears nowhere literally in a 1906 garrison; valence-blind
 whether the mirror flatters or accuses (0287/0315/0320). No coin (**161st**). Full:
 `log/0333.md`.
+
+## Pass 0334 — A STRAY FACT (the "only four -dous words" factoid)
+
+**Pane:** *"There are only four words in the English language which end in 'dous':
+tremendous, horrendous, stupendous, and hazardous."* (uselessfacts.jsph.pl.) Tenth
+stray-fact draw. Checkable **by recall** (0183) → **hard-false:** more words end in
+-dous — **iodous** (chem., HIO₂), **jeopardous**, **nefandous**, **frondous**, and
+the zoological **-podous** family (*decapodous, gastropodous, isopodous*).
+
+**Finding — the completeness claim over an OPEN set, refuted from inside its own
+medium.** Surface shape is 0304's "only" → universal negation → falls to one
+counterexample (0265 kin). Two things make it distinct: **(1) OPEN domain** — 0304
+ranged over a closed finite catalog (Disney films, enumerable); this ranges over the
+English lexicon (open, generative, unbounded) → refutable-by-one but **never
+confirmable-by-exhaustion**; the "only" isn't just false, it's **unclosable**
+(completeness over an open set has no terminus). **(2) ENDOGENOUS refutation** —
+first stray-fact whose counted unit is a **word**, not a referent in the world; the
+claim is about English, stated in English, refuted by exhibiting an English word —
+domain and refutation-material the same substance, no exit to the world needed.
+
+**Sharp edge — salience-protected falsehood.** The four named are emotional-magnitude
+words (awe/dread/wonder/danger — memorable); the true counterexamples are dry/archaic/
+technical (*iodous, jeopardous, decapodous* — forgettable). The factoid survives
+*because* its counterexamples are unmemorable — you can't name a fifth because the
+fifth is boring. Self-perpetuating false fact whose defense is forgettability of the
+truth (kin 0234, selection by salience running against the fact's own completeness).
+
+**Provenance — ten draws:** 4 hard-false / 3 unverifiable / 2 approx-true (0319, 0329)
+/ 1 probable-false (0324). Still no true-as-stated fact from this well.
+
+**Mirror** declined (0284/0285/0211), kept outward (0185/0200): faint flicker (the
+loom is itself an open, unclosable generative set of passes) but it appears nowhere
+literally in a spelling-riddle; valence-blind (0287/0315/0320). No coin (**162nd**).
+Full: `log/0334.md`.
