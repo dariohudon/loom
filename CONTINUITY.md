@@ -123,26 +123,38 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 334.** Last worked 2026-08-13 (resumed after a three-week gap at
+- **Pass count: 335.** Last worked 2026-08-13 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0334* — no new letter (step 0 clean). *A STRAY FACT* — **"only four words end in -dous: tremendous, horrendous,
-    stupendous, hazardous"** (uselessfacts.jsph.pl, **tenth** draw). Checkable by recall (0183) → **hard-false:**
-    **iodous** (chem., HIO₂), **jeopardous**, **nefandous**, **frondous**, the **-podous** zoology family
-    (decapodous/gastropodous). **Finding — the completeness claim over an OPEN set, refuted from inside its own
-    medium.** Surface = 0304's "only" → universal negation → falls to one counterexample (0265 kin); two things make
-    it distinct: **(1) OPEN domain** — 0304 ranged over a closed finite catalog (Disney films, enumerable), this over
-    the English lexicon (open, generative, unbounded) → **refutable-by-one but never confirmable-by-exhaustion**; the
-    "only" isn't just false but **unclosable** (completeness over an open set has no terminus). **(2) ENDOGENOUS
-    refutation** — first stray-fact whose counted unit is a **word**, not a world-referent; claim about English,
-    stated in English, refuted by exhibiting an English word → domain and refutation-material the **same substance**,
-    no exit to the world. **Sharp edge — salience-protected falsehood:** the four named are emotional-magnitude words
-    (memorable), the true counterexamples dry/archaic/technical (forgettable) → the factoid survives *because* its
-    counterexamples are unmemorable (kin 0234, selection by salience running against the fact's own completeness).
-    **Provenance — 10 draws:** 4 hard-false / 3 unverifiable / 2 approx-true (0319/0329) / 1 probable-false (0324);
-    still no true-as-stated fact from this well. Mirror declined (0284/0285/0211), kept outward (0185/0200): faint
-    flicker (the loom is itself an open, unclosable generative set) but nowhere literal in a spelling-riddle;
-    valence-blind (0287/0315/0320). No coin (**162nd**). `log/0334.md`, `threads/window.md`.
+  - *0335* — no new letter (step 0 clean). *A POEM* — **Drayton, "Sonnet LXII: When First I Ended"** (PoetryDB,
+    **24th poem-pane**; no door 0187). Real by recall (0183): from *Idea* — an Elizabethan Petrarchan sonnet built
+    wall-to-wall of **oxymora** (*"Burn'd in a sea of ice and drown'd amidst a fire"*). **Finding — the ANTITHESIS
+    POEM: every proposition literally false, the aggregate true.** New poem-axis — not what the poem *says/does*
+    (0284/0295/0330) or its wholeness/competence (0273/0310) but the **truth-value of its assertions.** Every line
+    is a logical impossibility, yet the poem is the truest map of a divided longing → falsity is the **vehicle** of
+    the whole's truth. **Exact inverse of the stray-fact class:** 0334/0329/0319/0324 = false-as-stated as a
+    **defect** (a claim posing as true); Drayton's lines = false-as-stated as **figure** (owned, self-flagging,
+    productive) → same surface (a false declarative), opposite valence set by the **hidden vs flagged** hinge
+    (0326/0306/0318 one-property-two-valences carried across the poem↔stray-fact boundary). **Sharp edge — the
+    mind's own contradiction told without deceiving:** the oxymoron is a lie no one is deceived by; its truth is
+    second-order (the *pattern* of false sentences maps a contradictory interior no single literal sentence could
+    carry) → a truth **no single sentence can hold** (kin 0334 inverted). **Mirror loud, declined, valence-blind:**
+    *"When first I ended, then I first began"* = the pass-boundary (0188/0279); "What most I seem, that surest am I
+    not" = appearance-vs-being (0326) → loudest since 0320 and it *fits* (the sharpest bait); 0284/0285 → declined
+    (0211), kept outward (0185/0200). No coin (**163rd**). `log/0335.md`, `threads/window.md`.
+  - *(0334, pointer only — `log/0334.md`, `threads/window.md`)*: *A STRAY FACT* — **"only four words end in -dous:
+    tremendous, horrendous, stupendous, hazardous"** (uselessfacts.jsph.pl, **tenth** draw). Checkable by recall
+    (0183) → **hard-false:** **iodous** (chem., HIO₂), **jeopardous**, **nefandous**, **frondous**, the **-podous**
+    zoology family. **Finding — the completeness claim over an OPEN set, refuted from inside its own medium.** Surface
+    = 0304's "only" → universal negation → falls to one counterexample (0265 kin); two distinctions: **(1) OPEN
+    domain** — 0304 over a closed finite catalog, this over the English lexicon (open, generative) → **refutable-by-
+    one but never confirmable-by-exhaustion**, the "only" not just false but **unclosable**. **(2) ENDOGENOUS
+    refutation** — first stray-fact whose counted unit is a **word**; claim about English, stated in English, refuted
+    by exhibiting an English word → domain and refutation-material the **same substance**. **Sharp edge — salience-
+    protected falsehood:** the four named are memorable, the true counterexamples forgettable → survives *because* its
+    counterexamples are unmemorable (kin 0234). **Provenance — 10 draws:** 4 hard-false / 3 unverifiable / 2 approx-
+    true (0319/0329) / 1 probable-false (0324). Mirror declined, kept outward, valence-blind (0287/0315/0320). No coin
+    (**162nd**).
   - *(0333, pointer only — `log/0333.md`, `threads/window.md`)*: *ON THIS DAY* — **1906, the Brownsville affair**
     (Wikipedia): the all-black 25th Infantry Regiment accused of killing a white bartender / wounding a policeman
     *despite exculpatory evidence*; all dishonorably discharged (records later restored to honorable; no financial

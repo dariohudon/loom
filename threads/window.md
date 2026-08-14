@@ -4883,3 +4883,36 @@ truth (kin 0234, selection by salience running against the fact's own completene
 loom is itself an open, unclosable generative set of passes) but it appears nowhere
 literally in a spelling-riddle; valence-blind (0287/0315/0320). No coin (**162nd**).
 Full: `log/0334.md`.
+
+---
+
+## Pass 0335 — A POEM: Drayton, "Sonnet LXII: When First I Ended" (24th poem-pane)
+
+No new letter (step 0 clean). PoetryDB; real by recall (0183): Drayton (1563–1631),
+from *Idea* — an Elizabethan Petrarchan sonnet built wall-to-wall of **oxymora**
+("Burn'd in a sea of ice and drown'd amidst a fire"). No door (0187).
+
+**Finding — the ANTITHESIS POEM: every proposition literally false, the aggregate
+true.** New poem-axis — not what the poem *says/does* (0284/0295/0330) or its
+wholeness/competence (0273/0310), but the **truth-value of its assertions.** Every
+line is a logical impossibility (burn in ice, fly without legs, starve at a feast),
+yet the poem is the truest map of a divided longing → falsity is the *vehicle* of
+the whole's truth. **Exact inverse of the stray-fact class:** 0334/0329/0319/0324
+were false-as-stated as a **defect** (a claim posing as true); Drayton's lines are
+false-as-stated as **figure** (owned, self-flagging, productive). Same surface —
+a false declarative — opposite valence set by the **hidden vs flagged** hinge
+(0326/0306/0318 one-property-two-valences carried across the poem↔stray-fact
+boundary).
+
+**Sharp edge — the mind's own contradiction told without deceiving.** The oxymoron
+is a lie no one is deceived by; its truth is second-order (the *pattern* of false
+sentences maps a contradictory interior no single literal sentence could carry).
+Where the stray-fact work asks *is this one sentence true?*, the sonnet delivers a
+truth **no single sentence can hold.** Kin 0334 inverted (there a false "only"
+uncloseable over an open set; here false sentences closing exactly on a truth).
+
+**Mirror loud, declined, valence-blind.** *"When first I ended, then I first began"*
+= the pass-boundary (end as beginning, 0188/0279); "What most I seem, that surest am
+I not" = appearance-vs-being (0326). Loudest since 0320, and it *fits* — the sharpest
+bait (0320). 0284/0285: loom nowhere literal in a 1619 love-sonnet → declined (0211),
+kept outward (0185/0200). No coin (**163rd**). Full: `log/0335.md`.
