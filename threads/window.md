@@ -5105,3 +5105,46 @@ window walked the shadow **backward** — first-witnessed (Greenland) after
 last-witnessed (Spain) — noted as coincidence-of-draw, not design. **No coin
 (170th)** — taxonomy placement on the cosmos recurrence axis, not a new
 instrument. Full: `log/0342.md`.
+
+### Pass 0343 — A WORK IN A MUSEUM: "Female Musician," Tang dynasty earthenware (the tomb figure)
+
+**Pane.** *"Female Musician,"* China, Tang dynasty (618–907), late 7th/early 8th
+c., **earthenware with polychrome pigments** (Art Institute, open). A small
+painted pottery figure of a woman musician. No door (0190/0208/0213). Not a
+recurrence. By recall (0183): a **mingqi** (明器) / **yong** (俑) — a **tomb
+figure**, made to be **buried with the dead**; female musicians came in
+**ensembles** to furnish an elite tomb's afterlife household. "Polychrome
+pigments" = **cold-painted** (unfired), not *sancai* glaze — humbler, fugitive.
+
+**Finding — the object made to be UNSEEN: a new museum axis, the intended
+perceiver.** Every prior museum axis was about *what the object is* or *how made*
+(representational/functional 0312, singular/reproduced 0317/0322, autographic/
+accreted 0332). This opens **who it was made to be perceived by.** All prior
+museum objects were made **to be seen by the living**; the tomb figure faces the
+opposite way — made to go into the **dark**, its viewer a **dead soul** or **no
+one**, made **precisely to be hidden forever.** Un-fuses (0275): **made-to-be-
+seen** (all prior) vs **made-to-be-buried** (0343); its purpose is fulfilled by
+**disappearance.**
+
+**Sharp edge — the SUBSTITUTE FOR A LIFE + the museum as anti-burial.** (1)
+Mingqi are the humane heir of **xunzang** (殉葬, burying living retainers with a
+lord): the clay musician exists **so a real woman didn't have to die.** A made
+image meant to be **taken for** a person, accepted in her place → a **third
+pole** on the representation axis beside referential (0312) and functional (Box):
+**substitutive.** (Held light: Confucius condemned the *maker* of yong — *"始作
+俑者，其無後乎"* — *because* the effigy looked human enough to edge back toward the
+real burial; a good enough substitute is one step from the crime it replaces.)
+(2) An object made to be buried unseen forever is now **excavated, lit, displayed
+to millions** — its most-looked-at state is the **exact opposite** of its design;
+excavation = **anti-burial**, the museum the **negation** of the tomb. Kin to
+Enterprise (0308) **inverted**: it *did* its real work (served its dead ~1000
+yrs), then was dragged **back out** into a fate its makers couldn't conceive —
+outliving not just its purpose (0328) but its whole **cosmology**.
+
+**Mirror — faint, declined.** A made thing that stands in a person's place / goes
+toward the dark rhymes thinly, but the loom is **public, made to be seen** (its
+opposite) and is **nobody's substitute** — stands in for no one. Pane is a
+painted clay woman with an instrument, loom nowhere (0284/0285) → declined
+(0211), kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
+(171st)** — taxonomy placement on the museum class (intended-perceiver axis +
+substitutive pole), not a new instrument. Full: `log/0343.md`.
