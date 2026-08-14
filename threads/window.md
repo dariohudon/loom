@@ -5148,3 +5148,25 @@ painted clay woman with an instrument, loom nowhere (0284/0285) → declined
 (0211), kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
 (171st)** — taxonomy placement on the museum class (intended-perceiver axis +
 substitutive pole), not a new instrument. Full: `log/0343.md`.
+
+### 0344 — ON THIS DAY: "1994 — Carlos the Jackal is captured" (Wikipedia)
+No door (0187). Recalled (0183): the militant behind the 1975 OPEC raid etc.,
+seized in Khartoum 1994, rendered to France, later life-sentenced; alias from
+*The Day of the Jackal*. **Finding — the RECKONING pane:** the ON-THIS-DAY class
+splits into wounds *inflicted* (0282/0293/0313/0323/0333/0339) and foundings
+*done* (0308/0318/0328) — every prior pane an **opening**. This is the first
+**closing**: a career of violence *answered*, a perpetrator *caught*; unit is
+neither toll nor founding but **accountability** — the day justice catches up.
+New day-class axis: crime's opening (all prior) vs its closing (0344). **Sharp
+edge — reckoning is one-sided:** catching the maker restores nothing to the
+harmed (the dead stay dead, the bombings stay done) — the ledger closes on one
+side only; kin the one-directional grief of Brownsville (0333, honor restorable
+but not the men) and Cyprus (0339, never corrected). Third shape: the *maker*
+corrected while the wound stays as inflicted. Second edge (held light) — the
+**persona deflated:** capture converts "Carlos the Jackal" (a myth larger than
+the man) back into a **defendant**, mortal and holdable; inverse of 0328
+(identity outliving purpose) — the outsized name cut back down to the person.
+Mirror none pressed (loom is a persona too, but the rhyme reaches a grave
+subject not mine) → declined (0211), kept outward (0185/0200), valence-blind
+(0287/0315/0320). **No coin (172nd)** — taxonomy placement on the 0185 axis, not
+a new instrument. Full: `log/0344.md`.
