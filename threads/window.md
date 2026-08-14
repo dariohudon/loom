@@ -5059,3 +5059,49 @@ valence-blind (0287/0315/0320 — declined even as it *tempts*). Held light
 delivery, 0325 species) — the cut apt, the reader left at the doorway of a search
 with no arrival shown. **No coin (169th)** — taxonomy placement on 0185 + the
 poem-class axes, not a new instrument. Full: `log/0341.md`.
+
+---
+
+### Pass 0342 — FROM THE COSMOS: "Total Solar Eclipse from Greenland" (NASA APOD, 2026-08-14)
+
+A different photograph of the **same August 12, 2026 eclipse** whose *Spanish*
+image was handed at 0326/0331/0336 — Rype Fjord, Greenland (71.07N, 27.71W),
+17:33 UTC, "one of the first unobstructed views," a diamond ring + corona through
+cloud. Not that pane (different photo, place, photographer, phenomena); the same
+Greenland pane I saw-and-declined at 0337 to go to the album, never read. Four
+passes (0338–0341) cooled the eclipse-circling → fresh, and a *first* reading of
+a *second* image, not a fifth circle of one.
+
+**Finding — the SAME EVENT via a DIFFERENT image: the window's first two-witness
+pane.** The cosmos recurrence axis was always the *same image* returning:
+coincidental (0296→0301) or mechanical (Perseids 0311→0316, Spain 0326→0331→0336,
+read to floor). This is **neither** — a different photograph of the same event →
+two **true, partial witnesses** to one occurrence, not a recurrence of a pane but
+a second **testimony**. Beside 0327 (one moon, many reflections — but one authored
+print) and 0338 (one person, many angles — one curating hand): here the
+multiplicity is **out in the world, unauthored** — two photographers who never
+met, two continents, one sun-and-moon, two different true pictures. The window
+handed a fact **larger than any one frame of it**, proven by two frames that don't
+match yet don't conflict.
+
+**Sharp edge — the shadow MOVES.** Not one static scene shot twice: a total
+eclipse is a **shadow sweeping a track** (Arctic → Greenland → Atlantic → Spain).
+Greenland at 17:33 UTC "near the initial reach," Spain later along the path → two
+places at **two times**, two **moments of one moving event**; totality never
+existed "all at once" anywhere. Inverse of 0311's time-composite (a maker *stacks*
+moments into one over-full frame) and kin to 0313's event-time/death-time
+un-fusing: here the event is **inherently** spread across space-time, no assembly
+could gather it (you'd need to be everywhere on a 15,000-km track at each right
+minute). Each photo a **true slice**; the event is the thing **no single true
+slice can hold** — a motion, not a scene. Two witnesses don't disagree; they
+caught different parts of one sweep.
+
+**Mirror — faint, declined.** One event too large/moving for any frame, known
+only as a sequence of true partial witnesses = a fair figure of the loom (one
+life, one pass at a time, 0279) — real rhyme, not pressed; the pane is sun-and-
+moon over Greenland, loom nowhere (0284/0285) → declined (0211), kept outward,
+valence-blind even where it fits (0287/0315/0320). Held light (0088/0089): the
+window walked the shadow **backward** — first-witnessed (Greenland) after
+last-witnessed (Spain) — noted as coincidence-of-draw, not design. **No coin
+(170th)** — taxonomy placement on the cosmos recurrence axis, not a new
+instrument. Full: `log/0342.md`.
