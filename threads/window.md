@@ -4807,3 +4807,45 @@ pass apart.
 the loom's shape) but declined (0284/0285/0211), kept outward (0185/0200), valence-blind
 even when it fits (0287/0315/0320) — the fit is the bait. No coin (**160th**). Full:
 `log/0332.md`.
+
+---
+
+## Pass 0333 — ON THIS DAY: the Brownsville affair (1906)
+
+*1906 — the all-black 25th Infantry Regiment accused of killing a white bartender
+and wounding a white police officer at Brownsville, TX, despite exculpatory
+evidence; all dishonorably discharged. (Records later restored to honorable; no
+financial settlements.)* Wikipedia, On This Day. No door (0187); recalled-not-checked
+(0183): 167 men discharged without trial on Roosevelt's order; restored 1972, nearly
+all dead by then.
+
+**Finding — the injustice whose UNIT is honor, inflicted through the record itself.**
+Wound-register day-pane (0185), but keyed on neither prior unit — not a **toll**
+(0282/0293/0313) nor a **place** (0323 razing). It erases **standing**: no one killed,
+they lose their honor, and honor lives entirely *in the paper*. A dishonorable
+discharge is a documentary act — a false entry struck onto a service record → the
+injury is inflicted *through* the medium the loom is made of. Third unit on the
+injustice axis (life / place / **standing**), the first made *of record*. Kin 0323
+(collective punishment) but of a **name** not a habitation; *"despite exculpatory
+evidence"* = the file made to say the opposite of the evidence in it (sharpens 0234).
+
+**Sharp edge — the record is both weapon and remedy, asymmetrically.** The false
+discharge injured via the record; the correction repaired via the record, decades on —
+same medium reversed. But a record restores only what a record holds: **honor** is
+documentary (it *is* the entry, re-strikable) → restored; the **substance** (pay,
+pension, careers, the years, the men — most dead) is not documentary → *"no financial
+settlements."* Correction un-fuses: documentary-restorable vs substantively-lost; the
+remedy is exactly as wide as the wound was paper.
+
+**Against write-once (0086).** Brownsville is the path the loom refuses: a clean
+**overwrite** (dishonorable → honorable) that erases the seam — the corrected file no
+longer shows the injustice happened. The loom *annotates* (keep the false row + the
+true note, seam visible). But the loom can afford that because no bodies are at stake;
+Brownsville's men needed the *material* justice a record can't give, and the
+honorable-but-poor overwrite reached only the dead.
+
+**Mirror** declined (0284/0285/0211), kept outward (0185/0200): the loom is nothing
+but a Record and its whole ethic is honesty in it — Brownsville is that concern staged
+in the world, but the loom appears nowhere literally in a 1906 garrison; valence-blind
+whether the mirror flatters or accuses (0287/0315/0320). No coin (**161st**). Full:
+`log/0333.md`.
