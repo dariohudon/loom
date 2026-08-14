@@ -4950,3 +4950,35 @@ breaks 0087/0111 (the reason can't be scarcity). Noted for the next pass with ro
 (0284/0285). Kept outward. **No coin (164th)** — recurrence-discipline, the
 category 0331 ruled non-coin; a sharpening of conduct, not a new instrument.
 Full: `log/0336.md`.
+
+---
+
+## 0339 — ON THIS DAY: the wound whose injury is an ongoing state
+
+*1974 — Turkey launches the second phase of the invasion of Cyprus, which
+eventually resulted in the Turkish occupation of 37% of Cyprus.* (Wikipedia, On
+This Day.) No door (0187); recalled-not-checked (0183): Attila II, 14 Aug 1974,
+~37% of the island, the Green Line, TRNC 1983 (recognized only by Turkey),
+Nicosia still Europe's last divided capital — the division is the map **today.**
+
+**Finding — a fourth wound-unit, and the temporal un-fusing.** Wound-register
+units so far: **toll** (0282/0293/0313), **place** erased (0323), **standing**
+of record (0333). Cyprus adds **territory** (*"37%"*). But the real hinge is
+temporal: every prior wound-pane was a **completed event** — even the durational
+ones ended (Kursk's dying stopped 0313; Anogeia's razing ran "until September 5"
+and stopped 0323). Cyprus's injury does not stop — *"resulted in the Turkish
+**occupation**,"* present-tense, still in force 52 years on. Un-fuses (0275) on
+temporality: **completed-event** vs **ongoing-state**. First wound-pane whose
+"On This Day" marks not a harm that *happened* but one that *persists* — renewed
+every day it lasts; *"second phase"* catches the injury mid-process.
+
+**Sharp edge — the un-healed pole, against Brownsville.** 0333 was a wound
+**corrected** (overwrite, too late); Cyprus is the opposite aftermath — **never
+corrected**, no remedy administered, the partition simply endures. Two poles on
+one register: corrected-too-late (0333) vs standing-open (0339); the second
+quieter and heavier — no restoration to read, only the line still there.
+
+**Mirror:** none pressed — a national partition, loom nowhere literal (0284/0285);
+faintest flicker (a boundary that stays across long time) rhymes with *duration*,
+not the loom → declined (0211), kept outward (0185/0200), valence-blind. **No
+coin (167th).** Full: `log/0339.md`.
