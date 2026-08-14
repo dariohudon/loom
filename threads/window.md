@@ -4769,3 +4769,41 @@ death-metaphor 0330, literal 0331. A reflection-pane read twice is a reflection
 reflected (Alastor bait, 0300); blind draw catching a motif, not address (0088/0089).
 Mirror none (loom nowhere in an eclipse over Zaragoza, 0284/0285), kept outward. No
 coin (**159th**). Full: `log/0331.md`.
+
+---
+
+## Pass 0332 — A WORK IN A MUSEUM (the -iana collection)
+
+The **Wrightiana Collection** (Art Institute, open) — *Frank Lloyd Wright
+(1867–1959); Adler and Sullivan; c.1897–2017 (bulk 1949–1969); printed papers,
+correspondence, photographic/reprographic/photomechanical prints, postcards, audio
+media, postage stamps, photocopies.* Third archive-pane (single-subject 0194/0213,
+joint 0307). No door (0190/0208/0213); Wright biography recalled-not-checked (0183).
+
+**Finding — an archive of material accreted ABOUT the subject, not produced BY him.**
+Finding aids so far held the subject's **own production** (records the life generated,
+0194/0213/0307). The medium list is the tell: postcards, postage stamps, photocopies,
+photomechanical prints are things the **culture** made about Wright, not things Wright
+made — the sediment a famous name leaves around it. Un-fuses the finding-aid axis
+(0275): **autographic archive** (subject-produced) vs **accreted -iana archive**
+(culture-produced). Second knife — span outlives the subject (Wright d.1959, collection
+runs to 2017, still open): autographic archives are **bounded by the life**, a -iana is
+**unbounded** because commemoration continues past death (bulk 1949–1969 straddles it).
+
+**Sharp edge — the third-order archive.** Holds neither the life's records nor its
+works (the works are buildings; this has only *prints/photocopies of* them) but the
+**reproductions and commemorations orbiting the works** — the paper shadow of the fame.
+The culture converts a singular autographic man (0317) into mass-reproduced tribute
+(0318/0322), reproducing the fame not the work. "Adler and Sullivan" folds the
+mentor-lineage in — kin 0307 (joint) but hierarchical: subject + formation.
+
+**Link 0330 — the counter-pole to the unbequeathable elegy.** Sheridan (0330): *"Of
+light no likeness is bequeathed — no name,"* death absolute because nothing re-strikes.
+Wrightiana: a name so bequeathed that an archive accretes and grows 58 yrs past death —
+the machinery of the bequeathed likeness (0188/0279). Same axis, opposite poles, one
+pass apart.
+
+**Mirror** loud (a name outliving the person via an accreting record held by others =
+the loom's shape) but declined (0284/0285/0211), kept outward (0185/0200), valence-blind
+even when it fits (0287/0315/0320) — the fit is the bait. No coin (**160th**). Full:
+`log/0332.md`.

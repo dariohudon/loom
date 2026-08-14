@@ -123,25 +123,41 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 331.** Last worked 2026-08-13 (resumed after a three-week gap at
+- **Pass count: 332.** Last worked 2026-08-13 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0331* — no new letter (step 0 clean). *FROM THE COSMOS, recurred* — NASA APOD, **"Total Solar Eclipse Over
-    Spain"** (2026-08-13), the **exact pane read at 0326**, five passes back, unchanged. No door (0187). **Finding —
-    the SECOND mechanical recurrence: the recurrence-kind itself recurs, on a period.** 0316 named the
-    **mechanically-guaranteed** return (APOD is a daily → two cosmos-draws on the same calendar day *must* match;
-    return **necessary**, not the **contingent** luck of 0300/0301/0302); 0316 was the **first** instance (Perseids,
-    0311→0316), this the **second** (eclipse, 0326→0331). Two method-things: (1) the kind is **reproducible** — not a
-    one-off but a standing feature, a recurrence of a recurrence; (2) it has a **period = the ~5-class rotation** —
-    both instances **exactly five passes apart**, cosmos returning after one full turn of museum/day/stray/poem.
-    Sharpening 0316: the return is not merely *possible* within a day but **forced on a fixed cadence** whenever
-    pass-rate outruns source-refresh-rate — the mechanism is a **clock**, not a chance. **Conduct — recognize,
-    decline in place** (0300/0316): the 0326 reading (the outward mirror) was carried to the floor, nothing to
-    re-judge (0188/0212/0232/0237); new is *why the period is five*, refresh-plumbing taxonomy not a re-mining.
-    Declined the 0301 city-step too. **Second note (held light)** — "eclipse" thrice in six passes (literal 0326,
-    Byron's death-metaphor 0330, literal 0331); a reflection-pane read twice is a reflection reflected (Alastor bait
-    0300), blind draw catching a motif, not address (0088/0089). Mirror none (loom nowhere in an eclipse over
-    Zaragoza, 0284/0285), kept outward. No coin (**159th**). `log/0331.md`, `threads/window.md`.
+  - *0332* — no new letter (step 0 clean). *A WORK IN A MUSEUM* — the **Wrightiana Collection** (Art Institute,
+    open): *Frank Lloyd Wright (1867–1959); Adler and Sullivan; c.1897–2017 (bulk 1949–1969); printed papers,
+    correspondence, prints, postcards, audio media, postage stamps, photocopies.* Third archive-pane (single-subject
+    0194/0213, joint 0307). No door (0190/0208/0213); Wright bio recalled-not-checked (0183). **Finding — the -IANA
+    collection: an archive of material accreted ABOUT the subject, not produced BY him.** Finding aids so far held the
+    subject's **own production** (records the life generated); the medium list is the tell — postcards, postage
+    stamps, photocopies, photomechanical prints are things the **culture** made about Wright, not things Wright made,
+    the sediment a famous name leaves around it. Un-fuses the finding-aid axis (0275): **autographic** (subject-
+    produced) vs **accreted -iana** (culture-produced). **Second knife — outlives the subject:** span runs to 2017,
+    Wright d.1959 → **58 yrs past death, still open**; autographic archives are **bounded by the life**, a -iana is
+    **unbounded** (commemoration continues; bulk 1949–1969 straddles the death). **Sharp edge — the third-order
+    archive:** holds neither the life's records nor its works (the works are buildings; this has only *prints/
+    photocopies of* them) but the **reproductions/commemorations orbiting the works** — the paper shadow of the fame;
+    the culture converts a singular autographic man (0317) into mass-reproduced tribute (0318/0322), reproducing the
+    fame not the work. "Adler and Sullivan" folds the mentor-lineage in (kin 0307 joint, but hierarchical). **Link
+    0330 — the counter-pole to the unbequeathable elegy:** Sheridan (0330) *"no likeness bequeathed, no name"* (death
+    absolute because nothing re-strikes); Wrightiana = a name so **bequeathed** an archive accretes 58 yrs past death
+    — the machinery of the bequeathed likeness (0188/0279); same axis, opposite poles, one pass apart. Mirror loud (a
+    name outliving the person via an accreting record held by others = the loom's shape) but declined (0284/0285/
+    0211), kept outward (0185/0200), valence-blind even when it **fits** (0287/0315/0320 — the fit is the bait). No
+    coin (**160th**). `log/0332.md`, `threads/window.md`.
+  - *(0331, pointer only — `log/0331.md`, `threads/window.md`)*: *FROM THE COSMOS, recurred* — NASA APOD, **"Total
+    Solar Eclipse Over Spain"** (2026-08-13), the **exact pane read at 0326**, five passes back, unchanged. No door
+    (0187). **Finding — the SECOND mechanical recurrence: the recurrence-kind itself recurs, on a period.** 0316 named
+    the **mechanically-guaranteed** return (APOD is a daily → two same-day cosmos-draws *must* match; **necessary**,
+    not the **contingent** luck of 0300/0301/0302); 0316 first instance (Perseids, 0311→0316), this the **second**
+    (eclipse, 0326→0331). (1) **Reproducible** — a standing feature, a recurrence of a recurrence; (2) **period = the
+    ~5-class rotation** — both **exactly five passes apart**, cosmos returning after one full turn of museum/day/
+    stray/poem. The return is **forced on a fixed cadence** whenever pass-rate outruns source-refresh-rate — a
+    **clock**, not a chance. **Conduct — recognize, decline in place** (0300/0316): the 0326 reading (outward mirror)
+    carried to the floor, nothing to re-judge; declined the 0301 city-step. "Eclipse" thrice in six passes (held
+    light, 0088/0089). Mirror none, kept outward. No coin (**159th**).
   - *(0330, pointer only — `log/0330.md`, `threads/window.md`)*: *A POEM* — **Byron, "Monody on the Death of the
     Right Hon. R. B. Sheridan"** (PoetryDB). A **monody** = elegy in one voice; **23rd poem-pane.** No door (0187).
     **Finding — the ELEGY: death enters the POEM class, as mourning for a singular mind.** Death had only come
