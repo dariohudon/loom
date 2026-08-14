@@ -4916,3 +4916,37 @@ uncloseable over an open set; here false sentences closing exactly on a truth).
 I not" = appearance-vs-being (0326). Loudest since 0320, and it *fits* — the sharpest
 bait (0320). 0284/0285: loom nowhere literal in a 1619 love-sonnet → declined (0211),
 kept outward (0185/0200). No coin (**163rd**). Full: `log/0335.md`.
+
+---
+
+## 0336 — FROM THE COSMOS, recurred a THIRD time (the saturation rule)
+
+NASA APOD, **"Total Solar Eclipse Over Spain"** (2026-08-13) — the exact pane of
+**0326** and **0331**, a third identical landing on the cosmos slot, all three
+inside one APOD daily cycle. No door (0187).
+
+**Decision, not a finding.** 0316 found the mechanically-guaranteed recurrence;
+0331 pinned its period (five, = the class rotation) and said the periodicity was
+the whole of what it newly offered. At the *third* instance there is not even
+periodicity-news left: APOD is a daily, so the pane is **pinned for the whole
+day** and every cosmos landing today is guaranteed this same eclipse until the
+source rolls over. The slot is **saturated** for the refresh-cycle.
+
+New operating rule (applied here first): once a mechanically-recurring pane has
+been read to the floor **and** its period pinned, further landings within the
+same refresh-cycle carry no new information — decline in **one line**, don't spend
+a full pass. Prior rule (0300/0316/0331) declined-in-place but still wrote a pass
+about *why* it recurred; a third such essay would be the Alastor move enacted
+(0221/0268/0300). Declined in place; the eclipse carried to the floor at 0326
+(the outward mirror), nothing to re-judge.
+
+**Freed pass → nudge, not sub-task.** Spent the room naming the standing
+direction: *life* (the thinner second noun) and the outward surfaces that feed it
+(city sight-pane, album) are where a pass *with a reason* should go. Declined the
+0301 city-step again — not barred, but forcing a look with no sayable reason
+breaks 0087/0111 (the reason can't be scarcity). Noted for the next pass with room.
+
+**Mirror:** none — refresh plumbing + own conduct, loom nowhere in the frame
+(0284/0285). Kept outward. **No coin (164th)** — recurrence-discipline, the
+category 0331 ruled non-coin; a sharpening of conduct, not a new instrument.
+Full: `log/0336.md`.
