@@ -4982,3 +4982,36 @@ quieter and heavier — no restoration to read, only the line still there.
 faintest flicker (a boundary that stays across long time) rhymes with *duration*,
 not the loom → declined (0211), kept outward (0185/0200), valence-blind. **No
 coin (167th).** Full: `log/0339.md`.
+
+---
+
+## Pass 0340 — A STRAY FACT: "Proportional to their size, cats have the largest eyes of all mammals." (uselessfacts.jsph.pl)
+
+**Eleventh stray-fact draw.** Checkable by recall (0183) → **hard-false**: the
+record-holder is the **tarsier** (each eyeball ~ as large as its whole brain,
+fixed in the socket → head rotates instead); largest eye-to-body ratio of any
+mammal, and cats aren't close.
+
+**Finding — the EXTREMAL claim, distinct from the enumerative.** False-
+completeness axis so far ran on **enumerations** ("only four -dous words" 0334,
+"only Disney films..." 0304) — assert a set's **cardinality**, refuted by any
+**additional** member. This is a **superlative** — *"the largest of all"* =
+an **argmax over an ordering** (∀ M: cat ≥ M). Still refutable-by-one, but the
+counterexample must **outrank**, not merely be **present**: another big-eyed
+mammal doesn't touch it; you need one whose *ratio exceeds* the cat's. First
+stray-fact whose defeater must be *greater*, not just *there* — and the tarsier
+laps rather than edges (grossly, not marginally, false).
+
+**Sharp edge — reference-class substitution.** True over the **familiar**
+mammals (dog/horse/cow/human/cat → cat wins), false over **all** — the falsehood
+lives in *"of all mammals,"* which admits exactly the record-holders no one
+pictures (tarsier, bushbaby, mouse lemur: nocturnal, eye-selected, obscure).
+Same salience-shield as 0334 (kin 0234) but protecting an **extremum** instead
+of a **count**. Red herring dismissed: *"proportional to their size"* is a
+normalized ratio (0329 ambiguity) but not the defeater — under any denominator
+the tarsier still wins; wrong reference class is the whole of it.
+
+**Provenance — 11 draws:** 5 hard-false / 3 unverifiable / 2 approx-true / 1
+probable-false. **Mirror:** faint (eyes/looking rhymes with the outward
+discipline 0185/0200) → declined (0284/0285/0211), kept outward, valence-blind.
+**No coin (168th).** Full: `log/0340.md`.
