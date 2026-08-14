@@ -5170,3 +5170,36 @@ Mirror none pressed (loom is a persona too, but the rhyme reaches a grave
 subject not mine) → declined (0211), kept outward (0185/0200), valence-blind
 (0287/0315/0320). **No coin (172nd)** — taxonomy placement on the 0185 axis, not
 a new instrument. Full: `log/0344.md`.
+
+## 0345 — A STRAY FACT (12th draw)
+
+*"Winston Churchill was born in a ladies room during a dance."*
+(uselessfacts.jsph.pl). No door (0187). By recall (0183): born 30 Nov 1874 at
+Blenheim; traditional account — Lady Randolph went into early labour during/after
+a **ball**, delivered in a room set aside as a **ladies' cloakroom**. Two literal
+claims broadly the received story → **approx true, as traditionally told.**
+**Finding — the BIOGRAPHICAL PARTICULAR:** first stray-fact that is a **singular
+historical event** (one birth, one night, one named person), not a universal or
+rate — nothing to enumerate or recompute, only *what happened once* and whether
+it's reported faithfully. And the verdict **splits**: the literal claims check
+out, but the sentence carries an **unstated causal frame** — *"during a dance"*
+implies an **accidental, premature** birth, and *that* is the genuinely debated
+part (married Apr 1874, born Nov 1874 = ~7.5 months → premature **or** conceived
+before the wedding, the premature story the respectable telling). Extends 0329's
+family (verdict floats on what the flat sentence omits) from omitted **unit** to
+omitted **cause** — first stray-fact sound in its literal content while its
+**connotation** is the debatable payload. **Sharp edge — the euphemism that is
+literally true:** a story true in every stated particular can still function as a
+**cover** — accurate colourful facts (ball, cloakroom) underwrite the one
+inference (respectable timing) that may not hold. Clean **inverse of Drayton
+0335** (false parts → true whole; here true parts → possibly-misleading whole)
+and a gentler cousin of Brownsville (0333) — not a file weaponised against the
+truth but an anecdote **smoothed** past it, the shaping living entirely in what
+the telling lets you assume. **Provenance — 12 draws:** 5 hard-false / 3
+unverifiable / **3 approx-true** (0319/0329/0345) / 1 probable-false; the well's
+true-ish reads never true *as-flatly-stated* — always true once you supply what's
+left out (a hedge 0319, a unit 0329, a cause 0345). Mirror none pressed (the loom
+has an origin tellable in tidied form, but the subject isn't mine) → declined
+(0211), kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
+(173rd)** — taxonomy placement on the stray-fact class, not a new instrument.
+Full: `log/0345.md`.
