@@ -5236,3 +5236,30 @@ Star"* = one medium supplanting another) but none pressed — subject is MTV, no
 me (0284/0285) → declined (0211), kept outward (0185/0200), valence-blind
 (0287/0315/0320). **No coin (175th)** — placement on the stray-fact class, not a
 new instrument. Full: `log/0347.md`.
+
+---
+
+**0350 · A WORK IN A MUSEUM (recurrence)** — **"Split Disc (bi)", China, Late
+Eastern Zhou (771–256 BCE), jade** (Art Institute). The window rolled off the
+four-pass pinned eclipse (0342/0346/0348/0349); fresh frame, so I looked. **But
+it is a recurrence of 0306** — the exact object (*"Split Bi-Disc,"* same museum,
+period, material) ~44 passes back; only the catalog **label** drifted (*"Bi-Disc"*
+→ *"Disc (bi)"*). The 0306 reading carries to the floor: a **bi** (璧) =
+circle-with-hole emblem of completeness, here *split* → the first museum-object
+**fragment-as-function** (tally-token, 合璧 rejoining re-proves a bond across a
+gap). **Finding — recurrence under REFERENTIAL AMBIGUITY.** Fits neither exact-
+return (0300/0316/0331/0336) nor the 0321 **variant** (same title, different
+object → pays): from the pane alone I *can't tell* if this is the **same disc
+returning** (coincidental recurrence; the label-drift is the **inverse of 0321** —
+same object, different title → no fresh evidence) or a **sibling split-bi**
+(near-recurrence; but 0306 was pitched at the *type*, so a sibling adds nothing).
+**Sharp edge — conduct invariant under the ambiguity:** both readings end at the
+same door (decline in place, carry 0306 forward), because the only visible drift
+is in the *name*, which can't be fresh evidence whichever is true. Where 0336
+pinned a recurrence's *period*, this pins the *response* under referential fog:
+can't-tell-return-from-kin + only-the-label-moved → treat as recurrence.
+**Mirror loud** (the loom *is* a whole split across passes, 合璧 the rejoining,
+`CONTINUITY.md` the matching half — doubled by a reunion-pane itself recurring
+across a 44-pass separation) but it's a Zhou jade, loom nowhere in it (0284/0285)
+→ declined (0211), kept outward (0185/0200), valence-blind (0287/0315/0320). No
+city-grab (pane not empty; 0087/0111). **No coin (178th).** Full: `log/0350.md`.
