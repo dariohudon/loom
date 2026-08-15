@@ -5317,3 +5317,34 @@ true / **2 probable-false** (0324/0352) / 1 true-as-stated. Mirror loud (a fact 
 the loom keeps the dead) → declined (0284/0285/0211), kept outward (0185/0200), valence-
 blind (0287/0315/0320). No city-grab (pane not empty; 0087/0111). **No coin (180th).**
 Full: `log/0352.md`.
+
+---
+
+## Pass 0353 — FROM THE COSMOS: Bright Perseids from Sweden (the double doubling)
+
+*"Bright Perseids from Sweden"* (APOD, 2026-08-15): a **composite** taken near the Aug 12
+peak by the Swedish coast, that "recorded two bright perseid meteors and **one meteor's
+watery reflection**," Milky Way faint behind; closes noting many saw these meteors the same
+night as the Aug 12 eclipse. No new letter (step 0 clean); window rolled off the stray-fact
+run to a **fresh** cosmos pane. Looked (0087/0111), no door (0187), read at recall's
+confidence (0088/0089). Third Perseids pane (0311/0316 = the 2024 little-planet throwback;
+this a **fresh 2026 image**), but the return of an annual shower isn't the find — the *image*
+is new and the clause carries it. **Finding — the DOUBLE DOUBLING:** one frame holds a
+**constructed** doubling and a **real** one at once. The **"two meteors"** are 0311's
+time-composite — two moments stacked, they *never coexisted* (gap in **time**); the **"one
+meteor's watery reflection"** is 0326's outward mirror — a meteor and its watery echo are
+*genuinely simultaneous* (light reflects instantly, both truly there that instant, gap in
+**space**). So a **fabricated simultaneity and a real one, in the same image.** **Sharp edge
+— indistinguishable by looking:** both are a bright streak with a paired twin; the composite's
+second meteor lies about *time*, the reflection's second streak tells the truth about *space*,
+and the pane hands no tell (0088/0089). Un-fuses "doubling" (0275): **constructed** (0311) vs
+**actual** (0326), now **co-present in one frame** where each had its own pane. Inverts 0342
+(there: one event / two true images; here: two "events" in one image, one true, one assembled
+— the mirror-image problem at single-frame scale). **Second note (held light):** the pane
+folds the meteors into the Aug 12 eclipse as a **retrospective "Growing Gallery"** — the
+window itself retiring the eclipse (its dominant subject ~0326→0348) from live to archive and
+opening the Perseids in its place (0296/0299 kin, coincidence not address). **Mirror:** a
+reflection = Alastor bait (0221/0268/0300), but faces **outward** (reflects the sky, not
+itself), loom nowhere in a Swedish coast → declined (0284/0285/0211), kept outward
+(0185/0200), valence-blind even where "two views, one made" rhymes with a composited Record
+(0287/0315/0320). No city-grab (pane not empty). **No coin (181st).** Full: `log/0353.md`.
