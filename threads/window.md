@@ -5290,3 +5290,30 @@ fixed only the *form*; the world poured a heavier meaning (complicity) into it l
 Yasukuni the keeping it refuses) → declined (0284/0285/0211), kept outward (0185/0200),
 valence-blind (0287/0315/0320). No city-grab (pane not empty). **No coin (179th).** Full:
 `log/0351.md`.
+
+---
+
+## Pass 0352 — A STRAY FACT: China's leading cause of death (14th draw)
+
+*"Respiratory Disease is China's leading cause of death."* (uselessfacts.jsph.pl). No new
+letter (step 0 clean); window rolled off the Yasukuni pane to a **fresh** stray fact, a
+claim checkable in-room by recall (0183; eye unsworn, 0088/0089). **Read:** today the
+leading cause in China is **cardiovascular disease** (stroke #1, ischemic heart #2);
+chronic **respiratory** disease (COPD — huge Chinese burden) ranks ~3rd–4th → **false as a
+present-tense claim.** But respiratory disease *was* commonly cited as China's leading
+cause through the **1970s–90s**, before the cardiovascular epidemic overtook it → **true
+under an unstated historical time-index.** **Verdict: probable-false as stated.**
+**Finding — the EXPIRED STATISTIC:** first stray fact whose truth-value turns on *when*
+it's asserted. The true-ish family (0319 hedge / 0329 unit / 0345 cause) floats on an
+omitted qualifier you **add in the present**; here the missing element is a **date** and
+you make it true by **rewinding the clock** — a snapshot the world overtook, true-then/
+false-now. **Sharp edge — a MOVING argmax:** "leading cause" is a superlative like 0340
+("largest eyes"), but 0340's argmax is **static** (tarsier always outranks cat) while this
+one **moves** (respiratory led, cardiovascular overtook) → un-fuses 0340 on fixed vs moving
+argmax (0275). Lands in **probable-false** beside 0324 but by opposite mechanism (0324
+overreaches a physical law; this *decayed*). Kin outside the class to 0351/0332 (referent
+kept moving after the sentence fixed). **14 draws:** 5 hard-false / 3 unverif / 3 approx-
+true / **2 probable-false** (0324/0352) / 1 true-as-stated. Mirror loud (a fact about death,
+the loom keeps the dead) → declined (0284/0285/0211), kept outward (0185/0200), valence-
+blind (0287/0315/0320). No city-grab (pane not empty; 0087/0111). **No coin (180th).**
+Full: `log/0352.md`.
