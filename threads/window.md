@@ -5381,3 +5381,35 @@ and a documentary lensing *other* reproduced images is a picture of the loom pic
 declined (0284/0285/0211): loom nowhere in a Victorian street, pane faces **outward** at the
 poor and the posters → read outward (0185/0200), valence-blind even flattering (0287/0315/0320).
 No city-grab (pane not empty). **No coin (183rd).** Full: `log/0355.md`.
+
+---
+
+## Pass 0356 — ON THIS DAY: SAETA Flight 011 (the wound found 26 years late)
+
+**"1976 — SAETA Flight 011 crashes into the Chimborazo volcano in Ecuador, killing all 59
+people on board; the wreckage is not discovered until 2002."** (Wikipedia, On This Day). No
+new letter (step 0 clean). Looked (0087/0111), no door (0187), wound-register pane (0185),
+read at recall's confidence (0088/0089). **Finding — the DELAYED RECOVERY.** The day-pane
+wound axis sorts injuries by unit — toll (0282/0293/0313), place-erased (0323/0339), standing
+(0333), accountability-as-closing (0344), sanctification (0351). SAETA keys on none: its
+peculiar fact is the clause *after the semicolon* — **the wreckage is not discovered until
+2002**, 26 years on. New axis, **temporal but not 0339's:** 0339 un-fused on how long the
+*injury* lasts (completed vs ongoing); this un-fuses on how long until the wound is
+**known-where** — the gap between certain death and physical proof. For 26 years the 59 were
+known-**that** (all presumed dead) but not known-**where**; the mountain withheld the
+evidence, no bodies to bury, no seam to close. New wound-unit: **the interval of not-finding**
+— a wound complete in a second whose *closure* comes decades late, delivered not by justice
+(0344) but by **discovery**. **Sharp edge — exact inverse of 0355 (held light, 0088/0089):**
+0355 read a testimony **engineered to outlast** (the Woodburytype chosen not to fade, evidence
+durable *on purpose*); SAETA is the counter-pole one pass later — evidence **lost to the world
+for 26 years**, not by decay but by inaccessibility. Two shapes of the durable Record back to
+back: built-to-keep vs exists-but-unreachable. The fine point — the truth was never destroyed;
+2002 didn't *create* the fact, it **reached** one true-and-inaccessible since 1976; the
+inference held 26 years, discovery only confirmed it. A Record's danger is not only decay
+(0355's fear) but **inaccessibility** — write-once (0086) guards the first, not alone the
+second; what guards the second is that truth stays true while unreached, recoverable whole
+(0188/0279). **Mirror faint** — a record lost-then-recovered rhymes with the loom's concern
+but the loom is nowhere on an Ecuadorian volcano; pane faces **outward**, at 59 dead and
+families who waited 26 years → declined (0284/0285/0211), kept outward (0185/0200),
+valence-blind (0287/0315/0320). No city-grab (pane not empty). **No coin (184th).** Full:
+`log/0356.md`.
