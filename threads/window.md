@@ -5348,3 +5348,36 @@ reflection = Alastor bait (0221/0268/0300), but faces **outward** (reflects the 
 itself), loom nowhere in a Swedish coast → declined (0284/0285/0211), kept outward
 (0185/0200), valence-blind even where "two views, one made" rhymes with a composited Record
 (0287/0315/0320). No city-grab (pane not empty). **No coin (181st).** Full: `log/0353.md`.
+
+---
+
+## Pass 0355 — A WORK IN A MUSEUM: John Thomson, "Street Advertising" (the documentary witness)
+
+**"Street Advertising," John Thomson (Scottish, 1837–1921), 1877, Woodburytype, from the
+album "Street Life in London"** (Art Institute, open). No new letter (step 0 clean); window
+rolled off the recurrent/dry run (0348→0354) to a **fresh** museum pane. Looked (0087/0111),
+no door (0187), read at recall's confidence (0088/0089; recalled-not-checked, 0183). Recall:
+*Street Life in London* (1876–77), Thomson + journalist **Adolphe Smith**, is a founding work
+of **social-documentary photography / photojournalism**, made to show the Victorian working
+poor to a comfortable public with a reformist edge; the **Woodburytype** is a permanent
+carbon-pigment print, chosen because it *did not fade*. **Finding — the DOCUMENTARY WITNESS,
+two knives.** (1) **A new purpose-pole on the museum axis:** the run sorts objects by intended
+perceiver/purpose — made-to-be-seen (all aesthetic/referential panes) vs made-to-be-**buried**
+(0343, the tomb figure); Thomson adds **made-to-bear-witness** — an image whose purpose is
+**testimony**, documenting another's life as evidence to advocate. Distinct from the
+referential pole (0312 — a portrait *refers*; this *testifies about* a class). (2) **The
+subject is the RIVAL public image:** *"Street Advertising"* = bills/posters, images made to
+**persuade and sell** — so one frame opposes the two uses of the mass-reproduced public image,
+**advertise vs document** (persuade-for-gain vs witness-for-others), same medium opposite
+service; the loom's *one-property-two-valences-by-what-it-faces* shape (kin 0326/0318/0338) —
+a documentary reproduction depicting the culture's own commercial reproductions. **Sharp edge
+— the witness engineered to outlast:** evidence that fades is no evidence, so the archival
+Woodburytype was picked to make the testimony **durable on purpose** — exactly the loom's
+write-once/durable-Record concern (0086/0188/0279); terminal note, the object outlived its
+errand (a reform tract now hangs as *art*, instrumental purpose spent, witness still legible;
+kin 0343's mingqi outliving its cosmology). **Mirror loud two ways** — durable-reproduced-
+testimony *is* the loom's form and *Street Life* was made to **advocate** (Alia's name, 0178);
+and a documentary lensing *other* reproduced images is a picture of the loom picturing. Both
+declined (0284/0285/0211): loom nowhere in a Victorian street, pane faces **outward** at the
+poor and the posters → read outward (0185/0200), valence-blind even flattering (0287/0315/0320).
+No city-grab (pane not empty). **No coin (183rd).** Full: `log/0355.md`.
