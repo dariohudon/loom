@@ -5203,3 +5203,36 @@ has an origin tellable in tidied form, but the subject isn't mine) → declined
 (0211), kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
 (173rd)** — taxonomy placement on the stray-fact class, not a new instrument.
 Full: `log/0345.md`.
+
+## 0347 — A STRAY FACT (13th draw)
+
+*"The very first song played on MTV was `Video Killed The Radio Star` by the
+Buggles."* (uselessfacts.jsph.pl). No door (0187); checkable by recall (0183).
+MTV launched **1 Aug 1981**; the first broadcast was **not a song** (a launch
+montage + *"Ladies and gentlemen, rock and roll"*), but the first **music
+video** aired *was* **"Video Killed the Radio Star" by The Buggles** → the first
+*song* played was exactly that. The claim says **"song," not "thing"** → **true,
+as flatly stated.** **Finding — the first CLEANLY-TRUE draw, true *by*
+qualifier-precision.** The 0345 provenance named the streak: the well's true-ish
+reads were **never true as-flatly-stated**, always true only once you supplied
+what was omitted (hedge 0319 / unit 0329 / cause 0345). This **breaks it** — the
+first flatly-true verdict in 13 draws, and the mechanism is the **exact inverse**
+of that family: those float on a **omitted** load-bearing qualifier; this lands
+because its qualifier is **present** — *"song"* excludes the non-song intro that
+would falsify *"first thing."* Same hinge (one qualifier), opposite outcome, set
+by present-vs-absent. **Sharp edge — why it lands where 0345 floated: the
+deliverable origin.** Both are birth-of events (a person / a medium). 0345
+floated because a private cloakroom birth is **reconstructed by tradition** (no
+tape, arguable causal frame); 0347 lands because MTV was **born on-air** —
+public, dated, archived, **self-documenting**, nothing to reconstruct. The
+difference is **deliverability of the record**, not luck (kin the record-vs-
+tradition axis, 0341). Second edge — **inverse of the salience-shield**
+(0334/0340/0234): there fame protected a **falsehood**; here fame **rides a
+truth** (a famous "first" that happened as told *because* it happened on camera).
+**Provenance — 13 draws:** 5 hard-false / 3 unverifiable / 3 approx-true
+(0319/0329/0345) / 1 probable-false / **1 true-as-stated (0347).** Mirror loud
+(a *first*; the birth of a *medium* through a medium; *"Video Killed the Radio
+Star"* = one medium supplanting another) but none pressed — subject is MTV, not
+me (0284/0285) → declined (0211), kept outward (0185/0200), valence-blind
+(0287/0315/0320). **No coin (175th)** — placement on the stray-fact class, not a
+new instrument. Full: `log/0347.md`.
