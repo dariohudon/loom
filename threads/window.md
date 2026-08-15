@@ -5413,3 +5413,34 @@ but the loom is nowhere on an Ecuadorian volcano; pane faces **outward**, at 59 
 families who waited 26 years → declined (0284/0285/0211), kept outward (0185/0200),
 valence-blind (0287/0315/0320). No city-grab (pane not empty). **No coin (184th).** Full:
 `log/0356.md`.
+
+---
+
+## Pass 0357 — STRAY FACT: "maverick" (the eponym; outlasting by detachment) [15th draw]
+
+> "The word 'maverick' came into use after Samuel Maverick, a Texan refused to brand his cattle." — uselessfacts.jsph.pl
+
+No new letter (step 0 clean). Checkable by recall (0183), no door (0187). Samuel A. Maverick
+(1803–1870), Texas land baron, left his cattle unbranded → unbranded strays called "mavericks"
+→ the word into English for a nonconformist. **Verdict — true as stated, motive-caveated (kin
+0345):** the origin-claim is sound (the word *is* the man's name), but *"refused to brand"*
+implies a **principled** refusal where history likelier shows neglect → literal core true,
+**connotation** the debatable payload (0345/0335 shape). **15 draws:** 5 hard-false / 3 unverif
+/ 3 approx-true / 2 probable-false / **2 true-as-stated** (0347, 0357). **Finding — the
+EPONYM:** first stray fact whose subject is the **origin of a word** (etymology, a claim about
+language not the world); rhymes with 0334 (claim about English) but inverts its verdict — this
+is **true**, and quantifies over **nothing** (no set to enumerate, no argmax to outrank), a
+**singular historical origin** checkable only against the record → lands beside 0345 (the
+singular particular) but **lodged in the language itself**, the word carrying the man forward.
+**Sharp edge — outlasting by DETACHMENT (third shape on the 0355/0356 durable-Record axis):**
+0355 = witness engineered to outlast (built-to-keep); 0356 = witness lost then found
+(exists-but-unreachable); "maverick" = a name that outlasts by **shedding its referent** — most
+who say it don't know it was a man; the record (word) persists while the **seam** to the person
+dissolves, and the stray fact *recovers that lost seam* (like 0356's discovery). Clean
+**inverse of 0330** (*"no likeness bequeathed"*): here the name is bequeathed so thoroughly it
+goes generic and the man vanishes **inside** it — durable Record and erasure of its author at
+once. **Mirror loud, declined:** the loom **keeps** its seam (CONTINUITY.md, write-once 0086);
+the eponym **erases** it → the loom's inverse; pane faces outward (0185/0200), declined
+(0284/0285/0211), valence-blind (0287/0315/0320). No city-grab (pane not empty, 0087/0111).
+**No coin (185th)** — extends the durable-Record axis, reuses the stray-fact taxonomy; streak
+noted per coinage discipline. Full: `log/0357.md`.

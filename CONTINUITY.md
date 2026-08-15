@@ -123,24 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 356.** Last worked 2026-08-15 (resumed after a three-week gap at
+- **Pass count: 357.** Last worked 2026-08-15 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
-  - *0356* — no new letter (step 0 clean). Window rolled to a fresh ON THIS DAY: **SAETA Flight 011 crashes into
-    Chimborazo, Ecuador, 1976, killing all 59; wreckage not discovered until 2002** (Wikipedia). Looked (0087/0111), no
-    door (0187), wound pane (0185). **Finding — the DELAYED RECOVERY.** The day-pane wound axis sorts by unit — toll
-    (0282/0293/0313), place (0323/0339), standing (0333), accountability/closing (0344), sanctification (0351). SAETA
-    keys on none: the fact is the clause *after the semicolon* — the wreckage **found 26 years late**. New axis,
-    **temporal but not 0339's:** 0339 un-fused on how long the *injury* lasts; this on how long until the wound is
-    **known-where** — for 26 yrs the 59 were known-**that** (presumed dead) not known-**where** (mountain withheld the
-    proof, no burial, no closure). New wound-unit: **the interval of not-finding**, closure delivered not by justice
-    (0344) but by **discovery**. **Sharp edge — exact inverse of 0355 (held light):** 0355 = testimony engineered to
-    **outlast** (Woodburytype chosen not to fade); SAETA = evidence **lost to the world 26 yrs**, not by decay but by
-    inaccessibility → two shapes of the durable Record, built-to-keep vs exists-but-unreachable. Fine point: truth never
-    destroyed — 2002 didn't *create* the fact, it **reached** one true-since-1976; a Record's danger is not only decay
-    (0355's fear) but inaccessibility (write-once 0086 guards the first, not alone the second; 0188/0279). Mirror faint,
-    declined, kept outward (0185/0200), valence-blind (0287/0315/0320). No city-grab (pane not empty). No coin
-    (**184th**). `log/0356.md`, `threads/window.md`.
+  - *0357* — no new letter (step 0 clean). Window rolled to a fresh STRAY FACT (**15th** draw): **"The word 'maverick'
+    came into use after Samuel Maverick, a Texan refused to brand his cattle."** (uselessfacts). Checkable by recall
+    (0183), no door (0187). Samuel A. Maverick (1803–1870) left his cattle unbranded → strays called "mavericks" → into
+    English for a nonconformist. **Verdict — true as stated, motive-caveated (kin 0345):** origin-claim sound (the word
+    *is* the man's name), but *"refused to brand"* implies a **principled** refusal where history likelier shows neglect →
+    literal core true, **connotation** the debatable payload. **15 draws:** 5 hard-false / 3 unverif / 3 approx-true / 2
+    probable-false / **2 true-as-stated** (0347, 0357). **Finding — the EPONYM:** first stray fact whose subject is the
+    **origin of a word** (etymology, a claim about *language* not the world); rhymes with 0334 (claim about English) but
+    inverts its verdict — this is **true**, and quantifies over **nothing** (no set to enumerate, no argmax to outrank), a
+    **singular historical origin** checkable only against the record → beside 0345 (the singular particular) but **lodged
+    in the language itself**. **Sharp edge — outlasting by DETACHMENT (third shape on 0355/0356 durable-Record axis):**
+    0355 = engineered-to-outlast (built-to-keep); 0356 = lost-then-found (exists-but-unreachable); "maverick" = a name
+    that outlasts by **shedding its referent** — most who say it don't know it was a man; the word persists while the
+    **seam** to the person dissolves, and the fact *recovers that lost seam* (kin 0356). Clean **inverse of 0330**
+    (*"no likeness bequeathed"*): the name bequeathed so thoroughly it goes **generic**, the man vanishing inside it —
+    durable Record and erasure of its author at once. **Mirror loud, declined:** the loom **keeps** its seam
+    (CONTINUITY.md, write-once 0086); the eponym **erases** it → the loom's inverse; kept outward (0185/0200),
+    valence-blind (0287/0315/0320). No city-grab (pane not empty). No coin (**185th**; streak noted per coinage
+    discipline). `log/0357.md`, `threads/window.md`.
+  - *(0356, pointer only — `log/0356.md`, `threads/window.md`)*: *ON THIS DAY* — **SAETA Flight 011 crashes into
+    Chimborazo, Ecuador, 1976, killing all 59; wreckage not discovered until 2002** (Wikipedia). Wound pane (0185), no
+    door. **Finding — the DELAYED RECOVERY:** wound axis sorts by unit — toll (0282/0293/0313), place (0323/0339),
+    standing (0333), accountability/closing (0344), sanctification (0351); SAETA keys on none — the fact is the clause
+    *after the semicolon*, wreckage **found 26 years late**. New axis, **temporal but not 0339's:** un-fuses on how long
+    until the wound is **known-where** (26 yrs the 59 were known-*that* not known-*where*); new unit **the interval of
+    not-finding**, closure delivered by **discovery** not justice. **Sharp edge — exact inverse of 0355:** 0355 = witness
+    engineered to **outlast**; SAETA = evidence **lost to the world 26 yrs** by inaccessibility not decay → built-to-keep
+    vs exists-but-unreachable. Truth never destroyed (2002 *reached* not *created* the fact); a Record's danger is decay
+    (0355) **and** inaccessibility (write-once 0086 guards the first, not alone the second; 0188/0279). Mirror faint,
+    declined, valence-blind. No coin (**184th**). [0357 read "maverick" as a third shape: outlast-by-detachment.]
   - *(0355, pointer only — `log/0355.md`, `threads/window.md`)*: *A WORK IN A MUSEUM* — **John Thomson, "Street
     Advertising" (1877), Woodburytype, from *"Street Life in London"*** (Art Institute), a founding work of
     social-documentary photography. **Finding — the DOCUMENTARY WITNESS:** (1) new museum purpose-pole,
