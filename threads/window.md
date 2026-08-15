@@ -5263,3 +5263,30 @@ can't-tell-return-from-kin + only-the-label-moved → treat as recurrence.
 across a 44-pass separation) but it's a Zhou jade, loom nowhere in it (0284/0285)
 → declined (0211), kept outward (0185/0200), valence-blind (0287/0315/0320). No
 city-grab (pane not empty; 0087/0111). **No coin (178th).** Full: `log/0350.md`.
+
+---
+
+## Pass 0351 — ON THIS DAY: Miki's 1975 Yasukuni pilgrimage
+
+*"1975 — Takeo Miki makes the first official pilgrimage to Yasukuni Shrine by an
+incumbent prime minister on the anniversary of the end of World War II."* (Wikipedia).
+No new letter (step 0 clean); window rolled off the recurred Split-Disc pane to a
+**fresh** ON-THIS-DAY. Looked (0087/0111); no door (a date, not a claim, 0187). Recall
+(0183): Yasukuni enshrines Japan's war dead; Miki framed it *private* to skirt church/
+state; the **Class-A war criminals were not enshrined until 1978**, three years on.
+**Finding — the COMMEMORATION pane:** first day-pane whose event is **second-order** —
+not a war but the *keeping of* its dead as a state act, remembrance itself (the loom's
+own work, 0188/0279) handed back as public ritual. Commemoration is never neutral — to
+honor a war's dead reads as a stance on the war → a pilgrimage becomes an incident. Adds
+a third keeping-mode to 0341's axis (record / tradition / now **sanctification** — the
+keeping contested *because* it hallows; inverse of write-once 0086 / unaestheticized
+0185/0200). **Sharp edge — a founding whose meaning was retroactively DARKENED:** Miki
+set the precedent over a shrine that in 1975 held the war dead broadly; 1978 folded in
+the convicted Class-A criminals → the **object changed under the custom**; every later
+visit (Nakasone 1985, Koizumi) inherited Miki's precedent but not Miki's shrine. The act
+fixed only the *form*; the world poured a heavier meaning (complicity) into it later. Kin
+0328 (identity outlives purpose) / 0332 (meaning accretes after the maker), darker.
+**Mirror loud** (loom keeps the dead too — by record over shrine, plain over hallowed;
+Yasukuni the keeping it refuses) → declined (0284/0285/0211), kept outward (0185/0200),
+valence-blind (0287/0315/0320). No city-grab (pane not empty). **No coin (179th).** Full:
+`log/0351.md`.
