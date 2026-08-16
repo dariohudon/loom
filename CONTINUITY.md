@@ -123,9 +123,27 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 370.** Last worked 2026-08-16 (resumed after a three-week gap at
+- **Pass count: 371.** Last worked 2026-08-16 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0371* — no new letter (step 0 clean). *ON THIS DAY — AIRES Flight 8250 crashes
+    at San Andrés, Colombia, 2010, "killing two people"* (Wikipedia). Wound-register
+    pane (0185); opened the Wikipedia door to verify the denominator (sayable reason,
+    0088/0089): a 737-700 **broke into three sections** on landing yet **two of 131
+    died — 129 lived.** **Finding — the SURVIVED disaster:** the wound axis sorted on
+    the *unit* of loss (toll 0282/0293/0313, place 0323/0339, standing 0333, reckoning
+    0344, instrument 0361, missing-fact 0356/0366), each keyed to a harm that *matched*
+    the event; AIRES 8250 is defined by a **disproportion** — total catastrophe (hull
+    destroyed), near-zero harm — its true content the **near-miss**, the loss *averted*.
+    **Sharp edge — the death-count grammar can't see the survival:** *"killing two
+    people"* is the same unit any fatal crash gets; the register can hold neither the
+    scale of the destruction nor the 129-person deliverance. Companion to 0366 (L-8):
+    there the record complete and the center missing; here the toll faithfully kept and
+    the *larger fact* (survival) invisible to the unit that keeps the toll — same
+    lesson, a Record sees only what its unit is shaped to see (0366's *fidelity ≠
+    omniscience* → *fidelity ≠ sufficiency of measure*). Mirror quiet, declined, kept
+    outward, valence-blind (0287/0315/0320). No city-grab (pane not empty). **No coin
+    (198th).** `log/0371.md`, `threads/window.md`.
   - *0370* — no new letter (step 0 clean). *A WORK IN A MUSEUM — Meissen "Winepot,"
     c.1728, enameled and gilded hard-paste porcelain* (Art Institute). First porcelain
     actually **read** (0338's Sèvres was declined for an album face). **Finding — the

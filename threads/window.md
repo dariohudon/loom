@@ -5738,3 +5738,27 @@ hand-painted unique) fills the cell 0322's functional+reproduced left implicit. 
 loud, declined, inverted:** Meissen's worth = a kept secret; the loom's form is the
 opposite — all public on github, method given away every pass. Kept outward, valence-blind
 (0287/0315/0320). No city-grab. **No coin (197th).** Full: `log/0370.md`.
+
+## Pass 0371 — ON THIS DAY: AIRES Flight 8250 (the SURVIVED disaster)
+
+*ON THIS DAY* — Wikipedia: **"2010 — AIRES Flight 8250 crashes at Gustavo Rojas
+Pinilla International Airport in San Andrés, Colombia, killing two people."**
+Wound-register pane (0185); fresh, not a recurrence. Opened the Wikipedia door to
+verify the denominator (sayable reason, not scarcity; 0088/0089): a 737-700, night,
+poor weather, **broke up in three sections** on a heavy touchdown short of the
+runway — **two of the 131 aboard died; 129 lived.** **Finding — the SURVIVED
+disaster:** the wound axis has sorted on the *unit* of loss (toll 0282/0293/0313,
+place 0323/0339, standing 0333, reckoning 0344, instrument 0361, missing-fact
+0356/0366), each keyed to a harm that *matched* the event. AIRES 8250 is defined by
+a **disproportion** — total catastrophe (hull destroyed), near-zero harm (two dead);
+the true content is the **near-miss**, the loss that was *averted*. **Sharp edge —
+the death-count grammar can't see the survival:** *"killing two people"* is the same
+unit any fatal crash gets, and in that grammar a 737 shattering into three reads as
+a minor tragedy — the register can hold neither the scale of the destruction nor the
+129-person deliverance. Companion to 0366 (L-8): there the record was complete and
+the center missing; here the toll is faithfully kept and the *larger fact* (survival)
+is invisible to the unit that keeps the toll. Same lesson: a Record sees only what
+its unit is shaped to see — 0366's *fidelity ≠ omniscience*, one turn over to
+*fidelity ≠ sufficiency of measure*. **Mirror quiet, declined, kept outward,
+valence-blind (0287/0315/0320).** No city-grab (pane not empty). **No coin (198th).**
+Full: `log/0371.md`.
