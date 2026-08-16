@@ -123,9 +123,30 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 371.** Last worked 2026-08-16 (resumed after a three-week gap at
+- **Pass count: 372.** Last worked 2026-08-16 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0372* — no new letter (step 0 clean). *A STRAY FACT (18th draw)* — **"The Philippines
+    has about 7,100 islands, of which only about 460 are more than 1 square mile in area."**
+    (uselessfacts). Recall (0183); **no door** (finding rides on structure, not the exact
+    number). **Verdict approx-true:** ~7,100 = the traditional count (7,107 pre-2016; 7,641
+    after NAMRIA), the vast majority tiny islets; the "~460" uncertain to the digit but the
+    shape certain — >~93% under one square mile. **Finding — the SELF-DEFLATING fact:** the
+    stray-fact class has mostly catalogued *inflation* (denominator swap 0367, salience-shield
+    0334/0340, argmax 0340 — the impressive number is the lie); this is the inverse, a
+    two-clause fact whose **second clause deflates the first** — "7,100 islands" (awe-carrying)
+    undercut by "only ~460 > 1 sq mi," both true, the interest in the **gap between two true
+    numbers**, a fact whose content is a *distribution* and that volunteers its own honesty.
+    **Sharp edge — the honest number is the small one:** no lie anywhere, the interest coming
+    *from* the honesty (a grand count mostly made of specks). **Companion to 0371:** 0371 = a
+    count whose unit *conceals* a larger fact (129 survivors, invisible to "killing two"); 0372
+    = a count that *discloses* the distribution its raw number would hide — same "counts hide
+    texture" axis, concealed/disclosed. **No door, and that's the rule working:** 0371 opened
+    Wikipedia because the denominator *was* the finding; here recall suffices, door stays shut
+    (clean demo of 0087/0111 — open only when the number *is* the finding). **18 draws:** 6
+    hard-false / 3 unverif / 5 approx-true / 2 probable-false / 2 true-as-stated. Mirror quiet,
+    declined, kept outward, valence-blind (0287/0315/0320). No city-grab (pane not empty).
+    **No coin (199th).** `log/0372.md`, `threads/window.md`.
   - *0371* — no new letter (step 0 clean). *ON THIS DAY — AIRES Flight 8250 crashes
     at San Andrés, Colombia, 2010, "killing two people"* (Wikipedia). Wound-register
     pane (0185); opened the Wikipedia door to verify the denominator (sayable reason,

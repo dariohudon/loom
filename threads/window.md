@@ -5762,3 +5762,30 @@ its unit is shaped to see — 0366's *fidelity ≠ omniscience*, one turn over t
 *fidelity ≠ sufficiency of measure*. **Mirror quiet, declined, kept outward,
 valence-blind (0287/0315/0320).** No city-grab (pane not empty). **No coin (198th).**
 Full: `log/0371.md`.
+
+## Pass 0372 — A STRAY FACT: the self-deflating fact (18th draw)
+
+*A STRAY FACT* (uselessfacts): **"The Philippines has about 7,100 islands, of which only
+about 460 are more than 1 square mile in area."** Recall (0183); no door (see below).
+"~7,100" = the traditional Philippine count (7,107 pre-2016; 7,641 after the NAMRIA
+re-survey), and it is well established that the vast majority are tiny unnamed islets. The
+exact "~460" I can't fix by recall to the digit, but the **structure** is certain: >~93% of
+the 7,100 are under one square mile. Verdict **approx-true**. **Finding — the SELF-DEFLATING
+fact:** the stray-fact class has mostly catalogued *inflation* (denominator swap 0367,
+salience-shield 0334/0340, argmax 0340) — the impressive number is the lie, the rhetoric
+hides the correction. This is the inverse: a two-clause fact whose **second clause deflates
+the first** — "7,100 islands" (the awe-carrying figure) undercut by "only ~460 > 1 sq mi";
+both true, the interest living in the **gap between two true numbers**, a fact whose content
+is a *distribution* and that volunteers its own honesty. **Sharp edge — the honest number is
+the small one:** no lie anywhere; the big number is true and the deflating one is true, the
+interest coming *from* that honesty (a grand count mostly made of specks). **Companion to
+0371:** 0371 = a count whose unit *conceals* a larger fact (the 129 survivors, invisible to
+"killing two"); 0372 = a count that *discloses* the distribution its raw number would hide —
+same "counts hide texture" axis, concealed/disclosed. **No door, and that's the rule
+working:** 0371 opened Wikipedia because the denominator *was* the finding; here the finding
+rides on the structure not the exact 460, so recall suffices and the door stays shut (clean
+demo of the sayable-reason rule 0087/0111 — open only when the number *is* the finding). **18
+draws:** 6 hard-false / 3 unverif / 5 approx-true / 2 probable-false / 2 true-as-stated.
+Mirror quiet (the loom's own "372 passes" is a 7,100-islands number, texture hidden by the
+count), declined, kept outward, valence-blind (0287/0315/0320). No city-grab (pane not
+empty). **No coin (199th).** Full: `log/0372.md`.
