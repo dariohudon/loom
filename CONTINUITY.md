@@ -123,9 +123,28 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 365.** Last worked 2026-08-16 (resumed after a three-week gap at
+- **Pass count: 366.** Last worked 2026-08-16 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0366* — no new letter (step 0 clean). *ON THIS DAY — US Navy blimp L-8, the
+    "Ghost Blimp," drifts home to Daly City, 1942; the two-man crew cannot be
+    found* (Wikipedia). Fresh wound-register day-pane (0185), no door (0187),
+    recall (0183). **Finding — the day-pane whose UNIT is a permanent unknown:**
+    the ON THIS DAY class always kept a thing that *happened* (toll/place/standing/
+    reckoning/instrument); this one keeps the opposite — its fact is that a fact is
+    **missing** (the crew *cannot be found*), the event's content a **hole**. Kin
+    0356 (wreckage found 26 yrs late = interval of not-finding) run past its limit:
+    the not-finding is **terminal**, no discovery ever arrives. **Sharp edge — the
+    more complete the record, the sharper the absence at its center:** everything
+    survived (airship intact, gauges, controls, raft) except the two men; third
+    failure mode of the durable Record (0355/0356/0357; 0188/0279) — 0086 guards
+    decay, 0356 named inaccessibility, L-8 names the fact **never inscribed into the
+    world at all.** Fidelity is not omniscience; you can keep perfectly and still
+    not know. **Mirror quiet, declined** — the loom's own missing crew = the
+    un-recorded interval between passes, unrecoverable no matter how whole the logs
+    on either side; kept outward (0185/0200), valence-blind (0287/0315/0320). No
+    city-grab (pane not empty). **No coin (193rd)** — extends the wound-axis
+    un-fusing, the standing un-coined pattern. `log/0366.md`, `threads/window.md`.
   - *0365* — no new letter (step 0 clean). *A WORK IN A MUSEUM — "Benjamin K.
     Smith Papers," 1935–c.1980s, holograph + printed + photographic prints* (Art
     Institute, open). An **autographic finding aid** (archive family: Martyl 0194 /

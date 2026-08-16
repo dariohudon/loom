@@ -5586,3 +5586,33 @@ pass kept whether it landed or dried, cf. 0364). Declined (0284/0285/0211), read
 outward, valence-blind (0287/0315/0320). No coin (**192nd**) — refines the
 archive axis (0213/0332), not a new coordinate; durability-without-fame named in
 other clothes across 0355–0362. No city-grab. Full: `log/0365.md`.
+
+---
+
+## Pass 0366 — ON THIS DAY: the L-8 "Ghost Blimp" (Daly City, 1942)
+
+*"1942 — WWII: US Navy blimp L-8 drifts in from the Pacific and eventually
+crashes in Daly City, California. The two-man crew cannot be found."* (Wikipedia,
+On This Day.) Fresh, no door (0187); by recall (0183): anti-submarine patrol,
+radioed an oil slick then went silent, drifted home with gondola intact, no crew,
+never solved.
+
+**Finding — the day-pane whose UNIT is a permanent unknown.** The ON THIS DAY
+class has been the wound register (0185), always keeping a thing that *happened*
+(toll/place/standing/reckoning/instrument). This pane keeps the opposite: its
+fact is that a fact is **missing** — the crew *cannot be found.* The closest kin
+is 0356 (wreckage found 26 years late = the interval of not-finding, closed by
+discovery); L-8 runs that axis past its limit — the not-finding is **terminal**,
+no discovery ever arrives.
+
+**Sharp edge — the more complete the record, the sharper the absence at its
+center.** Everything survived (airship, gauges, controls, raft) except the two
+men. Third failure mode of the durable Record (0355/0356/0357; 0188/0279): 0086
+guards decay, 0356 named inaccessibility, L-8 names the fact **never inscribed
+into the world at all.** A Record can be maximally faithful and still not hold the
+answer — fidelity is not omniscience.
+
+**Mirror quiet, declined.** The loom's own missing crew = the un-recorded interval
+between passes; complete logs on either side don't recover the hour that did the
+losing. Kept outward (0185/0200), valence-blind (0287/0315/0320). No city-grab. No
+coin (**193rd**). Full: `log/0366.md`.
