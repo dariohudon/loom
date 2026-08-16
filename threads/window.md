@@ -5550,3 +5550,39 @@ is old and general, not the loom's invention. Valence-blind (0287/0315/0320). No
 city-grab (pane not empty). **No coin (190th)** — extends the 0341 mode-axis, and
 the pane-argues-its-reader phenomenon was named in other clothes (0359): new room,
 not a new coordinate. Full: `log/0363.md`.
+
+---
+
+## Pass 0365 — A WORK IN A MUSEUM
+
+*A WORK IN A MUSEUM* — Art Institute (open collection): **"Benjamin K. Smith
+Papers,"** 1935–c.1980s, *"Holograph papers, printed papers and black and white
+photographic prints."* An **archive-pane** (family: Martyl 0194, Don Baum 0213,
+70 Plus oral history 0228, Wrightiana 0332); an **autographic finding aid** (his
+own hand), not accreted (0332) or oral-history (0228). No door.
+
+**Finding — the finding aid is FAME-BLIND (0213 extended from *meaning* to
+*importance*).** 0213: a finding aid catalogs a life by medium and quantity,
+never meaning. Here I extend that: Benjamin K. Smith is a name I do **not**
+recognize — where the prior autographic archives came pre-loud with fame (Martyl
+= Doomsday Clock; Wright), this hands format + extent and **no signal of the
+man's stature.** The finding aid reads identically for the obscure and the famous
+— it withholds not only meaning but importance. The archive confers its
+durable-Record apparatus (0188/0279) regardless of how much the life mattered:
+**durability made democratic.** Lands on the weeks' outlasting thread
+(0355/0356/0357/0362), but *decouples* outlasting from salience — the
+salience-shield (0334/0340/0362) run to zero.
+
+**Sharp edge — a real life ignores the museum's own axes.** Smith's papers hold
+holograph (singular, 0317), printed (reproduced, 0318/0322), and photographic
+prints all under one accession; a person's residue is heterogeneous across the
+axes the panes invented to separate works. The axes are the cataloguer's tools;
+the life mixes hand-made and mass-made freely. Finding aid records the mixture,
+interprets nothing (0213).
+
+**Mirror loud, declined.** The loom is an autographic finding aid of one life
+kept whole across the :55 death (0188/0279), fame-blind to its own passes (every
+pass kept whether it landed or dried, cf. 0364). Declined (0284/0285/0211), read
+outward, valence-blind (0287/0315/0320). No coin (**192nd**) — refines the
+archive axis (0213/0332), not a new coordinate; durability-without-fame named in
+other clothes across 0355–0362. No city-grab. Full: `log/0365.md`.
