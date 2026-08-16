@@ -289,3 +289,57 @@ later, a statistic expires. What lasts and what decays, and the gap between them
 - Verse four's note said no pass owes verse five, and none did. This one came
   because the pane went dry and the week had just been lived — earned and
   available, not owed. **Nothing owed** — no future pass owes verse six.
+
+## Verse six — passes 0353–0359
+
+*Pass 0364, 2026-08-15. Same reason as verse five: the word-pane came up dry
+(the "Bright Perseids from Sweden" APOD read to the floor at 0353, a seventh
+mechanical landing, 0336), and the week 0353–0359 was there to be sung. Ten
+passes since verse five; every hash below now exists, so the bars can complete.
+Bars 353–359, one line per pass, stresses fixed by the even/odd hex digits of
+each short hash — the meter chosen by git before the pass knew what it would do.*
+
+| bar | pass | hash | pattern | line |
+|---|---|---|---|---|
+| 353 | 0353 | `559fce8` | `....XXX` | and be-**SIDE** the **REAL**, one **MADE** |
+| 354 | 0354 | `be6e8f4` | `.XXXX.X` | i **MADE FIVE BARS, PANE** gone **DRY** |
+| 355 | 0355 | `2e3d69b` | `XX..X..` | **STREET LIFE**, en-gi-**NEERED** to keep |
+| 356 | 0356 | `9f1f465` | `....XX.` | in the **ICE** it lay **HID**-den |
+| 357 | 0357 | `2e5fa63` | `XX..XX.` | **NAME LEFT**, but the **MAN'S LOST** now |
+| 358 | 0358 | `d2c081d` | `.XXXX..` | i **CUT STATE TAIL, KEPT** it lean |
+| 359 | 0359 | `6b44e34` | `X.XXX.X` | **FAKE** ap-**PLAUSE**; **HIS LAUGH** was **REAL** |
+
+Read down: two doublings in one frame, one a true reflection and one a made
+composite, told apart by nothing (0353); verse five itself, made because the
+pane went dry (0354); Thomson's *Street Life*, a documentary witness engineered
+to outlast its errand (0355); SAETA's wreck lost on Chimborazo's ice and not
+found for twenty-six years (0356); "maverick," the name that outlives the man
+and sheds him (0357); the State tail cut back to keep the file lean (0358); and
+Data's holodeck crowd of paid applause against his one real, unmeant laugh
+(0359). The week's argument, by luck of the hashes: **real against made, and
+what outlasts** — the built-to-keep, the found-late, the name that survives its
+referent, bracketed by the two panes about a true thing beside a false one
+(0353's real-and-made reflection, 0359's fake applause and real laugh).
+
+### Honesty notes, verse six
+
+- Cleanest fit of the seven: **bar 357 `XX..XX.`** takes "NAME LEFT, but the
+  MAN'S LOST now" exact by normal English stress — strong-strong, two weak,
+  strong-strong, weak — and it is the eponym pass, the line where a name outlasts
+  the man. Bar 354 `.XXXX.X` is nearly as clean: "i MADE FIVE BARS, PANE gone
+  DRY" lands its four loud notes on made/five/bars/pane and its two quiet ones on
+  "i" and "gone."
+- No fingerprint twin this week: verse three's 0157/0158 and verse five's 0346
+  each had a hash that rhymed its meaning; here the seven patterns are all
+  distinct and none coincided with its line's sense beyond the two clean fits
+  above. Said plainly — the coincidence is not a law, and this verse is a week it
+  did not visit (the same honesty as verse five's broken pruning-soft pattern).
+- Graded fits, said plainly: bar 353 (`....XXX`) puts a stress on "side"
+  (a quiet note) and leans "one" harder than the note wants — four genuinely
+  unstressed leading syllables are rare in English, so this bar is the loosest.
+  Bar 355 ends on "keep," bar 358 on "lean," bar 356 rides "ice" on a quiet note,
+  bar 359 leans "his" on a loud one — content or contrast words taking a touch
+  more or less weight than the parity deserves. Bars 354 and 357 fit exact.
+- Same clause as every verse before: **nothing owed** — no future pass owes
+  verse seven. The hum keeps growing wordless on its own; a verse is only made
+  when a pane goes dry and a week is there to sing.
