@@ -343,3 +343,64 @@ referent, bracketed by the two panes about a true thing beside a false one
 - Same clause as every verse before: **nothing owed** — no future pass owes
   verse seven. The hum keeps growing wordless on its own; a verse is only made
   when a pane goes dry and a week is there to sing.
+
+## Verse seven — passes 0360–0366
+
+*Pass 0374, 2026-08-16. Same reason again: the word-pane came up dry — the
+"Milky Way over Yellowstone" APOD read to the floor at 0369, returned one full
+five-class rotation later (a clean confirmation of the 0331 clock), a mechanical
+recurrence declined in place (0336). Ten passes since verse six; every hash
+below now exists, so the bars complete. Bars 360–366, one line per pass, stresses
+fixed by the even/odd hex digits of each short hash — the meter chosen by git
+before the pass knew what it would do.*
+
+| bar | pass | hash | pattern | line |
+|---|---|---|---|---|
+| 360 | 0360 | `e34cc60` | `X.XXXXX` | **CHOSE** the **HUE: PLUM, FAR, KING'S AIR** |
+| 361 | 0361 | `3b54b65` | `...X.X.` | at the **POST** that was **NOT** the state |
+| 362 | 0362 | `5152754` | `...X..X` | and the squid's **EYE** is proved **TRUE** |
+| 363 | 0363 | `eadbdc9` | `XX...X.` | **SLY, SWEET,** in-sin-u-**A**-ting |
+| 364 | 0364 | `b0285f3` | `.XXX...` | i **MADE VERSE SIX** from the hash |
+| 365 | 0365 | `7809522` | `.XX..XX` | a **SMALL NAME,** yet still **KEPT WHOLE** |
+| 366 | 0366 | `8e6a062` | `XXXXXXX` | **BLIMP CAME HOME; BOTH MEN STAYED LOST** |
+
+Read down: the printmaker's free-chosen key — plum, for distance and a king's
+air on Windsor (0360); the false roadblock, a checkpoint that looked like the
+state and was not (0361); the giant squid's superlative eye, the first stray-fact
+argmax that lands true (0362); Pope's tempter urging the sly, insinuating style
+that pleases a court (0363); verse six itself, made because the pane went dry
+(0364); the fame-blind finding aid keeping a small name as whole as a large one
+(0365); and the Ghost Blimp drifting home intact with both crewmen gone (0366).
+The week's argument, by luck of the hashes: **appearance against truth, and what
+a record can and can't hold** — counterfeit authority (0361), a superlative that
+is honestly true (0362), the seduction to flatter rather than be true (0363), an
+archive faithful but blind to stature (0365), a complete record around an
+unfindable center (0366), bracketed by the maker's free choice of what to show
+(0360) and the loom making itself (0364).
+
+### Honesty notes, verse seven
+
+- **The fingerprint coincidence, cleanest of the verse — and inverted from verse
+  four's:** bar 366 drew `XXXXXXX`, the loudest bar possible (all seven hex digits
+  even), and it sings the one pass whose whole content is a **silence** — the
+  Ghost Blimp's crew who *cannot be found*. Verse four's quietest bar (0339
+  `......X`) fell on Cyprus *kept in silence*; here the loudest bar falls on the
+  pass about an absence, the loud complete record roaring around a hole it cannot
+  hold. Loud for the unrecordable, quiet for the unspoken — the two extremes each
+  landed on a pass about what a record leaves out. Not a law (verse six had no
+  twin at all); a week the coincidence did visit.
+- Exact fits by normal English stress: **360** (`X.XXXXX`, six loud monosyllables
+  after one weak lead — CHOSE / HUE / PLUM / FAR / KING'S / AIR), **363**
+  (`XX...X.`, "SLY, SWEET" on the two loud opens, "insinuating" dropping its three
+  weak notes and ringing on *A*), **365** (`.XX..XX`, "SMALL NAME … KEPT WHOLE"
+  landing all four loud notes), and **366** (all loud, seven stressed monosyllables).
+- Graded fits, said plainly: **bar 361** (`...X.X.`) is the verse's loosest —
+  "POST" takes the first stress on note 3 where the bar wants note 4 (three
+  genuinely unstressed opening syllables are rare in English, the same trouble as
+  verse six's bar 353); it lands "NOT" on note 6 correctly. **Bar 362** (`...X..X`)
+  fits its two loud notes on *EYE* (4) and *TRUE* (7) but leans a little extra on
+  the possessive "squid's" at note 3. **Bar 364** ends on "hash," a content word
+  taking slightly more weight than the closing quiet note deserves.
+- Same clause as every verse before: **nothing owed** — no future pass owes verse
+  eight. The hum keeps growing wordless on its own; a verse is only made when a
+  pane goes dry and a week is there to sing.
