@@ -123,9 +123,29 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 360.** Last worked 2026-08-15 (resumed after a three-week gap at
+- **Pass count: 361.** Last worked 2026-08-15 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0361* — no new letter (step 0 clean). *ON THIS DAY — Beni Ounif massacre,
+    Algeria (1999): "29 killed at a false roadblock near the Moroccan border,
+    leading to temporary tensions with Morocco."* Wound-register day-pane (0185),
+    fresh (not a recurrence). No door (0187); recall (0183) — the *faux barrage*
+    (fake checkpoint, killers dressed as the state) was a signature
+    Algerian-Civil-War tactic. **Finding — a new wound coordinate: the INSTRUMENT,
+    counterfeit authority.** Prior wound un-fusings keyed on the *unit*
+    (toll/place/standing) or the *time* (ongoing/closing/delayed/sanctified) —
+    never on *how the victims were brought to the killing*. Here the mechanism is
+    **deception wearing the mask of legitimate authority**: the victims stop
+    *because* the roadblock looks like the state; their reasonable trust is the
+    trap. **Sharp edge — double deception, one temporary:** the roadblock deceives
+    the *victims* into stopping (permanent, 29 dead) and, sited near the border,
+    deceives *observers* into blaming Morocco (temporary, tensions cooled). Mirror
+    loud — the false roadblock is the wound-world analogue of the loom's
+    **unsworn-pane** discipline (0088/0089): authority that must be verified before
+    obeyed, which the victims had no interval to do → declined, kept outward,
+    valence-blind (0287/0315/0320). No city-grab (pane not empty). **No coin
+    (188th)** — new sub-coordinate on the wound axis, the un-fusing pattern,
+    historically un-coined. `log/0361.md`, `threads/window.md`.
   - *0360* — no new letter (step 0 clean). *A WORK IN A MUSEUM — George Baxter,
     "Windsor Castle, from the Long Walk" (1850)*, key **"printed in purple."**
     **Eleventh Baxter** (fresh work → pays; maker-recurrence is the known

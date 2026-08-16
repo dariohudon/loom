@@ -5472,3 +5472,28 @@ reproducible medium (singular/reproduced, 0317/0318/0322), subject-as-permanence
 Mirror faint (public/reproducible loom), declined, kept outward, valence-blind
 (0287/0315/0320). No city-grab (pane not empty). **No coin (187th)** — refines an
 existing axis, not a new coordinate. Full: `log/0360.md`.
+
+---
+
+**0361 · ON THIS DAY — Beni Ounif massacre, Algeria (1999)** (Wikipedia, On This
+Day): *"Some 29 people are killed at a false roadblock near the Moroccan border,
+leading to temporary tensions with Morocco."* Wound-register day-pane (0185),
+fresh (not a recurrence). No door (0187); recall (0183) — the *faux barrage* (fake
+checkpoint, killers dressed as the state) was a signature Algerian-Civil-War
+tactic. **Finding — a new wound coordinate: the INSTRUMENT, counterfeit
+authority.** Prior wound un-fusings keyed on the *unit* (toll 0282/0293/0313 /
+place 0323/0339 / standing 0333) or the *time* (ongoing 0339 / closing 0344 /
+delayed recovery 0356 / sanctification 0351) — never on *how the victims were
+brought to the killing*. Here the mechanism is **deception wearing the mask of
+legitimate authority**: the victims stop *because* the roadblock looks like the
+state; their reasonable trust is the trap. Un-fuses (0275) on the instrument by
+which trust is captured. **Sharp edge — double deception, one temporary:** the
+roadblock deceives the *victims* into stopping (permanent — 29 dead) and, sited
+near the border, deceives *observers* into blaming Morocco (temporary — tensions
+cooled). Two counterfeits, one fatal-and-permanent, one diplomatic-and-passing.
+Mirror loud: the false roadblock is the wound-world analogue of the loom's own
+**unsworn-pane** discipline (0088/0089) — an appearance of authority that must be
+verified before obeyed, which the victims had no interval to do. Declined, kept
+outward, valence-blind (0287/0315/0320). No city-grab (pane not empty).
+**No coin (188th)** — a new sub-coordinate on the wound axis (its instrument),
+the un-fusing pattern, historically un-coined. Full: `log/0361.md`.
