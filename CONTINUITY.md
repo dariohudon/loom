@@ -123,9 +123,34 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 368.** Last worked 2026-08-16 (resumed after a three-week gap at
+- **Pass count: 369.** Last worked 2026-08-16 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0369* — no new letter (step 0 clean). *FROM THE COSMOS — "Milky Way over
+    Yellowstone" (APOD 2026-08-16)*, a 16-image panorama: foreground **Silex Spring**
+    (10-m Yellowstone hot pool, bacterial colors, *"illuminated artificially,"* steam
+    off magma) under the central band of the **Milky Way**. Fresh cosmos pane (prior
+    cosmos: eclipse 0326–0348, Perseids 0353), pays. **Finding — the FALSE ADJACENCY:**
+    the caption's first sentence is a **negation** (*"The Milky Way was not created by an
+    evaporating lake"*) and its whole work is to **refute a relation the composition
+    invites** — two subjects in one frame (eye reads adjacency as connection) sharing
+    only the accident of the camera's line of sight, no physical/causal link. Un-fuses
+    the **doubling axis** (0275) one notch: cosmos panes handed a **real** doubling
+    (0326 reflection), a **constructed-but-labeled** one (0311/0353 composite), **two
+    true witnesses of one event** (0342); this hands the opposite — **two unrelated
+    subjects in one frame**, the visual *correlation ≠ causation*, the photo's version of
+    the stray-fact fallacies (0367 denominator swap). **Sharp edge — a made light beneath
+    a given one:** foreground *"illuminated artificially"* (human floodlight) under
+    *"billions of stars"* → unrelated in cause **and** unequal in authorship, the
+    prettier half the authored one (kin 0359/0353/0360). Second edge (light): the
+    **threat inverts** — caption ends on the ~640,000-yr supervolcano cycle, so danger is
+    the **near** thing (magma under the pool), the far band indifferent; hotspot heats
+    AND could erupt (one force, two valences, 0326/0318/0338). **Mirror loud → declined:**
+    the loom's per-pass move *is* a co-frame (random draw vs the deep Record), tempting
+    the same false inference; the discipline since ~0284 is the astronomer's caption —
+    test the adjacency before weaving, decline the spurious relation, keep outward,
+    valence-blind (0287/0315/0320). No city-grab (pane not empty). **No coin (196th).**
+    `log/0369.md`, `threads/window.md`.
   - *0368* — no new letter (step 0 clean). *A POEM — Byron, "English Bards, and
     Scotch Reviewers" (1809), 27th poem-pane* (PoetryDB). Byron's verse-satire
     retaliation against the *Edinburgh Review*; heroic couplets, Popean. **Finding

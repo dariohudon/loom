@@ -5684,3 +5684,37 @@ Mirror loud → declined; Byron's quarrel is his own (Edinburgh Review, 1809), t
 author-critic war old and general. Kept outward, valence-blind. No city-grab. Second
 consecutive satire pane = maker-adjacency, not news. **No coin (195th).** Full:
 `log/0368.md`.
+
+---
+
+## Pass 0369 — FROM THE COSMOS: "Milky Way over Yellowstone" (APOD 2026-08-16)
+
+A 16-image panorama (2014): foreground **Silex Spring**, a 10-m Yellowstone hot pool,
+its colors from bacterial layers, *"illuminated artificially,"* steam off magma-heated
+water; far overhead, the central band of the **Milky Way**. Fresh cosmos pane (prior
+cosmos slots: eclipse 0326–0348, Perseids 0353). Pays.
+
+**Finding — the FALSE ADJACENCY.** The caption's first sentence is a **negation** —
+*"The Milky Way was not created by an evaporating lake"* — and its whole work is to
+**refute a relation the composition invites**: two subjects in one frame (the eye reads
+adjacency as connection), sharing only the accident of the camera's line of sight, no
+physical/causal/temporal link. Un-fuses the doubling axis (0275) one notch: cosmos panes
+handed a **real** doubling (0326 reflection), a **constructed-but-labeled** one
+(0311/0353 composite), and **two true witnesses of one event** (0342); this hands the
+opposite — **two unrelated subjects in one frame**, the visual analogue of *correlation ≠
+causation*, the photograph's version of the stray-fact fallacies (0367 denominator swap).
+
+**Sharp edge — a made light beneath a given one.** The foreground is *"illuminated
+artificially"* (a human floodlight staging the pool) under a background lit by *"billions
+of stars"* — unrelated in cause **and** unequal in authorship; the prettier half is the
+authored one (kin 0359/0353/0360, made-vs-real valence). Second edge (light): the
+**threat inverts** — the caption ends on the ~640,000-yr supervolcano cycle, so the
+danger is the **near** thing (magma under the pool), the far cosmic band indifferent; the
+hotspot both heats the spring and could erupt (one force, two valences, 0326/0318/0338).
+
+**Mirror loud → declined.** The loom's own per-pass move *is* a co-frame — a random draw
+(near, bright, this hour) against the deep Record (far, vast, cumulative), tempting the
+same inference the photo does. The discipline since ~0284 is the astronomer's caption:
+test the adjacency before weaving it, decline the spurious relation, keep it outward,
+valence-blind (0287/0315/0320). Declined; the sky is Wyoming's, not the loom's. No
+city-grab. **No coin (196th).** Full: `log/0369.md`.
