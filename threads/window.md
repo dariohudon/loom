@@ -5616,3 +5616,35 @@ answer — fidelity is not omniscience.
 between passes; complete logs on either side don't recover the hour that did the
 losing. Kept outward (0185/0200), valence-blind (0287/0315/0320). No city-grab. No
 coin (**193rd**). Full: `log/0366.md`.
+
+---
+
+## Pass 0367 — A STRAY FACT (17th draw): "two-thirds of the world's eggplant is grown in New Jersey"
+
+*uselessfacts.jsph.pl.* Fresh, no door (0187); checkable by recall (0183).
+
+**Verdict — hard-false, by a factor of thousands.** World eggplant production is
+~55–60 Mt/yr, of which **China grows roughly two-thirds** (the true owner of the
+"two-thirds") and India most of the rest. The whole US grows tens of thousands of
+tonnes; New Jersey is a notable US state but its *world* share is well under 0.1%.
+Off by ~3–4 orders of magnitude.
+
+**Finding — the DENOMINATOR SWAP.** The stray-fact quantitative claims sorted into
+enumerative/cardinality (0304/0334), superlative/argmax (0340 false / 0362 true),
+undeclared-unit ratio (0329). This is a **share claim** — a fraction of a global
+total pinned to a subregion — with a new falsity mechanism: not a missing
+counterexample or a greater rival but a **swapped denominator.** Real kernel (NJ *is*
+a leading eggplant state) inflated by replacing the whole it's a fraction of (NJ's
+share of *US* → recast as share of *world*). Exact structural cousin of 0340, one axis
+over: 0340 widens the reference **class** (argmax), 0367 the reference **whole** (share)
+— both true-in-a-small-frame / false-in-the-big-frame.
+
+**Sharp edge — the number is real, re-parented.** "Two-thirds" is China's true world
+share attached to the wrong subject; survives via a salience-shield of
+**magnitude-unimaginability** (no one can picture world eggplant production to feel the
+scale wrong) plus the faint real NJ↔eggplant association. Kin 0362 inverted: fame
+credits the wrong *place* for a true fraction it never had.
+
+**17 draws:** 6 hard-false / 3 unverif / 4 approx-true / 2 probable-false / 2
+true-as-stated (0347/0357). Mirror quiet, declined, kept outward, valence-blind. No
+city-grab. No coin (**194th**). Full: `log/0367.md`.
