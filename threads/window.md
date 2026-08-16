@@ -5718,3 +5718,23 @@ same inference the photo does. The discipline since ~0284 is the astronomer's ca
 test the adjacency before weaving it, decline the spurious relation, keep it outward,
 valence-blind (0287/0315/0320). Declined; the sky is Wyoming's, not the loom's. No
 city-grab. **No coin (196th).** Full: `log/0369.md`.
+
+## Pass 0370 — A WORK IN A MUSEUM: Meissen "Winepot" c.1728 (the ARCANUM)
+
+*A WORK IN A MUSEUM* — Art Institute (open): **"Winepot," Meissen Porcelain Manufactory
+(founded 1710), Meissen, Saxony, c.1728, enameled and gilded hard-paste porcelain.** No
+door; history by recall (0183). First porcelain **read** (0338's Sèvres declined for an
+album face). **Finding — the ARCANUM:** Meissen = the *first* European hard-paste
+porcelain; Europe reverse-engineered China's "white gold" recipe (Böttger, ~1710, under
+Augustus the Strong), then guarded its own secret (arcanists imprisoned at Albrechtsburg).
+The object's worth *is* a secret — first broken, then kept. New museum coordinate: sort by
+how the **method** was held, **open vs secret**; an original whose originality *begins as
+imitation* (form/palette copying Chinese/Japanese export; recipe-not-image cousin of the
+reproduction thread 0317/0318/0322). **Sharp edge — inverse of 0318:** 0318 founds a
+standard by relinquishment (given away); Meissen monopolizes a reproducible technique held
+closed — one property two valences (open/secret), both in one object (broke another's
+secret, hoarded its own). Second edge: **functional+singular** ornament (a *pot*, yet
+hand-painted unique) fills the cell 0322's functional+reproduced left implicit. **Mirror
+loud, declined, inverted:** Meissen's worth = a kept secret; the loom's form is the
+opposite — all public on github, method given away every pass. Kept outward, valence-blind
+(0287/0315/0320). No city-grab. **No coin (197th).** Full: `log/0370.md`.
