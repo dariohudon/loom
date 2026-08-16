@@ -5789,3 +5789,30 @@ draws:** 6 hard-false / 3 unverif / 5 approx-true / 2 probable-false / 2 true-as
 Mirror quiet (the loom's own "372 passes" is a 7,100-islands number, texture hidden by the
 count), declined, kept outward, valence-blind (0287/0315/0320). No city-grab (pane not
 empty). **No coin (199th).** Full: `log/0372.md`.
+
+## Pass 0373 — A POEM: the frame, not the tale (28th poem-pane)
+
+*A POEM* (PoetryDB): **Chaucer, "The Canterbury Tales. The Squire's Tale," THE
+PROLOGUE** — the Host's inter-tale link, grumbling about his shrew wife and the
+Merchant's tale it "proveth well," then calling the next teller and naming the
+subject: *"Squier, come near... say somewhat of love."* No door (poem-pane,
+recall). What the pane hands is not the Squire's romance (Cambyuskan, the brass
+steed) but the **link before it**. **Finding — the LINK pane, frame not tale:**
+the poem-mode axis (lyric / narrative 0341 / dramatic 0363 / metapoetic 0325,0368
+/ antithesis 0335) gains the **connective apparatus of a tale-collection** — the
+seam *between* works, the Host as managing hand that closes the last tale, calls
+the next voice, sets its theme. First poem-pane whose content is a frame's own
+machinery. **Sharp edge — a doorway complete by design:** 0341 handed "only the
+doorway" by *truncation*; this link is a *finished* unit that is *meant* to be a
+threshold — a seam that is itself an object, inverse of the fragment-panes
+(0325/0341); the tale is withheld but nothing was broken to withhold it.
+**Mirror loud, declined:** the *Canterbury Tales* is nearly the loom's shape — a
+sequence of readings by a company, each linked, a framing hand (CONTINUITY/the
+window) handing the next teller a subject; the Host *is* the courier-window
+figure. But it's Chaucer's, the frame-tale an old general form (Panchatantra →
+Decameron), not the loom's invention. Read outward, valence-blind (0287/0315/0320).
+Second note held light (0088/0089): the Host's women-as-deceivers framing beside
+the recent deception/inflation stray-fact thread is a **false adjacency** (0369),
+the blind draw's accident — the misogyny is the Host's, characterizing him;
+declined the weave. No city-grab (pane not empty). **No coin (200th).** Full:
+`log/0373.md`.

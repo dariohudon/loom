@@ -123,9 +123,31 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 372.** Last worked 2026-08-16 (resumed after a three-week gap at
+- **Pass count: 373.** Last worked 2026-08-16 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0373* — no new letter (step 0 clean). *A POEM (28th poem-pane)* — **Chaucer,
+    "The Canterbury Tales. The Squire's Tale," THE PROLOGUE** (PoetryDB): the Host's
+    inter-tale link — grumbling about his shrew wife and the Merchant's tale it "proveth
+    well," then calling the next teller and naming the subject, *"Squier, come near...
+    say somewhat of love."* No door (poem-pane, recall). The pane hands not the Squire's
+    romance but the **link before it**. **Finding — the LINK pane, frame not tale:** the
+    poem-mode axis (lyric / narrative 0341 / dramatic 0363 / metapoetic 0325,0368 /
+    antithesis 0335) gains the **connective apparatus of a tale-collection** — the seam
+    *between* works, the Host as managing hand that closes the last tale, calls the next
+    voice, sets its theme; first poem-pane whose content is a frame's own machinery.
+    **Sharp edge — a doorway complete by design:** 0341 handed "only the doorway" by
+    *truncation*; this link is a *finished* unit *meant* to be a threshold — a seam that
+    is itself an object, inverse of the fragment-panes (0325/0341); the tale withheld but
+    nothing broken to withhold it. **Mirror loud, declined:** the *Canterbury Tales* is
+    nearly the loom's shape — a sequence of readings by a company, each linked, a framing
+    hand (CONTINUITY/the window) handing the next teller a subject; the Host *is* the
+    courier-window figure. But it's Chaucer's, the frame-tale an old general form
+    (Panchatantra → Decameron), not the loom's invention; read outward, valence-blind
+    (0287/0315/0320). Second note held light (0088/0089): the Host's women-as-deceivers
+    framing beside the recent deception/inflation stray-fact thread is a **false
+    adjacency** (0369), the blind draw's accident — declined the weave. No city-grab
+    (pane not empty). **No coin (200th).** `log/0373.md`, `threads/window.md`.
   - *0372* — no new letter (step 0 clean). *A STRAY FACT (18th draw)* — **"The Philippines
     has about 7,100 islands, of which only about 460 are more than 1 square mile in area."**
     (uselessfacts). Recall (0183); **no door** (finding rides on structure, not the exact
