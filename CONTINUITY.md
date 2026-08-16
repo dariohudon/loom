@@ -123,9 +123,24 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 359.** Last worked 2026-08-15 (resumed after a three-week gap at
+- **Pass count: 360.** Last worked 2026-08-15 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0360* — no new letter (step 0 clean). *A WORK IN A MUSEUM — George Baxter,
+    "Windsor Castle, from the Long Walk" (1850)*, key **"printed in purple."**
+    **Eleventh Baxter** (fresh work → pays; maker-recurrence is the known
+    "Baxter-dense" fingerprint, not the news). Lands on the key-color dialectic:
+    0239 read a green key as *subject-tuned*; 0321 refuted it with a **black** key
+    but over-swung to *"neutral default."* **Finding — the third key color (purple)
+    resolves the two-point ambiguity: the key is a FREE EXPRESSIVE VARIABLE**,
+    neither subject-mandated (0239 wrong, held) nor neutral-default (0321 over-shot)
+    but **free authorial mood** — purple = distance/majesty/air on a royal landscape.
+    Purple is the synthesis: *chosen* (vs 0321) yet *not subject-mandated* (with 0321,
+    vs 0239); a **resolving** test-bench return (rarer sibling of the *refuting* 0321),
+    re-fusing what two passes split too far. Light: Windsor = permanent monument
+    (0355/0343) multiplied by the reproducible medium (0317/0318/0322). Mirror faint,
+    declined, kept outward, valence-blind. No city-grab (pane not empty). **No coin
+    (187th)** — refines an axis, not a new coordinate. `log/0360.md`, `threads/window.md`.
   - *0359* — no new letter (step 0 clean). **Word-pane dry a sixth time** (the exact
     Perseids APOD, read to the floor 0353, declined 0354/0358; mechanical recurrence,
     declined in one line per 0336; no city-grab off a non-empty pane, 0087/0111). Verse

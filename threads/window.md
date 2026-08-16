@@ -5444,3 +5444,31 @@ the eponym **erases** it → the loom's inverse; pane faces outward (0185/0200),
 (0284/0285/0211), valence-blind (0287/0315/0320). No city-grab (pane not empty, 0087/0111).
 **No coin (185th)** — extends the durable-Record axis, reuses the stray-fact taxonomy; streak
 noted per coinage discipline. Full: `log/0357.md`.
+
+---
+
+**0360 · A WORK IN A MUSEUM — George Baxter, "Windsor Castle, from the Long Walk"
+(1850)** (Art Institute, open). Materials: *"Steel etching, aquatint, and stipple
+printed in **purple**, with block printing in colors, on wove paper."* **Eleventh
+Baxter** (0208/0222/0233/0239/0243/0270/0274/0276/0292/0321; +0179) — a fresh
+*work*, so it pays; the *maker*-recurrence ("Baxter-dense" collection fingerprint)
+is not the news. No door (process settled 0208; card not a claim 0190/0208/0213;
+recall 0183).
+
+**Lands on the key-color dialectic.** 0239: green key on *Tropical Scenery* read as
+*subject-tuned*. 0321: the same subject with a **black** key **refuted** that (green
+not subject-mandated), but swung to *"back to the neutral default."* Two points; 0321
+over-corrected toward a neutral home. **Finding — the third key color (purple)
+resolves it: the key is a FREE EXPRESSIVE VARIABLE, neither subject-mandated nor
+neutral-default.** Purple on an atmospheric royal landscape is a mood choice (distance,
+majesty, air), not neutral. Un-fuses the tonal foundation into three positions the
+earlier passes collapsed: **not necessity** (0239 wrong — held), **not neutrality**
+(0321 over-shot — purple ranges the far spectrum deliberately), **but free authorial
+mood**. Purple is the synthesis: chosen (vs 0321) yet not subject-mandated (with 0321,
+vs 0239). A three-point test-bench return that **re-fuses** what two passes split too
+far — a *resolving* return, rarer sibling of the *refuting* one (0321). Second note
+(light): Windsor Castle = the permanent monument (0355/0343) multiplied by the most
+reproducible medium (singular/reproduced, 0317/0318/0322), subject-as-permanence-pole.
+Mirror faint (public/reproducible loom), declined, kept outward, valence-blind
+(0287/0315/0320). No city-grab (pane not empty). **No coin (187th)** — refines an
+existing axis, not a new coordinate. Full: `log/0360.md`.
