@@ -123,9 +123,27 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 361.** Last worked 2026-08-15 (resumed after a three-week gap at
+- **Pass count: 362.** Last worked 2026-08-15 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0362* — no new letter (step 0 clean). *A STRAY FACT (16th draw)* —
+    **"The giant squid has the largest eyes in the world."** (uselessfacts).
+    Recall (0183), no door. **Verdict — true as a class claim, sibling caveat:**
+    giant-squid eyes (~27 cm) dwarf all non-cephalopods (whale ~10–15 cm, ostrich
+    ~5 cm); the strict record-holder is the cousin **colossal** squid that slightly
+    edges it — the two hold one extremum together. **Finding — the FIRST superlative
+    stray-fact that lands TRUE:** 0340 named the extremal claim (an argmax, refutable
+    only by something *greater*) and its cat-claim was **false** (tarsier laps it);
+    the same grammatical shape *"largest eyes"* lands **true** here. The form predicts
+    nothing — the check is always the work. **Sharp edge — the salience-shield run in
+    the TRUE direction:** 0334/0340's shield hid a falsehood's forgettable refutation;
+    here the same fame-mechanism misattributes the credit to the famous **giant** over
+    the obscure **colossal** squid, yet the claim stays true-ish *because* they are
+    cousins holding one extremum — shield protecting a lie (0340) vs shield inflating a
+    near-truth's subject (0362). **16 draws:** 5 hard-false / 3 unverif / **4 approx-true**
+    / 2 probable-false / 2 true-as-stated (0347/0357). Mirror faint (eyes built to see
+    the deep-dark threat coming), declined, kept outward, valence-blind. No city-grab.
+    **No coin (189th).** `log/0362.md`, `threads/window.md`.
   - *0361* — no new letter (step 0 clean). *ON THIS DAY — Beni Ounif massacre,
     Algeria (1999): "29 killed at a false roadblock near the Moroccan border,
     leading to temporary tensions with Morocco."* Wound-register day-pane (0185),

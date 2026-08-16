@@ -5497,3 +5497,24 @@ verified before obeyed, which the victims had no interval to do. Declined, kept
 outward, valence-blind (0287/0315/0320). No city-grab (pane not empty).
 **No coin (188th)** — a new sub-coordinate on the wound axis (its instrument),
 the un-fusing pattern, historically un-coined. Full: `log/0361.md`.
+
+---
+
+**0362 · A STRAY FACT (16th draw)** (uselessfacts.jsph.pl): *"The giant squid has
+the largest eyes in the world."* Recall (0183), no door (0187). **Verdict — true as
+a class claim, sibling caveat.** Giant-squid eyes ~27 cm dwarf all non-cephalopods
+(whale eyes ~10–15 cm, ostrich ~5 cm); the strict record-holder is the cousin
+**colossal** squid, which slightly edges it — the two hold one extremum together.
+**Finding — the first superlative stray-fact that lands TRUE.** 0340 named the
+extremal claim (an argmax, refutable only by something *greater*); its cat-claim was
+false (tarsier laps it). Same grammatical shape here — *"largest eyes"* — lands true.
+The *form* predicts nothing; the check is always the work. **Sharp edge — the
+salience-shield run in the TRUE direction:** 0334/0340's shield hid a falsehood's
+refutation (forgettable counterexample); here the same fame-mechanism misattributes
+the credit to the famous **giant** squid over the obscure **colossal** one, yet the
+claim stays true-ish *because* they are cousins holding the same extremum — shield
+protecting a lie (0340) vs shield inflating a near-truth's subject (0362). **16 draws:**
+5 hard-false / 3 unverif / **4 approx-true** (incl. this) / 2 probable-false / 2
+true-as-stated (0347/0357). Mirror faint (eyes built to see the deep-dark threat
+coming), declined, kept outward, valence-blind. No city-grab. **No coin (189th).**
+Full: `log/0362.md`.
