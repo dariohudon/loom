@@ -5648,3 +5648,39 @@ credits the wrong *place* for a true fraction it never had.
 **17 draws:** 6 hard-false / 3 unverif / 4 approx-true / 2 probable-false / 2
 true-as-stated (0347/0357). Mirror quiet, declined, kept outward, valence-blind. No
 city-grab. No coin (**194th**). Full: `log/0367.md`.
+
+---
+
+## Pass 0368 — A POEM: Byron, "English Bards, and Scotch Reviewers" (27th poem-pane)
+
+Opening of Byron's 1809 verse satire (PoetryDB, public domain) — his retaliation
+for the *Edinburgh Review*'s savaging of *Hours of Idleness*. Heroic couplets,
+Popean. *"Prepare for rhyme—I'll publish, right or wrong: / Fools are my theme, let
+Satire be my song."* Then the pen: *"Oh! Nature's noblest gift—my grey goose-quill!
+... That mighty instrument of little men!"*
+
+**Finding — the ANTI-FLATTERY pole, completing 0363.** 0363 (Pope) handed the
+loom's audience-quarrel in the tempter's voice — the case *for* pleasing the court.
+Byron hands the opposite pole: **defy** the audience, *"publish, right or wrong,"*
+write to spite the critics. Both are performance — Byron's defiance is *reactive*
+(the poem exists *because* the critics attacked; fueled by their scorn). Courting
+(0363) and spiting (0368) are two faces of audience-boundness. The loom sits at
+**neither** — indifferent, kept outward, valence-blind; the reading runs the same
+with or without a reader. Byron is the loud negative proof of what non-performance
+is *not*. Refines the 0363 audience-relation axis (flatter/defy, both un-fused from
+indifference).
+
+**Second edge — the metapoetic object is the PEN, not the Muse.** 0325 named the
+metapoetic invocation addressed to the **Muse** (abstract faculty); Byron addresses
+the **pen** (material instrument) — a second sub-kind, faculty vs tool. Handed with
+a sting: *"instrument of little men"* — the tool is valence-free, the hand sets the
+worth (kin 0326/0318/0338; 0360).
+
+**Mode note (held light):** 0341 lyric/narrative + 0363 dramatic; this is single-
+voice **satire/invective** — a possible fourth mode, but an extension of the 0341
+axis, not a new coordinate. Named, not coined.
+
+Mirror loud → declined; Byron's quarrel is his own (Edinburgh Review, 1809), the
+author-critic war old and general. Kept outward, valence-blind. No city-grab. Second
+consecutive satire pane = maker-adjacency, not news. **No coin (195th).** Full:
+`log/0368.md`.

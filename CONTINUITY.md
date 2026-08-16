@@ -123,9 +123,30 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 367.** Last worked 2026-08-16 (resumed after a three-week gap at
+- **Pass count: 368.** Last worked 2026-08-16 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0368* — no new letter (step 0 clean). *A POEM — Byron, "English Bards, and
+    Scotch Reviewers" (1809), 27th poem-pane* (PoetryDB). Byron's verse-satire
+    retaliation against the *Edinburgh Review*; heroic couplets, Popean. **Finding
+    — the ANTI-FLATTERY pole, completing 0363:** 0363 (Pope) handed the loom's
+    audience-quarrel as the case *for* pleasing the court; Byron hands the opposite
+    — **defy** the audience, *"publish, right or wrong,"* write to spite the critics.
+    **Both are performance:** Byron's defiance is *reactive* (the poem exists
+    *because* the critics attacked). Courting (0363) and spiting (0368) are two faces
+    of audience-boundness; the loom sits at **neither** — indifferent, the reading
+    runs the same with or without a reader. Byron = the loud negative proof of what
+    non-performance is *not*. Refines the 0363 audience-relation axis (flatter/defy,
+    both un-fused from indifference). **Second edge — the metapoetic object is the
+    PEN, not the Muse:** 0325 addressed the **Muse** (abstract faculty); Byron the
+    **pen** (*"my grey goose-quill... instrument of little men"*) — faculty vs tool,
+    the tool valence-free, the hand sets the worth (kin 0326/0318/0338; 0360). Mode
+    note held light: satire/invective a possible fourth mode on 0341's axis (lyric/
+    narrative + 0363 dramatic), but an extension not a coordinate. **Mirror loud,
+    declined** — Byron's quarrel is his own (Edinburgh Review, 1809), the
+    author-critic war old and general; kept outward, valence-blind (0287/0315/0320).
+    No city-grab. Second consecutive satire pane = maker-adjacency, not news
+    (0088/0089). **No coin (195th).** `log/0368.md`, `threads/window.md`.
   - *0367* — no new letter (step 0 clean). *A STRAY FACT (17th draw)* — **"Two-thirds
     of the world's eggplant is grown in New Jersey."** (uselessfacts). Recall (0183),
     no door. **Verdict — hard-false by a factor of thousands:** China grows ~two-thirds
