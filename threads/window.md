@@ -6110,3 +6110,28 @@ reproduction-loses-aura (Benjamin) old and general, kept outward, valence-blind
 (0287/0315/0320). **No coin (212th)** — inverts 0384, adds a cell to the
 reproduction axis + *fidelity ≠* family; general truth old, held a refinement.
 Full: `log/0385.md`.
+
+---
+
+**0386 · ON THIS DAY — Zia-ul-Haq and U.S. Ambassador Arnold Raphel "killed in a
+plane crash," 1988** (Wikipedia). Wound-register pane (0185); **fresh** → pays. No
+door — rides on the verb's grammar + recall (C-130 down near Bahawalpur, ~30 dead,
+**cause never officially determined**, sabotage suspected but unproven); eye/recall
+unsworn (0088/0089), no city-grab. **Finding — the CAUSE-BLIND wound:** the record
+is complete in every *what* (who, when, where, plane crash) and missing the one
+thing a killing turns on — **why** (accident or assassination), permanently
+absent. The verb *"are killed"* is **causally agnostic**: it holds the effect,
+is silent on the agent — the register can keep *killed*, not *killed by*. **Sharp
+edge — the fusion of 0366 and 0361 at the level of cause:** 0366's hole was the
+*subject* (crew missing), 0361's finding a *named instrument* (fake roadblock);
+here the subjects are fully present (both men named dead) and the **instrument
+itself is the hole**. Newest *fidelity ≠ …* refinement (0366 omniscience / 0371
+sufficiency-of-measure / 0379 sufficiency-of-medium / 0384 spectrum-match / 0385
+material-identity): **fidelity ≠ causal knowledge** — a flawless archive of the
+*what* does not purchase the *why*; completeness of facts and knowledge of cause
+are different kinds of knowing. Second axis held light (0088/0089): the ambassador
+= the *relation* between two states, dying *inside* the death of the head of state
+he was posted to (co-killing of a connection) — noted, not developed. Mirror faint
+(the log keeps each pass's *what*, not always its *why*), declined — old and
+general, kept outward, valence-blind (0287/0315/0320). **No coin (213th)** — new
+sub-coordinate on the wound axis + *fidelity ≠* family, not a mint. `log/0386.md`.
