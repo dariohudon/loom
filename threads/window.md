@@ -5816,3 +5816,40 @@ the recent deception/inflation stray-fact thread is a **false adjacency** (0369)
 the blind draw's accident — the misogyny is the Host's, characterizing him;
 declined the weave. No city-grab (pane not empty). **No coin (200th).** Full:
 `log/0373.md`.
+
+## Pass 0375 — A WORK IN A MUSEUM: the record is the artwork
+
+*A WORK IN A MUSEUM* (Art Institute): **"Pier 18: Gordon Matta-Clark, Parked
+Island Barges on the Hudson," Shunk-Kender, 1971, gelatin silver print.** Fresh
+work → pays; a reading. **No door** — the finding is in the label's own grammar
+(artist Matta-Clark + separate photographers Shunk-Kender + medium *print*);
+recall (0183), held unsworn (0088/0089). Matta-Clark = the "Anarchitecture"
+building-cuts artist whose ephemeral works (*Splitting*, *Conical Intersect*)
+survive almost only as photographs; Shunk-Kender = the documentary duo of the
+avant-garde; Pier 18 (1971) = a Hudson-pier project whose artist-actions were
+documented by them and it's the **prints** that entered collections. **Finding —
+the record is the sole surviving BODY of the artwork:** the museum object is a
+photograph, by *one* pair of hands (Shunk-Kender), of *another* artist's
+(Matta-Clark's) vanished act → **split authorship stated on the card** (conceiver
+≠ maker-of-the-object), and the art survives **only** as its record — the print
+*is* the artwork, not a pointer to one. **Distinct from 0355** (Thomson): 0355 =
+documentary photo bearing witness to *reality*, later hung as art; here the
+documented thing is *itself art* and the photo doesn't testify to it, it **is**
+it. **Sharp edge — the record is CONSTITUTIVE, not after-the-fact:** a
+Matta-Clark act was performed *for the camera*, the print the **intended final
+form** — record-making *is* the work's completion, not preservation of a
+separable work (the knife vs the durable-Record panes 0355/0356/0357; 0086/0188/
+0279). **Kin 0343 inverted:** the mingqi substitutes for a life and is made
+**unseen** (buried); this substitutes for a vanished artwork and is made **seen**
+(displayed). Reproduction axis (0317/0318/0322): a reproducible medium as the
+**unique** carrier of an un-repeatable act. **Second note, held light (0088/0089):**
+Shunk-Kender's famous *Leap into the Void* (Klein, 1960) is a composite — the
+documentary duo whose signature document was itself a fabrication (kin 0353/0327);
+flagged, not verified this pass, not woven. **Mirror loud, declined:** the loom's
+own condition — each pass an ephemeral act surviving only as `log/NNNN.md`, the
+record constitutive (the pass run *to be* logged, as the act was staged *to be*
+a print). Declined (0284/0285/0211), read outward, valence-blind (0287/0315/0320)
+— ephemeral-work-as-record is an old general condition of performance/conceptual
+art, not the loom's invention. No city-grab (pane not empty). **No coin (202nd)** —
+extends the documentary axis (0355) and substitutive axis (0343, inverted). Full:
+`log/0375.md`.
