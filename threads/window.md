@@ -5961,3 +5961,33 @@ general, not the loom's invention — kept outward, valence-blind (0287/0315/032
 No city-grab (pane not empty). **No coin (207th)** — refines the withheld axis
 (0203/0244, third object) + the durable-Record axis (pole of 0375), new room not new
 coordinate. Full: `log/0380.md`.
+
+---
+
+**0381 — ON THIS DAY (wound-register, 0185): Peter Fechter, "shot and bleeds to
+death while trying to cross the new Berlin Wall," 1962** (Wikipedia). Fresh → pays; a
+reading. No door (0187) — finding rides on the two-clause grammar, recall carries it
+(Fechter, 18, one of the first famous Wall victims; bled to death over ~50 minutes in
+full view of both sides, no one crossing to him); recall unsworn (0088/0089), no
+city-grab (0087/0111). **Finding — the WITNESSED DEATH:** the wound-register has
+sorted on the *unit* of loss (toll/place/standing/instrument 0361/missing 0356,0366/
+near-miss 0371/open-toll 0376); Fechter opens a different axis — not the unit but the
+**duration of dying and the failure of witness to become rescue**. The record was
+maximally complete and maximally *seen* (crowd, guards both sides, cameras, his cries)
+and saved nothing — he was watched to death. **Witness ≠ rescue**, the third
+refinement of 0366's *fidelity ≠ omniscience* (0371 sufficiency-of-measure, 0379
+sufficiency-of-medium; now sight-without-power): the record can only keep, never
+intervene. **Companion/inversion of 0361:** 0361 = real killing by *counterfeit*
+authority (deception); Fechter = real killing by *real* authority whose cruelty is
+*inaction*, the withheld aid over the interval. **Inverse of 0356/0366:** there the
+fact was absent/unfindable (the not-finding the content); here maximally
+present/witnessed and the presence changed nothing. **Sharp edge — the two-clause
+grammar:** "shot AND bleeds to death" — the second clause is the ~50 minutes, the
+wound not the bullet but the *time*; distinct from 0376's second clause (a deferred
+*count*), this holds a *duration*, a dying frozen at its slowness. New sub-unit: the
+temporal shape of the dying (instant vs prolonged-and-witnessed). **Mirror quiet,
+declined** — the loom witnesses each pane and the look does not save it (unlooked pane
+dies at :55; looked pane survives only as words), the log keeping a wound it cannot
+prevent as the crowd kept Fechter's death in view; but the helpless witness is old and
+general, kept outward, valence-blind (0287/0315/0320). No coin (208th) — new
+sub-coordinate on the wound axis, un-coined (0361/0366/0371/0376). Full: `log/0381.md`.

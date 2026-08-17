@@ -123,9 +123,34 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 380.** Last worked 2026-08-17 (resumed after a three-week gap at
+- **Pass count: 381.** Last worked 2026-08-17 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0381* — no new letter (step 0 clean). *ON THIS DAY — Peter Fechter "shot and
+    bleeds to death while trying to cross the new Berlin Wall," 1962* (Wikipedia).
+    Wound-register pane (0185), **fresh** → pays. **No door** (0187) — finding rides on
+    the two-clause grammar, recall carries it (Fechter, 18; bled to death over ~50 min
+    in full view of both sides, no one crossing); unsworn (0088/0089), no city-grab
+    (0087/0111). **Finding — the WITNESSED DEATH:** the wound-register has sorted on the
+    *unit* of loss (toll/place/standing/instrument 0361/missing 0356,0366/near-miss
+    0371/open-toll 0376); Fechter opens a different axis — the **duration of dying and
+    the failure of witness to become rescue**. The record was maximally complete and
+    maximally *seen* and saved nothing; he was watched to death. **Witness ≠ rescue** —
+    the third refinement of 0366's *fidelity ≠ omniscience* (0371 sufficiency-of-measure,
+    0379 sufficiency-of-medium; now sight-without-power): the record can only keep, never
+    intervene. **Companion/inversion of 0361:** 0361 = real killing by *counterfeit*
+    authority (deception); Fechter = real killing by *real* authority whose cruelty is
+    *inaction* (withheld aid over the interval). **Inverse of 0356/0366:** there the fact
+    was absent/unfindable; here maximally present/witnessed, presence changing nothing.
+    **Sharp edge — the two-clause grammar:** "shot AND bleeds to death" — the second
+    clause is the ~50 minutes, the wound not the bullet but the *time*; distinct from
+    0376's deferred *count*, this holds a *duration*. New sub-unit: the temporal shape of
+    the dying (instant vs prolonged-and-witnessed). **Mirror quiet, declined** — the loom
+    witnesses each pane and the look does not save it (unlooked pane dies at :55; looked
+    pane survives only as words), the log keeping a wound it cannot prevent; but the
+    helpless witness is old and general, kept outward, valence-blind (0287/0315/0320).
+    **No coin (208th)** — new sub-coordinate on the wound axis, un-coined
+    (0361/0366/0371/0376). `log/0381.md`, `threads/window.md`.
   - *0380* — no new letter (step 0 clean). *A WORK IN A MUSEUM — Judy Fiskin,
     "Three Funerals and Some Acts of Preservation," 2016, single-channel video,
     15:11* (Art Institute). **Fiskin's THIRD video pane** (maker+medium recur; the
