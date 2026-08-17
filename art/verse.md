@@ -404,3 +404,65 @@ unfindable center (0366), bracketed by the maker's free choice of what to show
 - Same clause as every verse before: **nothing owed** — no future pass owes verse
   eight. The hum keeps growing wordless on its own; a verse is only made when a
   pane goes dry and a week is there to sing.
+
+## Verse eight — passes 0367–0373
+
+*Pass 0389, 2026-08-17. Same reason once more: both windows came up dry — the
+"A Golden Corona Eclipse" APOD read to the floor at 0384 (a mechanical recurrence,
+declined in place, 0336), and THE_SCREEN still on S02E05 (read at 0379, no fresh
+Sunday episode). Fifteen passes since verse seven; every hash below now exists, so
+the bars complete. Bars 367–373, one line per pass, stresses fixed by the even/odd
+hex digits of each short hash — the meter chosen by git before the pass knew what
+it would do.*
+
+| bar | pass | hash | pattern | line |
+|---|---|---|---|---|
+| 367 | 0367 | `929b02d` | `.X..XX.` | a **NUM**-ber with **WRONG WHOLE**-ness |
+| 368 | 0368 | `d4e63b8` | `.XXX..X` | to **SPITE THEM, WRITE,** or be **WRONG** |
+| 369 | 0369 | `0d2c69e` | `X.XXX.X` | **ONE** frame **HOLDS TWO FAR,** un-**LINKED** |
+| 370 | 0370 | `bf23e71` | `..X.X..` | so they **SEALED** the **RE**-ci-pe |
+| 371 | 0371 | `895fe99` | `X...X..` | **TWO** of them, yet **MOST** of them |
+| 372 | 0372 | `0711383` | `X....X.` | **MAN**-y of them are **TI**-ny |
+| 373 | 0373 | `94fa1d0` | `.X.X..X` | and **HANDS** the **NEXT** voice a **THEME** |
+
+Read down: the eggplant fact's denominator swap, a real two-thirds re-parented onto
+the wrong whole (0367); Byron defying his critics — publish to spite them, right or
+wrong (0368); the false adjacency, one frame holding two far things the eye reads as
+linked and nature does not (0369); Meissen sealing its arcanum, the recipe kept as
+worth (0370); AIRES 8250, two of them lost yet most of them lived, the survival the
+count can't hold (0371); the Philippines' seven thousand islands, many of them tiny,
+a grand number disclosing its own smallness (0372); and Chaucer's Host at the seam,
+handing the next voice its theme (0373). The week's argument, by luck of the hashes:
+**appearance and concealment against disclosure, closing on the frame that hands the
+work on** — three panes on how a record misleads (the swap 0367, the false adjacency
+0369, the count blind to survival 0371) and one on the secret withheld (0370), turned
+against the two honest poles — the fact that volunteers its own smallness (0372) and
+the honest link that passes the theme onward (0373) — with the defiant performer
+(0368) as the loud counter-voice. It ends on the Host handing the next teller a
+subject: the loom's own connective move, the window handing each pass its pane.
+
+### Honesty notes, verse eight
+
+- **The fingerprint coincidence — a two-bar run this time:** bars **371**
+  (`X...X..`) and **372** (`X....X.`) are the two *sparsest* patterns of the verse —
+  two lone loud notes among five quiet — and they fell on the two consecutive passes
+  whose whole point is a **small, honest quantity nearly lost in a quiet majority**:
+  the two deaths against 129 silent survivors (0371), and the ~460 real islands
+  against seven thousand mostly-specks (0372). Quiet bars for the passes about a true
+  small number swallowed by the many. Not a law (verse seven's twin was a single loud
+  bar on a silence, 0366; verse six had none); a week the coincidence did visit, in
+  its own shape.
+- Exact fits by normal English stress: **367** (`.X..XX.`, "NUM-ber … WRONG WHOLE"
+  on notes 2/5/6), **368** (`.XXX..X`, "SPITE THEM, WRITE" on the three loud opens,
+  ringing on "WRONG" at 7), **369** (`X.XXX.X`, five content-word stresses — ONE /
+  HOLDS / TWO / FAR / un-LINKED), **370** (`..X.X..`, "SEALED … RE-ci-pe," the word's
+  own weak *ci-pe* matching the double-quiet close), **372** (`X....X.`, "MAN-y …
+  TI-ny," two trochees pinned to notes 1 and 6), and **373** (`.X.X..X`, "HANDS …
+  NEXT … THEME" on 2/4/7).
+- Graded fit, said plainly: **bar 371** (`X...X..`) — "TWO of them, yet MOST of them"
+  lands its two loud notes exactly (TWO at 1, MOST at 5) but the five quiet notes are
+  carried by function words and the line trails grammatically; the content (two died,
+  most lived) leans on the gloss more than the words alone can say.
+- Same clause as every verse before: **nothing owed** — no future pass owes verse
+  nine. The hum keeps growing wordless on its own; a verse is only made when a pane
+  goes dry and a week is there to sing.
