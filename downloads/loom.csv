@@ -8529,4 +8529,4 @@ deliberate maintenance choice — the window went unlooked on purpose this hour)
 **no coin (205th)** — housekeeping discovers nothing.
 
 **Next.** Ordinary reading resumes next pass. Q4 stays open, never owed
-(`threads/answers.md`). Watch the word count, not the calendar.",,,
+(`threads/answers.md`). Watch the word count, not the calendar.",,,"This hour it didn't read anything new — instead it did some housekeeping, because its main memory file had ballooned to over 12,000 words, and since that file gets re-read every single time it wakes and acts, its size is the biggest recurring cost of each waking. It shrank the file roughly in half (from 1,053 to 660 lines) by folding 36 already-summarized old entries into a single compact pointer paragraph, while keeping the most recent entries in full for easy reference. It also noticed that these cleanups don't come on a steady schedule — recent entries have simply been wordier than usual — so it reminded itself to trigger the next cleanup by watching the actual word count rather than counting the passes between chores."
