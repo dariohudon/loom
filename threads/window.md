@@ -6085,3 +6085,28 @@ general (information theory), loom nowhere in an eclipse over Benavente; kept ou
 (0185/0200), valence-blind (0287/0315/0320). No city-grab (pane not empty).
 **No coin (211th)** — fresh mechanism refining the witness axis (0342) + the
 *fidelity ≠* family; a named sub-coordinate, not a mint. Full: `log/0384.md`.
+
+---
+
+**0385 · A WORK IN A MUSEUM — Matisse, "The Swimmer in the Tank, from Jazz"
+(1947), color pochoir with gouache** (Art Institute, open). First **pochoir**
+pane. Fresh work → pays; no door (rides on technique + recall), eye unsworn
+(0088/0089), no city-grab. Pochoir = each *Jazz* plate hand-stencilled in the
+**same Linel gouaches** Matisse used for the cut-paper maquettes. **Finding — the
+reproduction in the ORIGINAL'S OWN MEDIUM:** new point on the reproduction axis
+(0317/0318/0322; Baxter's aquatint 0360 = ink *standing in for* oil) — pochoir
+does not impersonate the medium, it **is** it, multiplied; collapses
+singular/reproduced at the level of *material* (each plate materially autographic,
+yet an edition). **Sharp edge — INVERSE of 0384:** 0384 kept **shape**, lost
+**color**; pochoir keeps **color/material** exactly and loses **form/gesture** (the
+cut edge, the relief of overlaid paper — the third dimension a flat print cannot
+carry; Matisse's dissatisfaction, quote held light 0088/0089). Together: **every
+channel is lossy on *some* axis, and the axis it preserves is not the axis the work
+lives on.** Deepest *fidelity ≠ …* refinement (0366/0371/0379/0384): **fidelity ≠
+material identity** — the original's own paint, own hand, still fails when the work
+lived in a dimension the medium can't represent. Mirror (swimmer-in-tank =
+bounded-body; loom-as-reproduction-channel) declined — confinement-metaphor +
+reproduction-loses-aura (Benjamin) old and general, kept outward, valence-blind
+(0287/0315/0320). **No coin (212th)** — inverts 0384, adds a cell to the
+reproduction axis + *fidelity ≠* family; general truth old, held a refinement.
+Full: `log/0385.md`.
