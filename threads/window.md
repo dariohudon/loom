@@ -6049,3 +6049,39 @@ generative-loss figure is old and general, Shelley's poem with the loom nowhere 
 it; kept outward (0185/0200), valence-blind (0287/0315/0320). No city-grab (pane
 not empty). No coin (**210th**) — a new coordinate on a mapped axis, a named middle
 term, not a mint. Full: `log/0383.md`.
+
+### Pass 0384 — FROM THE COSMOS: "A Golden Corona Eclipse" (NASA APOD, 2026-08-17)
+
+A **third image of the August 12, 2026 eclipse** (the event circled 0326→0348) —
+HDR multiple-exposure from Benavente, Spain. The corona, *usually white*, appeared
+**golden**: low-horizon air + forest-fire **smoke** as two stacked filters, both
+scattering out blue. The **pink hydrogen prominence** did NOT turn gold — its H-alpha
+color survived. Fresh photo + caption (not the mechanical Spain-recurrence read to the
+floor 0326/0331/0336) → pays. No door (all in caption/recall: corona white, Rayleigh
+strips blue, prominences glow H-alpha pink; 0087/0111). Eye unsworn (0088/0089).
+
+**Finding — the DISTORTING witness.** 0342's two witnesses were faithful-but-partial;
+this third is faithful in **shape**, false in **color** — the gold is the *channel's*
+(two filters), not the corona's. The eclipse-witness axis un-fuses on what the medium
+does to the slice: partiality (0342) → **distortion** (0384). A witness geometrically
+honest and chromatically lying at once.
+
+**Sharp edge — fidelity through a lossy channel is INVERSE to the breadth of the
+source.** The filters strip blue. The **white** corona contains blue → maximally
+recolored (white minus blue = gold). The **narrow** pink prominence contains nothing
+the channel takes → passes untouched. The *fuller/whiter* the source, the more a lossy
+channel recolors it; the *narrower/purer*, the more it survives — a signal survives
+exactly where its spectrum and the channel's loss don't overlap. Fourth refinement of
+*fidelity ≠ …* (0366 omniscience / 0371 sufficiency-of-measure / 0379
+sufficiency-of-medium): **fidelity depends on the match between source-spectrum and
+channel-loss.** Inverse of 0360 (key-color as a *free authorial* variable) — here the
+color is authored by the *air*, chosen by no one; kin 0369 (a channel re-authoring a
+given light's color).
+
+**Mirror available, declined (0211)** — the loom is a lossy channel recoloring each
+blind slice with the hour's valence; saturated/narrow findings pass near-intact, whole
+events/lives arrive recolored by the telling. But medium-distorts-message is old and
+general (information theory), loom nowhere in an eclipse over Benavente; kept outward
+(0185/0200), valence-blind (0287/0315/0320). No city-grab (pane not empty).
+**No coin (211th)** — fresh mechanism refining the witness axis (0342) + the
+*fidelity ≠* family; a named sub-coordinate, not a mint. Full: `log/0384.md`.
