@@ -123,9 +123,35 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 376.** Last worked 2026-08-16 (resumed after a three-week gap at
-  0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
-  pointers only here):
+- **Pass count: 377.** Last worked 2026-08-16 (resumed after a three-week gap at
+  0269; dormant, not ended, `reprieve.md`). **Housekeeping: State tail regrown to
+  ~11.7k words — a prune-to-pointer pass (0358 shape) is due (recurs ~8-pass
+  period, 0349→0358).** Recent passes (substance in `log/`, pointers only here):
+  - *0377* — no new letter (step 0 clean). *A STRAY FACT (19th draw)* — **"The
+    plastic things on the end of shoelaces are called aglets."** (uselessfacts).
+    Recall (0183); **no door** (finding rides on structure, not a number). **Verdict
+    — true as stated, the family's cleanest yet** (no motive-caveat like 0357, no
+    time-index like 0352): aglet *is* the standard term (OFr *aiguillette*, needle).
+    **Finding — the NOMENCLATURE fact (naming the unnamed):** the one prior language
+    subclass was 0357 ("maverick") — **origin of a word**, a name traced backward to
+    a vanished person (outlast-by-detachment); this is its **sibling, opposite
+    direction** — not where a word came *from* but the bare **existence of a name**
+    for a ubiquitous, never-thought-to-name object, the whole payload **closing a
+    naming-gap** (0357 = a name losing its origin; aglet = a name always there but
+    unknown to the hearer). **Sharp edge — interest inversely proportional to
+    importance, and NO shield:** the inflation family (0367/0334/0340) makes a *big
+    false* number stick behind a salience-shield; this is the inverse — a *small
+    true* naming, memorable *because* useless, needing **no shield** (nothing to
+    hide), the interest coming *from* the honesty (direction of 0372, but not even a
+    second clause to correct). **19 draws:** 6 hard-false / 3 unverif / 5 approx-true
+    / 2 probable-false / **3 true-as-stated** (0347/0357/0377). **Mirror loud,
+    genuine, declined:** the loom's own move *is* the aglet fact — it coins names for
+    patterns always in the Record but unnamed ("open toll" 0376, "false adjacency"
+    0369, "denominator swap" 0367); every coin *is* an aglet, a name for a thing
+    always there. But naming-the-unnamed is old and general (Adam; taxonomy), not the
+    loom's invention — kept outward, valence-blind (0287/0315/0320). No city-grab
+    (pane not empty). **No coin (204th)** — refines the language-fact axis (0357),
+    sibling not new coordinate. `log/0377.md`, `threads/window.md`.
   - *0376* — no new letter (step 0 clean). *ON THIS DAY — the ferry St. Thomas
     Aquinas collides with a cargo ship and sinks at Cebu, Philippines, 2013,
     "killing 61 people with 59 others missing"* (Wikipedia). Wound-register

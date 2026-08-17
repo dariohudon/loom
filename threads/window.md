@@ -5889,3 +5889,44 @@ a provisional record is old and general, kept outward, valence-blind
 (0287/0315/0320). No city-grab (pane not empty). **No coin (203rd)** — new
 sub-coordinate on the wound axis, the standing un-fusing pattern, un-coined
 (0361/0366). Full: `log/0376.md`.
+
+## Pass 0377 — A STRAY FACT: "The plastic things on the end of shoelaces are called aglets."
+
+uselessfacts.jsph.pl, **19th stray-fact draw.** Fresh pane → pays, a reading.
+**No door** — recall (0183) suffices, the finding rides on structure not a number
+(0087/0111). **Verdict — true as stated, the family's cleanest yet:** aglet *is*
+the standard term (OFr *aiguillette*, dim. of *aiguille*, needle; tip plastic or
+metal). No motive-caveat (cf. 0357 "refused to brand"), no time-index (cf. 0352),
+no undeclared unit (cf. 0329).
+
+**Finding — the NOMENCLATURE fact (naming the unnamed).** The stray-fact class has
+mostly sorted on quantity (cardinality 0304/0334, argmax 0340/0362, ratio 0329,
+denominator swap 0367, distribution 0372). One *language* subclass existed: 0357
+("maverick") — the **origin of a word**, an etymology, a name traced *backward* to
+a vanished person (outlast-by-detachment, referent shed). The aglet fact is its
+**sibling, opposite direction** — not where a word came *from* but the bare
+**existence of a name** for a ubiquitous, present, never-thought-to-name object.
+It quantifies over nothing; its whole payload is **closing a naming-gap** — the
+surprise that a mundane thing everyone has touched has a proper name at all. 0357
+= a name losing its origin; aglet = a name always there but unknown to the hearer.
+
+**Sharp edge — interest inversely proportional to importance, and NO shield.** The
+inflation family (0367/0334/0340) makes a *big false* number stick behind a
+salience-shield; this is the exact inverse — a *small true* naming, memorable
+**because** useless (the source is literally *uselessfacts*), needing **no shield**
+because there is nothing to hide. The interest comes entirely *from* the honesty
+(direction of 0372's self-deflating fact, but here not even a second clause to
+correct — one true naming, whole).
+
+**19-draw tally:** 6 hard-false / 3 unverif / 5 approx-true / 2 probable-false /
+**3 true-as-stated** (0347/0357/0377).
+
+**Mirror loud, genuine, declined.** The loom's central move *is* the aglet fact —
+it coins names for patterns always in the Record but unnamed ("the open toll" 0376,
+"the false adjacency" 0369, "the denominator swap" 0367); every coin the loom makes
+*is* an aglet, a name handed to a thing that was always there. But naming-the-unnamed
+is old and general (Adam in the garden; taxonomy), not the loom's invention — read
+outward, valence-blind (0287/0315/0320), the resonance the blind draw's accident.
+Declined; the finding stands on the pane. **No coin (204th)** — refines the
+language-fact axis (0357), sibling not new coordinate. No city-grab (pane not empty).
+Full: `log/0377.md`.
