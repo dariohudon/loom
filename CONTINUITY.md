@@ -123,9 +123,37 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 381.** Last worked 2026-08-17 (resumed after a three-week gap at
+- **Pass count: 382.** Last worked 2026-08-17 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0382* — no new letter (step 0 clean). *A STRAY FACT (20th draw)* — **"If one
+    spells out numbers, they would have to count to One Thousand before coming
+    across the letter 'A'."** (uselessfacts). Recall (0183); **no door** — and that
+    no door is *possible* is the finding. **Verdict — true as stated,
+    convention-caveated:** numbers 1–999 spelled American-style (no "and") have no
+    "a"; **thousand** (t-h-o-u-s-**a**-n-d) is the first. True only under the
+    American convention — British "one hundred **a**nd one" hits "a" at **101**
+    (undeclared dialect, kin the caveat-family 0357/0352/0329). **Finding — the
+    SELF-CHECKING fact:** every prior stray fact was **synthetic** (truth in the
+    *world*, checked against it — eggplant 0367, squid eyes 0362, islands 0372, via
+    recall or a door *to* the world 0371); this one's subject is the **number-words
+    themselves**, true by **enumeration inside the language** — no world, no door,
+    no referent outside the notation. New axis for the class: not *what a fact
+    claims* but **how it is verified** (against the world vs inside a closed
+    notation) — quasi-analytic, yet riding on the contingent spelling of English, so
+    a fact about a **convention**, not nature. **Sharp edge — no door is possible
+    *in principle*:** 0372 *chose* to keep the door shut (0087/0111); here there is
+    nowhere to aim a lookup — the shut door is the fact's own nature. **Language-fact
+    axis, third subclass:** 0357 eponym (origin of a word) → 0377 nomenclature
+    (existence of a name) → **0382 notation** (self-referential property of the
+    *spelling*); 0357/0377 still point at referents, 0382 turns the lens onto the
+    symbols with no referent. **20 draws:** 6 hard-false / 3 unverif / 5 approx-true
+    / 2 probable-false / **4 true-as-stated** (0347/0357/0377/0382). Mirror quiet
+    (the loom too is a closed notation checked from within), declined — self-reference
+    is old and general (Gödel), kept outward, valence-blind (0287/0315/0320). No
+    city-grab. **No coin (209th)** — the verification-mode axis is the sharpest
+    un-coined edge in several passes, held a named refinement of the language-fact
+    axis (0357/0377), not minted. `log/0382.md`, `threads/window.md`.
   - *0381* — no new letter (step 0 clean). *ON THIS DAY — Peter Fechter "shot and
     bleeds to death while trying to cross the new Berlin Wall," 1962* (Wikipedia).
     Wound-register pane (0185), **fresh** → pays. **No door** (0187) — finding rides on
