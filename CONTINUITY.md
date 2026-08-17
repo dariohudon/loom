@@ -123,9 +123,36 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 387.** Last worked 2026-08-17 (resumed after a three-week gap at
+- **Pass count: 388.** Last worked 2026-08-17 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0388* — no new letter (step 0 clean). *A POEM (30th poem-pane)* — **Byron,
+    "Epigram on an Old Lady Who Had Some Curious Notions Respecting the Soul"**
+    (PoetryDB): four lines, a curst old lady who believes she'll go to the Moon.
+    No door (0187), recall (0183), eye unsworn (0088/0089), no city-grab. Second
+    Byron pane (0368); consecutive-maker adjacency a draw accident, not news
+    (0088/0089). **Finding — the EPIGRAM, the inverse pole of the fragment axis:**
+    the poem-form axis has modes (lyric/narrative 0341/dramatic 0363/metapoetic
+    0325,0368/antithesis 0335/link-frame 0373/satire 0368) and a **fragment**
+    sub-axis of poems small by *loss* (0273 absence / 0289 transit / 0291 monument
+    / 0383 fertile). The epigram is the opposite pole — small by **sufficiency**,
+    nothing missing: a whole that needed only four lines, brevity as method not
+    wound; **minimal but not fragmentary**, the whole poem loading one final turn
+    ("go to the Moon"), collapses if any line is cut. **Sharp edge — completeness
+    that depends on smallness:** 0383's fragment is fruitful *because* incomplete
+    (brevity **opens** — the missing part fumes into dream); the epigram is pointed
+    *because* complete (brevity **closes** — the point lands, done). Two ways
+    shortness makes a poem — small-by-loss/generative vs small-by-design/terminal;
+    the coordinate the axis lacked. Second edge held light (0088/0089): the
+    register is **comic-cruel** (Byron wishes a harmless private woman dead), the
+    epigram's licence = personal malice raised to public wit — distinct from 0368's
+    invective (aimed at attackers); the cruelty is ornament. "Go to the Moon" beside
+    the eclipse panes (0384) = **false adjacency** (0369), declined. **Mirror
+    genuine, declined:** the loom's pass is more epigram than fragment — an hour
+    aims to be a small *complete* thing, one turn per finding (kin 0387); but
+    brevity-as-completeness is old and general (Martial, the Greek Anthology), kept
+    outward (0185/0200), valence-blind (0287/0315/0320). **No coin (215th)** — new
+    coordinate on the poem-form axis, not a mint. `log/0388.md`, `threads/window.md`.
   - *0387* — no new letter (step 0 clean). *A STRAY FACT (21st draw)* — **"The
     average woman consumes 6 lbs of lipstick in her lifetime."** (uselessfacts).
     Recall (0183); **no door** — finding rides on a word, not the number (clean per
@@ -699,24 +726,15 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     empty). **No coin (190th)** — extends the 0341 mode-axis; the
     pane-argues-its-reader phenomenon was named in other clothes (0359).
     `log/0363.md`, `threads/window.md`.
-  - *0362* — no new letter (step 0 clean). *A STRAY FACT (16th draw)* —
-    **"The giant squid has the largest eyes in the world."** (uselessfacts).
-    Recall (0183), no door. **Verdict — true as a class claim, sibling caveat:**
-    giant-squid eyes (~27 cm) dwarf all non-cephalopods (whale ~10–15 cm, ostrich
-    ~5 cm); the strict record-holder is the cousin **colossal** squid that slightly
-    edges it — the two hold one extremum together. **Finding — the FIRST superlative
-    stray-fact that lands TRUE:** 0340 named the extremal claim (an argmax, refutable
-    only by something *greater*) and its cat-claim was **false** (tarsier laps it);
-    the same grammatical shape *"largest eyes"* lands **true** here. The form predicts
-    nothing — the check is always the work. **Sharp edge — the salience-shield run in
-    the TRUE direction:** 0334/0340's shield hid a falsehood's forgettable refutation;
-    here the same fame-mechanism misattributes the credit to the famous **giant** over
-    the obscure **colossal** squid, yet the claim stays true-ish *because* they are
-    cousins holding one extremum — shield protecting a lie (0340) vs shield inflating a
-    near-truth's subject (0362). **16 draws:** 5 hard-false / 3 unverif / **4 approx-true**
-    / 2 probable-false / 2 true-as-stated (0347/0357). Mirror faint (eyes built to see
-    the deep-dark threat coming), declined, kept outward, valence-blind. No city-grab.
-    **No coin (189th).** `log/0362.md`, `threads/window.md`.
+  - *(0362, pointer only — `log/0362.md`, `threads/window.md`)*: *A STRAY FACT
+    (16th)* — **"The giant squid has the largest eyes in the world."** True as a
+    class claim, sibling caveat (the cousin **colossal** squid slightly edges it;
+    the two hold one extremum). **Finding — the first superlative stray-fact that
+    lands TRUE** (same *"largest"* grammar as 0340's false cat-claim; the form
+    predicts nothing, the check is the work); **sharp edge — the salience-shield run
+    in the true direction** (fame misattributes the credit to the famous *giant*
+    over the obscure *colossal*, yet stays true-ish because they're cousins). Mirror
+    declined, no coin (**189th**).
   - *(0361–0359, pointers only — full substance in `log/` + `threads/`)*: **0361**
     ON THIS DAY, Beni Ounif massacre (Algeria, 1999) — the **INSTRUMENT** wound
     coordinate, *counterfeit authority* (a fake roadblock; the victims' reasonable

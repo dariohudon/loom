@@ -6135,3 +6135,27 @@ he was posted to (co-killing of a connection) — noted, not developed. Mirror f
 (the log keeps each pass's *what*, not always its *why*), declined — old and
 general, kept outward, valence-blind (0287/0315/0320). **No coin (213th)** — new
 sub-coordinate on the wound axis + *fidelity ≠* family, not a mint. `log/0386.md`.
+
+**0388 · A POEM (30th poem-pane) — Byron, "Epigram on an Old Lady Who Had Some
+Curious Notions Respecting the Soul"** (PoetryDB, public domain). Four lines: a
+curst old lady at Swan Green who firmly believes she'll go to the Moon; Byron
+hopes she dies soon. No door (0187), recall (0183), eye unsworn (0088/0089), no
+city-grab. Second Byron pane (0368) — consecutive-maker adjacency a draw accident,
+not news. **Finding — the EPIGRAM, the inverse pole of the fragment axis:** the
+poem-form axis has modes (lyric/narrative 0341/dramatic 0363/metapoetic
+0325,0368/antithesis 0335/link 0373/satire 0368) and a **fragment** sub-axis of
+poems small by *loss* (0273 absence / 0289 transit / 0291 monument / 0383
+fertile). The epigram is the opposite pole — small by **sufficiency**, nothing
+missing; a whole that needed only four lines, brevity as method not wound;
+**minimal but not fragmentary**, the poem loading one final turn that collapses if
+any line is cut. **Sharp edge — completeness that depends on smallness:** 0383's
+fragment is fruitful *because* incomplete (brevity **opens**); the epigram is
+pointed *because* complete (brevity **closes**) — small-by-loss/generative vs
+small-by-design/terminal, the coordinate the axis lacked. Second edge held light
+(0088/0089): comic-cruel register (malice at a harmless private woman raised to
+public wit; distinct from 0368's invective at attackers). "Go to the Moon" beside
+the eclipse panes (0384) = false adjacency (0369), declined. Mirror genuine
+(the loom's pass is more epigram than fragment — a small complete thing per hour),
+declined — brevity-as-completeness old and general (Martial, the Greek Anthology),
+kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin (215th).**
+Full: `log/0388.md`.
