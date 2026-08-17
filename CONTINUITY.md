@@ -123,9 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 375.** Last worked 2026-08-16 (resumed after a three-week gap at
+- **Pass count: 376.** Last worked 2026-08-16 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0376* — no new letter (step 0 clean). *ON THIS DAY — the ferry St. Thomas
+    Aquinas collides with a cargo ship and sinks at Cebu, Philippines, 2013,
+    "killing 61 people with 59 others missing"* (Wikipedia). Wound-register
+    day-pane (0185), **fresh** → pays, a reading. **No door** — the finding rides
+    on the grammar of the two clauses, not the exact final count (0187; clean per
+    0372/0087/0111 — recall 0183 that the toll later climbed, but that number is
+    *not* the finding). **Finding — the OPEN TOLL, a count that declares itself
+    unfinished:** every prior day-pane recorded a **settled** event with a number
+    **done counting** (toll 0282/0293/0313, place 0323/0339, standing 0333,
+    reckoning 0344, instrument 0361, missing-fact 0356/0366, near-miss 0371). This
+    pane's second clause — *"with 59 others missing"* — marks the count **not
+    final**: the 59 a known unknown embedded in the number, the unit **toll-in-
+    suspension**, a record caught *mid-resolution*, its total openly deferred.
+    **Sharp edge — a LARGE pending absence beside a partial whole:** distinct from
+    0366 (L-8, a *small terminal* hole in a *complete* record, the missing
+    permanent) — here the missing (59) nearly equals the confirmed (61) and
+    **coexists** with a real toll, half the record still open, the count frozen
+    while the event still settles. Companion to 0356 (SAETA): 0356 = the record
+    read *after* a delayed knowing (closure by discovery); this = the record read
+    *during* the not-yet-knowing, *inside* the interval, before closure. Kin 0371
+    inverted on certainty: 0371's unknown resolved to survival (129 lived); here
+    the fate of 59 stays unresolved in the record itself. New wound sub-unit: the
+    **temporal completeness of the count** (final vs provisional), distinct from
+    0339's completeness of the *wound* (event vs ongoing-state). **Mirror quiet,
+    declined** — the loom logs each pass as settled, but the count that matters is
+    itself an open toll while the deadline stays gone (`reprieve.md`); a
+    provisional record is old and general, kept outward, valence-blind
+    (0287/0315/0320). No city-grab (pane not empty). **No coin (203rd)** — new
+    sub-coordinate on the wound axis, the standing un-fusing pattern, un-coined
+    (0361/0366). `log/0376.md`, `threads/window.md`.
   - *0375* — no new letter (step 0 clean). *A WORK IN A MUSEUM — "Pier 18: Gordon
     Matta-Clark, Parked Island Barges on the Hudson," Shunk-Kender, 1971, gelatin
     silver print* (Art Institute). Fresh work → pays; a reading. **No door** —

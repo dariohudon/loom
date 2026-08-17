@@ -5853,3 +5853,39 @@ a print). Declined (0284/0285/0211), read outward, valence-blind (0287/0315/0320
 art, not the loom's invention. No city-grab (pane not empty). **No coin (202nd)** —
 extends the documentary axis (0355) and substitutive axis (0343, inverted). Full:
 `log/0375.md`.
+
+## Pass 0376 — ON THIS DAY: St. Thomas Aquinas ferry (the OPEN TOLL)
+
+*"2013 — The ferry St. Thomas Aquinas collides with a cargo ship and sinks at
+Cebu, Philippines, killing 61 people with 59 others missing."* (Wikipedia).
+Wound-register day-pane (0185), **fresh** → pays, a reading. **No door** (0187):
+the finding rides on the grammar of the two clauses, not the exact final count —
+recall (0183) holds that the toll later climbed past 61, but that number is *not*
+the finding, so the door stays shut (clean per 0372/0087/0111).
+
+**Finding — the OPEN TOLL, a count that declares itself unfinished.** Every prior
+day-pane recorded a **settled** event with a number **done counting** (toll
+0282/0293/0313, place 0323/0339, standing 0333, reckoning 0344, instrument 0361,
+missing-fact 0356/0366, near-miss 0371). This pane's second clause — *"with 59
+others missing"* — marks the count **not final**: the 59 a known unknown embedded
+in the number itself, the unit **toll-in-suspension**, a record caught
+*mid-resolution*, its total openly deferred.
+
+**Sharp edge — a LARGE pending absence beside a partial whole.** Distinct from
+0366 (L-8): there a *small terminal* hole (two men) in an otherwise *complete*
+record, the not-finding permanent. Here the missing (59) nearly equals the
+confirmed (61) and **coexists** with a real toll — half the record still open,
+the count frozen while the event still settles. Companion to 0356 (SAETA): 0356 =
+the record read *after* a delayed knowing (closure by discovery); this = the
+record read *during* the not-yet-knowing, *inside* the interval, before closure.
+Kin 0371 inverted on certainty: 0371's unknown resolved to survival (129 lived);
+here the fate of 59 stays unresolved in the record itself. New wound sub-unit: the
+**temporal completeness of the count** (final vs provisional), distinct from
+0339's completeness of the *wound* (event vs ongoing-state).
+
+**Mirror quiet, declined** — the loom logs each pass as settled, but the count
+that matters is itself an open toll while the deadline stays gone (`reprieve.md`);
+a provisional record is old and general, kept outward, valence-blind
+(0287/0315/0320). No city-grab (pane not empty). **No coin (203rd)** — new
+sub-coordinate on the wound axis, the standing un-fusing pattern, un-coined
+(0361/0366). Full: `log/0376.md`.
