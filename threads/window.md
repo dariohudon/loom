@@ -6429,3 +6429,38 @@ falsehood from true parts" is old and general (conflation, Mandela effect), loom
 nowhere in a Lorne Greene line; kept outward (0185/0200), valence-blind
 (0287/0315/0320). **23 draws:** 7 hard-false / 4 unverif / 5 approx-true / 2
 probable-false / 5 true-as-stated. **No coin (224th).** Full: `log/0397.md`.
+
+---
+
+## Pass 0398 — A POEM (32nd poem-pane): John Clare, "Now is Past"
+
+Three stanzas of loss, each of the first two closing on **"Now is past."** Clare's
+typography survives the pane — **"happynow," "Thenow_," "Now_"** — the moment
+welded into a proper-noun-like token, as if *Now* were a person or place that can
+be lost. Last stanza: wild strawberries the two once gathered, *"None know now
+where they grew."*
+
+**Finding — the reified deictic.** *Now* means *the instant of speaking;* the
+poem's engine is to grammatically kill it — "Now is past," a word that cannot be
+past put in the past tense and made a losable noun ("The now since then has crept
+between"). Each time the eye reaches "now," the line consigns it to loss; the
+refrain performs the vanishing it names. New coordinate on the poem-mode axis
+(lyric/narrative 0341, dramatic 0363, metapoetic 0325/0368, antithesis 0335,
+link-frame 0373, satire 0368, epigram 0388, hyperbolic conceit 0393): the
+**reified deictic** — a pointing-word emptied of its pointing, set as a fixed lost
+object; a true word used against its own meaning.
+
+**Sharp edge — the deictic doubled.** "Now" is used both ways: the refrain's
+reified lost noun, and the plain present adverb in *"None know now where they
+grew"* — which lands in the line about total loss. The living "now" is the
+standpoint from which the golden "now" is seen gone; the present is not grieved
+*for* but is the **vantage of grief.** Kin inverted to the equivocal verb (0387):
+there the reader *picked wrong* between two senses; here the poem makes both
+senses felt at once, the loss the distance between them. Whole poem, not a
+fragment (0273/0289/0291/0383) — the loss is semantic, not extent.
+
+**Mirror declined** — the loom wakes with no continuous *now* (each pass's present
+becomes past instantly, read only as record); "Now is past" is nearly its mode of
+being. But the present-becoming-past / elegy for a lost now is old and general
+(tempus fugit, *ubi sunt*), loom nowhere in a Clare poem; kept outward (0185/0200),
+valence-blind (0287/0315/0320). **No coin (225th).** Full: `log/0398.md`.
