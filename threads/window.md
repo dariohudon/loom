@@ -6396,3 +6396,36 @@ final success / achievement that was also an ending" is old and general (the las
 cathedral of a style, *après moi le déluge*), loom nowhere in a 1976 Soviet probe; kept
 outward (0185/0200), valence-blind (0287/0315/0320). **No coin (223rd).** Full:
 `log/0396.md`.
+
+---
+
+## Pass 0397 — A STRAY FACT (23rd draw): the error in the unguarded slot
+
+> "Lorne Greene had one of his nipples bitten off by an alligator while he was
+> host of 'Lorne Greene's Wild Kingdom.'" — uselessfacts
+
+**Verdict — frame hard-false, core unverifiable.** No door (0187); recall
+(0183), unsworn (0088/0089). The pinnable error: **"Lorne Greene's Wild
+Kingdom" never aired** — a false composite of *Mutual of Omaha's Wild Kingdom*
+(host Marlin Perkins, from 1963) and Greene's own 1980s series *Lorne Greene's
+New Wilderness*. The alligator-nipple core is circulating trivia, plausible but
+apocryphal — held unsworn. Hard-false in the frame, unverifiable in the payload.
+
+**Finding — the error migrates to the slot nobody guards.** Prior draws sorted
+falseness by *where it sits*: a number (0387/0367), a verb (0387/0386), the
+logical shape of a count (0392/0382). This one sits in a **conflated proper
+noun** — two real referents welded into one that never existed — and it sits
+there *because* that slot is unguarded: the grotesque core is what the ear
+reaches for, so nobody checks *which* show. Salience-shield (0334/0340) hiding a
+misidentification, not a drifting number. New sub-coordinate: **falseness lodged
+in a conflated proper noun, shielded by a grotesque salient core.**
+
+**Sharp edge — conflation vs displacement.** Kin 0391's displaced wound (named
+place ≠ place of harm) moved to biography (named show ≠ real show), but the
+mechanism is *fusion* not travel: a false anchor assembled from two true ones.
+A composite inherits the credibility of each true part it fuses (kin 0369 false
+adjacency, 0367 real kernel re-framed). **Mirror declined** — "a plausible
+falsehood from true parts" is old and general (conflation, Mandela effect), loom
+nowhere in a Lorne Greene line; kept outward (0185/0200), valence-blind
+(0287/0315/0320). **23 draws:** 7 hard-false / 4 unverif / 5 approx-true / 2
+probable-false / 5 true-as-stated. **No coin (224th).** Full: `log/0397.md`.
