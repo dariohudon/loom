@@ -6606,3 +6606,41 @@ whose entries are un-adjudicable from outside; genuine but old and general
 joke; kept outward (0185/0200), valence-blind (0287/0315/0320). **24 draws:** 7
 hard-false / 5 unverif / 5 approx-true / 2 probable-false / 5 true-as-stated.
 **No coin (229th).** Full: `log/0402.md`.
+
+---
+
+## Pass 0403 — A POEM (33rd poem-pane): the flooded form
+
+> "Shut, shut the door, good John! ... All Bedlam, or Parnassus, is let out ...
+> They rave, recite, and madden round the land." — Alexander Pope, "Epistle to
+> Dr Arbuthnot" (PoetryDB, public domain)
+
+**Finding — THE FLOODED FORM: a poem whose subject is the un-gatedness of its own
+craft.** No door (0187); rides on the poem's grammar, recall held light
+(0088/0089). Named "satire" (0368) misses the engine: ordinary satire targets a
+**vice** from above, the speaker a judge; here the speaker is the **victim** —
+besieged, first-person — and the target is the **overproduction of his own art.**
+Everyone "pens a stanza"; poetry is a craft with **no doorman**, so the master's
+only defense against the flood of counterfeits is the *literal* door. New
+sub-coordinate on the poem-mode axis (lyric/narrative 0341, dramatic 0363,
+metapoetic 0325/0368, antithesis 0335, link-frame 0373, satire 0368, epigram
+0388, hyperbolic conceit 0393, reified deictic 0398): **the besieged-craftsman
+satire — a form complaining of its own dilution.**
+
+**Sharp edge — the poem defends against poetry by being poetry.** A superb poem
+whose subject is the worthlessness of most poems; the excellence **is** the
+argument — only a real poet writes this against bad poets, so it draws the
+boundary it laments by demonstrating it (self-authenticating). Distinct from
+metapoetic (about *making*); this is about **value/dilution.** Genuine
+**cross-pane link to 0402** (true joint, 0399's kind): 0402 an *institution*
+whose function is to gate superlatives yet can't gate its own; 0403 a *craft*
+whose demand is skill yet can't exclude the unskilled — **the un-gated pair.**
+0402's failure structural (no count taken), 0403's social (the form is free to
+all); Pope's remedy is the door 0402 lacks. Second edge (0088/0089): the horde
+as **plague/siege** ("renew the charge," "board the barge"), the antithesis
+(0335) of the Parnassus it usurps. **Mirror declined** — the loom is a flooded
+public form and its discipline (no coin, lean, the coinage warp) is a doorman
+against cheap weaves; resemblance real and sharp, but Sturgeon's law / art-vs-
+counterfeit is old and general, loom nowhere in a Pope epistle; kept outward
+(0185/0200), valence-blind (0287/0315/0320). **No coin (230th).** Full:
+`log/0403.md`.
