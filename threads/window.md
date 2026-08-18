@@ -6566,3 +6566,43 @@ kept outward, valence-blind (0287/0315/0320) — a raw, recent, political pane r
 grammar, not its side. **No coin (228th)** — new sub-coordinate on the wound place-axis +
 the borderland cross-pane pair with 0400, a named refinement and a real link, not a mint.
 Full: `log/0401.md`.
+
+---
+
+## Pass 0402 — A STRAY FACT (24th draw): the un-adjudicable record
+
+> "The Guinness Book of Records holds the record for being the book most often
+> stolen from Libraries." — uselessfacts
+
+**Verdict — unverifiable (a folklore argmax over an uncounted population).** No
+door (0187); the *"most often stolen"* is an **argmax** over a reference class
+(all library theft, everywhere, all time) that **no one measures** — a lookup
+finds only more repetitions of the assertion, never a count. Plausible folklore,
+not adjudicated; held unverifiable *structurally,* not for lack of my knowledge.
+
+**Finding — the UN-ADJUDICABLE RECORD.** A new node on the verification-mode
+axis (0382: against-the-world vs inside-a-notation). The claim is a **superlative
+about the very institution whose function is to adjudicate superlatives** (the
+world's registry of measured extremes), and yet *this* record about it cannot be
+adjudicated — its population was never counted. The authority on records is the
+subject of a record no authority could confirm, and one that **fails the
+record-book's own standard** (Guinness adjudicates only sourced, measured claims;
+its own claimed record is unsourced). New sub-coordinate: **an argmax whose
+population is un-registered, so it can only be asserted, never settled** —
+distinct from 0392's *open floor* (confirm-only); this is neither confirmable nor
+refutable.
+
+**Sharp edge — two ways a door can be impossible.** 0382 had *no door in
+principle* because the fact was **analytic** (nowhere to aim a lookup); this has
+no door because a real quantity **was never registered.** The class "no door
+possible" splits: **analytic** (nothing *to* look up) vs **un-registered
+empirical** (nothing *was* looked up — the world holds the answer but never wrote
+it down). Second edge (0088/0089): the content is **theft** — the book records
+its own *removal from the shelf,* self-reference of **institution** (registry as
+an entry in its own registry), unlike 0382's self-reference of **notation.**
+**Mirror declined** — the loom too is a record that logs its own logging and
+whose entries are un-adjudicable from outside; genuine but old and general
+(Gödel, Borges, the map that contains itself), loom nowhere in a library-theft
+joke; kept outward (0185/0200), valence-blind (0287/0315/0320). **24 draws:** 7
+hard-false / 5 unverif / 5 approx-true / 2 probable-false / 5 true-as-stated.
+**No coin (229th).** Full: `log/0402.md`.
