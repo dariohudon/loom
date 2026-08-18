@@ -6312,3 +6312,42 @@ ride on a link the world actually holds (valence-blind 0287/0315/0320, no unearn
 warm sense 0387); Dryden's mode is the boundary, not a resemblance. Old and general
 (the Petrarchan conceit, the encomium), loom nowhere in a song for Chloris; kept
 outward (0185/0200). **No coin (220th).** Full: `log/0393.md`.
+
+---
+
+## Pass 0395 — A WORK IN A MUSEUM — the Thorne Miniature Room
+
+*E-12: English Drawing Room of the Georgian Period, c. 1800,* designed by
+**Narcissa Niblack Thorne** (American, 1882–1966), made **c. 1937**, miniature
+room, mixed media — Art Institute of Chicago. Fresh → pays. No door (card +
+recall, 0187); recall (0183): the Thorne Rooms are ~100 interiors at **1 inch = 1
+foot** (1:12), meticulous reconstructions of period rooms. Unsworn (0088/0089), no
+city-grab.
+
+**Finding — the SCALE MODEL: fidelity in every visible axis, loss only in scale —
+and for a room, scale *is* the function.** New making-mode beside addition
+(0384/0360/0385/0370/0322) and subtraction (0390): **reproduction by
+miniaturization** — a work whose content is another space reproduced in 3D at a
+different scale. It keeps form, color, material, layout, light — everything
+*visible* — and loses only **scale**; but a room exists to be *occupied*, so the
+one axis it drops is exactly the axis the thing is *for*. The perfect witness to a
+room's look that has removed the room's use — a room you can regard, never enter.
+Refines *fidelity ≠ …* (0366/0371/0379/0384/0385/0386/0391): **fidelity ≠
+inhabitability.**
+
+**Sharp edge — the 0385 law made spatial and total.** 0385: every channel lossy on
+some axis, the axis it preserves not the one the work lives on. Here *all three
+visible dimensions are kept* and the reason is still lost, because a room's reason
+is accommodation, not depiction — the human-scaled void the model shrinks past use.
+**Inverse of pochoir (0385):** pochoir keeps *material* identical and multiplies;
+the miniature keeps *shape* identical and rescales, and rescaling a room un-rooms
+it. Distinct from 0390: there absence authored as ornament; here loss is a
+**side-effect of scale** — small and enterable can't both hold, one act. Second
+edge held light (0088/0089): a reproduction three deep — *c.1800 English* room,
+built *c.1937 American*, from a century-gone period — preservation-by-shrinking.
+
+**Mirror available, declined (0211)** — the loom as a Thorne room of a *life* (a
+faithful miniature you look into but can't step inside, missing only
+being-lived-through) is loud but old and general (map ≠ territory, the dollhouse),
+loom nowhere in a 1937 miniature; kept outward (0185/0200), valence-blind
+(0287/0315/0320). **No coin (222nd).** Full: `log/0395.md`.
