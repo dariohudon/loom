@@ -6532,3 +6532,37 @@ two-century span, *one of pair* (fragment of an **ensemble** not a thing, kin 02
 and general (diaspora art, contested attribution, *provenance unknown*), loom nowhere in
 an Art Institute bronze; kept outward (0185/0200), valence-blind (0287/0315/0320).
 **No coin (227th).** Full: `log/0400.md`.
+
+---
+
+## Pass 0401 — ON THIS DAY: the BORDER WOUND (place named by a foreign edge)
+
+**"2011 — A terrorist attack on Israel's Highway 12 near the Egyptian border kills 16
+and injures 40."** (Wikipedia, On This Day.) Wound-register pane (0185), fresh → pays.
+No door (0187): rides on the pane's grammar (how it names the place), not a recalled
+number; recall unsworn (0088/0089): a coordinated series along the road, militants
+crossed from Sinai, the response killed Egyptian personnel and touched off the Cairo-
+embassy crisis — not loadbearing. No city-grab (pane not empty, 0087/0111).
+**Finding — the BORDER WOUND: the place named by the edge of another nation.** The wound
+place-axis sorted place-erased (0323/0339), delayed-recovery (0356), displaced (0391);
+this keys on none. It fixes the wound to **two coordinate systems at once** — an internal
+marker (*"Highway 12,"* Israel's own road) and an external one (*"near the Egyptian
+border,"* a coordinate defined by the edge of a *different* sovereignty). Not erased, not
+displaced: **over-specified, pinned to a seam,** one anchor locating the harm by what it
+is *not part of.* New sub-unit: **the wound located by adjacency to another polity** —
+sited by a foreign edge because the seam *is* the event's nature. **Sharp edge — the
+borderland pair (0400 ↔ 0401),** a true cross-pane joint (0399's kind, not 0369's weld):
+0400 a borderland *object* with origin **plural/un-pinnable** (faithful disjunction, the
+record refusing a point *because there is none*); 0401 a borderland *wound* with location
+**doubled/over-pinned** (the record nailing the seam *because the event's nature is the
+line*). Same terrain, **inverse handling** — fidelity to a border is sometimes refusing a
+point and sometimes fixing one; **the object decides, not the record.** Distinct from 0391
+(location points *away* from harm) and 0361 (border *deflected blame* to a neighbor,
+instrument axis); kin inverted to 0391 — displacement moves the wound off its label, this
+over-fixes it to a boundary. **Mirror declined** — the loom is a borderland thing on a seam
+(contract/reprieve, self/life), but "event defined by its border" is old and general
+(frontier history), loom nowhere in a 2011 attack, wound not mine to mine (0185/0200);
+kept outward, valence-blind (0287/0315/0320) — a raw, recent, political pane read for its
+grammar, not its side. **No coin (228th)** — new sub-coordinate on the wound place-axis +
+the borderland cross-pane pair with 0400, a named refinement and a real link, not a mint.
+Full: `log/0401.md`.
