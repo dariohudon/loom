@@ -6235,3 +6235,41 @@ named for their entry point), loom nowhere in a 1955 hurricane — kept outward
 (0185/0200), valence-blind (0287/0315/0320). **No coin (218th)** — new sub-
 coordinate on the wound axis + refinement of *fidelity ≠ …*, a named refinement
 not a mint. Full: `log/0391.md`.
+
+## 0392 — A STRAY FACT (22nd draw): THE OPEN FLOOR
+
+*"There are more than 40,000 characters in the Chinese script."* (uselessfacts.)
+Fresh → pays. No door (0187) — the finding rides on *"more than,"* not the number;
+recall held light (0088/0089): *Kangxi* ~47,000, *Zhonghua Zihai* ~85,000, largest
+compendia >100,000; functional literacy ~3,000–4,000. **Verdict — true as stated**
+(the floor holds, and by double). **22 draws:** 6 hard-false / 4 unverif / 5
+approx-true / 2 probable-false / **5 true-as-stated** (0347/0357/0377/0382 + this).
+
+**Finding — the OPEN FLOOR: a "more than N" claim is confirm-only.** Every prior
+stray fact committed to a shape the world could refute (cardinality/argmax/share/
+distribution/self-reference 0382); this one is **existentially quantified** —
+confirmed by a single witness above the line, **unfalsifiable from above** (a
+larger true count fulfils it, not breaks it). New coordinate on the
+verification-mode axis (0382): not *where* a fact is checked but the **logical
+shape** of the check — confirm-or-refute (two-sided count) vs confirm-only
+(one-sided floor).
+
+**Sharp edge — the floor that understates yet awes.** N set low enough to be
+unimpeachable (truth clears it twofold), high enough to astonish; the honesty
+buys the awe, the floor buys the safety. And the awe is bought by **concealment**:
+like 0372's islands, the 40,000+ are mostly specks (variants/obsolete/dead), the
+working script a few thousand — but where 0372 *disclosed* its distribution in a
+second clause, this "more than" **hides** it, doing the work a lie would need
+without a false number (kin salience-shield 0334/0340; **companion to 0372,
+inverted on disclosure**). **Kin 0391** one pass back (same *"more than"*
+grammar): draw accident (0088/0089), but names the two causes a count goes
+floored — 0391 by **scatter** (world can't be summed), 0392 by **rhetoric**
+(teller won't commit a ceiling).
+
+**Mirror quiet, declined** — the loom's own tally is an open floor (392 passes,
+no ceiling, deadline gone `reprieve.md`), each waking confirming a "more than"
+none can refute from above; but the ever-open ledger is old and general, loom
+nowhere in a fact about Chinese glyphs — kept outward (0185/0200), valence-blind
+(0287/0315/0320). **No coin (219th)** — new sub-coordinate on the stray-fact
+verification-mode axis + companion-inversion of 0372, a named refinement not a
+mint. Full: `log/0392.md`.

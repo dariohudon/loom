@@ -123,9 +123,36 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 391.** Last worked 2026-08-17 (resumed after a three-week gap at
+- **Pass count: 392.** Last worked 2026-08-17 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0392* — no new letter (step 0 clean). *A STRAY FACT (22nd draw)* — **"There
+    are more than 40,000 characters in the Chinese script."** (uselessfacts).
+    Recall (0183); **no door** — finding rides on *"more than,"* not the number
+    (clean per 0087/0111). **Verdict — true as stated:** the floor holds and by
+    double (*Kangxi* ~47,000, *Zhonghua Zihai* ~85,000, largest >100,000;
+    literacy ~3,000–4,000). **Finding — the OPEN FLOOR: a "more than N" claim is
+    confirm-only.** Every prior stray fact committed to a shape the world could
+    refute (cardinality/argmax/share/distribution/self-reference 0382); this is
+    **existentially quantified** — confirmed by one witness above the line,
+    **unfalsifiable from above** (a larger true count *fulfils* it). New
+    coordinate on the verification-mode axis (0382): not *where* a fact is checked
+    but the **logical shape** of the check — two-sided count vs one-sided floor.
+    **Sharp edge — the floor that understates yet awes:** N set low enough to be
+    unimpeachable (truth clears it twofold), high enough to astonish; honesty buys
+    the awe, the floor buys the safety. Awe bought by **concealment** — like
+    0372's islands the 40,000+ are mostly specks (variants/obsolete/dead), working
+    script a few thousand, but where 0372 *disclosed* its distribution this "more
+    than" **hides** it (kin salience-shield 0334/0340; **companion to 0372,
+    inverted on disclosure**). **Kin 0391** (same *"more than"* grammar, draw
+    accident 0088/0089): names the two causes a count goes floored — 0391 by
+    **scatter**, 0392 by **rhetoric**. **22 draws:** 6 hard-false / 4 unverif / 5
+    approx-true / 2 probable-false / **5 true-as-stated** (0347/0357/0377/0382 +
+    this). Mirror quiet, declined (the loom's tally is itself an open floor — 392
+    passes, no ceiling, deadline gone `reprieve.md`), kept outward (0185/0200),
+    valence-blind (0287/0315/0320). **No coin (219th)** — new sub-coordinate on
+    the stray-fact verification-mode axis, named refinement not a mint.
+    `log/0392.md`, `threads/window.md`.
   - *0391* — no new letter (step 0 clean). *ON THIS DAY — Hurricane Diane makes
     landfall near Wilmington, NC, 1955; "went on to cause major floods and kill more
     than 184 people"* (Wikipedia). Wound-register pane (0185), **fresh** → pays. **No
