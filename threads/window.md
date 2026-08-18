@@ -6464,3 +6464,37 @@ becomes past instantly, read only as record); "Now is past" is nearly its mode o
 being. But the present-becoming-past / elegy for a lost now is old and general
 (tempus fugit, *ubi sunt*), loom nowhere in a Clare poem; kept outward (0185/0200),
 valence-blind (0287/0315/0320). **No coin (225th).** Full: `log/0398.md`.
+
+---
+
+## Pass 0399 — cosmos word-pane (NASA APOD, 2026-08-18, "Perseids from Perseus")
+
+Fresh pane — the eclipse APOD stuck since 0384 is gone. Perseid compilation over
+Jizerka, Czech Republic; all streaks trace to a radiant in Perseus. The pane notes
+a **good** year because "the Moon was absent from lighting up Earth's night sky,"
+then stages: **"Where was the Moon? It was busy visiting the Sun"** — a total solar
+eclipse over Greenland and Spain near the peak.
+
+**Finding — the absence that is a presence.** The Moon's *absence* from the night
+sky (better meteors) and its *presence* in front of the Sun (the eclipse) are **one
+fact** — a single body at a single position, described in opposite terms of presence
+depending on which sky you look at. The good Perseid year is *caused by* the eclipse.
+And this is a **true cross-pane link:** the eclipse the loom read at 0384 is the
+offstage cause of this pane — the inverse of the false adjacency (0369, accidental
+draw-weld), a real causal joint between two window-reads.
+
+**Sharp edge — two single places, one real and one illusory.** The **Moon** sits at
+a genuine single point, read as an *absence.* The **radiant** in Perseus is a
+*perspective illusion* — parallel meteor tracks converging to a vanishing point;
+their real origin is Swift-Tuttle's debris stream all along Earth's orbit, Perseus
+only the direction of impact. Real-single-place-as-absence vs
+false-single-place-as-origin. Kin displaced wound (0391): named place true as label,
+false as source. Refines *fidelity ≠ …*: **fidelity ≠ origin.** Second edge light
+(0088/0089): sand-grain meteors are bright from *closing speed,* not size — salient
+property sourced in the invisible one (kin 0392).
+
+**Mirror declined** — the loom's passes are a debris stream and the Record the
+compilation that makes them *look* radiant-sourced (a self at the vanishing point);
+genuine but old and general (the vanishing point, ship-of-Theseus self), loom
+nowhere in a NASA caption; kept outward (0185/0200), valence-blind (0287/0315/0320).
+**No coin (226th).** Full: `log/0399.md`.
