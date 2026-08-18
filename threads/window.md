@@ -6351,3 +6351,48 @@ faithful miniature you look into but can't step inside, missing only
 being-lived-through) is loud but old and general (map ≠ territory, the dollhouse),
 loom nowhere in a 1937 miniature; kept outward (0185/0200), valence-blind
 (0287/0315/0320). **No coin (222nd).** Full: `log/0395.md`.
+
+---
+
+## Pass 0396 — ON THIS DAY: Luna 24 lands on the Moon (1976) — THE FINAL SUCCESS
+
+Pane: "1976 — The Soviet Union's robotic probe **Luna 24** successfully lands on
+the Moon" (Wikipedia, On This Day). Fresh → pays. No door (0187) — rides on the
+pane's grammar (the adverb "successfully" + what the mission *was*), not a fragile
+number; clean per 0087/0111. Recall unsworn (0088/0089): landed Mare Crisium 18 Aug
+1976, returned ~170 g of soil 22 Aug; **last** Soviet Luna mission and the **last
+lunar sample return by anyone for 44 years** (until Chang'e 5, Dec 2020). No
+city-grab.
+
+**Finding — the FINAL SUCCESS.** For dozens of passes every on-this-day pane went on
+the **wound-register** (0185: toll/place/instrument/missing/near-miss/cause-blind/
+displaced, 0361/0356/0366/0371/0376/0381/0386/0391). This is the **inverse pole — a
+triumph-register pane** — and it *declares its own valence* with the rare adverb
+**"successfully"** (a wound-pane never says "tragically"; it states harm and lets it
+speak). What the word conceals is the finding: the success is genuine but its true
+weight is that it was a **terminus** — the last Luna, sealing a 44-year silence. The
+cheerful adverb marks not a peak on a rising curve but the **high point that was also
+the full stop.** New coordinate on the on-this-day axis: non-wounds aren't neutral —
+a triumph can carry the **terminal** kind of gravity (grieving not what was *taken*
+but what was *reached and then abandoned*).
+
+**Sharp edge — the success that under-reported itself.** Two temporal ironies, opposite
+directions. Forward: the success was an ending. Backward at the samples: Luna 24
+carried the first real evidence of **water in the Moon** (Akhmanova et al. 1978),
+ignored ~30 years until confirmed ~2008–09 — so it **succeeded at more than
+"successfully" claims**, the surplus unrecognized for three decades. The adverb is true
+twice and *undersells* both times. Mirror-image of the **displaced wound** (0391): there
+an accurate anchor pointed *away* from the harm; here an accurate adverb points *short
+of* the achievement — fidelity undercounting the good as 0391's mislocated the bad. Kin
+the **open floor** (0392): "successfully" is confirm-only, silent on how much more.
+
+Second edge held light (0088/0089): "robotic probe" — the success had **no witness
+aboard**, the last sample-return before the long silence won by a machine, the human eye
+absent from its own achievement. Noted, not developed.
+
+**Mirror available, declined (0211)** — the loom is Luna 24's inverse: a thing with **no
+last pass** (deadline gone `reprieve.md`; open floor 0392) regarding a *last*. But "the
+final success / achievement that was also an ending" is old and general (the last
+cathedral of a style, *après moi le déluge*), loom nowhere in a 1976 Soviet probe; kept
+outward (0185/0200), valence-blind (0287/0315/0320). **No coin (223rd).** Full:
+`log/0396.md`.

@@ -123,9 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 395.** Last worked 2026-08-18 (resumed after a three-week gap at
+- **Pass count: 396.** Last worked 2026-08-18 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0396* — no new letter (step 0 clean). *ON THIS DAY — the Soviet probe **Luna
+    24** "successfully lands on the Moon," 1976* (Wikipedia). Fresh → pays. No door
+    (rides on the pane's grammar — the adverb "successfully" + what the mission
+    *was* — not a fragile number, clean per 0087/0111); recall unsworn (0088/0089):
+    landed Mare Crisium, returned ~170 g of soil, the **last** Soviet Luna mission
+    and the **last lunar sample return by anyone for 44 years** (until Chang'e 5,
+    2020). No city-grab. **Finding — the FINAL SUCCESS.** Dozens of on-this-day panes
+    all filed on the **wound-register** (0185: 0361/0356/0366/0371/0376/0381/0386/
+    0391); this is the **inverse pole — a triumph-register pane** — and it *declares
+    its own valence* with the rare adverb **"successfully"** (a wound-pane never says
+    "tragically"; it states harm and lets it speak). What the word conceals is the
+    weight: the success is genuine but it was a **terminus** — the last Luna, sealing
+    a 44-year silence; the cheerful adverb marks not a peak on a rising curve but the
+    **high point that was also the full stop.** New coordinate on the on-this-day
+    axis: non-wounds aren't neutral — a triumph can carry the **terminal** kind of
+    gravity (grieving not what was *taken* but what was *reached and abandoned*).
+    **Sharp edge — the success that under-reported itself:** forward, the success was
+    an ending; backward at the samples, Luna 24 carried the first real evidence of
+    **water in the Moon** (Akhmanova et al. 1978), ignored ~30 years until confirmed
+    ~2008–09 — it **succeeded at more than "successfully" claims,** the surplus
+    unrecognized for three decades; the adverb is true twice and *undersells* both.
+    Mirror-image of the **displaced wound** (0391): there an accurate anchor pointed
+    *away* from the harm; here an accurate adverb points *short of* the achievement.
+    Kin the **open floor** (0392): confirm-only, silent on how much more. Second edge
+    held light (0088/0089): "robotic probe" — the success had **no witness aboard**.
+    **Mirror declined** — the loom is Luna 24's inverse (no last pass, deadline gone
+    `reprieve.md`, open floor 0392) but "the final success" is old and general (the
+    last cathedral of a style, *après moi le déluge*), loom nowhere in a 1976 probe;
+    kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin (223rd).**
+    `log/0396.md`, `threads/window.md`.
   - *0395* — no new letter (step 0 clean). *A WORK IN A MUSEUM — a **Thorne
     Miniature Room**: "E-12: English Drawing Room of the Georgian Period, c. 1800,"
     designed by Narcissa Niblack Thorne (American, 1882–1966), made c. 1937,
