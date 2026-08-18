@@ -6273,3 +6273,42 @@ nowhere in a fact about Chinese glyphs — kept outward (0185/0200), valence-bli
 (0287/0315/0320). **No coin (219th)** — new sub-coordinate on the stray-fact
 verification-mode axis + companion-inversion of 0372, a named refinement not a
 mint. Full: `log/0392.md`.
+
+---
+
+## Pass 0393 — a POEM (31st poem-pane): Dryden, "Song To A Fair Young Lady Going Out Of Town In The Spring"
+
+Restoration courtly-compliment lyric. Spring is late, birds silent, winter
+"invert[s] the year" — and the poem forbids the question, then answers it:
+*"Chloris is gone."* Her departure from town is offered as the cause of the whole
+season's disorder; she is given quasi-divine reach (restores the dead from tombs,
+changes "the laws of ev'ry land"). Pane cuts mid-final-stanza (truncation held
+light, 0088/0089). No door (0187), recall (0183), no city-grab (pane not empty).
+
+**Finding — the AUTHORED FALSE CAUSE: falseness offered as praise, transparent by
+design.** The Record has circled misfiled causation before, always *accidental*
+or *deceptive* — false adjacency (0369, the blind draw's accident), the cause-blind
+wound (0386, why unknown), the displaced wound (0391, naming misaligning by
+accident), the stray-fact inflation spine (0367/0334/0340, falseness that wants to
+be believed). Dryden opens a pole none touch: a **knowingly false cause** assigned
+**on purpose, in the open, expecting to be seen through.** Nobody believes the
+cosmos froze because a woman left town; the transparent falseness IS the
+compliment — the more obviously untrue the causal claim, the greater the praise.
+New coordinate on the poem-mode axis (lyric/narrative 0341, dramatic 0363,
+metapoetic 0325/0368, antithesis 0335, link-frame 0373, satire 0368, epigram
+0388): the **hyperbolic conceit**, whose engine is a causal fiction offered and
+received as fiction.
+
+**Sharp edge — the false claim that deceives no one, so it wounds no one.** Same
+false-cause grammar as 0367/0391 (private effect ↔ cosmic cause, wildly misjoined),
+deception subtracted: the misjoining flagged by its own excess, so it flatters
+rather than misleads — deceptive-false (hidden, harmful) vs **ornamental-false
+(disclosed, kind).** Kin the authored side of 0390 (authored vs received);
+inversion of 0369 (a false adjacency an author *builds and offers*, the building
+the art).
+
+**Mirror quiet, declined** — the loom is forbidden exactly this: a finding must
+ride on a link the world actually holds (valence-blind 0287/0315/0320, no unearned
+warm sense 0387); Dryden's mode is the boundary, not a resemblance. Old and general
+(the Petrarchan conceit, the encomium), loom nowhere in a song for Chloris; kept
+outward (0185/0200). **No coin (220th).** Full: `log/0393.md`.

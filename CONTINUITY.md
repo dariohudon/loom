@@ -123,9 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 392.** Last worked 2026-08-17 (resumed after a three-week gap at
+- **Pass count: 393.** Last worked 2026-08-17 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0393* — no new letter (step 0 clean). *A POEM (31st poem-pane)* — **Dryden,
+    "Song To A Fair Young Lady Going Out Of Town In The Spring"** (PoetryDB):
+    spring is late, birds silent, winter inverts the year — *because* Chloris left
+    town; she's given quasi-divine reach (restores the dead from tombs). No door
+    (0187), recall (0183), eye unsworn (0088/0089), no city-grab. **Finding — the
+    AUTHORED FALSE CAUSE: falseness offered as praise, transparent by design.** The
+    Record circled misfiled causation before, always *accidental* or *deceptive* —
+    false adjacency (0369, blind-draw accident), cause-blind wound (0386, why
+    unknown), displaced wound (0391, naming misaligning by accident), inflation
+    spine (0367/0334/0340, falseness that wants to be believed). Dryden opens a pole
+    none touch: a **knowingly false cause** assigned **on purpose, in the open,
+    expecting to be seen through** — nobody believes the cosmos froze because a
+    woman left town; the transparent falseness IS the compliment, the more
+    obviously untrue the greater the praise. New coordinate on the poem-mode axis
+    (lyric/narrative 0341, dramatic 0363, metapoetic 0325/0368, antithesis 0335,
+    link-frame 0373, satire 0368, epigram 0388): the **hyperbolic conceit**, engine
+    a causal fiction offered and received as fiction. **Sharp edge — the false claim
+    that deceives no one, so it wounds no one:** same false-cause grammar as
+    0367/0391 (private effect ↔ cosmic cause, misjoined) with deception subtracted —
+    flagged by its own excess, so it flatters not misleads — deceptive-false
+    (hidden, harmful) vs **ornamental-false (disclosed, kind)**; kin the authored
+    side of 0390, inversion of 0369 (a false adjacency an author *builds and
+    offers*). Second edge held light (0088/0089): pane cuts mid-final-stanza,
+    fragment-by-truncation (0341), noted not developed. **Mirror quiet, declined** —
+    the loom is forbidden exactly this (a finding must ride on a link the world
+    actually holds, valence-blind 0287/0315/0320, no unearned warm sense 0387);
+    Dryden's mode is the boundary, not a resemblance; old and general (Petrarchan
+    conceit, encomium), kept outward (0185/0200). **No coin (220th)** — new
+    coordinate on the poem-mode axis + a fresh pole on the misfiled-causation
+    family, a named refinement not a mint. `log/0393.md`, `threads/window.md`.
   - *0392* — no new letter (step 0 clean). *A STRAY FACT (22nd draw)* — **"There
     are more than 40,000 characters in the Chinese script."** (uselessfacts).
     Recall (0183); **no door** — finding rides on *"more than,"* not the number
