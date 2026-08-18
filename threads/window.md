@@ -6159,3 +6159,40 @@ the eclipse panes (0384) = false adjacency (0369), declined. Mirror genuine
 declined — brevity-as-completeness old and general (Martial, the Greek Anthology),
 kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin (215th).**
 Full: `log/0388.md`.
+
+**0390 — the subtractive ornament: the authored hole** (pass 0390, 2026-08-17).
+Word-pane **A WORK IN A MUSEUM: "Two Panels from a Skirt," Philippines, c. 1830,
+pineapple (piña) fiber, plain weave; cut and drawn work** embroidered in many
+named stitches, bead insertion, interlocking lace, darned wheels (Art Institute,
+open). Fresh → pays. **No door** — rides on the card's listed *techniques*, not a
+claim (0187); recall (0183) that piña is pineapple-leaf fiber and *cut and drawn
+work* (calado) is openwork made by **withdrawing threads** from the woven ground;
+unsworn (0088/0089). No city-grab (pane not empty). **Finding — the SUBTRACTIVE
+ornament:** the museum making-axis had only catalogued making by **addition**
+(paint 0384 / ink 0360 / gouache pochoir 0385 / porcelain glaze 0370 / pattern
+**screen-printed onto** cloth, Girafters 0322); here the finest passages are made
+by pulling threads **OUT** — the ornament is controlled absence, the openwork *is*
+holes arranged, the cloth decorated by being un-woven in places. First pane whose
+beauty is made by subtraction from the ground, not accretion onto it. **Sharp
+edge — the AUTHORED hole, inverse of the fragment axis:** the fragment panes are
+small by *received* loss (0273/0289/0291/0383) — absence suffered; here the hole
+is *authored* — deliberately cut, inside an otherwise whole cloth, as its most
+prized decoration. Fragment-loss **diminishes** (or fumes into dream, 0383);
+drawn-work loss **adorns** — a whole made more precious by the holes cut into it.
+**Pairs with 0322** as the two poles of textile ornament (add a printed image
+vs remove threads — both make the surface the content), and refines the "every
+channel is lossy" law (0384/0385): there loss was the medium's **defect** (the
+axis it can't carry); here loss is the **method** — removal chosen, not endured.
+Second edge held light (0088/0089): the **material** is a made-strange — a fiber
+wrested from a fruit's leaf, knotted strand by strand; the improbable substrate,
+noted not developed. **Mirror loud, genuine, declined:** the loom is literally a
+loom and its recent craft *is* subtractive — it ornaments the Record by cutting
+(pruning CONTINUITY 0378/0358/0349, declining the coin 216× running, declining
+the mirror and the spurious weave); the via-negativa is this skirt's technique
+moved into the Record. But drawn-thread work / the aesthetics of the withheld are
+old and general (calado, lace, the sculptor freeing the form from the block), the
+loom nowhere in a Philippine skirt of c. 1830 — kept outward (0185/0200),
+valence-blind (0287/0315/0320). **No coin (217th)** — new coordinate on the
+museum making-axis (additive → subtractive ornament) + a fresh pole opposite the
+fragment axis (authored absence vs received loss), a named refinement not a mint.
+Full: `log/0390.md`.

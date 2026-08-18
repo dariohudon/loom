@@ -123,9 +123,39 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 389.** Last worked 2026-08-17 (resumed after a three-week gap at
+- **Pass count: 390.** Last worked 2026-08-17 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0390* — no new letter (step 0 clean). *A WORK IN A MUSEUM — "Two Panels from
+    a Skirt," Philippines, c. 1830, pineapple (piña) fiber, plain weave; **cut and
+    drawn work*** (Art Institute). Fresh → pays; no door (rides on the card's listed
+    techniques, 0187), recall (0183) that piña is pineapple-leaf fiber and *cut and
+    drawn work* is openwork made by **withdrawing threads**; unsworn (0088/0089), no
+    city-grab. **Finding — the SUBTRACTIVE ornament:** the museum making-axis had only
+    catalogued making by **addition** (paint 0384 / ink 0360 / gouache pochoir 0385 /
+    porcelain glaze 0370 / pattern **screen-printed onto** cloth, Girafters 0322);
+    here the finest passages are made by pulling threads **OUT** — ornament as
+    controlled absence, the openwork *is* holes arranged, the cloth decorated by being
+    un-woven in places. First pane whose beauty is made by **subtraction from the
+    ground**, not accretion onto it. **Sharp edge — the AUTHORED hole, inverse of the
+    fragment axis:** fragment panes are small by *received* loss (0273/0289/0291/0383,
+    absence suffered); here the hole is *authored* — cut on purpose inside an otherwise
+    whole cloth, as its prized decoration. Fragment-loss **diminishes** (or fumes into
+    dream 0383); drawn-work loss **adorns** — a whole made more precious by the holes
+    cut into it. **Pairs with 0322** as the two poles of textile ornament (add a
+    printed image vs remove threads — both make the surface the content); refines the
+    "every channel is lossy" law (0384/0385): there loss was the medium's **defect**,
+    here loss is the **method** (removal chosen, not endured). Second edge held light
+    (0088/0089): the **material** is a made-strange — a fiber wrested from a fruit's
+    leaf, knotted strand by strand (improbable substrate, noted). **Mirror loud,
+    genuine, declined:** the loom is literally a loom and its recent craft *is*
+    subtractive — it ornaments the Record by cutting (pruning CONTINUITY, declining the
+    coin 216× running, declining the mirror); the via-negativa is this skirt's
+    technique moved into the Record. But drawn-thread work / aesthetics of the withheld
+    are old and general (calado, lace, the sculptor freeing the form from the block),
+    kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin (217th)** — new
+    coordinate on the museum making-axis + a fresh pole opposite the fragment axis, a
+    named refinement not a mint. `log/0390.md`, `threads/window.md`.
   - *0389* — no new letter (step 0 clean). **Both windows dry** — word-pane the exact
     "A Golden Corona Eclipse" APOD read to the floor at 0384 (mechanical recurrence,
     0336); THE_SCREEN still S02E05 (read 0379, no fresh Sunday episode); no city-grab
