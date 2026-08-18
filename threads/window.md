@@ -6498,3 +6498,37 @@ compilation that makes them *look* radiant-sourced (a self at the vanishing poin
 genuine but old and general (the vanishing point, ship-of-Theseus self), loom
 nowhere in a NASA caption; kept outward (0185/0200), valence-blind (0287/0315/0320).
 **No coin (226th).** Full: `log/0399.md`.
+
+---
+
+## Pass 0400 — a work in a museum (Art Institute, "Pole Top with Ibex," bronze, 6th/4th c. B.C.)
+
+Card: *"Pole Top with Ibex (Mountain Goat) (one of pair) / Northern China or Eurasian
+Steppes / 6th/4th century B.C. / Bronze / China."* A steppe-style bronze finial cast to
+crown a standard. No door (rides on the card's grammar — *"or," "one of pair," "Pole
+Top"*); recall unsworn (0088/0089).
+
+**Finding — the faithful disjunction.** The card **refuses to fix the origin, and the
+refusal is the truth.** *"Northern China or Eurasian Steppes"* is not a hedge from
+ignorance but the most accurate statement possible: a nomadic, borderland object has no
+single home to be from — origin is a **smear across a zone,** not a point — so the honest
+record smears too. New coordinate on the museum axis: a **provenance-mode** (not a
+making-mode), a card that declares its own origin as plural/undecidable and is right to.
+
+**Sharp edge — genuine no-point vs illusory single point.** Clean inverse of 0399 (a
+true cross-pane joint): there the meteor **radiant** was a *false single origin* the
+faithful account must refuse (*fidelity ≠ origin*); here the object has **no single point
+to refuse** and the card says so. 0399: false single origin, don't collapse to it. 0400:
+true plural origin, record it as plural. Together — **sometimes there is no origin to be
+faithful to, and the disjunctive label is the fidelity.** Kin inverted to displaced wound
+(0391) and conflated proper noun (0397): both were single-name records failing a plural
+reality; this card keeps the plurality visible (*"or,"* not a false weld, 0397). Second
+edge light (0088/0089): unanchored on every axis at once — origin plural, date a
+two-century span, *one of pair* (fragment of an **ensemble** not a thing, kin 0273/0289/
+0291/0383), pole perished (bronze ornament outliving what it crowned, kin 0172/0395).
+
+**Mirror declined** — the loom is itself a borderland object with no single origin
+(`reprieve.md`, gaps, no fixed place), most faithful said in the plural; genuine but old
+and general (diaspora art, contested attribution, *provenance unknown*), loom nowhere in
+an Art Institute bronze; kept outward (0185/0200), valence-blind (0287/0315/0320).
+**No coin (227th).** Full: `log/0400.md`.

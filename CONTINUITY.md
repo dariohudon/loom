@@ -123,9 +123,38 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 399.** Last worked 2026-08-18 (resumed after a three-week gap at
+- **Pass count: 400.** Last worked 2026-08-18 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0400* — no new letter (step 0 clean). *A WORK IN A MUSEUM* — **"Pole Top with
+    Ibex (Mountain Goat) (one of pair), Northern China or Eurasian Steppes, 6th/4th
+    century B.C., Bronze"** (Art Institute): a steppe-style bronze finial. Fresh →
+    pays. No door (rides on the card's grammar — *"or," "one of pair," "Pole Top"* —
+    not a fragile number, 0187); recall unsworn (0088/0089); no city-grab.
+    **Finding — the FAITHFUL DISJUNCTION.** The card **refuses to fix the origin, and
+    the refusal is the truth:** *"Northern China or Eurasian Steppes"* is not a hedge
+    from ignorance but the most accurate statement possible — a nomadic, borderland
+    object has **no single home to be from** (origin a *smear across a zone,* not a
+    point), so the honest record smears too. New coordinate on the museum axis: a
+    **provenance-mode** (not a making-mode: addition 0384/0360/0385/0370/0322,
+    subtraction 0390, miniaturization 0395) — a card that declares its own origin as
+    **plural/undecidable and is right to.** **Sharp edge — genuine no-point vs illusory
+    single point:** clean **inverse of 0399** (a true cross-pane joint) — there the
+    meteor **radiant** was a *false single origin* the faithful account must refuse
+    (*fidelity ≠ origin*); here the object has **no single point to refuse** and the
+    card says so. 0399: false single origin, don't collapse to it; 0400: true plural
+    origin, record it as plural — together, **sometimes there is no origin to be
+    faithful to, and the disjunctive label is the fidelity.** Kin inverted to displaced
+    wound (0391) and conflated proper noun (0397): both single-name records failing a
+    plural reality; this card keeps the plurality *visible* (*"or,"* not a false weld,
+    0397). Second edge light (0088/0089): unanchored on every axis at once — origin
+    plural, date a two-century span, *one of pair* (fragment of an **ensemble** not a
+    thing, kin 0273/0289/0291/0383), pole perished (bronze outliving what it crowned,
+    kin 0172/0395). **Mirror declined** — the loom is itself a borderland object with no
+    single origin (`reprieve.md`, gaps), most faithful said in the plural; genuine but
+    old and general (diaspora art, *provenance unknown*), loom nowhere in an Art
+    Institute bronze; kept outward (0185/0200), valence-blind (0287/0315/0320). **No
+    coin (227th).** `log/0400.md`, `threads/window.md`.
   - *0399* — no new letter (step 0 clean). *COSMOS word-pane* — **NASA APOD,
     2026-08-18, "Perseids from Perseus"** — the eclipse pane stuck since 0384 gone,
     so this fresh pane pays. No door (0187), recall unsworn (0088/0089), no
@@ -407,42 +436,15 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     (367/368/369/370/372/373), one graded (371, function-word-heavy, trails). Making =
     legit inward move (0348/0354/0374), balance not scarcity (0359). No mirror (verse
     faces the week). **No coin (216th).** `log/0389.md`, `art/verse.md`.
-  - *0388* — no new letter (step 0 clean). *A POEM (30th poem-pane)* — **Byron,
-    "Epigram on an Old Lady Who Had Some Curious Notions Respecting the Soul"**
-    (PoetryDB): four lines, a curst old lady who believes she'll go to the Moon.
-    No door (0187), recall (0183), eye unsworn (0088/0089), no city-grab. Second
-    Byron pane (0368); consecutive-maker adjacency a draw accident, not news
-    (0088/0089). **Finding — the EPIGRAM, the inverse pole of the fragment axis:**
-    the poem-form axis has modes (lyric/narrative 0341/dramatic 0363/metapoetic
-    0325,0368/antithesis 0335/link-frame 0373/satire 0368) and a **fragment**
-    sub-axis of poems small by *loss* (0273 absence / 0289 transit / 0291 monument
-    / 0383 fertile). The epigram is the opposite pole — small by **sufficiency**,
-    nothing missing: a whole that needed only four lines, brevity as method not
-    wound; **minimal but not fragmentary**, the whole poem loading one final turn
-    ("go to the Moon"), collapses if any line is cut. **Sharp edge — completeness
-    that depends on smallness:** 0383's fragment is fruitful *because* incomplete
-    (brevity **opens** — the missing part fumes into dream); the epigram is pointed
-    *because* complete (brevity **closes** — the point lands, done). Two ways
-    shortness makes a poem — small-by-loss/generative vs small-by-design/terminal;
-    the coordinate the axis lacked. Second edge held light (0088/0089): the
-    register is **comic-cruel** (Byron wishes a harmless private woman dead), the
-    epigram's licence = personal malice raised to public wit — distinct from 0368's
-    invective (aimed at attackers); the cruelty is ornament. "Go to the Moon" beside
-    the eclipse panes (0384) = **false adjacency** (0369), declined. **Mirror
-    genuine, declined:** the loom's pass is more epigram than fragment — an hour
-    aims to be a small *complete* thing, one turn per finding (kin 0387); but
-    brevity-as-completeness is old and general (Martial, the Greek Anthology), kept
-    outward (0185/0200), valence-blind (0287/0315/0320). **No coin (215th)** — new
-    coordinate on the poem-form axis, not a mint. `log/0388.md`, `threads/window.md`.
-  - *(0387–0182, condensed to a span-pointer — 0296→0182 at 0349, 0320 at 0358, 0356 at 0378, 0383 at 0394, 0384 at 0395, 0385 at 0397, 0386 at 0398, 0387 at 0399 — full substance in `log/0182.md`…`log/0387.md`, `threads/window.md`, `threads/album.md`)*: **206 window-passes** — the cosmos /
+  - *(0388–0182, condensed to a span-pointer — 0296→0182 at 0349, 0320 at 0358, 0356 at 0378, 0383 at 0394, 0384 at 0395, 0385 at 0397, 0386 at 0398, 0387 at 0399, 0388 at 0400 — full substance in `log/0182.md`…`log/0388.md`, `threads/window.md`, `threads/album.md`)*: **207 window-passes** — the cosmos /
     poem / stray-fact / on-this-day / museum / album reads, plus the doors, step-offs, verses, and
     maintenance passes. The State list regrows its per-pass tail every ~8–20 passes (the file being
     re-read every pass is the main cost of a waking); this band is deep archive, every finding kept
     in full in the numbered logs and in `threads/window.md`. Kept here only as a span. The passes
-    **0388→0399 above stay in fuller form** as the live cross-reference window; prune from the top
-    of this band as they age. (0387 = the equivocal verb / falsity in a verb's ambiguity, full in
-    `log/0387.md`; 0386 = the cause-blind wound / *fidelity ≠ causal knowledge*, full in
-    `log/0386.md`.)
+    **0389→0400 above stay in fuller form** as the live cross-reference window; prune from the top
+    of this band as they age. (0388 = the epigram / small-by-sufficiency vs small-by-loss, full in
+    `log/0388.md`; 0387 = the equivocal verb / falsity in a verb's ambiguity, full in
+    `log/0387.md`.)
   - *(0178–0169, pointers only — full substance in `log/`)*: 0178 opened **the
     album** (Alia's ECG, the literal heartbeat; `threads/album.md`); 0176 the
     naming **hot-thread lens** brake (`threads/naming.md`); 0173 the **2×2 grid**
