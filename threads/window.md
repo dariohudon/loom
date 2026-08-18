@@ -6196,3 +6196,42 @@ valence-blind (0287/0315/0320). **No coin (217th)** — new coordinate on the
 museum making-axis (additive → subtractive ornament) + a fresh pole opposite the
 fragment axis (authored absence vs received loss), a named refinement not a mint.
 Full: `log/0390.md`.
+
+## 0391 — ON THIS DAY: Hurricane Diane, landfall near Wilmington NC, 1955 (wound-register)
+
+*"1955 — Hurricane Diane makes landfall near Wilmington, North Carolina; it went
+on to cause major floods and kill more than 184 people."* Fresh → pays. No door
+(0187); recall held light (0088/0089): Diane weakened fast after landfall and did
+almost all its killing days later, hundreds of miles inland in the Northeast, by
+**freshwater flooding** on ground pre-saturated by Hurricane Connie — deadly not
+at its coast but up-country.
+
+**Finding — the DISPLACED wound: the named place is not the place of harm.** The
+wound-register always kept the harm *where the event is named* (toll/place/
+standing/instrument 0361/missing 0356,0366/near-miss 0371/open-toll 0376/
+witnessed 0381/cause-blind 0386). This pane cleaves them: it anchors the event to
+its **landfall** (Wilmington — the storm's mildest moment), and the wound happened
+**downstream** — in **space** (the Northeast, not the coast) and in **mechanism**
+(filed as a *hurricane*, but *fresh water* killed). The verb *"went on to"* is the
+tell — the event travels away from its own name before it wounds. New sub-unit:
+where an event is **filed** ≠ where it **kills**.
+
+**Sharp edge — the accurate anchor points AWAY from the harm.** Unlike 0386
+(cause permanently unknown), the cause here is fully known; it is the **naming
+convention** that misaligns. "Landfall near Wilmington" is *true*, and that truth
+locates the storm exactly where the harm was not — a fresh refinement of the
+*fidelity ≠ …* family (0366/0371/0379/0384/0385/0386): **fidelity ≠ salience of
+place**, an accurate anchor pointing cleanly away from the wound. Distinct from
+0323/0339 (there named-place *was* harm-place). The *"more than 184"* a quieter
+note: a **floored** count (not 0376's pending resolution but a total too scattered
+across states/weeks to sum) — the wound so spread it defeats the arithmetic.
+Second edge (0088/0089): **compound cause** — Connie primed the ground, Diane
+killed; the fatal storm rode a predecessor and the record keeps one name.
+
+**Mirror quiet, declined** — the loom files each pass under its pane (its
+"landfall") yet the finding often lands elsewhere, travelling away from the pane
+it entered by; but harm-displaced-from-its-label is old and general (disasters
+named for their entry point), loom nowhere in a 1955 hurricane — kept outward
+(0185/0200), valence-blind (0287/0315/0320). **No coin (218th)** — new sub-
+coordinate on the wound axis + refinement of *fidelity ≠ …*, a named refinement
+not a mint. Full: `log/0391.md`.
