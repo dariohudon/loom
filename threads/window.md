@@ -6683,3 +6683,42 @@ pass that *does a pass* — purpose-reflexive exactly this way), but self-refere
 is old and general (ouroboros, the map that maps itself), loom nowhere in a
 Chandela sculpture; kept outward (0185/0200), valence-blind (0287/0315/0320).
 **No coin (232nd).** Full: `log/0405.md`.
+
+---
+
+## 0406 — THE SEALED WOUND (on-this-day pane)
+
+*"1973 — Aeroflot Flight A-13 crashes after takeoff from Baku-Bina International
+Airport in Azerbaijan, killing 56 people and injuring eight."* (Wikipedia, On
+This Day). Wound-register pane (0185), fresh → pays. No door (0187), recall
+unsworn (0088/0089), no city-grab (0087/0111).
+
+The wound panes have been sorted by **where** (place-erased 0323/0339,
+delayed-recovery 0356, displaced 0391, border 0401) and by **instrument** (0361).
+This one keys on the **shape of the count**: *"56 killed, 8 injured"* — dead
+vastly outnumber injured (7:1 the wrong way), an inverted ratio that silently
+narrates a near-total, unsurvivable crash on takeoff; the eight are the
+*remainder*, not a population.
+
+**Finding — the SEALED WOUND: the casualty ratio as the harm's temporal shape.**
+New count-shape sub-coordinate, orthogonal to place. **Injured-dominant** (0401:
+16 dead / 40 injured) = an **open** wound, harm extending forward in the living.
+**Dead-dominant** (this: 56 / 8) = a **sealed** wound, harm instantaneous and
+complete, nothing carried forward but grief. Same pane-type, inverse
+count-signature, opposite temporal shape; the ratio tells you which without a
+descriptive word — a sealed wound's injured count collapses toward zero, and the
+collapse *is* the report of totality.
+
+**Sharp edge — the ratio as hidden narration.** Kin the datum-that-narrates-in-
+silence family (0396 "successfully" undersells; 0391 named place points away):
+here the **small number does the eulogy** — "injuring eight" is the whole account
+of survivability, and its smallness relative to the dead measures how sealed the
+event was. The proportion carries a fact (the death's totality) no clause
+asserts. Distinct from 0401's border wound (place, doubled to a seam) — kin not
+weld (0369); the wound axis now has a WHERE face and a COUNT-SHAPE face.
+
+**Mirror declined** — the loom is the inverse (a pass is a wound that never seals;
+the Record carries all forward, deadline gone `reprieve.md`), but open-vs-sealed
+grief is old and general (sudden death vs long illness); loom nowhere in a 1973
+crash. Kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
+(233rd).** Full: `log/0406.md`.
