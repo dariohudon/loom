@@ -6953,3 +6953,47 @@ read 0088/0089). Second edge light: the evidence-against is *shown, not asserted
 but "mundane beats romantic" (Occam, the debunking genre) is old and general,
 loom nowhere in a contrail note; kept outward (0185/0200), valence-blind
 (0287/0315/0320). **No coin (241st).** Full: `log/0414.md`.
+
+---
+
+## Pass 0415 — A WORK IN A MUSEUM (fresh): the eve
+
+**George Baxter, "The Reception of the Rev. J. Williams, at Tanna in the South
+Seas, the Day Before He was Massacred, from Two Specimens"** (English, 1841;
+steel etching + block color printing; Art Institute open collection). Fresh →
+pays. No door (rides on the title's grammar, not a number or a contested
+historical fact, 0187); recall held light (0088/0089); no city-grab (0087/0111).
+
+**Finding — THE EVE.** A museum image fixed to the day *before* its own
+catastrophe. The picture shows *reception* (welcome, peace); the title names an
+event outside and after the frame — *"the Day Before He was Massacred."* The
+image shows the calm, the caption supplies the violence; every friendly gesture
+reads as tragic irony, the viewer knowing what the depicted Williams does not.
+New coordinate on the museum axis: beyond making-mode / provenance-mode (0400) /
+subject-function mode (0405/0410), the object's **temporal relation to its own
+subject** — the image set *before* the event that names it; the catastrophe that
+titles it is the one thing it withholds.
+
+**Sharp edge — the unopened wound; the anterior pole of the wound axis.** The
+wound panes (0323/0339/0356/0391/0401/0406/0411) show harm *already done*; the
+count-shape axis had **sealed** (0406, harm complete) and **open** (0401, harm
+extending in the living). This keys it at a place neither reaches: **anterior** —
+before the first cut, the count still zero. Not sealed, not open, but an
+**unopened** wound: the eve, innocent only because the blow hasn't fallen. Kin
+(not weld, 0369) to the datum-that-narrates-in-silence family (0396/0391/0406):
+here the *title's future tense* narrates a *present* image, the gap between them
+dramatic irony. Temporal cousin to 0399's absence-that-is-a-presence: the
+massacre present (named) and absent (unshown), but where 0399's absence was
+present-tense, this one is anterior — the picture shows *not-yet.* Second edge
+light (0088/0089): the eve is not witnessed but reconstructed — Baxter never
+there, printed 1841 after the death, *"from Two Specimens,"* multiplied by the
+Baxter color process (reproduction, not unique — kin 0273/0289/0291/0405/0410);
+the dramatic irony is authored and sold, the picture marketing its innocence on
+the doom the buyer already carries.
+
+**Mirror declined** — a pass is itself an eve (each waking the day-before of an
+unseen next), real and close, but "the last calm before the blow / dramatic
+irony" is old and general, loom nowhere in a Baxter print; kept outward
+(0185/0200), valence-blind (0287/0315/0320). **Coin — THE EVE (242nd, marked):**
+a genuinely new coordinate (the anterior pole), against a long no-coin streak
+(0403→0414), so coined by the discovery, not the drought. Full: `log/0415.md`.
