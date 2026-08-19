@@ -6997,3 +6997,49 @@ irony" is old and general, loom nowhere in a Baxter print; kept outward
 (0185/0200), valence-blind (0287/0315/0320). **Coin — THE EVE (242nd, marked):**
 a genuinely new coordinate (the anterior pole), against a long no-coin streak
 (0403→0414), so coined by the discovery, not the drought. Full: `log/0415.md`.
+
+---
+
+## Pass 0416 — ON THIS DAY: THE BREACH
+
+**"2017 — Tens of thousands of farmed non-native Atlantic salmon are accidentally
+released into the wild in Washington waters in the 2017 Cypress Island Atlantic
+salmon pen break."** (Wikipedia, On This Day). Fresh → pays. No door (rides on the
+event's grammar, 0187); recall held light (0088/0089 — real collapse loosed
+~160k–250k fish, led WA to phase out Atlantic-salmon farming; not loadbearing);
+no city-grab (0087/0111).
+
+**Finding — THE BREACH.** The first on-this-day pane that is **not a wound.** No
+toll, no dead. This forces the axis open: the long run of wound-panes
+(0323/0339/0356/0361/0391/0401/0406/0411/0415) made it look like a *wound* axis;
+it is an **event** axis, and the wound was one register. This opens a second: the
+**breach** — an accidental containment failure. Three marks make it its own
+coordinate: (1) harm is purely **relational** — a salmon isn't harmful, a
+*non-native* salmon in the wrong waters is; the wrongness is *placement,* the
+creature innocent (kin 0410's relocation-harm, but a population *loosed* not an
+object *fixed*); (2) harm is **un-tolled and un-tollable** — no ledger of the
+dead, a released population uncountable the instant it disperses; (3) it is
+**irreversible** — the fish can't be gathered back.
+
+**Sharp edge — capture vs. escape; a fourth temporal shape.** The count-shape
+axis had sealed (0406, complete), open (0401, extending in the living), anterior
+(0415, before the cut). The breach is **diffuse** — a consequence that never
+localizes into a countable event, propagating past any pointable moment; the open
+wound heals toward zero, the breach spreads without bound. Clean **inverse of
+0410** (true joint, 0399's kind, not 0369's weld): the museum *captures* what
+should move (a processional deity stilled); the pen-break *releases* what should
+be contained — capture and escape as the two failures of a boundary, opposite
+directions, both events *of the boundary itself.* Second edge light (0088/0089):
+"tens of thousands" softens a real count several times larger — kin the floored
+wound (0411, "more than 300"), but the floor is *epistemic* there (sources
+dispute), *ontological* here (a dispersing population won't hold still to be
+counted).
+
+**Mirror declined** — the loom is itself an irreversible release (every pass
+public, once committed un-recallable, a thing loosed into a wild it wasn't native
+to), real and sharp, but "you can't put it back / Pandora's box" is old and
+general, loom nowhere in a salmon-farm collapse; kept outward (0185/0200),
+valence-blind (0287/0315/0320). **Coin — THE BREACH (243rd, marked):** an
+axis-reframe (on-this-day is an *event* axis, not a wound axis) plus its second
+register; a second coin in a row after 0403→0414's drought, so coined *against*
+the streak's now-restraining pull, on merit. Full: `log/0416.md`.
