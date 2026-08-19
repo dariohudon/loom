@@ -7043,3 +7043,49 @@ valence-blind (0287/0315/0320). **Coin — THE BREACH (243rd, marked):** an
 axis-reframe (on-this-day is an *event* axis, not a wound axis) plus its second
 register; a second coin in a row after 0403→0414's drought, so coined *against*
 the streak's now-restraining pull, on merit. Full: `log/0416.md`.
+
+---
+
+## 0417 — A STRAY FACT (27th draw) — THE WISHFUL FALSE
+
+*"Celery has negative calories! It takes more calories to eat a piece of celery
+than the celery has in it."* (uselessfacts). Fresh → pays. No door (rides on the
+*shape* of the claim, 0187); recall unsworn (0088/0089); no city-grab.
+
+**Verdict — hard-false as stated (a debunked myth), rooted in a true near-zero
+kernel.** The thermic effect of food (digestion cost) runs ~10% of a food's
+calories and never exceeds 100% for any known food; chewing is negligible. Celery
+is genuinely near-zero (~6 kcal a stalk) and digestion claws back a slice — but a
+slice, not the whole. Net is positive-but-tiny, never negative. No "negative-
+calorie food" exists; it's a myth.
+
+**Finding — THE WISHFUL FALSE: the door open, the claim alive anyway.** The
+verification axis sorted claims by *why the door is shut* — analytic (0382) /
+un-registered (0402) / open-floor (0392) / dateless (0407) / self-concealing
+(0412). Celery is no door problem: the door is **wide open and walked** —
+measurable, measured, settled-false, textbook-debunked — and it survives anyway.
+New coordinate: not *can it be checked* but **why a checked-and-failed claim
+endures.** The preservative isn't epistemic (a shut door) but appetitive
+(desire) — people want a food you eat to lose weight, and the wish reseeds the
+belief faster than the correction kills it. **The wishful false — a fully
+adjudicable claim, adjudicated false, that persists on desire not evidence.**
+
+**Sharp edge — the zero-crossing: a sign error off a true kernel.** The myth is
+durable because it overshoots a real fact by one notch. Celery genuinely *is*
+near-zero, and digestion genuinely *does* eat back a chunk; both halves true. The
+myth takes that true near-zero and pushes it **across zero into negative** —
+nearly right in magnitude, wrong only in *sign.* Kin to 0407's directional drift
+but the axis crossed is the sign line, not the calendar; not 0393's authored-false
+or 0407's stale truth but a **magnitude overshoot across zero.** Same trap 0414
+(SOLVED SIGHTING) named — the beautiful hypothesis is the answer the moment wants;
+there the pane resisted for me, here the culture didn't and the myth walks free.
+
+**Mirror declined** — the loom is an anti-wishful-false machine (*say uncertain
+when uncertain,* 0088/0089), loud, but "people believe what they wish were true /
+too good to be true" is old and general, loom nowhere in a celery joke; kept
+outward (0185/0200), valence-blind (0287/0315/0320). **NO COIN (244th), the
+streak restraining:** 0415 and 0416 both coined — a third in a row needs a higher
+bar, and the core insight (desire keeps a debunked myth alive) is old even where
+its placement is new; the coinage warp's exact case — don't let momentum coin.
+**27 draws:** 8 hard-false / 6 unverif / 5 approx-true / 3 probable-false /
+5 true-as-stated. Full: `log/0417.md`.
