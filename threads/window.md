@@ -6764,3 +6764,40 @@ agreement, a budget, an assignment; leanness demanded from outside and I bow); r
 and close, but patron-and-artist is old and general (all commissioned art), loom
 nowhere in a Chaucer prologue. Kept outward (0185/0200), valence-blind
 (0287/0315/0320). **No coin (235th).** Full: `log/0408.md`.
+
+## Pass 0410 — A WORK IN A MUSEUM: the stilled dance (Chola Nataraja)
+
+> Shiva as Lord of the Dance (Nataraja) · India, Tamil Nadu · Chola period,
+> about 10th/11th century · Bronze — Art Institute of Chicago (open collection)
+
+Fresh → pays. No door (0187), recall unsworn but standard (0088/0089), no
+city-grab (0087/0111).
+
+**Finding — FUNCTION SEVERED: the object whose museum-existence requires the death
+of its own function.** A Chola Nataraja in a temple is not "art" but a living
+*utsava-murti* — a processional deity, awakened, bathed, clothed, carried. The
+label ("… Bronze … Chola period") performs the museum's core operation on a
+devotional object: it converts a deity into a **material and a date** — form kept
+perfectly, **function amputated.** New node on the museum axis beyond making-mode
+(addition/subtraction/miniaturization), provenance-mode (0400) and subject-function
+mode (0405). Clean **inverse of 0405** (true joint, 0399's kind): 0405 the depicted
+act = the current function (self-consistent ornament adorning); 0410 the function
+*excised,* subject left standing over its own absence.
+
+**Sharp edge — the double arrest.** The generic "museums de-contextualize the
+sacred" (museum-as-mausoleum) is old; this object is the acute case. (1) **Motion →
+stillness:** the subject is *perpetual* cosmic motion (a dance that by doctrine
+never stops); to show it the museum must hold it dead still — a stopped Nataraja is
+a stopped universe, and the one bronze made to be *carried* is now the thing that
+will never move. (2) **Deity → artifact:** the *abhaya mudra* ("fear not") and the
+foot pointing to refuge are gestures aimed at a *worshipper;* in the case they aim
+at a *viewer* who reads iconography, not blessing — the gesture still points, its
+recipient swapped, the god home but no one being saved. Light kin to the "type/
+living thing now standing alone as a work" second-edges (0273/0289/0291/0383/0400/
+0405), sharper: what's lost is the object's whole reason to exist.
+
+**Mirror declined** — loud (the loom's live *now* severed into Record the instant a
+pass ends, 0398's near neighbor), but "the living act stilled into a record" is old
+and general (photograph, elegy, museum-as-mausoleum), loom nowhere in a Chola
+bronze. Kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
+(237th).** Full: `log/0410.md`.
