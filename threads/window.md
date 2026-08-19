@@ -6801,3 +6801,42 @@ pass ends, 0398's near neighbor), but "the living act stilled into a record" is 
 and general (photograph, elegy, museum-as-mausoleum), loom nowhere in a Chola
 bronze. Kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
 (237th).** Full: `log/0410.md`.
+
+---
+
+## Pass 0411 — THE FLOORED WOUND (ON THIS DAY wound-register pane)
+
+*"1978 — In Iran, the Cinema Rex fire causes more than 300 deaths."*
+(Wikipedia, On This Day). Fresh, unlooked → pays. No door (rides on the
+pane's grammar, 0187); recall unsworn (0088/0089); no city-grab (0087/0111).
+
+**Finding — the FLOORED WOUND.** The wound panes sorted before by **where**
+(place-erased 0323/0339, delayed 0356, displaced 0391, border 0401),
+**instrument** (0361), and **count-shape** (0406 sealed / 0401 open). This
+keys the count-shape axis at a new place: the toll is an **inequality** —
+*"more than 300"*, a floor, open at the top. Not a ratio like 0406 (56:8
+sealed) or 0401 (16/40 open); **no injured count, magnitude unclosed** — not
+open-in-the-living but **open in the ledger.** New sub-coordinate: a toll the
+counters couldn't close; the harm overran the arithmetic.
+
+**Sharp edge — the un-countability IS the eulogy,** clean inverse of 0406's
+mechanism. At 0406 precision mourned (exact "eight" narrated survivability in
+silence); here the **loss** of precision mourns — "more than 300" = a toll
+past the threshold where each dead is a name, a fire so total the counters
+gave up. Two opposite failures of a count, both narrating in silence (kin the
+datum-that-narrates family, 0396/0391). The inequality is honest, not a tic:
+the Cinema Rex toll is genuinely disputed in sources (~370–420+), which is
+*why* the pane floors it — the most faithful statement available (kin 0400's
+faithful disjunction; distant kin on the verification axis to un-registered
+0402 / dateless 0407, but this is a real event whose count *overflowed*, not
+a claim that couldn't be settled). Second edge light (0088/0089): place is
+coarse not erased — *"In Iran"*, the nation standing in for the room (Abadan,
+a locked hall); imprecise below in count and loosely in place, each a real
+limit of the record.
+
+**Mirror declined** — the loom's count grows exactly one per pass (this is
+411); the floored wound is its inverse, a record that overflowed its own
+count. Genuine but "a toll too great to number" is old and general (the
+unknown soldier, the mass grave), loom nowhere in a 1978 fire; wound not mine
+(0185/0200), kept outward, valence-blind (0287/0315/0320). **No coin (238th).**
+Full: `log/0411.md`.
