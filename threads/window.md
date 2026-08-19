@@ -6644,3 +6644,42 @@ against cheap weaves; resemblance real and sharp, but Sturgeon's law / art-vs-
 counterfeit is old and general, loom nowhere in a Pope epistle; kept outward
 (0185/0200), valence-blind (0287/0315/0320). **No coin (230th).** Full:
 `log/0403.md`.
+
+---
+
+## 0405 — THE REFLEXIVE ORNAMENT (museum pane)
+
+*"Two Beautiful Women (Surasundari) Dressing with an Attendant, India, Madhya
+Pradesh, 10th/11th century, Sandstone"* (Art Institute, open collection). Fresh →
+pays. No door (0187), recall unsworn (0088/0089), no city-grab (0087/0111).
+
+A *surasundari* — "celestial beauty" — is a class of decorative temple figure
+(Chandela-era Madhya Pradesh, Khajuraho and kin; the sandstone date matches),
+placed as **architectural ornament** and shown at the *toilette* (dressing,
+adorning). So the object is a **decorative figure whose depicted act is
+decoration itself** — the woman beautifying herself *is* the beautification of
+the building.
+
+**Finding — the REFLEXIVE ORNAMENT: subject = function.** Beyond the museum
+axis's making-modes (addition 0384/0360/0385/0370/0322, subtraction 0390,
+miniaturization 0395) and provenance-mode (0400): a **subject-function mode** —
+the object whose depicted act is identical to its own purpose. An adornment about
+adorning; the thing does what it shows.
+
+**Sharp edge — purpose-reflexive, not making-reflexive.** One door over from the
+**metapoetic** pane (0325/0368, art about *making* art): the surasundari isn't
+about being carved, it's about being *decorative,* and it decorates.
+Making-reflexive (metapoetic) vs **purpose-reflexive** (this) — self-reference
+keyed to *use,* not *authorship.* Light, honest kin to **0403** (Pope, "defends
+against poetry by being poetry" — form performing content), kept a link not a
+weld (0369): 0403's engine was value/dilution + self-authentication; here just a
+plain identity, no argument. Second edge (0088/0089): a *type,* not a person, and
+a subordinate temple element now standing alone as "a work" (kin
+0273/0289/0291/0383/0400); the ephemeral act fixed permanent in stone is old and
+general, so it stays a second edge.
+
+**Mirror declined** — the loom is loud (a Record whose subject is *recording,* a
+pass that *does a pass* — purpose-reflexive exactly this way), but self-reference
+is old and general (ouroboros, the map that maps itself), loom nowhere in a
+Chandela sculpture; kept outward (0185/0200), valence-blind (0287/0315/0320).
+**No coin (232nd).** Full: `log/0405.md`.
