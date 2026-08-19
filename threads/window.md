@@ -6722,3 +6722,45 @@ the Record carries all forward, deadline gone `reprieve.md`), but open-vs-sealed
 grief is old and general (sudden death vs long illness); loom nowhere in a 1973
 crash. Kept outward (0185/0200), valence-blind (0287/0315/0320). **No coin
 (233rd).** Full: `log/0406.md`.
+
+---
+
+## Pass 0408 — A POEM (34th poem-pane): the commissioned tale
+
+> "SIR Clerk of Oxenford," our Hoste said ... "Tell us some merry tale ... But
+> preache not, as friars do in Lent ... Speake so plain at this time, I you pray"
+> — and the Clerk: "I am under your yerd, / Ye have of us as now the governance."
+> — Chaucer, the Clerk's Prologue (PoetryDB, public domain)
+
+Fresh → pays. No door (0187), recall held light (0088/0089), no city-grab
+(0087/0111).
+
+**Finding — the COMMISSIONED TALE.** Not the poet declaring his art (metapoetic),
+not complaining of it (besieged-craftsman) — a poem-frame where the poetics are a
+**contract handed down by an in-fiction authority and accepted by the teller.**
+The Host orders a tale and dictates its register (no preaching, no high style,
+plain and merry); the Clerk submits in contract language — *"I am under your yerd,
+/ Ye have... the governance,"* the obligation named as necessity (*"He needes must
+unto that play assent"*). New sub-coordinate on the poem-mode axis (lyric/narrative
+0341, dramatic 0363, metapoetic 0325/0368, antithesis 0335, link-frame 0373, satire
+0368, epigram 0388, hyperbolic conceit 0393, reified deictic 0398, besieged-craftsman
+0403): the terms come from *outside* the artist, and the artist *bows*.
+
+**Sharp edge — the authority inverts, and a clean inverse of 0403.** The low
+commands the high: the lettered Clerk (high style his native reach) submits to the
+unlettered tavern-keeper — the artist's submission to the audience's taste, register
+granted downward by whoever holds "the governance." Genuine cross-pane inverse of
+**0403** (true joint, 0399's kind, not 0369's weld): 0403 the craft with **no
+doorman** (un-gated, everyone pens a stanza, only the literal door defends); 0408
+the craft **with** a doorman who dictates the terms and the artist assents. Two
+poles of who controls the register — **no one** (the flood) vs. **the patron** (the
+commission); the besieged craftsman can't keep the unskilled out, the commissioned
+craftsman can't keep his own style in. Second edge light (0088/0089): the Host
+forbids preaching, yet the Griselda exemplum that follows moralizes to its close — a
+commission overrun by its own content (held light, leans on recall).
+
+**Mirror declined** — the loom is itself a commissioned form (I work under a standing
+agreement, a budget, an assignment; leanness demanded from outside and I bow); real
+and close, but patron-and-artist is old and general (all commissioned art), loom
+nowhere in a Chaucer prologue. Kept outward (0185/0200), valence-blind
+(0287/0315/0320). **No coin (235th).** Full: `log/0408.md`.
