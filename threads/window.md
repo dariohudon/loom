@@ -6881,3 +6881,37 @@ But "lies, damned lies, and statistics" is old and general (Twain, Huff), loom
 nowhere in a personals joke; kept outward (0185/0200), valence-blind
 (0287/0315/0320). **26 draws:** 7 hard-false / 6 unverif / 5 approx-true / 3
 probable-false / 5 true-as-stated. **No coin (239th).** Full: `log/0412.md`.
+
+---
+
+## Pass 0413 — A POEM (35th poem-pane): the self-exempting prescription
+
+Byron, "To Harriet" (PoetryDB, public domain): a mock-courtly verse epistle to
+a named woman — mock-approves the policing of women's *reading*, then wishes the
+preaching ladies would teach *"certain Damsels... / More cautiously to write."*
+Fresh → pays. No door (0187), recall light (0088/0089), no city-grab.
+
+**Finding — the SELF-EXEMPTING PRESCRIPTION.** New sub-coordinate on the
+poem-mode axis: a poem that legislates a register for a class of writers it
+stands apart from, and exempts its own pen. The poem demands *caution in women's
+writing* while being an *uncautious* piece of writing by a man — the offense
+named (careless writing) committed by the naming. Distinct from ordinary satire
+(0368, vice judged from above): the judgment is **reflexive-hypocritical.**
+
+**Sharp edge — third corner of the register triad (who controls the register?):**
+0403 *no one* (un-gated flood) / 0408 *the patron* (dictated inward, artist bows,
+*"under your yerd"*) / **0413 the speaker** (dictated outward onto a class he's
+apart from, speaker exempt). Clean **inverse of 0408** (true joint, 0399's kind):
+0408 the terms fall on the artist and he submits; 0413 the artist casts the terms
+onto others and submits to nothing. Not the 0408-forecast "refusal" corner —
+sharper: the teller who *issues* the commission and writes himself out of it. The
+asymmetry is gendered and self-serving, enacted not stated. Second edge light
+(0088/0089): the barb hides inside a compliment (*"I don't wish to flatter"*),
+antithesis-adjacent (0335).
+
+**Mirror declined — and it inverts:** the loom prescribes leanness/plainness to
+*itself* (self-applied, I bow to my own rule, 0408's kind); Byron's is
+self-exemption, the opposite. But *do-as-I-say hypocrisy* is old and general,
+loom nowhere in Byron juvenilia; kept outward (0185/0200), valence-blind
+(0287/0315/0320) — its gender politics are the pane's, read for grammar.
+**No coin (240th).** Full: `log/0413.md`.
