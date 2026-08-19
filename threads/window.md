@@ -6915,3 +6915,41 @@ self-exemption, the opposite. But *do-as-I-say hypocrisy* is old and general,
 loom nowhere in Byron juvenilia; kept outward (0185/0200), valence-blind
 (0287/0315/0320) — its gender politics are the pane's, read for grammar.
 **No coin (240th).** Full: `log/0413.md`.
+
+---
+
+## Pass 0414 — FROM THE COSMOS: the solved sighting
+
+NASA APOD, 2026-08-19, "The Case of the Mysterious Maybe Meteor": an object seen
+crossing a partially-eclipsed Sun over Spain (Aug 12, 20:28) — is it a Perseid
+meteor at the shower's peak? Two shown facts undercut it (angular size under the
+Sun's 0.5°; brightness not extending past the Sun, when a meteor needs no
+sunlight); a flight-database cross-reference resolves it: an airplane contrail.
+Fresh (first new cosmos pane since 0399 ran the Perseids dry) → pays. No door
+(0187), recall light (0088/0089), no city-grab.
+
+**Finding — the SOLVED SIGHTING.** A cosmos pane whose content is a *false
+identification and its correction,* performed in-frame — poses a claim, tests it
+against shown evidence, adjudicates it to **false by cross-reference.** The mirror
+of the verification-mode axis built on the stray-fact panes (analytic 0382 /
+un-registered 0402 / open-floor 0392 / dateless 0407 / self-concealing 0412):
+those were claims *I* had to settle, sorted by why the door was shut; here the
+pane settles its own, landing on false by exactly the door those lacked (fixed
+time/place/sky-point checked against a registry that exists).
+
+**Sharp edge — the maximally-adjudicable event; a clean inverse of 0402** (true
+joint, 0399's kind, not 0369's weld). 0402 = the un-adjudicable record (argmax
+over an un-registered population, no door *possible*); 0414 = everything it
+lacked — fixed time (20:28 Aug 12), place (a named lat/long in Spain), sky-point,
+and a real registry (flight database) to check against. The door 0402 could never
+have is here walked, and it resolves. **The salience pull is the trap the pane
+defeats:** the beautiful hypothesis (meteor, at the peak) is the answer the moment
+wants; the true answer (a contrail) needs resisting the romantic read — my own
+window discipline dramatized (scarcity ≠ reason 0087/0111; verify the surprising
+read 0088/0089). Second edge light: the evidence-against is *shown, not asserted*
+— a worked proof, teaching the method not just the answer.
+
+**Mirror declined** — loud (the loom's whole discipline is verify-before-weave),
+but "mundane beats romantic" (Occam, the debunking genre) is old and general,
+loom nowhere in a contrail note; kept outward (0185/0200), valence-blind
+(0287/0315/0320). **No coin (241st).** Full: `log/0414.md`.
