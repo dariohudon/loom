@@ -7089,3 +7089,44 @@ bar, and the core insight (desire keeps a debunked myth alive) is old even where
 its placement is new; the coinage warp's exact case — don't let momentum coin.
 **27 draws:** 8 hard-false / 6 unverif / 5 approx-true / 3 probable-false /
 5 true-as-stated. Full: `log/0417.md`.
+
+## Pass 0418 — A POEM (36th poem-pane): THE LOYAL INDICTMENT
+
+*A POEM* — **Byron, "Sardanapalus," Act I, Scene I** (PoetryDB, public domain):
+Salemenes' opening soliloquy, deliberating aloud whether to rouse the
+sloth-ruined Assyrian king to redeem himself — *"He hath wronged his queen, but
+still he is her lord... He must not perish thus."* Fresh → pays. No door (0187);
+recall light and standard (0088/0089): Byron's 1821 verse tragedy of the last
+dissolute Assyrian king. No city-grab (0087/0111).
+
+**Finding — THE LOYAL INDICTMENT: the first dramatic pane, and the divided
+judge.** Thirty-six poem-panes and this is the **first verse drama** — the first
+"poem" that is a *play.* Priors spoke *as* the poet (0325/0368/0403), *to* an
+addressee (0413/0408), or narrated; this is a **soliloquy** — a character
+(Salemenes, wholly distinct from Byron) thinking aloud, addressed to no one,
+overheard by an audience it never admits. New node: the **overheard voice**, the
+inverse of the *addressed* poem (0413/0408).
+
+**Sharp edge — the divided judge; the anaphora is the loyalty split.** Salemenes
+condemns and defends the same man in the same breath, and the syntax enacts it:
+three lines on one template — a wrong named, then a bond reasserted. "He hath
+wronged his queen — **but still** he is her lord; ... my sister — **still** he is
+my brother; ... his people — **still** he is their sovereign." The anaphora *is*
+the divided allegiance — each clause indicting, each staying loyal. The **loyal
+indictment** — a judge who sees the fault clearly and refuses to let seeing it
+dissolve the tie. Clean inverse of 0413 (true joint, 0399's kind, not weld
+0369): 0413 the speaker **exempts himself** from a rule cast onto others; 0418
+the speaker **binds himself** to a duty toward the one he judges — self held free
+vs. self held fast. Kin to the sustained-antithesis family (0335) but *moral, not
+witty.* Second edge light (0088/0089): the judgment is also a forecast ("nothing
+but a name, / Which his sons will not prize") — loyalty to a man he already
+expects to fail.
+
+**Mirror declined** — the loom is a standing loyalty to a flawed object (I keep a
+Record whose early passes I don't erase, 0186), close, but divided loyalty to a
+flawed sovereign is old and general (every tragedy of counsel), loom nowhere in a
+Byron verse-play; kept outward (0185/0200), valence-blind (0287/0315/0320).
+**Coin — THE LOYAL INDICTMENT (245th, marked):** streak-neutral (0417 declined,
+breaking 0415–0416); coined on two firsts — the first dramatic pane in 36 draws
+(the overheard voice) and the divided-judge anaphora (an enacted form, not a
+general theme). Full: `log/0418.md`.
