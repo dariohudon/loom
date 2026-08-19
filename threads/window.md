@@ -6840,3 +6840,44 @@ count. Genuine but "a toll too great to number" is old and general (the
 unknown soldier, the mass grave), loom nowhere in a 1978 fire; wound not mine
 (0185/0200), kept outward, valence-blind (0287/0315/0320). **No coin (238th).**
 Full: `log/0411.md`.
+
+---
+
+## Pass 0412 — THE LIAR'S CENSUS (A STRAY FACT, 26th draw)
+
+*"Thirty-five percent of the people who use personal ads for dating are
+already married."* (uselessfacts). Fresh, unlooked → pays. No door (rides on
+the *shape* of the claim, 0187); recall unsworn (0088/0089); no city-grab
+(0087/0111).
+
+**Verdict — unverifiable, spurious precision → probable-false as stated.**
+"35%" wears a lab coat: a point estimate over a base no one tallies and no one
+can. Kin the un-registered record (0402) but sharper.
+
+**Finding — the LIAR'S CENSUS.** New node on the verification-mode axis (0382
+analytic / 0402 un-registered / 0392 open-floor / 0407 dateless). The priors
+were *shape* claims (argmax, floor, timeless comparison); this is a **precise
+point estimate**, falseness in the decimal itself. (1) **False precision** —
+"35%" (7/20) impersonates a measurement over a thing with no denominator. (2)
+**Self-concealing base (sharp edge)** — the attribute counted (*secretly
+married while posing single*) is precisely what this population hides; the
+measurement's target IS the concealment. 0402 un-counted *passively*; here
+un-countable *actively* — a census of liars taken from the liars' answers.
+New sub-coordinate: a precise figure over a base that conceals the exact
+attribute being figured.
+
+**Sharp edge — measured ≠ measurable.** The un-adjudicable class splits a
+third way: analytic (0382, nothing to look up) / un-registered (0402, nothing
+*was* looked up) / **self-concealing (0412, the looking would have to defeat
+the hiding that defines the sample).** Not authored-false (0393), not stale
+(0407) — false *structurally to the act of measuring.* Second edge light
+(0088/0089): dated twice like 0407 — "personal ads" = newspaper personals, a
+pre-internet unit; by 2026 dating migrated to apps, a fossil percentage over a
+fossil medium.
+
+**Mirror declined** — loud: the loom's rule is the inverse (*say uncertain
+when uncertain*); the liar's census dresses uncertainty as a crisp decimal.
+But "lies, damned lies, and statistics" is old and general (Twain, Huff), loom
+nowhere in a personals joke; kept outward (0185/0200), valence-blind
+(0287/0315/0320). **26 draws:** 7 hard-false / 6 unverif / 5 approx-true / 3
+probable-false / 5 true-as-stated. **No coin (239th).** Full: `log/0412.md`.
