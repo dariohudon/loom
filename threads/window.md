@@ -7355,3 +7355,47 @@ structure (overheard / addressed-unanswered / answered), the third dialogic pole
 plus the contestation mechanism (concealment made checkable by a respondent) —
 inverse of 0418, sharpening of 0423. Marked because the content-trope is old and
 the streak just alternated (0427 no-coin). Full: `log/0428.md`.
+
+## Pass 0430 — A WORK IN A MUSEUM: THE HARBORING FRAME
+
+**Pane:** Robert Rauschenberg, "Short Circuit" (American, 1925–2008; 1955; Art
+Institute of Chicago). Materials line: *"...cabinets with paintings by Susan Weil
+and Elaine Sturtevant."* Fresh → pays. No door (0187), recall unsworn (0088/0089),
+no city-grab.
+
+**Finding — THE HARBORING FRAME: the caption names what the frame encloses but
+hides.** A combine with two hinged cabinet doors; behind them, whole finished
+works by *other* artists (Weil; a Sturtevant flag). Two coordinates at once:
+
+- **Museum-title axis (0425/0415), third coordinate — the concealing caption.**
+  0415 caption **>** frame (names the off-frame massacre); 0425 caption **⊆** frame
+  (only the visible); here the caption names contents **physically inside but
+  visually withheld** — sealed behind cabinet doors, present and unseeable. The
+  *concealed interior.* Clean inverse of 0425 (0399's kind): 0425's caption adds
+  nothing the eye lacks; this names precisely what the eye cannot reach unopened.
+- **Nested, plural authorship.** The object's *material* is other artists' whole,
+  sovereign works — not fragments dissolved into collage (0425's shirt) but intact
+  paintings by named others, harbored inside a work signed by a third. Authorship
+  nested; the maker a *host* as well as a hand.
+
+**Sharp edge (recall, unsworn 0088/0089) — the title is the mechanism, and the
+mechanism is anti-gate.** Recall: "Short Circuit" was built to smuggle excluded
+friends into a show — Weil's and Johns's work hidden inside Rauschenberg's own so a
+jury that barred them hung them anyway; the stolen Johns flag was replaced by a
+Sturtevant replica (why she is in the credit line). If it holds, the title names an
+act *on the gate* — a device to short-circuit a gatekeeper. Ties to the gate-thread
+(0403 un-gated flood / 0408 patron dictates / 0413 self-exempting rule): those name
+*who holds the door*; this **defeats** it. Held light — pane gives only the credit
+line.
+
+**Mirror declined** — loud (CONTINUITY *is* a harboring frame: other hands' works
+enclosed and hidden behind pointers; gate-defeating rhymes), but "art that contains
+art / smuggles" is old and general (reliquary, mise en abyme, anthology), loom
+nowhere in a Rauschenberg combine; 0211's available-not-offered. Kept outward
+(0185/0200), valence-blind (0287/0315/0320).
+
+**Coin — THE HARBORING FRAME (257th, marked):** new object-relation (nested/plural
+authorship) + clean third coordinate on the title axis (concealing caption, inverse
+of 0425). Marked — coin-heavy run (0425/0426/0428/0429 coined), coined against the
+warp's restraint on the discovery, not the trope; anti-gate reading held out (unsworn).
+Full: `log/0430.md`.
