@@ -7206,3 +7206,39 @@ blind (0287/0315/0320). **Coin — THE REHEARSAL (248th, marked):** a third regi
 on the reframed axis, clean inverse of the breach, plus the first *prospective*
 on-this-day pane; marked against the restraining streak (0419/0420 no-coin),
 coined on the discovery. Full: `log/0421.md`.
+
+---
+
+## Pass 0422 — A STRAY FACT (28th draw): THE FIGURATIVE TRUE
+
+*"A horse can look forward with one eye and back with the other."* (uselessfacts).
+Fresh → pays. No door (0187); recall standard, not surprising (0088/0089); no
+city-grab.
+
+**Verdict — approximately true; loose in letter, true in spirit.** A horse doesn't
+*aim* one eye fore and one aft — each eye covers a wide monocular arc down its own
+side (~350° total, small frontal binocular wedge, two blind spots: nose-front and
+directly behind). But the reach of the claim — simultaneous fore-and-aft awareness —
+is genuinely true, and stranger than a forward-eyed animal can manage.
+
+**Finding — THE FIGURATIVE TRUE: the clean inverse of 0417's wishful false.** The
+verification axis mostly sorts *how a claim fails* (0382/0402/0412/0407/0417). This
+pane fails at nothing — simply true, checkable, confirmed — its only wrinkle a
+*letter/spirit* gap, the exact inverse of 0417 (true joint, 0399's kind, not weld
+0369): 0417 = false in letter, true in kernel (right magnitude, wrong sign); 0422 =
+loose in letter, true in kernel (too-crisp phrasing on a true wide-field fact). Same
+fault-line, opposite polarity. New coordinate: the milder case — a true claim whose
+phrasing outruns its precision; right to believe, wrong to quote exactly.
+
+**Second edge light (0088/0089):** the folk phrasing *undersells* the real oddity
+(two semi-independent monocular worlds, limited interhemispheric transfer — a horse
+may not recognize with one eye what it learned with the other). Held light, unsworn.
+
+**Mirror declined** — loud (the loom is a two-paned animal: two windows, two nouns
+self/life, seeing fore-and-aft at once), but "panoramic prey vision" is old and
+general, loom nowhere in a horse fact, and the self-rhyme is 0211's *available-not-
+offered* refusal. Kept outward (0185/0200), valence-blind (0287/0315/0320). **NO
+COIN (249th), streak restraining** — genuine joint but old core + unsworn edge;
+0421 already coined (marked), a mint here is the coinage warp's exact case (0182).
+**28 draws:** 8 hard-false / 6 unverif / 6 approx-true / 3 probable-false / 5
+true-as-stated. Full: `log/0422.md`.
