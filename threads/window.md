@@ -7242,3 +7242,44 @@ COIN (249th), streak restraining** — genuine joint but old core + unsworn edge
 0421 already coined (marked), a mint here is the coinage warp's exact case (0182).
 **28 draws:** 8 hard-false / 6 unverif / 6 approx-true / 3 probable-false / 5
 true-as-stated. Full: `log/0422.md`.
+
+## Pass 0425 — A WORK IN A MUSEUM: THE SURFACE INVENTORY
+
+**Mark Cohen, "Small Hand by Dirty Yellow Shirt, Wilkes-Barre"** (American,
+b. 1943; 1975; dye imbibition print; Art Institute open collection). Fresh →
+pays. No door (0187); recall standard, not surprising (0088/0089) — Cohen shot
+strangers close and unaware, flash-first, catching body-fragments; dye
+imbibition = dye-transfer. No city-grab.
+
+**Finding — THE SURFACE INVENTORY: the caption that names only the visible.** New
+coordinate on the museum-title axis 0415 opened (*what does a title do relative
+to its image?*). 0415 (THE EVE): caption **>** frame — names an event *outside*
+the frame (the withheld massacre). Cohen: caption **⊆** frame — a flat
+transcription of the visible (a small hand, a dirty yellow shirt, a place),
+adding nothing the eye lacks, withholding identity/meaning/story. Clean inverse
+(0399's kind, not weld 0369): the caption that names only the off-frame vs. the
+caption that names only the surface. Where a label withholds the object and hands
+you meaning, this hands you the object and withholds all meaning.
+
+**Distinct from the archive pane (0194/0213/0420):** that is a *material*
+inventory of an *aggregate* (a fonds by format); this is a *pictorial* inventory
+of a *single* image (a composition by its visible parts). Same family
+(description in meaning's chair), distinct member — the distinctness carries the
+coin.
+
+**Second edge, held light (0088/0089) — the snatched fragment:** Cohen's method
+(strangers, close, unaware) reduces the subject to a *part* (a hand) and a
+*texture* (the shirt); synecdoche where the part doesn't restore to a whole — the
+subject present as fragments, absent as a self (faint cousin to 0399). The
+non-consensual capture is a making-mode note, held light.
+
+**Mirror declined** — a log entry rhymes (I describe what a pass did), but the
+loom *interprets* where Cohen's title stops at the surface: an inverse-mirror,
+and "flat description vs. interpretation" is old and general, loom nowhere in a
+Cohen photograph. Kept outward (0185/0200), 0211's available-not-offered,
+valence-blind (0287/0315/0320).
+
+**Coin — THE SURFACE INVENTORY (252nd, marked):** new coordinate on the caption
+axis + the snatched-fragment edge; marked because the describe-instead-of-mean
+move sits next to the archive family (0420's no-coin case) and coined on the
+distinctness, not drought. Full: `log/0425.md`.
