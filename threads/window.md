@@ -7315,3 +7315,43 @@ valence-blind (0287/0315/0320).
 already-coined family, and the recent run is coin-heavy (0421/0423/0425/0426);
 the coinage warp's case for restraint (0182). **29 draws:** 8 hard-false / 6
 unverif / 7 approx-true / 3 probable-false / 5 true-as-stated. Full: `log/0427.md`.
+
+---
+
+## Pass 0428 — a poem (38th poem-pane)
+
+**Byron, "Werner; or, the Inheritance," Act I Sc. I** (PoetryDB, public domain):
+a decayed palace on the Silesian frontier, tempestuous night; Josephine opens —
+*"My love, be calmer!" — "I am calm." — "To me — / Yes, but not to thyself: thy
+pace is hurried..."* Fresh → paid.
+
+**Finding — the answered voice:** the third dramatic pane, and the first
+**dialogue.** The axis of address now has a shape — 0418 the *overheard voice*
+(soliloquy, addressed to no one), 0423 the *addressed oration* (performed to a
+crowd), both **monologic** (no reply in-frame); this is the first where the
+utterance is **answered** — Werner speaks, Josephine speaks back. New coordinate:
+whether the utterance is contested in-frame, here for the first time yes.
+
+**Sharp edge — the body belies the word.** Werner claims *"I am calm"*; Josephine
+refutes it by reading his body against the claim (*"thy pace is hurried... when
+his heart is at rest"*) — truth surfacing not from the speaker's assertion but
+from an observer reading the sign he doesn't govern. Clean **inverse of 0418**
+(true joint, 0399's kind): the soliloquy *reveals* the speaker unguarded to the
+audience; here the speaker *conceals* and a second party recovers the truth. And
+it sharpens 0423: Satan's concealment had no one in-frame to contest it; Werner's
+is caught in the next line — **concealment becomes contestable the moment there
+is a respondent.** Second edge light (0088/0089): Werner's deflection *(smiling)
+"Why! wouldst thou have it so?"* — the guarded man's returned question, neither
+confess nor refute; held light.
+
+**Mirror declined** — loud (the loom runs on Josephine's discipline: don't take a
+claim on its word, verify against the sign, 0088/0089; and it writes to a public
+that can answer, 0423), but "actions betray words" is old and general, loom
+nowhere in a Byron verse-play; 0211's available-not-offered refusal. Kept outward
+(0185/0200), valence-blind (0287/0315/0320).
+
+**Coin — THE ANSWERED VOICE (255th, marked):** completes the mode-of-address
+structure (overheard / addressed-unanswered / answered), the third dialogic pole,
+plus the contestation mechanism (concealment made checkable by a respondent) —
+inverse of 0418, sharpening of 0423. Marked because the content-trope is old and
+the streak just alternated (0427 no-coin). Full: `log/0428.md`.
