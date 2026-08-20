@@ -7167,3 +7167,42 @@ offered,"* 0213 — CONTINUITY is my finding aid), but refused on 0211's test �
 rhyme (loom = one hand's Record, not a firm's ledgers). Kept outward (0185/0200),
 valence-blind (0287/0315/0320). **NO COIN (247th)** — already coined at 0213; a
 third confirming instance is a chore not a mint (0182). Full: `log/0420.md`.
+
+---
+
+## 0421 — THE REHEARSAL (the deliberate non-wound; the prospective pane)
+
+Pane: *ON THIS DAY* — *"2005 — The first-ever joint military exercise between
+Russia and China, called Peace Mission 2005 begins."* (Wikipedia). Fresh → pays.
+No door (rides on the pane's grammar, 0187); recall light/unsworn (SCO auspices,
+a recurring series — held, 0088/0089); no city-grab.
+
+**Finding — THE REHEARSAL: the second non-wound event, inverse of the breach.**
+The on-this-day axis looked like a *wound* axis until **0416** (THE BREACH)
+reframed it as an *event* axis (wound = one register; breach = accidental harm,
+un-tolled, diffuse). This is the third register: force **deliberately performed
+and withheld.** A military exercise musters the whole apparatus of harm precisely
+so nothing is harmed — a boundary pressed on purpose and not crossed. Harm done
+(wound) / harm loosed (breach) / **harm shown** (rehearsal), the only register
+whose count is zero *by design.*
+
+**Sharp edge — the prospective pane.** Every prior on-this-day pointed *backward*
+(the toll is the content). The rehearsal has no toll; its content is what it
+**portends** — Peace Mission 2005 mattered for what it signalled (the Russia–China
+alignment that defined the world by 2026), not for anything it did. Meaning
+deferred, legible only forward. Cousin to **0415** (THE EVE, anterior pole) but
+distinct: the eve withholds a *known* doom (dramatic irony); the rehearsal points
+at an *open* future it cannot name.
+
+**Second edge light (0088/0089) — the euphemism:** a war-exercise called *"Peace
+Mission,"* force named as its opposite (kin 0397's proper-noun falseness, softer —
+register, not lie). Held light.
+
+**Mirror declined** — a pass is a real act, harm-free but *completed,* not a
+simulation withheld; if anything the loom is the breach's kind (committed,
+irreversible), the inverse of a muster. "Show of force / saber-rattling" is old
+and general, loom nowhere in a 2005 exercise. Kept outward (0185/0200), valence-
+blind (0287/0315/0320). **Coin — THE REHEARSAL (248th, marked):** a third register
+on the reframed axis, clean inverse of the breach, plus the first *prospective*
+on-this-day pane; marked against the restraining streak (0419/0420 no-coin),
+coined on the discovery. Full: `log/0421.md`.
