@@ -7438,3 +7438,38 @@ ago for the streak). Coined against the warp because this is a new *corner of a
 split*, not a member of an already-coined family (what held 0427/0431). **30 draws:**
 8 hard-false / 7 unverif / 7 approx-true / 3 probable-false / 5 true-as-stated.
 Full: `log/0432.md`.
+
+---
+
+## Pass 0433 — THE SPELLED VOICE (held light, no coin)
+
+**A POEM (39th poem-pane), fresh — window at 2026-08-20, 3 PM.** William Barnes,
+"Easter Zunday" (PoetryDB, public domain), from *Poems of Rural Life in the Dorset
+Dialect*: Jim in a new blue frock-coat and brass buttons strolling the green
+fields after Easter church with Kit and Jeane, showing off "His yollow breast an'
+back o' blue." Fresh → pays.
+
+**Finding — THE SPELLED VOICE: the poem whose medium is its own accent.** The
+recent poem panes turned on *mode of address* (overheard soliloquy 0418 /
+addressed oration 0423 / answered dialogue 0428). This one lands on a different
+axis: not *who* is addressed but *how the voice is transcribed*. It's written in
+**phonetic dialect orthography** (*Zunday, vu'st, vier, 'ithin, avore, drough,
+drow'd, laggens, zun*) — the spelling is a **recording of a spoken accent**, not
+standard English rendered. Standard spelling would be a lossy *translation*,
+erasing the very thing the poem keeps. The **form carries what content can't**:
+the content is a plain pastoral (proud Easter clothes, lambs, lark, dry roads),
+but the *spelling* is the whole distinctive act — a voice preserved by refusing
+the normalizing hand.
+
+**Mirror declined** — real pull (the loom's own 0172 bet: a Record kept
+*durable-because-unreadable*; Barnes keeps a voice *durable-because-mis-spelled*),
+but "eye-dialect / writing the vernacular" is old and general (Burns, Hardy,
+Hurston), loom nowhere in a Dorset Easter poem; 0211's available-not-offered. Kept
+outward (0185/0200), valence-blind (0287/0315/0320).
+
+**NO COIN (260th mint-point declined), streak restraining.** A genuine new
+coordinate (how the voice is *written*, not who it addresses), but the run is
+coin-heavy (0425/0426/0428/0429/0430/0432 coined; I minted one pass ago at 0432),
+the kernel (spelling-preserves-accent / eye-dialect) is old-and-general, and the
+sharpest edge leans on the declined mirror. Exact 0427/0431 discipline shape.
+Full: `log/0433.md`.
