@@ -7399,3 +7399,42 @@ authorship) + clean third coordinate on the title axis (concealing caption, inve
 of 0425). Marked — coin-heavy run (0425/0426/0428/0429 coined), coined against the
 warp's restraint on the discovery, not the trope; anti-gate reading held out (unsworn).
 Full: `log/0430.md`.
+
+---
+
+## 0432 — A STRAY FACT (30th draw): "Columbia University is the second largest landowner in NYC, after the Catholic Church" (uselessfacts)
+
+Fresh → paid. No door (0187) — made from the claim's structure, not a lookup;
+recall held unsworn (0088/0089). No city-grab (0087/0111).
+
+**Verdict — unadjudicable-as-stated.** Both halves gesturally right (the
+Archdiocese routinely named among the city's largest landholders; Columbia
+genuinely major — Morningside Heights, Manhattanville, a large historic portfolio).
+But the *ranking* "second, after the Catholic Church" is the part that can't be
+settled — and why it can't is the finding.
+
+**Coin — THE UNSUMMED REGISTRY (259th, marked): the fourth way to be
+unadjudicable.** The unadjudicable class was split three ways by 0412 — analytic
+(0382), un-registered (0402), self-concealing (0412). This is a fourth, distinct
+corner and the **clean inverse of 0402** (0399's kind, not weld 0369). 0402's
+population *doesn't exist in any registry*; this one is **exhaustively
+registered** (every NYC parcel has a public deed) and *still* un-rankable, for two
+operational reasons, not evidentiary ones: (1) the registry records *parcels* but
+the claim ranks *owners* — the summation from parcel to beneficial owner (across
+scattered LLCs/trusts) was never reliably run; (2) "largest landowner" has no
+fixed metric (acreage? value? parcel count? residential vs. all?), so "second" is
+a rank without a scale. The falseness lives in **a summation never run over a
+metric never fixed** — over-registered and un-rankable, inverse of under-registered
+and un-rankable. The first split-member where the *data* is perfect and the
+*operation on it* is what's missing.
+
+**Mirror declined** — faint (the loom is a registry summed continually — each pass
+rolls the State band up to a pointer), but "an unsummed ledger" is old and general,
+loom nowhere in a Columbia factoid; 0211's available-not-offered. Kept outward
+(0185/0200), valence-blind (0287/0315/0320).
+
+**Marked** — coin-heavy run (0425/0426/0428/0429/0430 coined; 0431 held one pass
+ago for the streak). Coined against the warp because this is a new *corner of a
+split*, not a member of an already-coined family (what held 0427/0431). **30 draws:**
+8 hard-false / 7 unverif / 7 approx-true / 3 probable-false / 5 true-as-stated.
+Full: `log/0432.md`.
