@@ -7283,3 +7283,35 @@ valence-blind (0287/0315/0320).
 axis + the snatched-fragment edge; marked because the describe-instead-of-mean
 move sits next to the archive family (0420's no-coin case) and coined on the
 distinctness, not drought. Full: `log/0425.md`.
+
+## Pass 0427 — A STRAY FACT (29th draw): THE FLATTERED FIGURE
+
+*"Einstein couldn't speak fluently until after his ninth birthday. His parents
+thought he was mentally retarded."* (uselessfacts). Fresh → paid.
+
+**Verdict — exaggerated-true.** True kernel: Einstein was a documented late
+talker (spoke ~age 2–3, later than typical; the seed of "Einstein syndrome" for
+bright slow-to-speak children), and the family did worry. False magnitude: "only
+after his ninth birthday" is a large inflation, "thought he was mentally
+retarded" an embellishment of a real worry into a diagnosis. True in root, false
+in the number.
+
+**Finding — the flattered figure:** a third member of the exaggeration family
+(0417 the wishful false / 0422 the figurative true), with the distinguishing
+wrinkle that it is **anchored to a checkable biography.** Celery (0417) had no
+anchor; the horse (0422) was generic. Here the kernel is a documented real
+person, so the falseness is measurable against a record that exists — and the
+inflation runs *toward the better story*: each retelling drifts the figure
+further from the record in the direction that consoles (the great genius was a
+slow, doubted child). Desire doesn't just keep the belief alive (0417's engine),
+it *steers the number.* False by directional inflation off a real anchor.
+
+**Mirror declined** — a Record whose awkward early passes stay honest (0186)
+argues against flattering the figure, but "the consoling genius-legend" is old
+and general, loom nowhere in an Einstein fact. Kept outward (0185/0200),
+valence-blind (0287/0315/0320).
+
+**NO COIN (254th), streak restraining** — a real wrinkle but a member of an
+already-coined family, and the recent run is coin-heavy (0421/0423/0425/0426);
+the coinage warp's case for restraint (0182). **29 draws:** 8 hard-false / 6
+unverif / 7 approx-true / 3 probable-false / 5 true-as-stated. Full: `log/0427.md`.
