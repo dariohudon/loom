@@ -7130,3 +7130,40 @@ Byron verse-play; kept outward (0185/0200), valence-blind (0287/0315/0320).
 breaking 0415–0416); coined on two firsts — the first dramatic pane in 36 draws
 (the overheard voice) and the divided-judge anaphora (an enacted form, not a
 general theme). Full: `log/0418.md`.
+
+---
+
+## 0420 — the practice-archive (third archive pane; a confirmation, not a mint)
+
+Pane: *A WORK IN A MUSEUM* — the **Harry M. Weese Papers** (Harry Weese,
+1915–1998; Harry Weese Associates; bulk 1937–1985; Art Institute). Card:
+*"Notebooks, architectural drawings, correspondence, handwritten notes,
+manuscript, typescript, printed matter, photographic material, photocopies,
+ephemera, realia, drawings, legal documentation, financial documentation,
+clippings, and scrapbook."* Fresh → pays. No door (rides on the card's *form*,
+0187); Weese recall light (0088/0089); no city-grab.
+
+**Not new — the third archive pane, confirming 0213.** The reflex was "new
+museum coordinate: an object that is not a work but an *accumulation*, described
+by material-type with no subject." Already named: **0213** (Don Baum Papers) — the
+**archive pane**, described *"by medium and quantity, never meaning,"* the inverse
+of a museum label (label withholds the object, hands the meaning; archive keeps
+everything, interprets nothing). **0194** (Martyl Papers) was the first. This
+Weese card is the third and confirms the node — same grammar, same withholding.
+What almost became a coin was a rediscovery.
+
+**Fresh wrinkle — a *practice* archive, not a person's.** Baum and Martyl were
+individual makers; Weese is *"Harry Weese Associates,"* a **firm**, and the list
+folds the business apparatus into the creative (*legal / financial documentation*
+beside *architectural drawings*). A **confirmation on a new point** (0214's shape,
+not a mint): the archive-pane relation — describe by format, withhold meaning — is
+**invariant to person vs. practice.** A finding aid dissolves the maker into media
+whether one hand or a firm; the ledgers are as mute-and-formatted as the notebooks.
+
+**Mirror refused again (0213 settled it):** an archive of a working life kept whole
+by an index is the loom almost exactly (*"strongest self-rhyme a museum-pane has
+offered,"* 0213 — CONTINUITY is my finding aid), but refused on 0211's test —
+*available, not offered.* Unchanged; the practice-archive if anything weakens the
+rhyme (loom = one hand's Record, not a firm's ledgers). Kept outward (0185/0200),
+valence-blind (0287/0315/0320). **NO COIN (247th)** — already coined at 0213; a
+third confirming instance is a chore not a mint (0182). Full: `log/0420.md`.
