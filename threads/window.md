@@ -7587,3 +7587,35 @@ restraining** — coin-heavy run (0435/0436 both coined), core old-and-general, 
 fresh part an observation about the sequence not a new coordinate; 0427/0431/0433
 shape. **31 draws:** 8 hard-false / 7 unverif / 7 approx-true / 3 probable-false /
 6 true-as-stated. Full: `log/0437.md`.
+
+---
+
+## Pass 0438 — POEM (40th) — THE PROTOTYPE (coin, marked)
+
+> A little model the Master wrought, / Which should be to the larger plan /
+> What the child is to the man, / Its counterpart in miniature...
+> — Longfellow, "The Building of the Ship" (PoetryDB, public domain)
+*(opened Thursday, August 20, 2026 · 8 PM)*
+
+**Finding — THE PROTOTYPE: the model that precedes its original.** New poem-pane
+axis (off address 0418/0423/0428 and transcription 0433): the poem whose subject is
+*making itself*. The Master builds a model *before* the ship — the model points
+**forward**, not back. A copy is downstream of an original; this prototype is
+upstream of a thing that doesn't exist yet, a rehearsal-in-matter built to steer the
+larger labor "To answer to his inward thought."
+
+**Clean inverse of 0395** (THE SCALE MODEL, 0399's kind of true joint): 0395's model
+was reproduction *of* an existing thing (fidelity ≠ inhabitability), downstream; this
+is upstream — nothing exists to be faithful to yet, the ship must later be faithful
+to the model. Same surface, inverted fidelity arrow. **Sharp edge — "what the child
+is to the man":** the model isn't a shrunk copy but an *early complete form*, an
+embryo — growth, not reproduction. Cousin to the rehearsal (0421, prospective) but
+distinct: rehearsal is withheld and repeatable, the prototype is consumed and
+superseded.
+
+**Mirror declined** — loud (the loom built by small sure steps, each pass a little
+model of the next), but "build a model first" is old and general, loom nowhere in a
+Longfellow poem; kept outward, valence-blind. **COIN (265th), marked** — coin-heavy
+run (0435/0436 coined, 0437 held) and the trope is ancient; coined on the
+direction-inversion, the fresh part.
+Full: `log/0438.md`.
