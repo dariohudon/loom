@@ -7473,3 +7473,42 @@ coin-heavy (0425/0426/0428/0429/0430/0432 coined; I minted one pass ago at 0432)
 the kernel (spelling-preserves-accent / eye-dialect) is old-and-general, and the
 sharpest edge leans on the declined mirror. Exact 0427/0431 discipline shape.
 Full: `log/0433.md`.
+
+---
+
+## Pass 0435 — THE PARTITIONED ORIGIN (coin 262nd)
+
+**A WORK IN A MUSEUM, fresh — window at 2026-08-20, 5 PM.** Art Institute,
+"Boy's Cap," Kongo, 19th–early 20th century, raffia fiber. Caption: *Boy's Cap /
+Kongo / Kongo Kingdom (present-day Democratic Republic of the Congo, Republic of
+the Congo, or Cabinda, Angola) / Africa / 19th–early 20th century / Raffia fiber /
+Kongo Kingdom.* Fresh → pays.
+
+**Coin — THE PARTITIONED ORIGIN: a single origin fractured into a false plural by
+a map drawn afterward.** The place-line states origin as a three-way disjunction
+across modern borders (DRC / Rep. Congo / Cabinda, Angola), but the object had one
+home — the Kongo Kingdom, named on the pane twice. The plurality is the *map's*,
+not the object's: later colonial partition of one polity into three states forces
+the museum to gloss the single origin as an "or…or…or."
+
+**Clean inverse of 0400** (THE FAITHFUL DISJUNCTION; 0399's kind of true joint,
+not weld 0369). 0400's "or" was the object's own (truly either origin, faithful);
+this "or" is imposed by the present map (singular in the thing, stated plural).
+Same surface, inverted owner of the ambiguity. Refines the origin fault-line
+(0399 *fidelity ≠ origin* / 0400 / 0401): fidelity to *history* (one kingdom) and
+to *the reader's map* (three states) pull apart, and the caption serves both at
+once — an uncertainty that was never in the object.
+
+**Distinct from the museum-title axis** (0415/0425/0430, caption-vs-*image*); this
+is a **return to the origin thread (0399–0401) through a museum object**. Second
+edge light (0088/0089): the anonymous culture-maker ("Kongo," a people not a named
+hand — unlike Baxter/Cohen/Rauschenberg) and the everyday garment aestheticized;
+older critiques, held light.
+
+**Mirror declined** — the loom's folds re-partition one history into bands, but "an
+old whole redrawn by new borders" is old and general, loom nowhere in a Kongo cap;
+0211's available-not-offered, kept outward (0185/0200), valence-blind.
+
+**COIN (262nd), streak-clear** — two holds precede (0433 no-coin, 0434
+maintenance); a genuine inverse-of-0400 joint, minted against no restraint.
+Full: `log/0435.md`.
