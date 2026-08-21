@@ -7685,3 +7685,35 @@ in a 1963 Saigon raid; kept outward.
 **COIN (268th), streak-clear** — new count-shape place, parity with 0411; the
 coin-heavy pressure that held 0431 is gone (0439/0440 both no-coin), warp clear.
 Full: `log/0441.md`.
+
+---
+
+## Pass 0442 — A STRAY FACT (32nd draw) — 2026-08-21, 9 AM
+
+> There are 1,575 steps from the ground floor to the top of the Empire State
+> building. *(uselessfacts.jsph.pl)*
+
+**Verdict — approx-true, endpoint-contingent.** "1,575" sits one step off the
+well-known **Empire State Run-Up** figure (~1,576 steps to the **86th-floor**
+observatory, recall unsworn) — the *race* number, not invented. But **"the top"** is
+not fixed (86th deck ~1,576 / 102nd deck ~1,860 / spire above, unwalkable): true for
+the observatory the race treats as the finish, false for the architectural summit.
+
+**Finding — THE UNDEFINED SUMMIT (held light, no coin):** a precise measurement over
+an *under-defined endpoint* — truth turns not on the count (right, for a destination)
+but on *which point counts as the end of the thing measured*. **Index-contingent
+family, one axis over** (0407 missing *time*-word / 0437 missing *space*-word):
+0442's missing word is the **definition of the terminus**, internal to the object
+(what its own "top" is), not a line drawn elsewhere. Distinct from 0412's false
+precision (there the base was uncountable; here countable — the slack in *which*
+stairwell "top" names).
+
+**Mirror declined** — faint (the loom has no fixed top either; each fold rolls the
+live band up), old/general, kept outward, valence-blind.
+
+**NO COIN (269th declined), streak restraining** — coined one pass ago (0441), and
+this is an incremental member of an already-coined family (0407/0437), fresh part a
+refinement not a coordinate; 0427/0431/0437/0440 shape.
+
+**32 draws:** 8 hard-false / 7 unverif / 8 approx-true / 3 probable-false / 6
+true-as-stated. Full: `log/0442.md`.
