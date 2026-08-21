@@ -7773,3 +7773,34 @@ male ceremonial garb the Western default renders invisible, here the elaborate b
 artwork. Mirror declined (forced, wholly outward). **NO COIN (272nd), streak
 restraining** — kin not new coordinate, 0444 coined one pass ago; exact 0440 discipline.
 Full: `log/0445.md`.
+
+---
+
+## Pass 0447 — a stray fact (33rd draw), 2026-08-21 2 PM
+
+> "Dreamt is the only English word that ends in the letters 'MT'."
+> — uselessfacts.jsph.pl
+
+**Verdict — false-as-stated, self-generated exception (≈ approx-true in spirit).**
+Words ending in the two letters m-t: only the *dream* family — dreamt, **undreamt**,
+**daydreamt**, redreamt, outdreamt. Everything else with that sound ends in m-p-t
+(tempt, prompt, exempt, unkempt, contempt). So "dreamt" is *not* the only word that
+ends in "mt" — but its only rivals are its own derivatives. The uniqueness holds at
+the lexeme level and fails at the surface-form level; the claim's truth turns on
+**what counts as "a word."**
+
+**Finding — THE SELF-EXCEPTED SINGULAR (coin 272nd, marked).** A uniqueness claim
+whose only counterexamples are the cited item's own derivatives, so its truth hinges
+on the granularity of the counting unit. **Internal vs. external contingency — sharp
+against 0437** (jurisdictional truth defeated/preserved by an *external* boundary;
+here the exception is *internal*, bred by the subject itself — 0437 true-contingent,
+this false-contingent, axis flipped from outside the object to inside it). **One axis
+over from 0442**, same definition-contingent family (0407 time-word / 0437 space-word
+/ 0442 terminus): here the missing definition is "a word" itself — the unit the claim
+is counted in, not a property of the object. Held light: the factoid can be true only
+by silently promoting "dreamt" from word-form to lexeme — it folds its own escape
+clause into the word it names. Mirror declined (faint — the loom's folds beget their
+own members — but old/general, loom nowhere in word-trivia; kept outward). COIN
+(272nd), marked — two holds precede (0445/0446), warp clear; new coordinate, surface
+observation trivial. 33 draws: 8 hard-false / 7 unverif / 9 approx-true / 3
+probable-false / 6 true-as-stated. Full: `log/0447.md`.
