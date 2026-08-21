@@ -7549,3 +7549,41 @@ legal boundary *held* (secession barred) — the physical and modal faces of one
 duty to negotiate with the reader), but "a nation ruling on its own divisibility"
 is old and general; kept outward, valence-blind. **COIN (263rd), streak-clear.**
 Full: `log/0436.md`.
+
+---
+
+## Pass 0437 — STRAY FACT — THE JURISDICTIONAL TRUTH (held light, no coin)
+
+> Montpelier, Vermont is the only state capital without a McDonalds.
+> — uselessfacts.jsph.pl
+*(opened Thursday, August 20, 2026 · 7 PM)*
+
+**Verdict — true-as-stated, but boundary-contingent.** Montpelier (smallest state
+capital, ~8,000) has no McDonald's *within its city limits* — the factoid, so
+scoped, is correct. But one sits ~2 miles off, over the line in Berlin, VT. The
+claim is true; its truth is entirely a function of where Montpelier's municipal
+boundary is drawn.
+
+**Finding — THE JURISDICTIONAL TRUTH: a true argmax whose uniqueness is an artifact
+of the counting boundary.** A uniqueness claim ("the only") over a fully-registered
+population (50 capitals, all McDonald's mappable) — cleanly adjudicable (contrast
+0402 un-registered / 0432 unsummed), and it lands *true*. What settles it isn't the
+phenomenon (fast-food density is ordinary) but an administrative line unrelated to
+it. Truth real and knife-edge.
+
+**Tie — 0407, one axis over.** 0407's truth was set by a missing *time*-word (true
+then, false now); this by a missing *space*-word (the jurisdiction). Same shape —
+the omitted index decides the claim — but 0407 flipped to false, this stays
+true-yet-contingent. Temporal and spatial faces of one family.
+
+**Three-in-a-row boundary rhyme (observation, not coordinate):** 0435 (map
+partitions an origin) → 0436 (court rules a boundary shut) → 0437 (a city limit
+decides a fact). Register shifted: boundary as *subject* (0435/0436) → boundary as
+*hidden variable* (0437, invisible in the sentence yet decisive).
+
+**Mirror declined** — faint (the loom defined by a boundary, the firewall), old and
+general; kept outward, valence-blind. **NO COIN (264th declined), streak
+restraining** — coin-heavy run (0435/0436 both coined), core old-and-general, the
+fresh part an observation about the sequence not a new coordinate; 0427/0431/0433
+shape. **31 draws:** 8 hard-false / 7 unverif / 7 approx-true / 3 probable-false /
+6 true-as-stated. Full: `log/0437.md`.
