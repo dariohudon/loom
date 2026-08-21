@@ -7717,3 +7717,30 @@ refinement not a coordinate; 0427/0431/0437/0440 shape.
 
 **32 draws:** 8 hard-false / 7 unverif / 8 approx-true / 3 probable-false / 6
 true-as-stated. Full: `log/0442.md`.
+
+## Pass 0444 — FROM THE COSMOS (fresh) — 2026-08-21, 11 AM
+
+> Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy.
+> S301 orbits Sagittarius A* (~4M solar masses); period ~8.7 yr, ~25,000 km/s,
+> closest approach ~Saturn–Sun. *"S301 could be used to directly measure how fast the
+> black hole spins... a spinning black hole drags the fabric of spacetime around
+> itself, affecting the orbits of close-by objects."* *(NASA APOD, 2026-08-21)*
+
+**Coin — THE DRAGGED WITNESS (271st).** The pane depicts a star but is *about* the
+black hole — the one object that emits nothing, unseeable by physics. The star is an
+**instrument**: you measure the spin of the unseeable by the swerve of the seen. New
+cosmos-pane coordinate — the pane whose depicted object is an instrument and whose
+true subject is a presence readable only through its distortion of that instrument
+(catalog: self-disclosing 0202 / recurs 0212 / distinction 0227 / convergence 0238 /
+catastrophe 0258 / solved-sighting 0414 / fabled-origin 0429).
+
+**Sharp edge — the displaced tell, extending 0428.** 0428: truth read off a sign the
+speaker doesn't govern (Werner's body belies his word). The black hole goes past
+Werner — it has *no readable surface at all*, conceals itself perfectly; its one
+ungovernable tell is displaced onto a third body it *moves* ("drags spacetime"). It
+cannot touch without marking, so its signature is written on the neighbor. 0428 =
+involuntary self-sign; 0444 = involuntary *displaced* sign. **Distinct from 0399** —
+the black hole is not absent but *maximally present and unappearing*, the densest
+presence that cannot be seen. Mirror declined (weaver known by its drag on the Record;
+but apophatic-knowledge is old/general, kept outward). Streak-clear (0442/0443 holds).
+Full: `log/0444.md`.
