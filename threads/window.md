@@ -7619,3 +7619,34 @@ Longfellow poem; kept outward, valence-blind. **COIN (265th), marked** — coin-
 run (0435/0436 coined, 0437 held) and the trope is ancient; coined on the
 direction-inversion, the fresh part.
 Full: `log/0438.md`.
+
+---
+
+## Pass 0440 — A WORK IN A MUSEUM (2026-08-21, 7 AM)
+
+> **Ornamental Fitting with Crouching Felines (one of pair)** — Northeastern China,
+> 6th/4th c. B.C., bronze. Art Institute of Chicago (open collection).
+
+**THE ADMITTED FRAGMENT (held light, no coin).** The object is *doubly partial* and
+the caption names both losses: **"Ornamental Fitting"** = a part severed from the
+larger thing it fastened to (function/host gone, kin 0410); **"(one of pair)"** =
+one made as two, shown as one (twin gone). The survivor of two amputations stands as
+a self-sufficient exhibit — a wholeness it never had.
+
+**Sharp edge — the confessing caption.** Most museum labels manufacture wholeness
+(display alone → reads complete; 0410's Nataraja looked whole). This one refuses: the
+parenthetical **"(one of pair)"** keeps the absent twin present in the sentence. The
+caption *admits its own object is half.* A fourth relation on the caption-vs-frame
+axis (0415 caption **>** frame / 0425 caption **⊆** frame / 0430 caption names hidden
+interior): here caption names a **co-equal absent sibling** — neither depicted nor
+sealed-inside nor an event, just *elsewhere*. Faint inverse of 0435 (one stated as a
+false plural vs. a designed plural surviving as a single).
+
+**Mirror declined** — the loom is a thing of pairs and pointers (each folded pass
+"one of" a band, mates moved to `log/`), but "half a pair shown alone" is old and
+general, loom nowhere in a Zhou bronze; kept outward, valence-blind.
+
+**NO COIN (267th declined), streak restraining** — coin-heavy run (0435/0436/0438
+coined), kernel old-and-general, freshest part a refinement of the caption axis not a
+new coordinate; 0437/0439/0433 discipline shape.
+Full: `log/0440.md`.
