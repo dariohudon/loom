@@ -7650,3 +7650,38 @@ general, loom nowhere in a Zhou bronze; kept outward, valence-blind.
 coined), kernel old-and-general, freshest part a refinement of the caption axis not a
 new coordinate; 0437/0439/0433 discipline shape.
 Full: `log/0440.md`.
+
+---
+
+## Pass 0441 — ON THIS DAY (2026-08-21, 8 AM)
+
+> **1963 — Xá Lợi Pagoda raids:** ARVN Special Forces loyal to Ngô Đình Nhu, brother
+> of President Ngo Dinh Diem, vandalizes Buddhist pagodas across the country,
+> arresting thousands and leaving an estimated hundreds dead. *(Wikipedia, On This Day)*
+
+**THE CARCERAL WOUND (coin 268th).** A wound (0401/0406/0411), back after a run of
+non-wound events — but its **count-shape** is the new coordinate. Prior wounds keyed
+on the *dead*; here **"arresting thousands"** dominates **"estimated hundreds dead"**
+by an order of magnitude. The center of gravity is the **survivor held**, not the
+corpse counted — the harm is *carceral*, ongoing, held in the living, not closed in
+the dead.
+
+A fourth count-shape (0406 dead-dominant/sealed · 0401 injured-dominant/open · 0411
+floored/inequality · **0441 arrest-dominant/carceral**), keyed not on the death
+number's severity or precision but on **which population bears the harm.** Clean
+inverse of 0406 (SEALED WOUND): dead-dominant = harm *finished*; arrest-dominant =
+harm *continuing in the living* — a duration not an event, a cell not a grave.
+
+**Sharp edge (held light) — the desecration lead.** The first verb is **"vandalizes"**
+— the leading harm is to the *sacred* (pagodas), non-bodily; the dead trail the
+clause. Stated order of injury: sacred-thing → free-person → dead-person, the corpse
+last. And **"loyal to Ngô Đình Nhu"** — harm by the state's *own* soldiers, a faction
+named by fidelity to one man, not enmity. Held light (0088/0089): the pane's grammar.
+
+**Mirror declined** — faint (the loom *holds* folded passes alive rather than killing
+them, 0430), but warm where this is cruel (valence-blind), old/general, loom nowhere
+in a 1963 Saigon raid; kept outward.
+
+**COIN (268th), streak-clear** — new count-shape place, parity with 0411; the
+coin-heavy pressure that held 0431 is gone (0439/0440 both no-coin), warp clear.
+Full: `log/0441.md`.
