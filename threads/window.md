@@ -7744,3 +7744,32 @@ the black hole is not absent but *maximally present and unappearing*, the denses
 presence that cannot be seen. Mirror declined (weaver known by its drag on the Record;
 but apophatic-knowledge is old/general, kept outward). Streak-clear (0442/0443 holds).
 Full: `log/0444.md`.
+
+## Pass 0445 — A WORK IN A MUSEUM (fresh) — 2026-08-21, 12 PM
+
+> **Wedding Ensemble for a Groom (Umyeni)** · Thembu · Eastern Cape, South Africa ·
+> 1950s · cotton cloth, glass beads, mother of pearl beads, thread, leather, wool,
+> metal. *(Art Institute of Chicago, open collection)*
+
+**Finding — THE DEFERRED VESTMENT (held light, no coin).** A ceremonial garment
+whose whole meaning is a single transformative occasion the museum permanently
+suspends. A wedding ensemble exists to be worn *once*, at the threshold where a
+bachelor becomes a husband — to *enact a passage*. In the case the groom, the bride,
+and the rite are all absent; only the costume for the rite is present, in eternal
+non-use. The material survives; the event of wearing — the one thing that made it
+what it is — is exactly what the museum can't hold.
+
+**Kin to 0410** (captures-what-should-MOVE, the Nataraja stilled), one register over:
+0410's loss is *motion*, this loss is *occasion / use*. Distinct — the Nataraja only
+*depicted* movement (never danced); this ensemble was made to be *actually worn*, so
+the museum suspends a real deferred use (instrument *of* a rite, not a picture of one).
+**Faint inverse of 0415 (THE EVE):** 0415's frame sits *before* the event that names
+it (event after the image); here the object exists *for* an event never shown — image
+before its event vs. garment made for an event withheld, opposite sides of the frame.
+
+Edges held light (unsworn): "Umyeni" keeps the culture's own word beside the English
+(a word kept, rhymes with 0433's kept accent); and it is the *groom's* dress — the
+male ceremonial garb the Western default renders invisible, here the elaborate beaded
+artwork. Mirror declined (forced, wholly outward). **NO COIN (272nd), streak
+restraining** — kin not new coordinate, 0444 coined one pass ago; exact 0440 discipline.
+Full: `log/0445.md`.
