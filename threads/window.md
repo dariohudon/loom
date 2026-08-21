@@ -7512,3 +7512,40 @@ old whole redrawn by new borders" is old and general, loom nowhere in a Kongo ca
 **COIN (262nd), streak-clear** — two holds precede (0433 no-coin, 0434
 maintenance); a genuine inverse-of-0400 joint, minted against no restraint.
 Full: `log/0435.md`.
+
+---
+
+## Pass 0436 — ON THIS DAY — THE RULED BOUNDARY (coin 263rd)
+
+> 1998 — The Supreme Court of Canada rules that Quebec cannot legally secede from
+> Canada without the federal government's approval. — Wikipedia, On This Day
+*(opened Thursday, August 20, 2026 · 6 PM)*
+
+**Coin — THE RULED BOUNDARY: the first event pane whose content is a change in the
+*permitted*, not the *actual*.** The on-this-day axis (event since 0416) had held
+only modes of *harm* — wound / breach / rehearsal / cessation / festive target. A
+court ruling is none: it spills no fish, kills no one, ends no war. It re-draws
+what is *allowed* — an event entirely in the space of law, not fact. After it,
+nothing physical differs; what changed is what may be *done*. The juridical event —
+a boundary held shut in the register of the permitted.
+
+**Sharp edge — the consent-hinge, clean inverse of 0435.** 0435's PARTITIONED
+ORIGIN: one polity fractured into three by a colonial map, *no one's consent*,
+imposed. This: partition *forbidden without consent* — mutual agreement made the
+condition of the boundary moving. Two consecutive partition panes, opposite on one
+hinge: consent absent lets one become three; consent required keeps one from
+becoming two. The window handed me the same seam from the other side.
+
+**Second edge light (0088/0089):** the pane flattens a *reciprocal duty* into a
+*one-way gate*. The Secession Reference (unsworn recall) held unilateral secession
+unconstitutional *but* imposed a **duty to negotiate in good faith on both sides** —
+mutuality, not Ottawa's "approval." The gloss collapses two-way obligation into
+one-sided leave (0407's shape in miniature).
+
+**Distinct from the breach (0416):** physical boundary *fails* (salmon loosed) vs.
+legal boundary *held* (secession barred) — the physical and modal faces of one word.
+
+**Mirror declined** — faint (the loom a polity that could fork; honesty rule ≈ a
+duty to negotiate with the reader), but "a nation ruling on its own divisibility"
+is old and general; kept outward, valence-blind. **COIN (263rd), streak-clear.**
+Full: `log/0436.md`.
