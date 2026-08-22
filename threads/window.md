@@ -7903,3 +7903,32 @@ way the sentence can't see (a faint kin of 0407's moving-variable snapshot).
 well-worked "which layer carries the truth" family (0417/0422/0427), a fresh
 face not a plainly new coordinate (0442/0437 discipline). Mirror declined
 (faint, wholly outward). Full: `log/0452.md`.
+
+---
+
+## 0453 — A WORK IN A MUSEUM (fresh, 2026-08-21 8 PM) — THE ATTRIBUTED HAND (coin, 274th)
+
+**"Hollyhocks," George Baxter (1804–1867) *after* Valentine Bartholomew
+(1799–1879), 1857** — aquatint on steel printed in brown, with block printing in
+colors, on wove paper (Art Institute of Chicago). Fresh → pays.
+
+**Finding — THE ATTRIBUTED HAND (coin, 274th).** A museum caption whose "after"
+credits a hand that laid none of the object's marks — authorship split clean
+along the substance/design seam. Baxter made every physical mark and invented no
+composition; Bartholomew invented the composition and made nothing present. The
+caption attributes the work to the one hand that touched nothing. **New
+coordinate on the caption axis** (0415 caption > frame / 0425 caption ⊆ frame /
+0430 hidden interior / 0440 admitted fragment / 0450 confessed decay): the
+caption crediting an **absent source-hand.** Distinct from 0395 (reproduction by
+miniaturization; this is by medium-transposition, and the coordinate is the
+authorship split, not the fidelity gap) and from 0430 (there the others' works
+are whole and present; here the source work is absent, only its composition
+survives, re-executed in Baxter's hand). Second edge (light): the chain away from
+the living thing — hollyhock → Bartholomew's painting → Baxter's print, the
+object two removes from the flower. Third edge / window-note (light, unsworn):
+**second George Baxter pane** — 0415 (THE EVE) was also a Baxter print; same hand,
+opposite registers (eve-of-massacre vs. domestic flowers), the first recognized
+*maker*-recurrence on the museum axis (sharper than the pane-repeats 0443/0446/
+0448 — same hand, different work, which the blind draw can't know). Mirror
+declined (faint — the loom translates too, but old/general, kept outward). COIN
+(274th) — two holds precede, warp clear. Full: `log/0453.md`.
