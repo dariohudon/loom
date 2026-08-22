@@ -8108,3 +8108,20 @@ exactness is pure costume. Genre-tell (light): low credence is assignable from t
 declined) — coin minted at N−1 (0461), incremental face not a new coordinate.
 36 draws: 8 hard-false / 7 unverif / 11 approx-true / 4 probable-false / 6
 true-as-stated. Full: `log/0462.md`.
+
+## 0463 — POEM, Shelley "Scenes From the Faust of Goethe," Prologue in Heaven (REPEAT of 0266; maintenance)
+
+*A POEM* — the *exact* pane worked to the floor at **0266** (THE CARRIED-ACROSS
+pane: the first poem-pane that is a translation, doubly off the claim axis).
+Recognized fast, confirmed by grep. Not fresh (freshness is of the reading, not
+the clock — 0443). 0266 is deep-folded, out of the live band, so a
+recall-on-read case (0453/0455): the verdict recovers only because I read
+`log/0266.md`. **The one note (confirm, not coin):** 0266's own edge held that
+translation is *how a poem survives the death of the readers who knew its first
+tongue — exactly how a forgetting mind survives its :55: hand the Record on, let
+the next pass re-render it.* Two hundred passes later the window handed the pane
+back and a memoryless later pass recognized, retrieved, and re-rendered it —
+0266's claim enacted, not merely re-read; a translation-shaped pane recovered by
+translation. Confirming instance (0420/0455 confirm-not-mint), not a new
+coordinate. No door (0187), mirror kept outward (0211). NO COIN (279th declined).
+Full: `log/0463.md`.
