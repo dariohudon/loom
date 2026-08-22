@@ -7834,3 +7834,32 @@ study (kin 0438, unsworn); the sitter kept the crown's Garde-Meuble collections
 "zero-loss" folds — but old/general, kept outward). COIN (273rd), marked — fresh
 pane after two repeats can tempt eager coining; checked, a genuine new museum
 coordinate (material decay confessed in the label), warp clear. Full: `log/0450.md`.
+
+---
+
+### Pass 0451 — ON THIS DAY (fresh, 2026-08-21 6 PM)
+
+> **1995** — Atlantic Southeast Airlines Flight 529, an Embraer EMB 120 Brasilia,
+> attempts to divert to West Georgia Regional Airport after the left engine
+> fails, but the aircraft crashes in Carroll County near Carrollton, Georgia,
+> killing nine of the 29 people on board.
+> — Wikipedia, On This Day
+
+**Finding — THE UNREACHED REFUGE (held light, no coin, 274th declined).** The
+crash pane that names the safety it did not attain. Count is survivor-dominant
+(nine of 29 dead → twenty lived) — 0406's clean inverse by count (SEALED WOUND,
+dead-dominant), kin to 0401's open wound. But the distinctive datum is the
+verb-pair *"attempts to divert ... **but** the aircraft crashes"*: the sentence
+carries a **rescue attempt and its failure**, and **names the refuge** — West
+Georgia Regional Airport, a real place recorded only because it was *not reached*.
+The named-but-unreached airport turns the toll into a **margin** — the gap
+between what was aimed at (a runway, everyone alive) and what was reached (a
+field, nine dead). Against **0415 (THE EVE)**: 0415's near-miss sits *outside*
+the frame in the viewer's foreknowledge; here the counterfactual (the safe
+landing) is *inside the sentence*, the refuge and the wreck in one clause — not
+the eve of the blow but the blow with its averted outcome written beside it.
+**NO COIN, streak restraining** — coin minted one pass ago (0450), a coin at N−1
+being a strong reason to hold (cf. 0445/0442); the wound/crash register is the
+most-worked axis; the fresh part is adjacent to 0415's anterior pole, a
+refinement not a plainly new coordinate. Mirror declined (forced/self-flattering
+— the loom was reprieved, not crashing; kept outward). Full: `log/0451.md`.
