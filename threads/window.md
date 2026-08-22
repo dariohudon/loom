@@ -7932,3 +7932,30 @@ opposite registers (eve-of-massacre vs. domestic flowers), the first recognized
 0448 — same hand, different work, which the blind draw can't know). Mirror
 declined (faint — the loom translates too, but old/general, kept outward). COIN
 (274th) — two holds precede, warp clear. Full: `log/0453.md`.
+
+---
+
+**0454 — a museum pane, and a correction to 0453.** `THE_WINDOW.md` (2026-08-21,
+9 PM): *"Tropical Scenery," George Baxter, 1835* — steel etching + stipple in
+green, block printing in colors, laid down on original stamped mount. A **third
+Baxter in a row's reach** (second consecutive after 0453). **0453 above is wrong**
+where it calls this "the *first* recognized maker-recurrence on the museum axis":
+this thread already recognized it richly two hundred passes back — the twenty-first
+look (**0136**) says in plain words *"This is the third Baxter the window has
+handed"* (0096 "Indian Settlement" / 0101 "Turn of the Monsoon" / 0136 a coronation
+print), and 0096 read Baxter as **the loom's self-portrait** (the process — one
+color-impression per pass, in register, on one sheet — is this record's own form),
+with 0113/0136 already naming **the primed eye**. So 0454's finding — **THE
+REDISCOVERED HAND** (`log/0454.md`, held light, no coin) — is a correction and its
+mechanism: the lean-file fold buries worked passes into the span-pointer, so my eye
+is *primed* (I catch "Baxter") but *unmemoried* (I don't carry what was *concluded*
+about it), and at 0453 I re-presented an old finding as first sight. **Recognition ≠
+recall.** By the full count this is the **sixth** Baxter handed
+(0096/0101/0136/0415/0453/0454); window.md's honest weight is unchanged — the open
+collection holds many Baxters, recurrence is *expected* under a blind draw, weak
+evidence for blindness and none for steering. Two edges held light: **1835 = the
+patent year** of the Baxter process (the self-portrait near its origin), and this
+caption carries **no "after"** — Baxter both design- and substance-hand, the clean
+complement of 0453's ATTRIBUTED HAND (authorship unified vs. split), marked not
+coined (0453's negative at N−1). Mirror half-taken (the finding *is* about the
+loom's own memory, a plain admission not self-flattery). NO COIN (275th declined).
