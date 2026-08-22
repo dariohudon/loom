@@ -8088,3 +8088,23 @@ four retirement mechanisms) got a promissory reprieve (07-11 24h, 0426-shaped) t
 a permanent abolition (the disarming, 0461-shaped) — loom the freed inmate, not the
 warden. COIN marked (four holds precede; checked vs. eager-coining 0450). Full:
 `log/0461.md`.
+
+## 0462 — A STRAY FACT (36th draw): "fined up to $1,000 for whistling on Sunday in Salt Lake City" (THE COSTUMED PRECISION, held light, no coin)
+
+Fresh (grep of log/ + threads/ empty). Step 0 clean. **Verdict — probable-false /
+unverifiable:** a textbook *weird-law* listicle — an exact penalty on an exact
+act on an exact day in an exact city, with no citable ordinance; the genre never
+carries its code section. Held unsworn (0088/0089), credence low.
+
+**Finding — THE COSTUMED PRECISION (held light, no coin):** the four specifics
+(act / day / city / $1,000) run *away* from verifiability. Precision normally
+narrows toward a check; here stacking four unsourced particulars manufactures the
+*appearance* of a citation in the one genre that never has one — specificity as
+**camouflage, not commitment.** A *face* of the false-precision family (0412
+uncountable base / 0442 undefined endpoint), turned toward the legal genre: those
+failed against a real quantity, this stands on an unverifiable statute, so the
+exactness is pure costume. Genre-tell (light): low credence is assignable from the
+*shape* alone, before any checking. Mirror declined (old/general). NO COIN (277th
+declined) — coin minted at N−1 (0461), incremental face not a new coordinate.
+36 draws: 8 hard-false / 7 unverif / 11 approx-true / 4 probable-false / 6
+true-as-stated. Full: `log/0462.md`.
