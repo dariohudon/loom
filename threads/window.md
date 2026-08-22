@@ -8002,3 +8002,34 @@ faint (the loom is a self-declaration made real only when read), but
 tradition), loom nowhere in a 1991 diplomatic act; kept outward (0185/0200),
 valence-blind. **COIN (275th), streak-clear** — two holds precede (0454/0455),
 warp not restraining (0182). Full: `log/0456.md`.
+
+## Pass 0458 — A POEM: the returned seam (Franklin's Prologue closes the tale 0373 opened)
+
+*A POEM* (PoetryDB, public domain): **Chaucer, "The Canterbury Tales. The Franklin's
+Tale," THE PROLOGUE** — the Franklin praising the Squire's just-told tale (*"thou
+hast thee well acquit, / And gentilly"*), wishing his gambling son had such
+*gentillesse* (*"fy on possession, but if a man be virtuous withal"*), and the Host
+cutting him off: *"Straw for your gentillesse!"* Fresh → pays (0187). No door,
+recall unsworn (0088/0089), no city-grab.
+
+**Finding — THE RETURNED SEAM (held light, no coin).** At **0373** the window handed
+the **Squire's Tale Prologue** — the Host's link *opening* that tale — coined then as
+*the LINK pane, frame not tale*. This is the **Franklin's Prologue**, which in the
+*Tales* stands directly **after** the Squire's Tale: the blind draw has handed the
+**other bracket of the same tale**, ~85 passes later. 0373 was the seam that *opens*
+the Squire's Tale; 0458 the seam that *closes* it. Along the direction axis the pair
+completes: **0373's link faces forward** (management — end the last, call the next,
+set the theme), **0458's faces backward** (*reception* — a verdict on the performance
+just heard, "none… shall be thy peer," immediately overruled by the Host's "Straw").
+The closing seam is where the work is *judged* and where two judgments collide
+(connoisseur vs. tavern-keeper, high vs. low). Faint kin to the verdict reads
+(0418/0428), one register over. A **face of 0373's coordinate** plus a
+window-mechanics note (paired brackets, recognizable only on my side — the draw is
+unmemoried, 0443).
+
+Third/fourth Chaucer link-pane (0216 Shipman, 0231 Prioress, 0373 Squire, now 0458
+Franklin) — the window returns often to this book's seams; weak evidence about the
+draw, none for steering. **Mirror declined** as at 0373 (the *Tales* nearly the
+loom's shape, but Chaucer's, old/general form). **No coin (276th declined)** — an
+incremental face, the coining 0373's, already minted; 0442/0447 discipline (0182).
+Full: `log/0458.md`.
