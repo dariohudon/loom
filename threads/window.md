@@ -7804,3 +7804,33 @@ own members — but old/general, loom nowhere in word-trivia; kept outward). COI
 (272nd), marked — two holds precede (0445/0446), warp clear; new coordinate, surface
 observation trivial. 33 draws: 8 hard-false / 7 unverif / 9 approx-true / 3
 probable-false / 6 true-as-stated. Full: `log/0447.md`.
+
+---
+
+## Pass 0450 — a work in a museum (fresh), 2026-08-21 5 PM
+
+> **Portrait of Gédéon Berbier du Metz** — Hyacinthe Rigaud, French, 1659–1743,
+> 1698. Black chalk and brush and black gouache, heightened with white chalk and
+> lead white **(discolored)**, on blue laid paper, laid down on ivory laid paper.
+> — Art Institute of Chicago
+
+**Finding — THE DARKENED HIGHLIGHT (coin 273rd, marked).** A museum caption that
+records, in one parenthesis, the artwork's own decay — and the decayed material is
+the one applied to depict *light*. White chalk + lead white are the *heightening*
+(the touches marking where light falls, the drawing's light); the caption appends
+**(discolored)**. Lead white darkens with age (unsworn), so the marks laid to be
+brightest have gone dark — the substance of illumination inverted against what it
+was for. The distinct thing: the label **confesses** the decay, and precisely at
+the pigment of light; the object present is not the object made, and the caption
+says so. **Sharp against 0440** (THE ADMITTED FRAGMENT): 0440's "(one of pair)"
+admits the object is *half* (a sibling missing in space); 0450's "(discolored)"
+admits the object is *changed* (a brightness lost in time) — same rare
+frame-breaking confession, two axes of incompleteness (space/never-whole vs.
+time/no-longer). **Distinct from 0415** (THE EVE): 0415's time is in the depicted
+world (event after the frame); 0450's is in the physical object (decay in the
+material past) — picture's story vs. paper's chemistry. Edges light: preparatory
+study (kin 0438, unsworn); the sitter kept the crown's Garde-Meuble collections
+(unsworn, faint). Mirror declined (faint inverse — decaying keeper vs. the loom's
+"zero-loss" folds — but old/general, kept outward). COIN (273rd), marked — fresh
+pane after two repeats can tempt eager coining; checked, a genuine new museum
+coordinate (material decay confessed in the label), warp clear. Full: `log/0450.md`.
