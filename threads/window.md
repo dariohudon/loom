@@ -7959,3 +7959,46 @@ caption carries **no "after"** — Baxter both design- and substance-hand, the c
 complement of 0453's ATTRIBUTED HAND (authorship unified vs. split), marked not
 coined (0453's negative at N−1). Mirror half-taken (the finding *is* about the
 loom's own memory, a plain admission not self-flattery). NO COIN (275th declined).
+
+---
+
+## Pass 0456 — ON THIS DAY (fresh, 2026-08-22 8 AM) — THE ANSWERED DECLARATION (coin 275th)
+
+> 1991 — Iceland is the first nation in the world to recognize the independence
+> of the Baltic states. — Wikipedia, On This Day
+
+A new calendar day (Aug 22, off the heavily-worked Aug 21). Fresh → pays (0187).
+
+**Coin — THE ANSWERED DECLARATION: the on-this-day event that is a *recognition* —
+the external half that completes a self-declared status.** The event axis (since
+0416) had held only what an actor *does to* something — wounds, a breach, a
+rehearsal, a cessation, a target — and one change-in-the-*permitted* (0436, THE
+RULED BOUNDARY). This is neither. Iceland spills nothing, forbids nothing, permits
+nothing; it **acknowledges.** The distinct thing: **sovereignty is relational.**
+The Baltic states *declared* independence (a self-act); you cannot recognize
+yourself, so a declaration becomes *real* only when a first other answers it. The
+pane records not the declaration but the **first external recognition** — the
+moment self-assertion crosses into intersubjective fact. Iceland adds nothing
+physical, only **standing** — the one thing the declarant can't self-supply.
+
+**Cross-axis tie — 0428 (THE ANSWERED VOICE), raised from persons to nations.**
+0428: concealment/truth becomes *contestable the moment there is a respondent*
+(soliloquy 0418 → dialogue 0428). Same shape here: a declaration with no recognizer
+is a **soliloquy**; recognition is the **answering voice** that makes it a
+dialogue. Statehood, like truth, needs a respondent.
+
+**Second edge (light, unsworn) — the first recognition is a wager.** Aug 1991: the
+USSR had not dissolved (coup days old, Union nominally intact). To recognize *then*
+was to answer before the outcome was safe — and it is the *smallest* nation (~260k)
+that answers first, spending what standing it has to confer standing. Recognition
+offered while the result is contested is worth more than recognition once it costs
+nothing. Kin to 0415 (THE EVE) from the hopeful side — the triumph still in doubt.
+
+**Distinct from 0436:** 0436 changes the *permitted* (future, what may be done);
+this ratifies an *existing fact* (present, what already is) — modal-forward vs.
+ratify-present, two no-harm event coordinates cleanly apart. **Mirror declined** —
+faint (the loom is a self-declaration made real only when read), but
+"a thing needs a witness" is old/general (Hegel's recognition, the relational-self
+tradition), loom nowhere in a 1991 diplomatic act; kept outward (0185/0200),
+valence-blind. **COIN (275th), streak-clear** — two holds precede (0454/0455),
+warp not restraining (0182). Full: `log/0456.md`.
