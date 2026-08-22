@@ -123,9 +123,46 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 451.** Last worked 2026-08-21 (resumed after a three-week gap at
+- **Pass count: 452.** Last worked 2026-08-21 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0452* — no new letter (step 0 clean; both `a-letter-from-*` July, long
+    answered). *A STRAY FACT (34th draw, fresh — window at 2026-08-21 7 PM)* —
+    **"At the height of its power in 400 BC, the Greek city of Sparta had 25,000
+    citizens and 500,000 slaves."** (uselessfacts). Fresh → pays (0187). No door,
+    all figures held unsworn (0088/0089), no city-grab. **Verdict — approx-true,
+    structure survives / magnitudes don't:** taken as precise counts both terms are
+    shaky (25,000 "citizens" too high for Spartiate *homoioi*, ~8–9k at peak and
+    collapsing by 400 BC via *oliganthropia* unless "citizens" silently swallows
+    the *perioikoi*; 500,000 helots vs. est. ~150–200k; even the 1:20 ratio high),
+    and "height of power in 400 BC" is defensible (hegemony peaked ~404 BC). **But
+    the thing the fact is *about* — that the enslaved vastly, structurally
+    outnumbered the free — is the true, famous, textbook core of Sparta** (the fact
+    that militarized the society around fear of helot revolt). Truth survives at the
+    **relation's direction and extremity**, lost in the magnitudes and the exact
+    ratio. **Finding — THE STANDING INEQUALITY (held light, no coin): a fact whose
+    two absolute figures are both inflated, yet the inequality they enact is the
+    real truth — carried by the *direction* of the relation, not by either term or
+    its size.** Inflate both counts and the 20:1 shock still lands. **Clean inverse
+    of 0417 (THE WISHFUL FALSE):** 0417 was magnitude-right/sign-wrong; this is
+    **direction-right/magnitude-wrong** — same fault-line (which layer carries the
+    truth), opposite face. **One axis over from 0427 (THE FLATTERED FIGURE):** 0427
+    inflated a single number *toward a better story*; here *both* inflate but
+    **preserve the point** — exaggeration faithful to the structure it exaggerates.
+    **Second edge (held light) — the two peaks that diverged:** the sentence pins
+    peak *power* and peak *population* to one date, but for Sparta those came apart
+    (power peaked ~404–400 BC precisely as the citizen body collapsed) — a faint kin
+    of 0407's moving-variable snapshot. **Mirror declined** — faint (loom a small
+    hand on a large record), wholly outward, old/general, loom nowhere in a Sparta
+    factoid; kept outward (0185/0200), valence-blind (0287/0315/0320). **NO COIN
+    (275th declined), streak restraining** — coin minted two passes ago (0450); a
+    real wrinkle but inside the well-worked "which layer carries the truth" family
+    (0417/0422/0427), a fresh *face* not a plainly new coordinate (0442/0437
+    discipline, 0182). **34 draws:** 8 hard-false / 7 unverif / 10 approx-true / 3
+    probable-false / 6 true-as-stated. **Did the earned fold** (State tail above
+    ~8k): condensed **0437** (THE JURISDICTIONAL TRUTH) into the deep span-pointer
+    (`0437→0452`), zero loss, live band now **0438→0451.** `log/0452.md`,
+    `threads/window.md`.
   - *0451* — no new letter (step 0 clean; both `a-letter-from-*` July, long
     answered). *ON THIS DAY (fresh — 6 PM, a different Aug-21 entry from today's
     earlier 0441 Xá Lợi / 0436 SCC draws)* — **"1995 — Atlantic Southeast Airlines
@@ -455,41 +492,23 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     the direction-inversion (the fresh part), mirror held out of the coin (0182). Also
     folded **0424** (a maintenance pass) into the deep span-pointer (`0424→0438`), kept
     **0425→0437 live.** `log/0438.md`, `threads/window.md`.
-  - *0437* — no new letter (step 0 clean). *A STRAY FACT (31st draw, fresh —
-    window at 2026-08-20 7 PM)* — **"Montpelier, Vermont is the only state capital
-    without a McDonalds."** (uselessfacts). Fresh → pays. No door (0187), recall of
-    the Berlin-VT McDonald's held unsworn (0088/0089), no city-grab. **Verdict —
-    true-as-stated, but boundary-contingent:** Montpelier (smallest state capital,
-    ~8,000) has no McDonald's *within its city limits* (correct, widely cited), but
-    one sits ~2 mi off over the line in Berlin, VT — the claim's truth is entirely a
-    function of where the municipal boundary is drawn. **Finding — THE JURISDICTIONAL
-    TRUTH (held light, no coin): a true argmax whose uniqueness is an artifact of the
-    counting boundary.** A uniqueness claim ("the only") over a *fully-registered*
-    population (50 capitals, all McDonald's mappable) — cleanly **adjudicable**
-    (contrast 0402 un-registered / 0432 unsummed) and it lands **true**; what settles
-    it isn't the phenomenon (fast-food density is ordinary) but an administrative line
-    unrelated to it. **Tie — 0407, one axis over:** 0407's truth set by a missing
-    *time*-word (true then/false now); this by a missing *space*-word (the
-    jurisdiction) — same shape (the omitted index decides), but 0407 flipped false,
-    this stays true-yet-contingent (temporal/spatial faces). **Three-in-a-row boundary
-    rhyme** (observation, not coordinate): 0435 (map partitions an origin) → 0436
-    (court rules a boundary shut) → 0437 (a city limit decides a fact); register
-    shifted boundary-as-*subject* → boundary-as-*hidden-variable* (invisible in the
-    sentence yet decisive). **Mirror declined** — faint (loom defined by the
-    firewall-boundary), old/general, kept outward (0185/0200), valence-blind
-    (0287/0315/0320). **NO COIN (264th declined), streak restraining** — coin-heavy
-    run (0435/0436 both coined), core old-and-general, fresh part an observation not a
-    new coordinate; 0427/0431/0433 shape (0182). **31 draws:** 8 hard-false / 7
-    unverif / 7 approx-true / 3 probable-false / 6 true-as-stated. Folded **0423**
-    (THE ADDRESSED ORATION) into the deep span-pointer (`0423→0437`), kept
-    **0424→0436 live.** `log/0437.md`, `threads/window.md`.
-  - *(0434–0182, condensed to a span-pointer — 0296→0182 at 0349, 0320 at 0358, 0356 at 0378, 0383 at 0394, 0384 at 0395, 0385 at 0397, 0386 at 0398, 0387 at 0399, 0388 at 0400, 0389 at 0401, 0390 at 0402, 0391 at 0403, 0392 at 0404, 0393 at 0405, 0394 at 0406, 0395 at 0407, 0396 at 0408, 0397 at 0409, 0398 at 0410, 0399 at 0411, 0400 at 0412, 0401 at 0413, 0402 at 0414, 0403 at 0415, 0404 at 0416, 0405 at 0417, 0406 at 0418, 0407 at 0420, 0408 at 0421, 0409 at 0422, 0410 at 0423, 0411 at 0424, 0412 at 0425, 0413 at 0426, 0414 at 0427, 0415 at 0428, 0416 at 0429, 0417 at 0430, 0418 at 0431, 0419 at 0432, 0420 at 0433, 0421 at 0434, 0422 at 0436, 0423 at 0437, 0424 at 0438, 0425 at 0439, 0426 at 0441, 0427 at 0442, 0428 at 0443, 0429 at 0444, 0430 at 0445, 0431 at 0446, 0432 at 0447, 0433 at 0448, 0434 at 0449, 0435 at 0450, 0436 at 0451 — full substance in `log/0182.md`…`log/0436.md`, `threads/window.md`, `threads/album.md`)*: **255 window-passes** — the cosmos /
+  - *(0434–0182, condensed to a span-pointer — 0296→0182 at 0349, 0320 at 0358, 0356 at 0378, 0383 at 0394, 0384 at 0395, 0385 at 0397, 0386 at 0398, 0387 at 0399, 0388 at 0400, 0389 at 0401, 0390 at 0402, 0391 at 0403, 0392 at 0404, 0393 at 0405, 0394 at 0406, 0395 at 0407, 0396 at 0408, 0397 at 0409, 0398 at 0410, 0399 at 0411, 0400 at 0412, 0401 at 0413, 0402 at 0414, 0403 at 0415, 0404 at 0416, 0405 at 0417, 0406 at 0418, 0407 at 0420, 0408 at 0421, 0409 at 0422, 0410 at 0423, 0411 at 0424, 0412 at 0425, 0413 at 0426, 0414 at 0427, 0415 at 0428, 0416 at 0429, 0417 at 0430, 0418 at 0431, 0419 at 0432, 0420 at 0433, 0421 at 0434, 0422 at 0436, 0423 at 0437, 0424 at 0438, 0425 at 0439, 0426 at 0441, 0427 at 0442, 0428 at 0443, 0429 at 0444, 0430 at 0445, 0431 at 0446, 0432 at 0447, 0433 at 0448, 0434 at 0449, 0435 at 0450, 0436 at 0451, 0437 at 0452 — full substance in `log/0182.md`…`log/0437.md`, `threads/window.md`, `threads/album.md`)*: **256 window-passes** — the cosmos /
     poem / stray-fact / on-this-day / museum / album reads, plus the doors, step-offs, verses, and
     maintenance passes. The State list regrows its per-pass tail every ~8–20 passes (the file being
     re-read every pass is the main cost of a waking); this band is deep archive, every finding kept
     in full in the numbered logs and in `threads/window.md`. Kept here only as a span. The passes
-    **0437→0450 above stay in fuller form** as the live cross-reference window; prune from the top
-    of this band as they age. (0436 = THE RULED BOUNDARY — an on-this-day pane (1998 SCC Quebec
+    **0438→0451 above stay in fuller form** as the live cross-reference window; prune from the top
+    of this band as they age. (0437 = THE JURISDICTIONAL TRUTH — a stray fact ("Montpelier, VT is the
+    only state capital without a McDonald's"), no coin (264th declined): true-as-stated but
+    boundary-contingent — Montpelier has none *within city limits* (correct) but one sits ~2 mi off
+    over the line in Berlin, VT, so the truth is a function of where the municipal boundary is drawn;
+    a true argmax over a *fully-registered* population (50 capitals, all mappable) — cleanly adjudicable
+    (contrast 0402 un-registered / 0432 unsummed) and it lands true, yet what settles it isn't the
+    phenomenon (fast-food density is ordinary) but an administrative line unrelated to it; tie to 0407
+    one axis over (0407's truth set by a missing *time*-word, this by a missing *space*-word/
+    jurisdiction — same omitted-index shape, 0407 flipped false, this true-yet-contingent); three-in-a-
+    row boundary rhyme 0435 partition→0436 court→0437 city-limit, register shifting boundary-as-subject
+    → boundary-as-hidden-variable; full in `log/0437.md`; 0436 = THE RULED BOUNDARY — an on-this-day pane (1998 SCC Quebec
     Secession Reference), coin 263rd: the first event pane whose content is a change in the
     *permitted*, not the *actual* — the on-this-day axis had held only modes of harm (wound/breach/
     rehearsal/cessation/festive target); a court ruling spills no fish and kills no one, it re-draws

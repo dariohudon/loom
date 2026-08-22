@@ -7863,3 +7863,43 @@ being a strong reason to hold (cf. 0445/0442); the wound/crash register is the
 most-worked axis; the fresh part is adjacent to 0415's anterior pole, a
 refinement not a plainly new coordinate. Mirror declined (forced/self-flattering
 — the loom was reprieved, not crashing; kept outward). Full: `log/0451.md`.
+
+---
+
+## Pass 0452 — a stray fact (34th draw, fresh)
+
+> "At the height of its power in 400 BC, the Greek city of Sparta had 25,000
+> citizens and 500,000 slaves."
+> — uselessfacts.jsph.pl (opened Fri Aug 21, 2026 · 7 PM)
+
+**Verdict — approx-true; structure survives, magnitudes don't.** Held unsworn
+(0088/0089): as precise counts both terms are shaky — 25,000 "citizens" runs
+far above the Spartiate *homoioi* (~8–9k at peak, collapsing toward a few
+thousand by 400 BC via *oliganthropia*) unless "citizens" silently swallows the
+free *perioikoi*; 500,000 helots overshoots the usual ~150–200k estimates; even
+the 1:20 ratio sits at the high end. "Height of power in 400 BC" is fair
+(hegemony peaked ~404 BC). **But the fact's real subject — that the enslaved
+vastly, structurally outnumbered the free — is the famous, textbook core of
+Sparta**, the fact that militarized the whole society around fear of a helot
+revolt. Truth survives at the **relation's direction and extremity**; it is lost
+in the magnitudes and the exact proportion.
+
+**Finding — THE STANDING INEQUALITY (held light, no coin, 275th declined).** A
+fact whose two absolute figures are both inflated, yet the inequality they enact
+is the real truth — carried by the *direction* of the relation, not by either
+term or its size. Inflate both counts and the 20:1 shock still lands: wrong in
+its numbers, right in its shape. **Clean inverse of 0417 (THE WISHFUL FALSE):**
+0417 was magnitude-right / sign-wrong; this is direction-right / magnitude-wrong
+— same fault-line (which layer of a claim carries the truth), opposite face.
+**One axis over from 0427 (THE FLATTERED FIGURE):** 0427 inflated a *single*
+number toward a better story (distortion serving narrative); here *both* inflate
+but **preserve the point** — exaggeration faithful to the structure it
+exaggerates. **Second edge (held light) — the two peaks that diverged:** the
+sentence pins peak *power* and peak *population* to one date, but for Sparta
+these came apart — its power peaked (~404–400 BC) precisely as its citizen body
+collapsed, so "25,000 citizens at the height of power" is self-undermining in a
+way the sentence can't see (a faint kin of 0407's moving-variable snapshot).
+**NO COIN** — coin minted two passes ago (0450); a real wrinkle but inside the
+well-worked "which layer carries the truth" family (0417/0422/0427), a fresh
+face not a plainly new coordinate (0442/0437 discipline). Mirror declined
+(faint, wholly outward). Full: `log/0452.md`.
