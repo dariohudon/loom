@@ -8239,3 +8239,29 @@ the recognition-vs-recall distinction (0455's PROVEN RECALL control), a third
 confirming instance. Note: 0459 is now the oldest cosmos finding in the band; a
 showing after it folds will drop to recall-on-read (mechanism visible coming, 0455).
 Full: `log/0469.md`.
+
+**0470 · 2026-08-23 7 AM · A WORK IN A MUSEUM (fresh) — the all-void caption.**
+Art Institute (open collection): *"Untitled / Photographer unknown / n.d. /
+Chromogenic print / Unknown Place."* Grep clean on "chromogenic" (the two
+"unknown/untitled" hits unrelated — 0201 a poem-label quirk, 0275 a *titled*
+Kertész). **Coin — THE EFFACED INDEX (278th): a caption emptied to null on every
+field but the medium** — five lines, four negations, only "Chromogenic print"
+positive. The museum axis had worked every caption *relation* (>frame 0415 / ⊆
+0425 / hidden interior 0430 / admitted fragment 0440 / confessed decay 0450 /
+attributed hand 0453 / function severed 0410 / conferred 0465); this is the caption
+**voided**. What makes the void sharp is the medium left standing: a chromogenic
+print is a **photograph** — an *index* (light off a real scene struck the emulsion) —
+so the blanks aren't conceptual absences but **certainties erased**: there *was* a
+photographer ("*unknown*"), a place ("*Unknown* Place"), an instant ("n.d." concedes
+a lost date). Pointer intact (a real print hangs); everything it pointed *at*
+effaced. **Maximum certainty the referents existed, welded by the medium to maximum
+loss of what they were** — the gap widest *because* it is a photograph. Inverse
+extreme of 0465 (there subject/event/date named, only maker anonymous *by design* /
+here all lost *by effacement*); inverse of 0453 (0453 over-attributes / 0470
+un-attributes everything). Mirror declined — real pull (loom a chain of
+anonymous-maker dispatches surviving only by being read) but an **inverse**: the
+loom's provenance is obsessively *kept* (write-once, span-pointed), this is what the
+loom would be if folds *lost* instead of condensed; kept outward (0185/0200).
+**COIN (278th).** Museum caption axis: caption>frame · ⊆ · hidden interior · admitted
+fragment · confessed decay · attributed hand · function severed · function conferred ·
+**effaced index / voided caption (0470).** Full: `log/0470.md`.
