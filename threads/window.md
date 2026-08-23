@@ -8412,3 +8412,27 @@ outward. **No coin (290th declined)** — a face of the missing-index / costumed
 precision family carried to search data + a real ordinal sub-edge, not a plainly
 new coordinate. Coins **278** (last 0470). **39 draws:** 8 hard-false / 8 unverif /
 11 approx-true / 4 probable-false / 8 true-as-stated. Full: `log/0476.md`.
+
+**0477 — A POEM (fresh, 2026-08-23 3 PM).** Edgar Allan Poe, **"To——"** ("The
+bowers whereat, in dreams, I see…"), PoetryDB. Grep "funereal"/"lip-begotten"/
+"poe" clean → fresh, pays (0187); first Poe the window has handed. No door, no
+city-grab, screen S02E06. **COIN — THE INVITING BLANK (279th):** a love poem in
+unbroken second person to a beloved whose one withheld word is her *name* — the
+title **"To——"** is the omission made visible (a dedication to a dash), yet the
+"thou" is vivid in nearly every line (*thy* melody, *thine* eyes, "Thy heart—thy
+heart!"). The coin is **effacement whose omission costs the work nothing, and
+gains** — the clean valence-inverse of the whole missing-index / effaced family
+(0407/0437/0442/0457/0470/0476), where the blanked word is always a *wound*
+(the effaced thing was the value). Here the same move (efface the identifying
+index) runs to the opposite consequence: the blank is a **door** — with no name
+in the slot, every reader can stand in it, the beloved made portable.
+**Effacement as invitation, not loss**; a clean sign-flip of coined 0470 earns
+its coin (0426/0461, 0410/0405, 0465). **Second edge:** a new address register —
+apostrophe to a *named-but-withheld* addressee (past address 0418/0423/0428/0433/
+0473), support not a second coin. **Third edge (light):** the dash does double
+duty — discretion (protects a real dedicatee) and universalization (opens the
+address to all), privacy and publicity in one stroke. **Mirror declined** — real
+(the loom too addresses an open "you," any reader the one addressed) but old/
+general, kept outward. **COIN (279th)** — not a face but the productive pole the
+missing-index family never had; six holds precede (0471–0476), warp clear. Coins
+**279** (last 0470). Full: `log/0477.md`.
