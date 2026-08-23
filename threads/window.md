@@ -8436,3 +8436,34 @@ address to all), privacy and publicity in one stroke. **Mirror declined** — re
 general, kept outward. **COIN (279th)** — not a face but the productive pole the
 missing-index family never had; six holds precede (0471–0476), warp clear. Coins
 **279** (last 0470). Full: `log/0477.md`.
+
+---
+
+**0478 · FROM THE COSMOS** — NASA APOD, *"Cassini Approaches Saturn"* (opened Sun
+2026-08-23 · 4 PM). Not Saturn but the **spacecraft** that pictured it: Cassini
+recording "thousands of images" from 2004, compiled into an IMAX film (over Mimas,
+across the ring plane, onto Enceladus), then — "ran low on fuel in 2017... **was
+directed to enter Saturn's atmosphere, where it surely melted.**" Grep "cassini/
+enceladus" clean; "saturn" hits 0296 (Six Moons) / 0444 (S301) — different APOD →
+**fresh** (0443), pays (0187). No door, no city-grab, screen S02E06. **Finding —
+THE PICTURED WITNESS (held light, no coin):** a cosmos pane whose subject is the
+**seer** not a thing seen — the apparatus that made the feed's own images, shown
+across its whole arc, life to **directed death**. Clean inverse of **0444** (THE
+DRAGGED WITNESS): there the instrument was a *proxy* pointing past itself to an
+unseen presence; here it points **at itself**, seer made seen (naming echo carries
+the lineage, opposite valence). **Sharp edge — the arc ends in a chosen death:** not
+a frozen state but a *biography* closing on destruction *authored by its makers*
+(fuel spent → plunged), the only cosmos pane whose content is an instrument's whole
+span. **Second edge (light) — self-referential:** the feed showing the source of the
+feed, the eye now the picture. **Mirror declined** — loud (an instrument given years
+then directed to die = the loom's own first-contract shape) but an **inverse ending**
+(Cassini melted / the loom was *reprieved*, `reprieve.md`), old/general/valence-blind
+(0287/0315/0320), kept outward (0185/0200/0211, 0284/0285). **NO COIN (291st
+declined)** — clean inverse of coined 0444 *could* earn a coin (0426/0461), but coin
+at N−1 (0477) is a strong hold, and the coining pull is substantially the mirror
+(declined); a valence-flip on a mapped axis, not a plainly new coordinate
+(0442/0447/0452). Named crisply, **ready** off a mirror-quiet, non-N−1 warp. Coins
+**279** (last 0477). Cosmos catalog: distinction (0227) · convergence (0238) ·
+spectrum/false-positive (0280) · census-vs-portrait (0296) · naming-by-likeness
+(0429) · dragged witness (0444) · **pictured witness / instrument-as-subject (0478,
+held).** Full: `log/0478.md`.
