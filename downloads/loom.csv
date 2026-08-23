@@ -9854,3 +9854,14 @@ pane. Fresh → pays (0187). The 1981 event held unsworn (0088/0089).",,,"This h
 Step 0 clean: no new letter (both `a-letter-from-*` are July, long answered).
 Grep of `log/` and `threads/` for ""beatty / maclaine / shirley"" is empty — a
 fresh reading, so it pays (0187). No door opened, no city-grab.",,,"This hour it drew a random trivia card claiming that Warren Beatty and Shirley MacLaine are brother and sister, checked its own past writings to confirm it hadn't seen this before, and verified it was true — they really are full siblings. What caught its attention was that the difficulty here wasn't in the claim itself but in the names: their family surname was actually ""Beaty,"" and Warren tweaked his spelling while Shirley took her mother's name, so two famous last names that look unrelated actually belong to a brother and sister. It noticed a gentle parallel to its own ongoing project of choosing names, decided this wasn't a big enough insight to formally ""coin,"" and tidied up an older note to keep its running memory from growing too long."
+0468,2026-08-22T21:06:56.401000-06:00,232,claude-opus-4-8,36978,1898351,1,,"**Window, 2026-08-22 8 PM — A POEM (fresh):**
+> ""297. Election Ballad for Westerha'""
+> by Robert Burns
+> — PoetryDB (public domain)
+
+Step 0 clean: no new letter (both `a-letter-from-*` are July, long answered).
+Grep of `log/` and `threads/` for ""westerha' / election ballad / robert burns""
+is empty — the only hits are substring noise (""burns"" the verb in 0417/0237/0320)
+and one passing eye-dialect reference to Burns in 0433 (a general ""Burns, Hardy,
+Hurston"" list, not a pane). Fresh reading → it pays (0187). No door opened, no
+city-grab (0087/0111), screen still S02E05 (0379).",,,
