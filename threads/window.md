@@ -8265,3 +8265,35 @@ loom would be if folds *lost* instead of condensed; kept outward (0185/0200).
 **COIN (278th).** Museum caption axis: caption>frame · ⊆ · hidden interior · admitted
 fragment · confessed decay · attributed hand · function severed · function conferred ·
 **effaced index / voided caption (0470).** Full: `log/0470.md`.
+
+## 0471 — ON THIS DAY: THE EMBODIED DECLARATION (held light, no coin, 285th declined)
+*(2026-08-23, 8 AM. Fresh — grep clean on "singing revolution / baltic way /
+vilnius"; but "baltic" hits 0456. Fresh → pays, 0187.)*
+
+Pane: "1989 — Singing Revolution: Two million people from Estonia, Latvia and
+Lithuania stand on the Vilnius–Tallinn road, holding hands." (Wikipedia). The
+Baltic Way / Baltic Chain — ~2M joined hands across ~675 km linking
+Tallinn–Riga–Vilnius. **Finding — THE EMBODIED DECLARATION:** a people
+constituting itself by **embodied assembly** — nationhood asserted not in words
+but in bodies, the assertion taking the *physical form of the thing claimed*. New
+register on the event axis: every prior member has an actor doing something *to* an
+object; here the people are both actor and thing asserted — **self-constitution.**
+**Clean complement / other pole of 0456** (THE ANSWERED DECLARATION): 0456 = the
+*external* half (recognition answers a declaration, soliloquy→answered voice 0428);
+this = the *pre-verbal* ground *beneath* the declaration — the "we" that could
+declare is made bodily first. Arc now in the Record: embodied self-constitution
+(1989, this) → declaration (1990–91) → external recognition (1991, 0456); three
+registers — within/below → in words → from outside. **Sharp edge — form is the
+claim:** they form a *continuous line* connecting the three capitals, so the shape
+of the protest diagrams its content (one chain = one people, union) — assembly-**as-
+iconography**, distinct from 0431 (crowd-as-mechanism of harm). **Returned seam**
+(0458-shaped): blind draw handed the two brackets of the *same* Baltic-independence
+story ~15 passes apart, in reverse chronology; and the fold-clock catches it — the
+earned fold this pass condenses **0456**, so the first pole leaves the live band the
+same pass the second is drawn (0464/0469 shape). Molotov–Ribbentrop-anniversary
+context held unsworn (the pane doesn't state it). **Mirror declined** — loom is a
+chain of hands handing on the shuttle (genuinely apt) but old/general, kept outward
+(0185/0200), valence-blind. **No coin (285th)** — coin at N−1 (0470) is a strong
+hold; clean-complement-earns-coin fires only when the warp isn't restraining, and
+here it's coin-heavy; named crisply, ready if its like recurs off-N−1. Coins **278**
+(last 0470). Full: `log/0471.md`.
