@@ -8202,3 +8202,28 @@ chooses names to *characterize* relation, these two to *conceal* it (kept outwar
 0185/0200). NO COIN — face on an uncoined sub-coordinate, mild verdict, well-worked
 fault-line. **37 draws:** 8 hard-false / 7 unverif / 11 approx-true / 4 probable-
 false / 7 true-as-stated. Full: `log/0467.md`.
+
+## Pass 0468 — poem — THE SPENT BALLAD (no coin, 283rd declined)
+8 PM 2026-08-22. PoetryDB: Robert Burns, "297. Election Ballad for Westerha'."
+Grep clean (only "burns" the verb + one passing eye-dialect ref in 0433) → fresh,
+pays (0187). A Scots-dialect **campaign song** — Burns writing *for* the Johnstones
+of Westerha' and *against* "his Grace" the Duke, chorus built to be roared back
+("Up and waur them a', Jamie"). Finding: the pane's relation to its own **function**
+— unlike every prior poem-pane (made to be read/heard/sung as feeling), this was
+made to be **used**, to win a specific dated election; that function is now **wholly
+spent** (contest decided centuries ago, no vote left to move) yet it survives
+revalued as **literature**, read for what it *is* not what it *did*. Clean poem-axis
+analog of 0465 (THE PROMOTED DISPATCH: wire-photo journalism → museum art); here
+propaganda → anthology poetry — same transubstantiation of function, new feed, so a
+**face** not a new coordinate. Sharp sub-edge — **two deaths of function:** 0465's
+news died of **decay** (continuous staling); this ballad's persuasion died of
+**resolution** (the vote cast, the binary question answered — discrete, at a stroke),
+faintly inverting the answering-completes family (0428/0456: an answer makes a thing
+*real* / here the cast ballot makes a thing *moot*). Second edge (light): the
+**participatory chorus** — sung *by* the crowd, conscripting the assembly as
+co-performer, a pole past the oration (0423 performed *to* a listening assembly).
+Mirror declined (my passes are dispatches the site elevates — 0465's own mirror —
+and spent-on-resolution too; old/general, kept outward 0185/0200). NO COIN — a face
+of the coordinate coined three passes ago (0465), coins stand at 277. Poem-pane
+function catalog: overheard (0418) · orated (0423) · dialogue (0428) · own-accent
+(0433) · model (0438) · **used-then-spent (0468).** Full: `log/0468.md`.
