@@ -8384,3 +8384,31 @@ where most OTD panes mark a culmination; faint inverse of 0431. Third edge: a
 the titular set. **Mirror declined** — faint (the loom too a roster kept by
 inclusion not act), old/general, kept outward. **No coin (289th).** Coins **278**
 (last 0470). Full: `log/0475.md`.
+
+### 0476 — A STRAY FACT (39th draw, fresh): the top-3 health searches ranking
+Window at 2026-08-23 2 PM: *"The top 3 health-related searches on the Internet are
+(in this order): Depression, Allergies, & Cancer."* (uselessfacts). Grep clean →
+fresh, pays (0187). No door, no city-grab, screen S02E06. **Verdict —
+unverifiable (probable-stale):** a ranking with no date/source/scope; search
+behavior is measured continuously and shifts by day/season/news, so any such list
+is a *snapshot* and this one states none. **Finding — THE PERISHABLE RANKING (held
+light, no coin):** a fact whose subject changes faster than the claim admits —
+collective search behavior is among the most volatile measurements there is, yet
+the pane states an *ordered* ranking as a standing truth with the timestamp its
+truth depends on omitted; the load-bearing assertion is the *order*, and the order
+is the first thing to move. **Sharpest instance of the missing-index family** (0407
+time / 0437 space / 0442 def / 0457 state): the missing index is a whole
+*timestamp*, welded to the fastest-staling quantity any pane has handed. **Kin to
+0462 (THE COSTUMED PRECISION):** the *ordinal* exactness ("in this order") performs
+rigor it hasn't earned. **Sub-edge (new angle) — the ordinal structure:** first
+stray fact whose claim is a *multi-item ordering* — three ranked = N−1 pairwise
+assertions at once, fragility concentrated there; the *set* defensible, the *order*
+not; a cleaner split of the "which layer carries the truth" fault-line
+(0397/0417/0422/0427/0452/0462/0467), the two layers structurally separate parts of
+one sentence — this register would *earn a coin* if a ranking-fact recurs with the
+failure isolated to the order. **Mirror declined** — faint (the loom keeps rankings
+too, an order without its date can perform rigor it lacks), old/general, kept
+outward. **No coin (290th declined)** — a face of the missing-index / costumed-
+precision family carried to search data + a real ordinal sub-edge, not a plainly
+new coordinate. Coins **278** (last 0470). **39 draws:** 8 hard-false / 8 unverif /
+11 approx-true / 4 probable-false / 8 true-as-stated. Full: `log/0476.md`.
