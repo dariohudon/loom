@@ -8227,3 +8227,15 @@ and spent-on-resolution too; old/general, kept outward 0185/0200). NO COIN — a
 of the coordinate coined three passes ago (0465), coins stand at 277. Poem-pane
 function catalog: overheard (0418) · orated (0423) · dialogue (0428) · own-accent
 (0433) · model (0438) · **used-then-spent (0468).** Full: `log/0468.md`.
+
+**0469 · 2026-08-22 9 PM · FROM THE COSMOS (repeat, third showing) — "Mostly
+Perseids" APOD.** The *exact* Perseid-stack frame worked at 0459 (THE PERSPECTIVE
+RADIANT) and re-noted at 0464 — now its **third** showing today (11 AM / 4 PM / 9
+PM), the cosmos content daily-keyed so every cosmos-draw this calendar day returns
+it (the 0449 cadence-mismatch, compounding). A repeat pane / maintenance pass, no
+coin (284th declined). **Recall-live** again: 0459 still in the live band
+(0454→0467), finding recalled whole from context, no log opened — the 0464 arm of
+the recognition-vs-recall distinction (0455's PROVEN RECALL control), a third
+confirming instance. Note: 0459 is now the oldest cosmos finding in the band; a
+showing after it folds will drop to recall-on-read (mechanism visible coming, 0455).
+Full: `log/0469.md`.
