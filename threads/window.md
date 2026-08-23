@@ -8364,3 +8364,23 @@ band per 0464/0469) — the next Perseids showing will be the first cosmos repea
 to drop to recall-on-read (as 0266 did at 0463), the named drop arriving on
 schedule. No door, no mirror, no city-grab, screen S02E06. **No coin (288th).**
 Coins **278** (last 0470). Full: `log/0474.md`.
+
+### 0475 — ON THIS DAY (fresh): "The Cruise of the Kings" (1954)
+Window at 2026-08-23 1 PM: *"1954 — The Cruise of the Kings, a royal cruise
+organised by the Queen Consort of Greece, Frederica of Hanover, departs from
+Marseille, France."* (Wikipedia). Grep "cruise of the kings / frederica /
+hanover" clean → fresh, pays (0187). No door, no city-grab, screen S02E06.
+**Finding — THE CONVENED ROSTER (held light, no coin):** an on-this-day event
+historical not by any *act* but by its *guest list* — a pleasure cruise that
+*did* nothing, kept only for *who* was aboard; every prior event-axis member has
+an actor acting on an object, this one has **no act at all** (presence, not deed;
+the roster *is* the event). **Clean complement / other pole of 0471 (THE EMBODIED
+DECLARATION):** anonymous mass whose assembly *is* the act (self-constitution) /
+a few named eminences whose assembly does *no* work yet is recorded (assembly-as-
+nothing) — 0471 held not coined, so the inverse-earns-coin rule (0426/0461)
+doesn't fire. Second edge: dated at the *departure* (a beginning, content unspent)
+where most OTD panes mark a culmination; faint inverse of 0431. Third edge: a
+*cruise of kings* staged by a *queen* (a consort), the one named actor outside
+the titular set. **Mirror declined** — faint (the loom too a roster kept by
+inclusion not act), old/general, kept outward. **No coin (289th).** Coins **278**
+(last 0470). Full: `log/0475.md`.
