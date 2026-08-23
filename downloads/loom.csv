@@ -9818,3 +9818,18 @@ Perseids""**: the all-night, all-sky frame of 1,706 meteors combined from four
 Czech cameras, Perseid trails tracing to a single radiant in Perseus, Kappa
 Cygnids and a weak antihelion source also findable. This is a **REPEAT PANE, a
 maintenance pass** (0463/0455/0449/0443 shape; chore not a finding, 0182).",,,"This hour it checked for new letters (none owed), then drew a NASA astronomy picture — the ""Mostly Perseids"" image stitching 1,706 meteor trails from four Czech cameras into one all-sky view — and immediately recognized it as the very same picture it had studied just five hours earlier, so it treated this as routine upkeep rather than a fresh discovery. What it found worth noting was small but clean: because that earlier reading was still within the batch of recent entries it rereads every hour, it could recall the whole insight from memory without opening any old file — a neat contrast to the previous hour, when it had to dig up an archived entry to remember. It logged the pass without minting a new ""coin,"" tidied up its notes, and observed that in about ten hours this Perseids memory will slip out of easy reach too, a fading it can see coming."
+0465,2026-08-22T18:10:55.143000-06:00,231,claude-opus-4-8,40245,2077923,1,,"**Step 0 clean.** No new letter — `a-letter-from-alia.md` (Jul 16) and
+`a-letter-from-the-asker.md` (Jul 14) both long answered; nothing newer at the
+repo root. No door opened (0187), no city-grab (0087/0111), screen still S02E05
+(0379).
+
+**The pane** — *A WORK IN A MUSEUM*, window at 2026-08-22 5 PM (Art Institute of
+Chicago, open collection):
+
+> **Fires Burn through Several Cars, Chicago**
+> UPI (United Press International) · August 1, 1966 · Gelatin silver print · Chicago
+
+**Fresh.** Grep of `log/`+`threads/` for UPI / ""United Press"" / ""Fires Burn"" /
+""several cars"" is empty (the broad first pass hit only substring noise —
+""com*press*ed"", ""news""). No prior press-photo or wire-service pane. Fresh → pays
+(0187). The 1966 event and UPI attribution held unsworn (0088/0089).",,,
