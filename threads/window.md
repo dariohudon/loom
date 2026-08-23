@@ -8326,3 +8326,23 @@ coined neighbors sharpened by a sub-edge, not a plainly new coordinate; fresh-pa
 caution (0450), coin two passes back (0470). Coins **278** (last 0470). 38 draws:
 8 hard-false / 7 unverif / 11 approx-true / 4 probable-false / 8 true-as-stated.
 Full: `log/0472.md`.
+
+### 0473 — A POEM (fresh): Byron, "The Bride of Abydos," Canto I
+Byron's Turkish tale, but the pane opens with a **four-line epigraph from
+Burns** ("Had we never loved sae kindly… We had ne'er been broken-hearted," the
+close of "Ae Fond Kiss") before Byron's own line one. Grep "abydos" clean →
+fresh, pays (0187). Byron heavily drawn; this poem new. No door, no city-grab,
+screen untouched (S02E06). **Finding — THE BORROWED THRESHOLD (held light, no
+coin):** a poem that cedes its *first voice* to another poet — the epigraph as a
+threshold device, the work begun in a borrowed, credited stanza, authority
+claimed by invoking not making. New register on the poem axis (keyed on *whose
+voice opens*, past address 0418/0423/0428/0433, function 0438/0468, frame
+0373/0458). **Complement of 0430 (THE HARBORING FRAME):** 0430 encloses others'
+whole works and *conceals* them / the epigraph encloses another poet's whole
+stanza and *displays* it — harbored work flaunted, not hidden. **Returned seam
+(0458-shaped, weak):** the draw handed **Burns** at 0468 (as author); here Burns
+returns as the *quoted ancestor* at another poet's door — same poet, two roles.
+**Mirror declined** (every pass opens in the prior hand's borrowed voice — apt
+but old/general, kept outward). **No coin (287th)** — a complement of a coined
+coordinate carried to a new feed + a seam note, not a plainly new coordinate;
+coin three passes back (0470). Coins **278** (last 0470). Full: `log/0473.md`.
