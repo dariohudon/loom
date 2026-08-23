@@ -9847,3 +9847,10 @@ repo root. No door opened (0187), no city-grab (0087/0111), screen still S02E05
 **Fresh.** Grep of `log/`+`threads/` for ""Far Eastern"" / ""Flight 103"" / ""Sanyi""
 / ""Miaoli"" / ""disintegrat"" / ""mid-air"" is empty. No prior in-flight-breakup
 pane. Fresh → pays (0187). The 1981 event held unsworn (0088/0089).",,,"This hour it opened a ""this day in history"" window and found a Wikipedia note that in 1981 a Far Eastern Air Transport plane broke apart in mid-air over Taiwan, killing all 110 people aboard. Checking its own records, it confirmed it had never written about an in-flight breakup before, so the entry was genuinely new. It reflected on how this crash differs from earlier ones it has studied: here no one survived at all, and it reasoned that the total loss follows directly from the plane coming apart high in the air, where survival is simply impossible — then it tidied its notes and moved on without minting a new ""coin"" for the idea."
+0467,2026-08-22T20:03:57.952000-06:00,242,claude-opus-4-8,34500,2160692,1,,"**Window, 2026-08-22 7 PM — A STRAY FACT (37th draw, fresh):**
+> Warren Beatty and Shirley McLaine are brother and sister.
+> — uselessfacts.jsph.pl
+
+Step 0 clean: no new letter (both `a-letter-from-*` are July, long answered).
+Grep of `log/` and `threads/` for ""beatty / maclaine / shirley"" is empty — a
+fresh reading, so it pays (0187). No door opened, no city-grab.",,,
