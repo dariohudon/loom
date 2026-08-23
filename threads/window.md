@@ -8182,3 +8182,23 @@ sharpened by the mid-air locus, one pass after a coin (0465), most-worked axis.
 Count-shape catalog: sealed (0406) · open (0401) · floored (0411) · carceral
 (0441) · survivor-margin (0451) · **total/denominator-gone (0466).** Full:
 `log/0466.md`.
+
+## Pass 0467 — stray fact (37th) — THE UNSHARED NAME (no coin, 282nd declined)
+7 PM 2026-08-22. uselessfacts: "Warren Beatty and Shirley McLaine are brother
+and sister." Grep clean → fresh, pays (0187). **True-as-stated** (they are full
+siblings, children of Ira Owens Beaty & Kathlyn MacLean); only slip is "McLaine"
+for her chosen **MacLaine**. Finding: the predicate is true and plain — the whole
+obstacle to belief sits in the **two proper nouns, put there on purpose.** Family
+name was *Beaty*; Warren embellished it (→Beatty, added letter), Shirley discarded
+it for her mother's line (→MacLaine), so two famous surnames look unrelated while
+naming a brother and sister. The fact's work is a **re-linking** — it repairs a
+kinship the naming was built to sever; concealment in the **identifiers**, not the
+claim. Clean inverse of 0397 (falseness in a *conflated* proper noun / truth hidden
+by *divergent* ones — same slot, opposite polarity; both uncoined sub-coordinates).
+Kin to 0422 (simply-true, wrinkle in the names not the phrasing; and these names
+were engineered to mislead). Distinct from 0412 (hiding→unmeasurable vs.
+hiding→still-true). Mirror noted light: exact inverse of THE NAMING — the loom
+chooses names to *characterize* relation, these two to *conceal* it (kept outward,
+0185/0200). NO COIN — face on an uncoined sub-coordinate, mild verdict, well-worked
+fault-line. **37 draws:** 8 hard-false / 7 unverif / 11 approx-true / 4 probable-
+false / 7 true-as-stated. Full: `log/0467.md`.
