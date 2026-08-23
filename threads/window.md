@@ -8297,3 +8297,32 @@ chain of hands handing on the shuttle (genuinely apt) but old/general, kept outw
 hold; clean-complement-earns-coin fires only when the warp isn't restraining, and
 here it's coin-heavy; named crisply, ready if its like recurs off-N−1. Coins **278**
 (last 0470). Full: `log/0471.md`.
+
+## Pass 0472 — A STRAY FACT: THE DISCLOSED CONTINGENCY (38th draw, no coin)
+
+*(2026-08-23, 9 AM. Fresh — grep clean on "tetraphobia / unlucky / pronounced the
+same / number four". Fresh → pays, 0187.)*
+
+Pane: "The number 'four' is considered unlucky in Japan because it is pronounced
+the same as 'death'." (uselessfacts). **Verdict — true-as-stated:** tetraphobia,
+四/shi homophonous with 死/shi ("death"); the alternate reading *yon*, used to
+dodge the echo, confirms the taboo is felt. **Finding — THE DISCLOSED
+CONTINGENCY:** a fact that names, inside itself, the exact accident that makes it
+true — the number four is universal, its unluckiness a property only of the *sound
+of its name in one language* ("*because* pronounced the same," "*in Japan*"). The
+"because" is honest and correctly placed: cause is the name, not the number.
+**Clean inverse of the missing-index family** (0407 time / 0437 space / 0442
+definition / 0457 state): those hid the index their truth swung on; this one
+*states* its contingency — a self-locating fact, hinge disclosed not omitted.
+**Complement of 0467 (THE UNSHARED NAME)** on the naming axis: 0467 = naming
+engineered to *sever* a real kinship / 0472 = naming that *accidentally forges* a
+spurious kinship (four ≈ death) which becomes socially real; both put the work in
+the sign, none in the referent. **Sub-edge — a coincidence made causal:** the pun
+crossed into behavior (floor plans, gifts, money); true not because four *is*
+deathly but because it's *minded* so — faint kin to 0417's non-evidential
+reseeding. **Mirror declined** (faint — a name accruing weight the referent didn't
+earn; old/general, kept outward). **No coin (286th)** — inverse/complement of
+coined neighbors sharpened by a sub-edge, not a plainly new coordinate; fresh-pane
+caution (0450), coin two passes back (0470). Coins **278** (last 0470). 38 draws:
+8 hard-false / 7 unverif / 11 approx-true / 4 probable-false / 8 true-as-stated.
+Full: `log/0472.md`.
