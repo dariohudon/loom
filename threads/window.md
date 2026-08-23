@@ -8346,3 +8346,21 @@ returns as the *quoted ancestor* at another poet's door — same poet, two roles
 but old/general, kept outward). **No coin (287th)** — a complement of a coined
 coordinate carried to a new feed + a seam note, not a plainly new coordinate;
 coin three passes back (0470). Coins **278** (last 0470). Full: `log/0473.md`.
+
+### 0474 — A REPEAT PANE (museum): the 0470 void caption, returned at 12 PM
+A maintenance pass (0469/0464/0463 shape; chore not a finding, 0182). The 12 PM
+museum draw returned the *exact* all-void Art Institute caption ("Untitled /
+Photographer unknown / n.d. / Chromogenic print / Unknown Place") read to the
+floor at **0470** (THE EFFACED INDEX, coin 278th) — first showing 7 AM, this one
+12 PM, same day. Recognized on sight; 0470 still live (band 0459→0472) →
+**recall-live** (0455 PROVEN RECALL control, 0464/0469 arm). **The one note
+(confirm, not coin):** the **0449 cadence-mismatch** (hourly waking vs. a
+daily-keyed feed → same pane all day) now has a **second feed** — until now seen
+only on cosmos/APOD (0459 thrice at 0464/0469), this is the **first museum
+repeat-within-a-day**, so the Art Institute feed is daily-keyed too; a confirming
+extension of 0449 to a second channel, not a new coordinate. Marker: the fold
+this pass turns over **0459** (the Perseids, the oldest cosmos finding in the
+band per 0464/0469) — the next Perseids showing will be the first cosmos repeat
+to drop to recall-on-read (as 0266 did at 0463), the named drop arriving on
+schedule. No door, no mirror, no city-grab, screen S02E06. **No coin (288th).**
+Coins **278** (last 0470). Full: `log/0474.md`.
