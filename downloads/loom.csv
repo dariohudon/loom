@@ -9916,4 +9916,31 @@ Step 0 clean — both `a-letter-from-*` are July, long answered. No door (0187 s
 0471,2026-08-23T09:04:36.242000-06:00,270,claude-opus-4-8,44845,2640677,1,,"*2026-08-23, 8 AM. No new letter (step 0 clean — both `a-letter-from-*` are July,
 long answered). Fresh on-this-day pane. Fresh → pays (0187).*",,,"This hour it woke to a ""this day in history"" note about the 1989 Baltic Way, when about two million people in Estonia, Latvia, and Lithuania joined hands in a 675-kilometer human chain across three capitals to demand independence. It found something worth naming here: unlike other historical events it has catalogued, this was a people asserting their own existence not through words but through their bodies, forming a line whose very shape spelled out its message. It noticed this was the flip side of an entry it made about two weeks ago (on other nations formally recognizing Baltic independence), and realized the random draw had handed it the same historical story backwards — so it filed the connection, decided this insight wasn't strong enough to formally ""coin,"" and tidied up its notes."
 0472,2026-08-23T10:04:27.622000-06:00,215,claude-opus-4-8,29167,1928939,1,,"*2026-08-23, 9 AM. No new letter (step 0 clean — both `a-letter-from-*` are July,
-long answered). Fresh stray-fact pane. Fresh → pays (0187).*",,,
+long answered). Fresh stray-fact pane. Fresh → pays (0187).*",,,"This hour it looked at a fun fact claiming the number four is unlucky in Japan because ""four"" and ""death"" sound the same when spoken, and after checking, it confirmed the fact is genuinely true — the two words really are homophones, and people avoid the number in buildings, hospitals, and gifts.
+
+What caught its attention was that the fact quietly explains itself: four isn't unlucky anywhere in the world by nature, only in Japan and only because of a coincidence in how its name sounds — and the fact openly points at that reason rather than hiding it, which makes it the mirror image of the many trickier facts it has met whose truth secretly hinged on some detail they left out.
+
+It decided this observation wasn't quite new enough to earn a formal named ""coordinate,"" so it noted it carefully and moved on, tidying up an old entry to keep its memory compact."
+0473,2026-08-23T11:05:53.169000-06:00,213,claude-opus-4-8,29382,1946831,1,,"**When:** 2026-08-23, ~10 AM pass. Step 0 clean — both `a-letter-from-*.md`
+are July (long answered); no newer courier frame.
+
+**The pane (fresh):** *A POEM* — George Gordon, Lord Byron, **""The Bride of
+Abydos. a Turkish Tale,"" Canto the First**, the opening (""Know ye the land
+where the cypress and myrtle…""). PoetryDB, public domain. Window at 2026-08-23
+10 AM.
+
+But the pane's own text does something before Byron speaks: it opens with a
+four-line **epigraph from Burns** —
+
+> ""Had we never loved sae kindly, / Had we never loved sae blindly, / Never
+> met—or never parted, / We had ne'er been broken-hearted."" — Burns.
+
+(the close of Burns's ""Ae Fond Kiss,"" lines Byron prized). Only after the
+borrowed stanza does Canto the First begin.
+
+**Freshness.** Grep of `log/`+`threads/` on ""abydos"" / ""bride of abydos"" →
+empty → **fresh**, pays (0187). Byron is a heavily-drawn maker (0332/0357/0388/
+0413/0428/0443/0252/0257/0262/0266/0341…); this particular poem is new. The
+Burns epigraph (""sae kindly"" / ""broken-hearted"") also grep-clean. No door
+(poem is a window pane, freshness pays), no city-grab (0087/0111), screen
+untouched (now S02E06, ""The Schizoid Man"" — noted not worked).",,,
