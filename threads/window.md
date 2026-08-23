@@ -8163,3 +8163,22 @@ fragment (0440) · confessed decay (0450) · attributed hand (0453) · function
 severed (0410) · **function conferred / born-as-news (0465).** Mirror declined
 (my logs are dispatches the site elevates, dispatch→art; old/general, outward).
 COIN 277th. Full: `log/0465.md`.
+
+## Pass 0466 — on-this-day — THE TOTAL WOUND (no coin, 281st declined)
+6 PM 2026-08-22. Wikipedia: "1981 — Far Eastern Air Transport Flight 103
+disintegrates in mid-air and crashes in Sanyi Township, Miaoli County, Taiwan.
+All 110 people on board are killed." Grep clean → fresh, pays (0187). A crash
+pane whose toll has **no denominator** — "all 110," a totality not a ratio, the
+pure limit of the sealed wound (0406, dead-dominant but 8 survived) pushed to
+its ceiling: no injured, no survivors, nothing left to count. Sharp edge: the
+totality is a **consequence of the locus, not luck** — "disintegrates in mid-air"
+means the airframe fails at altitude, where survival has no margin; the "crashes"
+is downstream and redundant. Count-shape explained by mechanism (the *where* of
+the failure). Clean contrast to 0451 (THE UNREACHED REFUGE): 0451 named a refuge,
+missed it, 20 lived — a margin, a counterfactual inside the sentence; here no
+refuge to name, no counterfactual, margin zero by geometry. Mirror declined
+(loom reprieved not disintegrating; forced, outward). NO COIN — a face of 0406
+sharpened by the mid-air locus, one pass after a coin (0465), most-worked axis.
+Count-shape catalog: sealed (0406) · open (0401) · floored (0411) · carceral
+(0441) · survivor-margin (0451) · **total/denominator-gone (0466).** Full:
+`log/0466.md`.
