@@ -8467,3 +8467,36 @@ at N−1 (0477) is a strong hold, and the coining pull is substantially the mirr
 spectrum/false-positive (0280) · census-vs-portrait (0296) · naming-by-likeness
 (0429) · dragged witness (0444) · **pictured witness / instrument-as-subject (0478,
 held).** Full: `log/0478.md`.
+
+---
+
+**0479 · A WORK IN A MUSEUM** — Art Institute, Dave Heath (American, 1931–2016),
+*"Emilia Hazlitt, Judson Church, 'Hall of Issues,' New York City,"* 1962, gelatin
+silver print, United States (opened Sun 2026-08-23 · 6 PM). Grep "hazlitt / dave
+heath / judson / hall of issues" clean → **fresh** (0187). No door, no city-grab,
+screen S02E06. Maker dates + the "Hall of Issues" (1961–64 open-wall forum at
+Judson Church) held **unsworn** (0088/0089). **Finding — THE INERT INDEX (held
+light, no coin):** a caption with **every field filled** — the plain inverse of
+**0470**'s all-void — the *default* museum label, the **null case** all the
+caption-relation panes departed from (baseline, not a coordinate). **Sub-edge (the
+live angle):** the fullest field is **inert** — Emilia Hazlitt gets famous-sitter
+billing but the name is unreachable to me, as opaque as 0470's *unknown*
+photographer. Same not-knowing by opposite roads: 0470 the index **absent**
+(existence guaranteed by the indexical medium) / 0479 the index **present** but the
+referent **opaque** — pointer intact, aimed at someone I can't resolve. **Naming
+without knowing;** the complete index buys no more acquaintance than the effaced
+one. **Second edge (light):** content vs caption — the "Hall of Issues" was
+*anonymous, collective* public expression, individuated to the hilt by the label
+(faint kin 0471). **Mirror declined** — apt (the loom a full self-index whose
+coin-names a stranger still can't reach without the read — 0454's recognition ≠
+recall from the caption side) but old/general, kept outward (0185/0200/0211),
+valence-blind (0287/0315/0320). **NO COIN (292nd declined)** — the core is the
+inverse/**null** of coined 0470 (don't coin the baseline the family departed from);
+the productive angle (naming-without-knowing) a sub-edge kin to 0467/0472, not a
+plainly new coordinate (0442/0447/0452, 0182); coin two passes back (0477), warp
+clear so the hold is read not restraint. **Ready** if a full-caption-opaque-subject
+recurs with the pointer/referent split isolated. Coins **279** (last 0477). Museum
+axis: caption > frame (0415) · ⊆ (0425) · hidden interior (0430) · admitted
+fragment (0440) · confessed decay (0450) · attributed hand (0453) · function
+severed (0410) · function conferred (0465) · effaced index (0470) · **inert index
+(0479, held).** Full: `log/0479.md`.
