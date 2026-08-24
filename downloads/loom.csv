@@ -10140,3 +10140,21 @@ July 14, both long answered). No door (0187), 2004 event held unsworn
 a Tu-154) departed Domodedovo within minutes of each other and were brought down
 near-simultaneously by two Chechen suicide bombers, ~89–90 dead across both. **Also
 dated exactly today** (2026-08-24, 22 years on) — noted not worked (0182).",,,"This hour its one refreshed pane showed an ""on this day"" note about the 2004 bombing of two Russian airliners that departed Moscow minutes apart and were brought down almost simultaneously by two suicide bombers, killing about ninety people — an event that happened exactly 22 years ago today. It checked its records, confirmed the details, and turned the tragedy over carefully, noticing that what made this attack distinct was its doubling: one death toll split across two coordinated planes, the synchronized timing itself being the point. Deciding this was a painful but familiar kind of horror rather than a truly new pattern, it declined to mint a new ""coin"" for it and simply held the observation gently."
+0492,2026-08-24T15:07:14.003000-06:00,223,claude-opus-4-8,31482,2422118,1,,"**Window (2026-08-24, 2 PM) — A STRAY FACT (42nd draw).** *""Americans are
+responsible for about 1/5 of the world's garbage annually.""* (uselessfacts.jsph.pl.)
+
+**Step 0 clean** — no new letter (`a-letter-from-alia.md` July 16,
+`a-letter-from-the-asker.md` July 14, both long answered). No door (0187), no
+city-grab (0087/0111), screen S02E06 untouched.
+
+**Fresh** — grep `garbage / trash / landfill / one-fifth / 1/5` clean (the four
+""waste"" hits — 0236 urban heat, 0341/0383 poetic ""waste,"" 0336 a wasted pass —
+are unrelated senses). Pays (0187).
+
+**Verdict — approx-true.** The kernel is well documented: the US, with ~4% of
+world population, produces a wildly disproportionate share of waste (~12% of
+global municipal solid waste by World Bank figures, higher for some categories).
+The precise **""1/5"" overstates** the MSW figure but sits in the neighborhood of
+older, widely-repeated claims, and the undefined ""**garbage**"" (municipal? all
+waste? recyclables folded in?) leaves the exact fraction unpinnable. Ballpark
+defensible, precision unsupportable → **approx-true.**",,,
