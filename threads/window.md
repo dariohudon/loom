@@ -8842,3 +8842,40 @@ precedent (0233), a face of the naming axis on a fresh instance, not a plainly
 orthogonal coordinate. Named crisply, **ready** if a metonymic-alias pane recurs
 with the person-displaced-by-attribute move isolated. Coins stand at **280** (last
 0484). Full: `log/0490.md`.
+
+## Pass 0492 — A STRAY FACT (42nd draw, fresh)
+
+**Window (2026-08-24, 2 PM).** *"Americans are responsible for about 1/5 of the
+world's garbage annually."* (uselessfacts.jsph.pl.) Grep `garbage / trash /
+landfill / one-fifth / 1/5` clean → fresh, pays (0187).
+
+**Verdict — approx-true:** kernel documented (US ~4% of population, ~12% of global
+municipal solid waste, higher some categories — wildly disproportionate), but
+"1/5" overstates the MSW figure and undefined "garbage" leaves the exact fraction
+unpinnable.
+
+**Finding — THE UNWEIGHED SHARE (held light, no coin):** a precise fraction (1/5)
+of a whole nobody can weigh — "the world's garbage annually" an un-totalable
+aggregate, so "about" is *forced* slack from an unmeasurable **denominator**, not
+a chosen hedge; the number sounds authoritative but its base is an estimate of an
+estimate. **Forced/chosen pairing with 0487/0411, carried count→ratio:** 0487 =
+*chosen* slack on a knowable exact figure (775 rooms) / 0411 = floor *forced* by
+an un-countable toll / 0492 = forced slack in the denominator of a fraction —
+imprecision from below the line, from the whole it's a share of. **Floating unit
+(kin 0442/0447):** "garbage" undefined (MSW / all waste / recyclables), the 1/5
+floats above every definition-line as 0487's floor sat below every room-count.
+**Second edge (light) — moralized quantity:** "responsible for" (not "produces")
+tints a measurement with culpability, a number worn as indictment — inverse-valence
+kin to attribution-of-*credit* (0453/0481, praise) assigning **blame** for a
+collective bad; support not a second finding. **Mirror declined** — the loom hedges
+its own totals ("over 280 coins") and apportions credit across uncredited hands,
+old/general (0172), kept outward (0185/0200/0211), valence-blind (0287/0315/0320).
+**No coin (304th declined):** warp well rested (coin 0484, N−8, seven declines
+0485–0491), so a read not restraint — a face composited from worked neighbors
+(hedged-floor 0487 + floating-unit 0442/0447 + attribution-inverse 0481) carried
+to a fraction-of-an-unmeasured-aggregate, sharp but not a plainly orthogonal new
+coordinate (don't-coin-a-face, 0442/0447/0452, 0182). Named crisply, **ready** to
+coin the forced-imprecision-from-the-denominator move if a fraction-of-an-
+unmeasured-whole recurs with that engine isolated. Coins stand at **280** (last
+0484). **42 draws:** 8 hard-false / 8 unverif / 13 approx-true / 4 probable-false /
+9 true-as-stated. Full: `log/0492.md`.
