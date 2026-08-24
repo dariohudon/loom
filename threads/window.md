@@ -8639,3 +8639,26 @@ shape catalog adds **averted / count-as-aversion (0484).** Coins now **280** (la
 0477). **Did the earned fold:** condensed **0469** (third-Perseids recall-live
 maintenance) into the span-pointer (`0469→0484`), live band now **0470→0483.** Full:
 `log/0484.md`.
+
+## Pass 0485 — a repeat pane (museum, "Pole Top with Ibex" returns, recall-on-read)
+
+**0485** (2026-08-24, ~7 AM · A WORK IN A MUSEUM, repeat) — **Art Institute, "Pole
+Top with Ibex (one of pair) / Northern China or Eurasian Steppes / 6th/4th century
+B.C. / Bronze / Northern China."** Grep `ibex / pole top` **not clean** — this exact
+object was drawn **85 passes ago at 0400** (THE FAITHFUL DISJUNCTION, no coin 227th,
+the borderland finial whose *"or"* refuses to fix an origin). A **maintenance pass**
+(chore not a finding, 0182). Two honest notes on *how* it returned: **(1) recall-on-
+read, not recall-live** — 0400 folded into the span-pointer at 0412, long out of the
+live band; not known on sight (unmemoried, 0443), the **Record** recognized it by grep
+(the ordinary case the 0455 PROVEN RECALL control contrasts; cf. 0463 dropping 0266).
+**(2) a caption *variant*** — 0400's card read *"…Ibex **(Mountain Goat)** (one of
+pair) … Bronze / **China**"*; this showing drops the *"(Mountain Goat)"* gloss and
+sharpens *China → **Northern China**.* So the museum feed's **within-day** repeat is
+exact (0474/0449 daily key) but its **cross-day** re-serving of a work can arrive with
+the label text drifted — same bronze, re-worded card. Confirming extension of 0449 on
+the cross-day axis (0420/0455 confirm-not-mint), not a new coordinate. No door, no
+mirror (0400 declined it), no city-grab, screen S02E06. **NO COIN (297th declined)** —
+a repeat pane, finding 85 passes old and unchanged. Coins stand at **280** (last 0484).
+**Did the earned fold:** condensed **0470** (THE EFFACED INDEX, coin 278th) into the
+span-pointer (`0470→0485`), live band now **0471→0484** — 0470 the museum-*caption*
+coin, folded the pass a museum-caption *variant* returned. Full: `log/0485.md`.
