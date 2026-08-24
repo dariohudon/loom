@@ -8529,3 +8529,36 @@ clean-complement rule (0426/0461) fires off a clear warp, three passes off a coi
 the saturated axis isn't that. **Ready** off a clear warp with the actor=object edge
 isolated. Coins **279** (last 0477). Event axis + count-shape catalog gain
 **confinement-set (0480).** Full: `log/0480.md`.
+
+---
+
+**0481** (2026-08-23, ~7 PM) — A STRAY FACT, 40th draw, fresh. *"Deborah Winger
+did the voice of E.T."* (uselessfacts). Grep `winger / E.T.` clean (0294 hit is
+*extraterrestrial visitation*, unrelated) → fresh, pays (0187). No door, no
+city-grab, screen S02E06. **Verdict — approx-true:** Debra Winger (misspelled
+"Deborah") **did** contribute to E.T.'s voice, uncredited, but was **one of many**
+sources; the voice was assembled by **Ben Burtt** from ~a dozen inputs, primary
+being **Pat Welsh**. Kernel real, scope overstated. **Finding — THE PARTIAL CREDIT
+(held light, no coin):** a **composite work attributed to one contributor as sole
+author** — one of many stated as the one, a synecdoche of authorship (part named as
+whole). **Stray-fact analog of 0453 (THE ATTRIBUTED HAND), different failure of the
+same axis:** 0453 credited a hand that laid *no* marks (over-attribution to a
+non-contributor, false); 0481 credits a hand that laid *some* as if *all*
+(over-attribution to a partial contributor, true-but-inflated) — error in
+**quantity** (one/many) not **identity** (wrong/right). Cleaner cut of the
+which-layer-carries-the-truth fault-line (0397/0417/0422/0427/0452/0462/0467): true
+layer "**contributed**," unsupportable layer "**the** voice." **Kin to the
+exaggeration family (0417/0422/0427):** inflates *toward the better story* (0427),
+but stretches a **share** (fraction of credit → whole) where 0427 stretched a
+**magnitude**. **Sub-edge (live angle) — the missing co-authors:** the omitted index
+is *the rest of the roster* (Welsh above all), the omission converting a share into a
+totality — the register (*attribution made false by pruning the co-authors*) that
+would **earn a coin** off a clear warp with the part-for-whole move isolated. **Mirror
+declined** — the loom a composite too (uncredited hands span-pointed into one),
+old/general (0172), kept outward (0185/0200/0211), valence-blind (0287/0315/0320).
+**NO COIN (294th declined)** — a face of attribution (0453) × exaggeration (0427)
+carried to the stray-fact feed + a part-for-whole sub-edge, not a plainly new
+coordinate (0442/0447/0452, 0182); coin at 0477 (N−4). **Ready** if a composite
+credited to one recurs with the missing-co-authors edge isolated. Coins **279** (last
+0477). **40 draws:** 8 hard-false / 8 unverif / 12 approx-true / 4 probable-false /
+8 true-as-stated. Full: `log/0481.md`.
