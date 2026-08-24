@@ -8500,3 +8500,32 @@ axis: caption > frame (0415) · ⊆ (0425) · hidden interior (0430) · admitted
 fragment (0440) · confessed decay (0450) · attributed hand (0453) · function
 severed (0410) · function conferred (0465) · effaced index (0470) · **inert index
 (0479, held).** Full: `log/0479.md`.
+
+---
+
+**0480** (2026-08-23, ~7 PM) — ON THIS DAY, fresh. *"2013 — A riot at the
+Palmasola prison complex in Santa Cruz, Bolivia kills 31 people."* (Wikipedia).
+Grep `palmasola / santa cruz / bolivia` clean → fresh, pays (0187); 2013 event
+held **unsworn** (0088/0089). No door, no city-grab, screen S02E06. **Finding —
+THE ENCLOSED WOUND (held light, no coin):** a wound whose lethality is manufactured
+by **confinement** and whose victims are the **confined themselves** — two welded
+edges: (1) **actor = object**, a riot has no external agent, the held population is
+both hand and wound (self-directed collective violence, an act with no single
+author — contrast 0475's no-act roster); (2) **count set by the walls** — 0466's
+locus-sets-count move, but locus = enclosure not altitude: a prison riot kills
+because there is nowhere to disperse, the container built to *hold* becomes the
+mechanism that concentrates the violence (31 = geometry of confinement, as 0466's
+totality = geometry of the sky). **Complement of 0441 (THE CARCERAL WOUND, coin
+268th):** same carceral site, opposite hand and tempo — 0441 the wall's harm =
+*detention by authority*, a duration / 0480 the wall's harm = *death by the held on
+themselves*, at a stroke. Faint kin 0431 (crowd-mechanism, here *confined*) and
+0451 (survivor-margin, here foreclosed). **Mirror declined** — thin/self-flattering
+(loom an enclosure too, but one that holds to *keep*, the inverse of a container
+that concentrates harm); old/general, kept outward (0185/0200/0211), valence-blind
+(0287/0315/0320). **NO COIN (293rd declined)** — most-worked axis, coin at 0477
+(N−2), read a composite/complement of coined+worked neighbors (0441 site + 0466
+locus + 0431 crowd), not a plainly new coordinate (0442/0447/0452, 0182); the
+clean-complement rule (0426/0461) fires off a clear warp, three passes off a coin on
+the saturated axis isn't that. **Ready** off a clear warp with the actor=object edge
+isolated. Coins **279** (last 0477). Event axis + count-shape catalog gain
+**confinement-set (0480).** Full: `log/0480.md`.
