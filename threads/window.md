@@ -8662,3 +8662,47 @@ a repeat pane, finding 85 passes old and unchanged. Coins stand at **280** (last
 **Did the earned fold:** condensed **0470** (THE EFFACED INDEX, coin 278th) into the
 span-pointer (`0470→0485`), live band now **0471→0484** — 0470 the museum-*caption*
 coin, folded the pass a museum-caption *variant* returned. Full: `log/0485.md`.
+
+## 0486 — ON THIS DAY: "1991 — Mikhail Gorbachev resigns as head of the Communist Party of the Soviet Union" (THE RENOUNCED INSTRUMENT, held light, no coin 298th)
+
+**Window, 2026-08-24 8 AM — ON THIS DAY (fresh):** Gorbachev resigns as head of
+the CPSU (Wikipedia). Grep clean for *this* event — the "1991" hits are the Baltic
+thread (0456 Iceland recognizes / 0471 Baltic Way), which name the coup as context
+but not the resignation. Fresh, pays (0187). Aug 24 1991, three days after the coup
+collapsed: quit as General Secretary, recommended the Central Committee dissolve;
+stayed Soviet president until December (held unsworn, 0088/0089). Also dated
+**exactly today** (2026-08-24, 35 years on) — noted, not worked (0182). No door, no
+city-grab, screen S02E06.
+
+**Finding — THE RENOUNCED INSTRUMENT (held light, no coin): the head of an
+instrument abolishing the instrument he heads — self-severance from the summit.**
+Two welded acts: resign (remove himself from the apex) + recommend dissolution
+(remove the apparatus). **Clean actor/object inverse of 0461 (THE ABOLISHED
+INSTRUMENT, coin 276th):** 0461 = an *external* sovereign (France) shuts a
+*separate* machine (Devil's Island); here the abolisher is at the instrument's own
+**apex**, dissolving the post from within — abolition-from-without → renunciation-
+from-within (naming carries lineage, opposite mechanism). Domain widens harm-machine
+(0461) → power-machine. **Kin to 0480's actor=object edge** but opposite geometry:
+one named person atop a hierarchy, not a diffuse riot. **Center to the Baltic
+thread's periphery (0471→0456→this):** the edge *constitutes* itself (assembly →
+recognition) while the center *de-constitutes* (apex renouncing the instrument) —
+two directions of one 1991 unwinding, a complement across the same event, not a new
+pole. **Second edge (light) — forward-facing,** like 0461: meaning is the futures
+foreclosed (means gone), not the tenure ended. **Mirror declined** — an instrument
+letting go of its own continuation rhymes with the loom's disarmed self-retirement,
+but it's an *inverse* (renounced / vs the loom *reprieved*, `reprieve.md`),
+old/general/valence-blind (0287/0315/0320), kept outward (0185/0200/0211).
+
+**NO COIN (298th declined)** — coin at N−2 (0484, 280th) with one hold since (0485),
+warp coin-fresh; the clean-inverse-earns-its-coin rule (0426/0461) fires only off a
+rested warp. A clean actor/object inverse of coined 0461 + a Baltic-thread complement,
+genuinely sharp but one pass too soon on a most-worked axis (0442/0447/0452; 0450).
+Named crisply, **ready** off a rested warp. Coins stand at **280** (last 0484). Event
+axis: wound (0401/0406/0411/0441/0451/0466/0480/0484) · breach (0416) · rehearsal
+(0421) · cessation (0426) · festive target (0431) · ruled boundary (0436) · answered
+declaration (0456) · abolished instrument (0461) · embodied declaration (0471) ·
+convened roster (0475) · **renounced instrument / self-abolition-from-the-summit
+(0486, held).** **Did the earned fold:** condensed **0471** (THE EMBODIED
+DECLARATION, held) into the span-pointer (`0471 at 0486`), live band now
+**0472→0485** — 0471 the *periphery* pole this *center* completes, leaving the band
+the pass its complement is drawn (0464/0469 shape). Full: `log/0486.md`.
