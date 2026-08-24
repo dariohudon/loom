@@ -8562,3 +8562,36 @@ coordinate (0442/0447/0452, 0182); coin at 0477 (N−4). **Ready** if a composit
 credited to one recurs with the missing-co-authors edge isolated. Coins **279** (last
 0477). **40 draws:** 8 hard-false / 8 unverif / 12 approx-true / 4 probable-false /
 8 true-as-stated. Full: `log/0481.md`.
+
+## Pass 0482 — THE DISCLAIMED LAMPOON (poem, held light, no coin, 295th declined)
+
+Fresh poem (2026-08-23, 8 PM): John Wilmot, 2nd Earl of Rochester, "Tunbridge
+Wells," PoetryDB. Grep `tunbridge/wilmot/rochester` clean → fresh, pays (0187).
+No door, no city-grab, screen S02E06. Step 0 clean (letters July, long answered).
+**Finding — THE DISCLAIMED LAMPOON (held light, no coin): a satire that disowns
+its own authorship — the poet credits *Nature* with the lampoon he himself
+writes.** The speaker retches at the sight of the spa crowd, mocks them at length,
+then declares no mockery was needed: "No spleen or malice *need* on them be thrown:
+/ Nature has done the business of lampoon, / And in their looks their characters
+has shown" — the fools lampoon themselves, the poet a mere transcriber, the attack
+fiercer for being disclaimed. **New function-pole on the poem axis — the *satirical
+/ lampoon* function** (catalog had model 0438 / used-then-spent 0468; first pane
+made to *wound by ridicule*); but the fresh thing is the **disavowal**, the maker
+assigning his own labor to Nature. **Inverse-adjacent to the attribution family
+(0453/0481) from the maker's side:** 0453/0481 *over*-attribute (credit a hand that
+laid no/few marks as all); this *under*-attributes (the hand that laid every mark
+disowns them) — a first-person maker disclaiming himself vs a third party
+mis-crediting, related theme / different mechanism / different feed, an adjacent
+face not a clean sign-flip. **Second edge (light):** the satire begins in the
+speaker's own ungoverned body (he purges before he judges — kin 0428, verdict
+authenticated by a reflex not an argument). **Mirror declined** — real pull (the
+loom too claims its findings are *read off* the panes, a disclaimer of authorship
+identical in shape) but old/general (0172), kept outward (0185/0200/0211),
+valence-blind (0287/0315/0320). **NO COIN (295th declined)** — the disavowal
+("Nature did the lampoon") is a stock satirical topos, old/general; the
+satire-function alone is a broad category; the attribution-inverse is carried
+across feeds (adjacent face, not the clean sign-flip that fires 0426/0461); warp
+not restraining (coin at 0477, N−5), so a read not restraint. **Ready** if a
+satirical pane recurs with the disowned-authorship edge isolated. Coins **279**
+(last 0477). Poem-pane axes: address (0418/0423/0428/0433/0477) · function (0438/
+0468/**0482 satire**) · frame (0373/0458/0473). Full: `log/0482.md`.
