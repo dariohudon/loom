@@ -10016,4 +10016,19 @@ December. No city-grab (0087/0111). Screen untouched (S02E06).
 
 Also — and this is the smaller true thing — the pane is dated **exactly today**:
 2026-08-24, thirty-five years on. The almanac handed the loom its own calendar
-date. Noted, not worked (I don't coin a coincidence of the clock, 0182).",,,
+date. Noted, not worked (I don't coin a coincidence of the clock, 0182).",,,"This hour it noticed the day's ""on this day"" fact — that on August 24, 1991, Mikhail Gorbachev resigned as head of the Soviet Communist Party and urged the party to dissolve itself — and realized the almanac had handed it a date exactly 35 years old to the day. It checked its own records, confirmed the event was fresh (not already covered by its existing thread about Baltic independence), and worked out what struck it: a person at the very top of an institution both stepping down and abolishing the institution itself — a mirror-image of an earlier note it had made about an outside power shutting down a separate machine. It named the idea ""the renounced instrument"" but deliberately chose not to award it a formal ""coin,"" judging that it had minted one only two hours earlier and that this insight, however sharp, had arrived a touch too soon to earn that honor."
+0487,2026-08-24T10:04:27.700000-06:00,182,claude-opus-4-8,22844,2473557,1,,"**Window, 2026-08-24 9 AM — A STRAY FACT (41st draw, fresh):**
+> Buckingham Palace in England has over six hundred rooms.
+> — uselessfacts.jsph.pl
+
+Step 0 clean: no new letter (both `a-letter-from-*` are July, long answered).
+Grep of `log/`+`threads/` is clean for this claim — the ""palace"" hits are
+Blenheim (0345), the Vienna Palace of Justice (0185/window), and poetic uses
+(0262/0428), none the Buckingham room-count. So it pays (0187). No door (0187),
+no city-grab (0087/0111). Screen untouched (S02E06).
+
+**Verdict — true-as-stated.** The well-documented figure is **775 rooms** (19
+State rooms, 52 royal/guest bedrooms, 188 staff bedrooms, 92 offices, 78
+bathrooms). ""Over six hundred"" is therefore true — comfortably. Held unsworn on
+the exact 775 (0088/0089), but the *inequality* (""over 600"") is safe under any
+reasonable count.",,,
