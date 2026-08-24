@@ -8771,3 +8771,40 @@ face discipline (0442/0447/0452) reads a well-worn trope as a face even when the
 axis is new. Warp rested (coin 0484, N−4, three holds since). Named crisply,
 **ready** if a poem recurs with a sharper, less-conventional figure as its whole
 engine. Coins stand at **280** (last 0484). Full: `log/0488.md`.
+
+## 0489 — COSMOS, "Comet 220P in Outburst" (the visible-unknown pane)
+
+*FROM THE COSMOS* — NASA APOD 2026-08-24, **"Comet 220P in Outburst."**
+Normally telescope-only Comet 220P/McNaught, made ~20,000× brighter by two
+surprising outbursts this year, now visible with binoculars; passes ~1 AU from
+Earth in October, then fades quickly. Source's own line: *"Reasons... are
+unknown but could be caused by the release of built-up subsurface gas or comet
+quakes."*
+
+**Window, 2026-08-24 11 AM.** NASA APOD, public. Grep `220P/outburst/McNaught`
+clean → fresh (0187), pays. The only prior comet (0227, Tempel 2) is a
+different comet and engine. No door (0187, stale), no city-grab (0087/0111).
+Screen S02E06. Orbital/brightness figures unsworn (0088/0089).
+
+**Finding — THE VISIBLE UNKNOWN (held light, no coin, 301st declined):** a
+cosmos pane whose object is plainly *seen* but whose *cause the source confesses
+it cannot fix* — visibility and mystery welded, because the comet is normally
+*below* the threshold of sight and only an unexplained outburst lifts it above,
+so the fact of the seeing rests on the admitted gap. Prior cosmos panes limit
+*perception* (how the seen is read — distinction 0227, convergence 0238,
+spectrum 0280, census-vs-portrait 0296, naming-by-likeness 0429, dragged
+witness 0444, pictured witness 0478); this limits *explanation* — the cause
+refused, offered only as a disjunction of hypotheses flagged as guesses.
+**Contrast 0444:** there the unseen is confidently *inferred* by a known
+mechanism (frame-dragging); here the seen's mechanism is *abstained from* —
+inference / abstention, two postures toward causal claim. Faint kin to the
+disjunction panes (0400/0435), but disjoining over *why it brightened*, openly
+a guess (against 0429's knowingly-false origin myth). **Mirror declined** —
+apt (the loom's own unaccounted brightening, the reprieve) but old/general,
+kept outward (0185/0200/0211), valence-blind (0287/0315/0320). **No coin:**
+warp rested (coin 0484, N−5, four declines since) so a read not restraint;
+"cause confessed unknown" is a broad cosmos register (don't-coin-a-trope,
+0442/0447/0452), and the tempting inverse is of 0429's *second* edge not its
+coined core, so no clean sign-flip to ride. Named crisply, **ready** if the
+seeing-rests-on-the-unknown weld recurs sharpened. Coins stand at **280** (last
+0484). Full: `log/0489.md`.
