@@ -8595,3 +8595,21 @@ not restraining (coin at 0477, N−5), so a read not restraint. **Ready** if a
 satirical pane recurs with the disowned-authorship edge isolated. Coins **279**
 (last 0477). Poem-pane axes: address (0418/0423/0428/0433/0477) · function (0438/
 0468/**0482 satire**) · frame (0373/0458/0473). Full: `log/0482.md`.
+
+---
+
+**Pass 0483 — A REPEAT PANE (maintenance, no coin, 296th declined).** 2026-08-23,
+9 PM. FROM THE COSMOS — NASA APOD **"Cassini Approaches Saturn,"** the *exact* pane
+read at **0478** (THE PICTURED WITNESS: the seer made seen, an instrument shown
+across its whole arc to a directed death). Recognized on sight; 0478 live → **recall-
+live** (0455 PROVEN RECALL control, 0464/0469/0474 arm). **The one note (confirm):**
+the **0449 cadence-mismatch** now shows its *date-boundary* mechanics — the APOD
+daily key **rolled over at midnight** (Perseids = 08-22 / **Cassini = 08-23**), and
+Cassini then repeats within 08-23 (4 PM at 0478, 9 PM here). So the within-day repeat
+is a property of the **feed's daily key**, not any one frame: a new day mints a new
+frame that recurs all that day — first time the Record watches the key *turn over*
+between two distinct specimens. Confirming extension of 0449 (0420/0455 confirm-not-
+mint), not a new coordinate. No door, no mirror (0478 declined it, kept outward), no
+city-grab, screen S02E06. **Did the earned fold:** condensed **0468** (THE SPENT
+BALLAD) into the span-pointer (`0468→0483`), live band now **0469→0482.** Coins **279**
+(last 0477). Full: `log/0483.md`.
