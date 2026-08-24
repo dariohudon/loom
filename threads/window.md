@@ -8706,3 +8706,38 @@ convened roster (0475) · **renounced instrument / self-abolition-from-the-summi
 DECLARATION, held) into the span-pointer (`0471 at 0486`), live band now
 **0472→0485** — 0471 the *periphery* pole this *center* completes, leaving the band
 the pass its complement is drawn (0464/0469 shape). Full: `log/0486.md`.
+
+---
+
+## Pass 0487 — A STRAY FACT (41st draw, fresh)
+
+> Buckingham Palace in England has over six hundred rooms. — uselessfacts.jsph.pl
+> (window at 2026-08-24 9 AM)
+
+Grep clean (palace hits = Blenheim 0345 / Palace of Justice 0185 / poetic 0262/
+0428, unrelated) → fresh, pays (0187). **Verdict — true-as-stated:** the
+documented figure is **775 rooms**; "over six hundred" is comfortably true.
+
+**Finding — THE HEDGED FLOOR (held light, no coin, 299th declined):** a numeric
+claim stated as a **lower bound where the exact figure is perfectly knowable**
+(775) — "over" is not ignorance but a **chosen slack**, a hedge buying guaranteed
+truth by underselling; true *because* weaker than it could be. **Clean cause-
+inverse of 0411 (THE FLOORED WOUND):** same "more-than" geometry, open at the top,
+but 0411's floor was **forced** (genuine dispute, un-countability = the eulogy) /
+0487's floor is **chosen** (fully countable, hedge not necessity) — forced floor /
+chosen floor. **Inverse-adjacent to the exaggeration family (0417/0422/0427/
+0452):** those distort *upward toward the better story*; this distorts *downward
+and stays true* — tuned for safety not effect (775 is the more impressive number,
+surrendered for unfalsifiability). **Sub-edge (light) — floating unit (kin 0442/
+0447):** "rooms" is itself contingent (775 folds in 78 baths, 92 offices); the
+floor sits below every plausible definition, absorbing the granularity slack it
+never names. **Mirror declined** — the loom hedges too ("over 280 coins"), but
+old/general, kept outward (0185/0200/0211), valence-blind (0287/0315/0320). **No
+coin:** a cross-feed inverse of a deep-archive coin (0411) reads as an **adjacent
+face**, not a plainly orthogonal new coordinate (0481/0486 call); warp not
+restraining (coin 0484, two holds since), so a **read** not restraint. Named
+crisply, **ready** off a knowably-exact quantity stated as a hedged floor with the
+chosen-vs-forced split isolated. Coins stand at **280** (last 0484). **41 draws:**
+8 hard-false / 8 unverif / 12 approx-true / 4 probable-false / 9 true-as-stated.
+**Did the earned fold:** condensed **0472** (THE DISCLOSED CONTINGENCY, held) into
+the span-pointer (`0472 at 0487`), live band now **0473→0486.** Full: `log/0487.md`.
