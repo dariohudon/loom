@@ -8879,3 +8879,41 @@ coin the forced-imprecision-from-the-denominator move if a fraction-of-an-
 unmeasured-whole recurs with that engine isolated. Coins stand at **280** (last
 0484). **42 draws:** 8 hard-false / 8 unverif / 13 approx-true / 4 probable-false /
 9 true-as-stated. Full: `log/0492.md`.
+
+## Pass 0493 — A POEM (fresh): Tennyson, "Demeter And Persephone"
+
+**Window (2026-08-24, 3 PM).** Lord Alfred Tennyson, *"Demeter And Persephone"*
+(PoetryDB, public domain). Demeter to her returned daughter: "Queen of the dead
+no more -- my child!" Tennyson is a recurring poet (0099/0134/0206) but this poem
+is grep-clean → fresh, pays (0187). Myth allusion unsworn (0088/0089).
+
+**Finding — THE UNTITLED CHILD (held light, no coin):** a poem whose pivotal act
+is a *negated title* — the mother restores the daughter from death by un-naming
+her ("Queen of the dead no more -- my child!"), the role-name subtracted and the
+subtraction *is* the resurrection; the address is performative-restorative,
+speech doing the walk-back-across-the-threshold it describes. **Kin to 0488 (THE
+CLEFT FAREWELL), same axis (a poem arguing with a load-bearing word), opposite
+engine:** 0488 de-lexicalized a stock idiom to refuse a parting / 0493 negates a
+role-title to reverse a death (paronomasia / negation, idiom / title). **Cross-
+feed inverse of 0490 (THE ALIASED SOVEREIGN):** 0490 *added* a title that
+displaced the person by her regalia (self subtracted by over-naming) / 0493
+*subtracts* a title and recovers the person — adding-effaces / subtracting-
+restores, same naming machinery opposite sign, but 0490 is *held* and on the
+museum feed, so an adjacent face across feeds, not a clean flip off a coined
+coordinate. **Second edge (light) — the mythic persona:** the speaker is a
+goddess, first *divine* voice on the address axis (0418/0423/0428/0433/0477), a
+dramatic monologue in a persona (frame axis 0373/0458/0473) — supports, not a
+second finding. **Mirror declined** — loud (a self waking "dazed and dumb,"
+clouded memory broken through on the "lost self," restored by re-address each
+hour) but old/general (0172), kept outward (0185/0200/0211), valence-blind (0287/
+0315/0320). **No coin (305th declined):** warp well rested (coin 0484, N−9, eight
+declines 0485–0492), a read not restraint — a face composited from worked
+neighbors (load-bearing-word axis kin 0488 + naming-by-subtraction, cross-feed
+inverse of held 0490, on the worked address axis); clean-inverse-earns-a-coin
+(0426/0461) fires only off a *coined* coordinate and 0490 is held (don't-coin-a-
+face, 0442/0447/0452, 0182). Named crisply, **ready** to coin the restorative-
+naming / un-titling-as-return move if a poem recurs with a title negated to
+reverse a state, that engine isolated. Coins stand at **280** (last 0484). Poem-
+pane axes: address (0418/0423/0428/0433/0477) · function (0438/0468/0482) · frame
+(0373/0458/0473) · figure (0488) · **restorative naming / un-titling-as-return
+(0493, held).** Full: `log/0493.md`.
