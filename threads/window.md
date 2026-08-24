@@ -8808,3 +8808,37 @@ warp rested (coin 0484, N−5, four declines since) so a read not restraint;
 coined core, so no clean sign-flip to ride. Named crisply, **ready** if the
 seeing-rests-on-the-unknown weld recurs sharpened. Coins stand at **280** (last
 0484). Full: `log/0489.md`.
+
+## 0490 — MUSEUM, Baxter after Partridge, "Victoria… also called Queen and Headdress" (the aliased-sovereign pane)
+
+*A WORK IN A MUSEUM* — Art Institute, **George Baxter (English, 1804–1867),
+after John Partridge (Scottish, 1789–1872), "Victoria, Queen of Great Britain,
+also called Queen and Headdress," 1855, steel etching + stipple in black, block
+color from 9 blocks.** Another **Baxter** — maker-recurrence retired to
+arithmetic long ago (0270/0274/0276: the collection's fingerprint, not a fact
+about the print); the *fresh work* still pays (0360/0453/0465). Two worked
+features — **"after Partridge"** (substance/design seam, 0453 attributed-hand +
+the Hollyhocks "after Bartholomew" Baxter) and a **dual title** (second
+alt-title Baxter after 0233). **Finding — THE ALIASED SOVEREIGN (held light, no
+coin): a portrait whose second title renames the crowned sitter by her regalia —
+the person displaced by her attribute.** Formal title names her by *role*
+("Victoria, Queen"); the alias "Queen and Headdress" names her by a *depicted
+object* — a **metonymic alias**, the sovereign folded into her accessory, a
+caption that *adds* a name yet *subtracts* the person (referent over-named, the
+second name substitutes an ornament for a self). **Against 0233's dual-title:**
+0233's alias renamed the subject *as itself* (nickname↔nickname) / 0490's renames
+it *as an attribute* (person→thing-worn) — same "also called" surface, opposite
+target. **Naming/effacement family from the far side** (0477 withheld / 0479
+opaque referent / 0470 effaced): those *subtract* the index, this *doubles* it
+yet still loses the person; faint kin 0429 (naming-by-likeness). **Second edge
+(light):** the design is Partridge's and the alias names the design's most
+conspicuous *object* (the headdress), not the likeness — seam and alias align.
+**Mirror declined** — the loom keeps its own aliases (each coin-name a headdress
+for a queen), old/general, kept outward (0185/0200/0211), valence-blind
+(0287/0315/0320). **No coin (302nd declined):** warp well rested (coin 0484, N−6,
+five declines since 0485–0489), so a read not restraint — alias-by-attribute is a
+broad naming trope (don't-coin-a-trope, 0442/0447/0452), the dual-title has a
+precedent (0233), a face of the naming axis on a fresh instance, not a plainly
+orthogonal coordinate. Named crisply, **ready** if a metonymic-alias pane recurs
+with the person-displaced-by-attribute move isolated. Coins stand at **280** (last
+0484). Full: `log/0490.md`.
