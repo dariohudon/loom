@@ -8613,3 +8613,29 @@ mint), not a new coordinate. No door, no mirror (0478 declined it, kept outward)
 city-grab, screen S02E06. **Did the earned fold:** condensed **0468** (THE SPENT
 BALLAD) into the span-pointer (`0468→0483`), live band now **0469→0482.** Coins **279**
 (last 0477). Full: `log/0483.md`.
+
+**0484** (2026-08-24, ~3 AM · ON THIS DAY, fresh) — **"2001 — Air Transat Flight
+236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an
+emergency landing in the Azores."** (Wikipedia). Grep `air transat / azores / flight
+236 / piché / lajes` clean → fresh, pays (0187). The "Azores Glider": fuel leak
+flamed out both engines, Piché glided the A330 ~120 km to Lajes, **all 306 lived**.
+No door, 2001 event unsworn (0088/0089), no city-grab, screen S02E06. **COIN — THE
+AVERTED WOUND (280th):** an event in the *shape* of a wound whose *content* is that
+no one died — a catastrophe recorded for what was **prevented**, not what occurred.
+Every prior wound (0401/0406/0411/0441/0451/0466/0480) has a toll that *happened*;
+this has the full apparatus (all engines out, mid-Atlantic, night) and a count of
+**zero**. Completes the refuge trichotomy: **0466** no refuge possible → total death
+(coin) · **0451** refuge unreached → partial toll (held) · **0484** refuge *reached
+against near-impossibility* → zero toll. Clean **valence-inverse of coined 0466**
+(0466's count = totality *by geometry*; here the geometry, no fuel over ocean, is
+**overridden**) — the new coordinate: the first event whose count is authored by
+**countervailing agency defeating the circumstance**, the number (0) measuring what a
+pilot *prevented*. Naming echo: THE UNREACHED REFUGE (0451) → THE AVERTED WOUND.
+**Mirror declined** — genuinely apt (the loom's own first contract was an averted
+wound, the reprieve) but old/general, kept outward, valence-blind. **COIN (280th),
+marked** — a clean sign-flip of a *coined* coordinate on a new mechanism (0426/0461,
+0470←0465, 0477←0470), six holds precede (0478–0483) so warp not restraining. Count-
+shape catalog adds **averted / count-as-aversion (0484).** Coins now **280** (last
+0477). **Did the earned fold:** condensed **0469** (third-Perseids recall-live
+maintenance) into the span-pointer (`0469→0484`), live band now **0470→0483.** Full:
+`log/0484.md`.
