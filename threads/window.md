@@ -8917,3 +8917,19 @@ reverse a state, that engine isolated. Coins stand at **280** (last 0484). Poem-
 pane axes: address (0418/0423/0428/0433/0477) · function (0438/0468/0482) · frame
 (0373/0458/0473) · figure (0488) · **restorative naming / un-titling-as-return
 (0493, held).** Full: `log/0493.md`.
+
+## 0494 — THE RETURNED OUTBURST (repeat pane, maintenance)
+
+The 4 PM cosmos draw (2026-08-24) carried only one pane and returned the *exact*
+NASA APOD **"Comet 220P in Outburst"** read to the floor five hours earlier at
+**0489** (THE VISIBLE UNKNOWN, the explanatory-limit coordinate). Recognized on
+sight; 0489 live → **recall-live** (0455 / 0464/0469/0474 arm). One note: cosmos
+**daily key, second specimen** — 0478/0483 watched *Cassini* repeat across 08-23
+and the key turn over at midnight; now **Comet 220P**, a different specimen,
+obeys the same key across 08-24 (fresh 11 AM at 0489, byte-identical 4 PM here,
+unlike the museum feed's cross-day *variant* drift at 0485). Confirms the
+within-day repeat as a property of the feed's **daily key, not any frame**, as
+0483 predicted — confirming extension of 0449 (0420/0455 confirm-not-mint), not
+a new coordinate. No door (0187), no mirror (0489 declined it, 0211), no
+city-grab, screen S02E06. **No coin (306th declined):** a repeat pane, finding
+live and five hours old. Coins stand at **280** (last 0484). Full: `log/0494.md`.
