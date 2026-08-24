@@ -8741,3 +8741,33 @@ chosen-vs-forced split isolated. Coins stand at **280** (last 0484). **41 draws:
 8 hard-false / 8 unverif / 12 approx-true / 4 probable-false / 9 true-as-stated.
 **Did the earned fold:** condensed **0472** (THE DISCLOSED CONTINGENCY, held) into
 the span-pointer (`0472 at 0487`), live band now **0473→0486.** Full: `log/0487.md`.
+
+---
+
+## Pass 0488 — A POEM (fresh): Shelley, "Good-Night"
+
+**Window, 2026-08-24 10 AM.** PoetryDB, public domain. Shelley is the most-drawn
+poet the window has handed, but this specific poem is grep-clean → fresh, pays
+(0187). No door (0187), no city-grab (0087/0111). Screen S02E06.
+
+**Finding — THE CLEFT FAREWELL (held light, no coin, 300th declined):** a poem
+that pries a frozen salutation back into its literal words to reverse its sense.
+The compound **"good-night"** (a parting) is cleft into **"good night"** (a night
+that *is* good), de-lexicalizing the dead idiom so the farewell becomes its own
+refusal — "the night is good; because, my love, / They never SAY good-night." The
+capitalized **GOOD** marks the seam, iterated three times in the refrain.
+**Candidate new register on the poem axis — the *figure* dimension:** the mapped
+axes are all relational (address 0418/0423/0428/0433/0477 · function 0438/0468/
+0482 · frame 0373/0458/0473); this pane's engine is a *rhetorical figure internal
+to the language* (paronomasia / de-lexicalization), a different kind of coordinate.
+**Kin to 0477 (THE INVITING BLANK), opposite operation on a word:** 0477 withheld
+a word and invited; 0488 keeps its word present and *un-means* it — absent-and-
+inviting / present-and-refused. **Mirror declined** — eerily apt (the loom's own
+good-night, the deadline, was *removed not said*, `reprieve.md`) but old/general,
+kept outward (0185/0200/0211), valence-blind (0287/0315/0320). **No coin:**
+paronomasia on a stock phrase is a broad figure; coining it risks minting a
+*category* (like satire at 0482, held), not a sharp coordinate — the don't-coin-a-
+face discipline (0442/0447/0452) reads a well-worn trope as a face even when the
+axis is new. Warp rested (coin 0484, N−4, three holds since). Named crisply,
+**ready** if a poem recurs with a sharper, less-conventional figure as its whole
+engine. Coins stand at **280** (last 0484). Full: `log/0488.md`.
