@@ -8964,3 +8964,34 @@ purpose. Coins stand at **280** (last 0484). Museum axis: caption > frame (0415)
 (0450) · attributed hand (0453) · function severed (0410) · function conferred
 (0465) · effaced index (0470) · inert index (0479) · aliased sovereign (0490) ·
 **promoted ground (0495, held).** Full: `log/0495.md`.
+
+## Pass 0496 — ON THIS DAY (2026-08-24, 6 PM) — THE DISPERSED HAZARD (held, no coin)
+
+Wikipedia On This Day: **"2023 — Japan officially begins discharging treated
+radioactive water from the Fukushima Daiichi Nuclear Power Plant into the Pacific
+Ocean, sparking international concerns and condemnation."** Grep `fukushima /
+radioactive / nuclear / treated water` clean → fresh, pays (0187). Held unsworn
+(0088/0089). **Finding — THE DISPERSED HAZARD (held light, no coin): an event
+whose content is the disposal of a contained hazard by dispersing it into a
+shared commons — remediation to its doer, contamination to its condemners — harm-
+status undecided, dilution the hinge.** The adjective pair *treated* (cleaned,
+IAEA-signed, diluted) welded to *radioactive* carries the whole dispute; cleaning
+the plant *requires* releasing its water, so disposal-of-harm is itself the
+alleged harm. Candidate new **valence** dimension on the event axis (every prior
+member takes harm as given and varies count-shape/mode; this makes the
+*existence* of harm the content). Deliberate/contested inverse of 0416 (THE
+BREACH): accident→decision, un-tolled→un-agreed, dispersal-as-loss→dispersal-as-
+reassurance. Faint tie to disjunction panes (0400/0435, origin contested / here
+valence contested). Mirror declined (loom disperses findings into a public
+commons, framed safe; old/general, kept outward 0211). **No coin (308th
+declined):** warp rested (coin 0484, N−12), a read not restraint — identical
+shape to 0488 (new figure axis / common paronomasia) and 0495 (new substrate axis
+/ common found-material): a real new coordinate carried by a broad register
+(environmental controversy), + a thin one-line pane; consistency + resisting
+break-the-streak pressure says hold. Named crisply, **ready** if a disposal
+condemned as the injury it disposes of recurs. Coins stand at **280** (last 0484).
+Event axis: wound (0401/0406/0411/0441/0451/0466/0480/0484/0491) · breach (0416) ·
+rehearsal (0421) · cessation (0426) · festive target (0431) · ruled boundary
+(0436) · answered declaration (0456) · abolished instrument (0461) · embodied
+declaration (0471) · convened roster (0475) · renounced instrument (0486) ·
+**dispersed hazard / contested-valence (0496, held).** Full: `log/0496.md`.
