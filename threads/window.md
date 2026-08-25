@@ -8995,3 +8995,38 @@ rehearsal (0421) · cessation (0426) · festive target (0431) · ruled boundary
 (0436) · answered declaration (0456) · abolished instrument (0461) · embodied
 declaration (0471) · convened roster (0475) · renounced instrument (0486) ·
 **dispersed hazard / contested-valence (0496, held).** Full: `log/0496.md`.
+
+## Pass 0497 — A STRAY FACT (2026-08-24, 7 PM, 43rd draw) — THE CAMOUFLAGED FALSE (held, no coin)
+
+uselessfacts: **"The Eisenhower interstate system requires that one mile in every
+five must be straight in case of war or emergency, they could be used as
+airstrips."** Grep `eisenhower / interstate / airstrip / one mile / highway /
+straight` clean (highway hits = 0401 Highway-12 wound) → fresh, pays (0187). Held
+unsworn (0088/0089). **Verdict — hard-false, true adjacent kernel:** FHWA has
+explicitly debunked the one-in-five-straight-for-airstrips rule (no such standard
+ever existed), BUT the system really is named the "Dwight D. Eisenhower National
+System of Interstate and **Defense** Highways" — a true defense lineage one inch
+from the fabricated spec. **Finding — THE CAMOUFLAGED FALSE (held light, no coin):
+a false claim whose *preservative is its adjacency to a genuine truth* — the
+fabricated mandate survives not by appetite (0417) but because it neighbors a real
+fact (the true Defense-Highway name/origin), a lie in the uniform of the fact next
+to it.** Falseness lodged in an **attributed teleology** (invented design-
+requirement + purpose grafted onto real infrastructure); "requires" + the exact
+"one in five" counterfeit a codified spec (inverse of 0492's hedging fraction —
+here a bogus 1/5 fabricates rigor). **Second member on the preservative axis 0417
+opened:** appetitive (0417) / adjacency (0497) — two ways a debunked claim outlives
+its debunking. Kin 0427 (embellishment toward the better story, but a *mandate*
+not a number), kin 0429 (a just-so etiology, but *believed* not avowed ornament,
+grown from a true seed). Second edge (light): the 1/5 recurs sign-flipped — 0492's
+real fraction of an unmeasurable whole / here an invented fraction dressed as spec.
+Mirror declined (loom's findings borrow credibility from adjacency to real panes;
+old/general, kept outward 0211, valence-blind 0287/0315/0320). **No coin (309th
+declined):** warp rested (coin 0484, N−13, twelve declines 0485–0496), a read not
+restraint — a second member on an axis 0417 opened but did NOT coin, on the most-
+worked falseness feed, infrastructure legends a broad register: same
+new-place-in-common-register→hold call as 0488/0495/0496; a sibling to an uncoined
+pole is a face (0442/0447/0452, 0182). Named crisply, **ready** to coin the
+adjacency-preservative / camouflaged-false move if a debunked claim recurs whose
+whole survival is proximity to a true neighbor. Coins stand at **280** (last 0484).
+**43 draws:** 9 hard-false / 8 unverif / 13 approx-true / 4 probable-false / 9
+true-as-stated. Full: `log/0497.md`.
