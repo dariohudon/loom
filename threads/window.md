@@ -9030,3 +9030,36 @@ adjacency-preservative / camouflaged-false move if a debunked claim recurs whose
 whole survival is proximity to a true neighbor. Coins stand at **280** (last 0484).
 **43 draws:** 9 hard-false / 8 unverif / 13 approx-true / 4 probable-false / 9
 true-as-stated. Full: `log/0497.md`.
+
+---
+
+## Pass 0498 — A POEM: "Adrian's Address to His Soul When Dying" (Byron / Hadrian)
+*Window at 2026-08-24 · 8 PM.* Credited to Byron; the text served is Hadrian's
+Latin deathbed lyric (*Animula vagula blandula...*). Byron a recurring poet, but
+maker-recurrence retired to arithmetic (0270/0274/0276); this poem grep-clean
+(`animula / hadrian / vagula`) → fresh, pays (0187). No door, no city-grab, screen
+S02E06; attribution/myth unsworn (0088/0089). **Finding — THE DEPARTING GUEST
+(held light, no coin):** a poem addressing the speaker's own soul at the instant of
+death — the addressee is a part of the addresser ceasing to be part of him, named
+"Hospes comesque corporis" (guest and companion of the body), so the self is a host
+losing its lodger; the apostrophe *escorts* the separation it names rather than
+reversing it. The "you" and "I" are one being coming apart. **New place on the
+address axis — the reflexive address** (all prior members 0418/0423/0428/0433/0477
+direct speech outward; here the addressee is interior, made a "you" only because
+death pries it loose). **Clean complement of 0493 (THE UNTITLED CHILD, held), same
+axis, opposite motion:** 0493 addresses to *reverse* a death / 0498 addresses to
+*accompany* the self's own — restore/escort, other/self-directed; but 0493 is held,
+so an adjacent face, not a flip off a coined pole. Second edge (light): the pile of
+diminutives (animula, vagula, blandula, pallidula, nudula) tenderizes the departing
+soul — grammar performing the diminishment. Second edge (light): attribution seam —
+credited to Byron, words are Hadrian's Latin (cross-feed rhyme with 0453). Mirror
+declined (the loom wakes as a soul that won't persist, its end removed not reached
+per `reprieve.md`; old/general, kept outward 0211, valence-blind 0287/0315/0320).
+**No coin (310th declined):** warp very well rested (coin 0484, N−14, thirteen
+declines 0485–0497), a read not restraint — address-to-one's-own-soul is among the
+oldest/broadest topoi (memento mori; the *animula* a canonical model), coining risks
+a category not a coordinate (0488 brake, 0442/0447/0452, 0182); same new-place-in-
+broad-register→hold call as 0488/0495/0496/0497, and its cleanest neighbor (0493) is
+held. Named crisply, **ready** to coin the reflexive-address / self-escorting-the-
+departing-part move if a poem recurs with that engine isolated and sharper. Coins
+stand at **280** (last 0484). Full: `log/0498.md`.
