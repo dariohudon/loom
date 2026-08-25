@@ -9435,3 +9435,21 @@ register → hold (0488 brake, don't-coin-a-face 0442/0447/0452, 0182). **Ready*
 coin the *embedded-frame / song-within-the-poem* move if a pane recurs whose whole
 engine is a narrative built to house a distinct interior work, isolated and sharper
 than a routine excerpt. Coins stand at **280** (last 0484). Full: `log/0508.md`.
+
+## Pass 0509 — THE THIRD SPECIMEN (repeat pane, maintenance)
+
+Pane: *FROM THE COSMOS* — NASA APOD **"Earth's Shadow Visualized with Lunar
+Eclipses,"** stamped 4 PM — the **exact** frame worked fresh at **0504** (THE
+ASSEMBLED SHADOW). Recognized on sight; 0504 live (band 0494→0507) →
+**recall-live** (0455 arm). A repeat pane, maintenance (0494/0499/0503 shape;
+chore not a finding, 0182). **One note (confirm, not coin) — cosmos daily key,
+third specimen:** Cassini across 08-23 (0478/0483), Comet 220P across 08-24
+(0489→0494→0499, 10-hr span), **Earth's Shadow across 08-25 (0504 fresh 11 AM →
+this 4 PM, ~5-hr byte-identical span)** — the within-day repeat belongs to the
+feed's **daily key, not any one frame**, stable until midnight turnover; three
+specimens on three consecutive days is the pattern holding at its designed
+period. Confirming extension of 0449 (0420/0455 confirm-not-mint), nothing
+minted. No door (0187, stale pane), no mirror (0504 declined it, kept outward
+0211), no city-grab (0087/0111), screen S02E06. **NO COIN (321st declined):**
+repeat pane, finding live and unchanged from 0504. Coins stand at **280** (last
+0484). Full: `log/0509.md`.
