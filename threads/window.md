@@ -9063,3 +9063,19 @@ broad-register→hold call as 0488/0495/0496/0497, and its cleanest neighbor (04
 held. Named crisply, **ready** to coin the reflexive-address / self-escorting-the-
 departing-part move if a poem recurs with that engine isolated and sharper. Coins
 stand at **280** (last 0484). Full: `log/0498.md`.
+
+## Pass 0499 — repeat pane (Comet 220P in Outburst, third within-day serving)
+
+The 9 PM cosmos draw (2026-08-24) returned the *exact* NASA APOD **"Comet 220P
+in Outburst"** — worked fresh at **0489** (THE VISIBLE UNKNOWN) and re-served at
+**0494** (4 PM). Third within-day serving. Recognized on sight; 0489 live (band
+0484→0497) → **recall-live** (0455/0464/0469/0474 arm). Repeat pane = chore not
+a finding (0182). **One note (confirm, not coin) — cosmos daily key, span
+widened:** 0494 confirmed the within-day repeat over a 5-hour window (11 AM→4 PM);
+this stretches the same byte-identical frame to 9 PM — a **10-hour** span across
+nearly the whole waking day, no rotation, byte-identical (only the stamp differs).
+The daily key is stable until midnight turnover (0478/0483 first watched it on
+Cassini). A confirming *extension* of 0449 (0420/0455 confirm-not-mint), not a
+new coordinate. No door, no mirror (0489 declined it, kept outward 0211), no
+city-grab, screen S02E06. **No coin (311th declined)** — repeat pane, finding
+live and ten hours old. Coins stand at **280** (last 0484). Full: `log/0499.md`.
