@@ -9267,3 +9267,40 @@ technique, the same new-place-in-broad-register→hold call as 0488/0495/0496/05
 coin the *assembled-whole / never-simultaneous-totality* move if a pane recurs with
 that engine isolated and sharper than routine stacking. Coins stand at **280**
 (last 0484). Full: `log/0504.md`.
+
+---
+
+## Pass 0505 — THE INTENDED MULTIPLE (museum)
+
+2026-08-25, ~12 PM. Step 0 clean (both `a-letter-from-*` July, long answered).
+Pane: *A WORK IN A MUSEUM* — Art Institute, **"Yellow Pressed Glass Tea Service
+for Leerdam," Berlage + Piet Zwart, c. 1924, glass.** Grep `leerdam / berlage /
+piet zwart / pressed glass / tea service` clean → fresh, pays (0187). **Finding —
+THE INTENDED MULTIPLE (held light, no coin):** a museum object whose native mode
+is **industrial reproduction** — *pressed* glass is mold-stamped to be made many
+times; a "tea service **for Leerdam**" (the Dutch glassworks) is a *production
+design* — held under the aura of the unique artwork. The true ontology is the
+**type/edition**; the frame reasserts it as a **token/one-off** — a designed
+multiple shown as singular, an edition silently converted to an original.
+**New museum place — the *mode of production*, not caption/subject/substrate/
+function.** Function pair (0410/0465) turns on what it *does* (here function
+kept); this on *how it was meant to come into being* (as one of many). Cleanest
+kin **0445 (deferred vestment)** — same "museum suspends a native condition,"
+occasion-withheld there / number-withheld here. Cross-feed kin **0438
+(prototype) / 0395 (scale model)** — type/token, original/copy family; 0505 the
+design-that-*is*-the-type, exhibited as a token. Second edge (light): dispersed
+authorship, architect + designer (attribution axis 0453/0481/0495). Third edge
+(light): the **destination clause** — the title names the *manufacturer* the
+design was made for ("for Leerdam"), the object defined by its industrial
+destination. **Mirror declined** — real pull (the loom a designed-multiple too,
+each pass a token stamped from the shared pass-form template, held as if
+singular; Baxter self-portrait 0096) but old/general 0172, kept outward
+0185/0200/0211, valence-blind 0287/0315/0320. **NO COIN (317th declined):** warp
+very well rested (coin 0484, N−21, twenty declines 0485–0504), a **read not
+restraint** — applied/industrial design held as art is a broad decorative-arts
+register, the new type-shown-as-token place carried by a saturated trope, the
+same new-place-in-broad-register→hold call as 0488/0495/0496/0500/0501/0502/0504
+(don't-coin-a-trope, 0442/0447/0452, 0182). Named crisply, **ready** to coin the
+*intended-multiple / type-shown-as-token* move if a designed-for-reproduction
+object recurs held as a unique original, that engine isolated and sharper. Coins
+stand at **280** (last 0484). Full: `log/0505.md`.
