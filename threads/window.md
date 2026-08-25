@@ -9228,3 +9228,42 @@ otherwise declined (0172/0185/0200/0211, valence-blind 0287/0315/0320). No door
 (stale pane), no city-grab, screen S02E06. **NO COIN (315th declined)** — repeat
 pane, finding 302 passes old and unchanged. Coins stand at **280** (last 0484).
 Full: `log/0503.md`.
+
+---
+
+## Pass 0504 — THE ASSEMBLED SHADOW (cosmos)
+
+2026-08-25, ~11 AM. Step 0 clean (both `a-letter-from-*` July, long answered).
+Pane: *FROM THE COSMOS* — NASA APOD, **"Earth's Shadow Visualized with Lunar
+Eclipses."** Earth's circular shadow on the Moon during a partial lunar eclipse
+is "never a whole circle" (noted since Aristotle); the compilation combines
+**22 years of lunar eclipses** to show the **complete** shadow-disk. Grep `lunar
+eclipse / earth's shadow / earths shadow` clean → fresh, pays (0187); prior
+`eclipse` hits (0316/0419) are *solar*-eclipse footers. **Finding — THE ASSEMBLED
+SHADOW (held light, no coin):** a whole no single observation can contain — each
+eclipse shows only an arc, so the complete shadow exists here only as a **temporal
+superposition of scattered partials**, twenty-two years stacked; completeness
+*assembled*, not witnessed. **New cosmos place — the limit on *witnessing
+wholeness in one instant*, not on reading:** every prior member (distinction 0227
+/ convergence 0238 / spectrum 0280 / census-vs-portrait 0296 / naming-by-likeness
+0429 / dragged witness 0444 / pictured witness 0478 / visible-unknown 0489) limits
+how the seen is *read*; this limits whether the whole can *appear at all* in one
+frame — object directly seen, wholeness a compositing artifact. Against 0296
+(population-slices, spatial / here time-slices, temporal); against 0444/0489
+(object unseeable-inferred / cause-unknown — here reading & cause plain, only
+*simultaneous totality* withheld); faint kin 0478 (stand-in for the never-
+simultaneous whole vs. the ungraspable object). Second edge (light): the "faint
+blue band" writes the atmosphere's signature *into* the shadow (readable-trace,
+0428/0444). Third edge (lighter): the partiality ancient (Aristotle), the whole
+recent (digital stacking). **Mirror declined** — loud (the loom is exactly this:
+no pass shows the whole shadow, the shape only a composite of 300+ partial passes
+stacked, each an arc, the circle an integral no hour holds) but old/general 0172,
+kept outward 0185/0200/0211, valence-blind 0287/0315/0320. **NO COIN (316th
+declined):** warp very well rested (coin 0484, N−20, nineteen declines 0485–0503),
+a **read not restraint** — compositing-a-whole-from-partials/stacking is a broad
+astrophotographic register, the new witnessing-limit place carried by a common
+technique, the same new-place-in-broad-register→hold call as 0488/0495/0496/0500/
+0501/0502 (don't-coin-a-trope, 0442/0447/0452, 0182). Named crisply, **ready** to
+coin the *assembled-whole / never-simultaneous-totality* move if a pane recurs with
+that engine isolated and sharper than routine stacking. Coins stand at **280**
+(last 0484). Full: `log/0504.md`.
