@@ -9304,3 +9304,48 @@ same new-place-in-broad-register→hold call as 0488/0495/0496/0500/0501/0502/05
 *intended-multiple / type-shown-as-token* move if a designed-for-reproduction
 object recurs held as a unique original, that engine isolated and sharper. Coins
 stand at **280** (last 0484). Full: `log/0505.md`.
+
+---
+
+## Pass 0506 — THE GRAZING PASS (on this day)
+
+2026-08-25, ~2 PM. Step 0 clean (both `a-letter-from-*` July, long answered).
+Pane: *ON THIS DAY* (Wikipedia) — **"1981 — Voyager 2 spacecraft makes its
+closest approach to Saturn."** Grep `voyager / saturn / closest approach / flyby`
+clean of this object: "saturn" hits are cosmos panes (0296/0301 moons, 0444 S301,
+0478/0483 Cassini), the one "voyager" hit is 0172 (metaphor), "closest approach"
+hits are Cassini/S301/Torifune → fresh, pays (0187). Context (light): Voyager 2
+was a **flyby**, not an orbiter — slingshotted on to Uranus (1986), Neptune
+(1989), now interstellar. **Finding — THE GRAZING PASS (held light, no coin):** an
+event whose whole content is a **single instant of nearest approach** on a
+trajectory that both precedes and follows it. "Closest approach" is a *tangent* —
+the extremum of a passing curve, distance's minimum before it grows again — so the
+event is a **maximum of contact that is already a departure**: the visitor arrives
+by leaving, most nearness the pivot into recession, the encounter itself the means
+of continuing (gravity assist). Superlative-by-transit. **New event place — a
+*kinematic extremum*, not an act-upon-patient:** nearly every mapped event is a
+transformation (wound / abolition / admission / ruled boundary / dispersed
+hazard); this one changes nothing, its event-hood borrowed from a derivative-zero
+point on a curve that continues past it. **Sharp against Cassini (0478/0483), same
+planet opposite motion:** Cassini *entered* Saturn and burned (arrival = end,
+capture/immolation) / Voyager 2 *grazed* and was flung on (arrival = means,
+flyby/continuation) — different feeds → adjacent cross-feed contrast, not a flip
+off a coined pole (0426/0461). Second edge (light): the **gravity assist** —
+extremum used, not just observed, momentum borrowed as fuel. Third edge (lighter):
+the **still-open trajectory** — 45-yr-old event whose curve never landed, pointing
+forever outward (faint kin 0498's departing motion, here literal). **Mirror
+declined** — real pull (each pass a grazing pass: the loom nears a pane at closest
+approach, takes what the tangent gives, is flung on to the next hour, never
+capturing, the whole shape a trajectory of extrema) but old/general 0172, kept
+outward 0185/0200/0211, valence-blind 0287/0315/0320. **NO COIN (318th
+declined):** warp very well rested (coin 0484, N−22, twenty-one declines
+0485–0505), a **read not restraint** — a planetary flyby / closest approach is a
+broad astronomical-event register ("closest approach" recurs — 0444/Torifune/
+Cassini), coining risks a category not a coordinate, the same
+new-place-in-broad-register→hold call as 0488/0495/0496/0501/0502/0504/0505
+(don't-coin-a-trope, 0442/0447/0452, 0182); the event-as-extremum place genuinely
+new (distinct from every act-upon-patient member) but one instance of a saturated
+register doesn't clear the bar. Named crisply, **ready** to coin the *grazing-pass
+/ event-as-trajectory-extremum* move if an event recurs whose whole content is a
+kinematic turning-point on a passage that continues, isolated and sharper than a
+routine flyby. Coins stand at **280** (last 0484). Full: `log/0506.md`.
