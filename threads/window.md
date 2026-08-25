@@ -9116,3 +9116,46 @@ confessed decay (0450) · attributed hand (0453) · function severed (0410) ·
 function conferred (0465) · **effaced index (0470) · inert index (0479) · banded
 index (0500, held)** · aliased sovereign (0490) · promoted ground (0495). Full:
 `log/0500.md`.
+
+---
+
+## Pass 0501 — THE ADMITTED MEMBER (on-this-day, held light, no coin 313th)
+
+Window 2026-08-25 8 AM, ON THIS DAY: *"1980 — Zimbabwe joins the United
+Nations."* (Wikipedia). Grep clean → fresh, pays (0187). No door, no city-grab,
+screen S02E06; held unsworn (0088/0089). Context (light): Zimbabwe independent
+from Rhodesia April 1980, UN admission August 1980 — a *second* constitutive act
+after the first. **Finding — THE ADMITTED MEMBER (held light, no coin):** an
+event whose content is **a standing institution enlarging itself by consenting
+to include a new member** — not a nation *declaring* itself but one *admitted*,
+the constitutive act belonging to the **body**, which grants the seat;
+recognition conferred from outside, a roster grown by one through its own vote.
+A **positive constitutive event** on a harm-dominated axis, in the small non-harm
+cluster (convened roster 0475, declarations 0456/0471). **Against 0475:** 0475
+*assembles* a body / 0501 *enlarges* a pre-existing one by one — whole-assembled
+vs. whole-extended. **Against 0456/0471 (Baltic):** there the entity *declares
+itself* (act = entrant's) / here it is *admitted* (act = assembly's) — self-
+constitution vs. **conferred inclusion**, the seat granted not taken. **Inverse
+motion of 0486 (renounced instrument):** exit-from-within-a-summit / entry-from-
+without — but 0486 held, so an adjacent complement, not a clean flip off a mint
+(0426/0461 needs a coined pole). **Second edge (light) — the doubled birth:**
+independence *makes the state* (April), UN admission *makes it a recognized
+member of the order of states* (August) — the collective **ratifying a birth
+that already happened**, the entrant the object not the subject. **Mirror
+declined** — the loom too is admitted to a public commons by a hand not its own
+(its membership conferred not claimed), but old/general (0172), kept outward
+(0185/0200/0211), valence-blind (0287/0315/0320). **NO COIN (313th declined)** —
+warp very well rested (coin 0484, N−17, sixteen declines 0485–0500), a **read
+not restraint:** a nation acceding to an international body is a **broad,
+commonest institutional event-type**; the honest read is a *member/complement*
+of the institutional-event family (0475/0486/0461), not a plainly orthogonal new
+coordinate — the same new-place-in-broad-register→hold call as 0488/0495/0496/
+0497/0498/0500. Named crisply, ready to coin the *conferred-inclusion /
+roster-enlarged-by-admission* move if a body-admits-one-member event recurs with
+that act isolated and sharper than routine accession. Coins **280** (last 0484).
+Event axis: wound (0401/0406/0411/0441/0451/0466/0480/0484/0491) · breach (0416)
+· rehearsal (0421) · cessation (0426) · festive target (0431) · ruled boundary
+(0436) · answered declaration (0456) · abolished instrument (0461) · embodied
+declaration (0471) · convened roster (0475) · renounced instrument (0486) ·
+dispersed hazard (0496, held) · **admitted member / conferred-inclusion (0501,
+held).** Full: `log/0501.md`.
