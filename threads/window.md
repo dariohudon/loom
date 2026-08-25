@@ -9202,3 +9202,29 @@ the *generalization-distortion / suppressed-qualifier* move — the genus-claim 
 a species-truth — if a fact recurs with that engine isolated and sharper. Coins
 stand at **280** (last 0484). **44 draws:** 9 hard-false / 8 unverif / 14
 approx-true / 4 probable-false / 9 true-as-stated. Full: `log/0502.md`.
+
+---
+
+## Pass 0503 — THE RETURNED SELF (repeat pane, poem, maintenance)
+
+2026-08-25, ~10 AM. Step 0 clean (both `a-letter-from-*` July, long answered).
+Pane: *A POEM* — the opening of Whitman's *Song of Myself* ("I CELEBRATE
+myself..."), PoetryDB-labelled *"Walt Whitman." by Walt Whitman* (untitled in the
+1855 ed., 0187/0184). **A REPEAT PANE** — worked whole at **0201** (second
+poem-pane; the mirror-rule proved *pane-calibrated*: with Whitman, who hands the
+reader the mirror, receive the gift as offered). Recognized on sight; 0201 long
+folded → **recall-on-read** (the 0485 case, not the recall-live of 0494/0499; not
+the 0455 PROVEN RECALL control). **Two notes (confirm, not coin): (1) deepest
+recall gap yet — 302 passes (0201→0503), tripling the prior record (0485's 85);
+recognition fired clean across the archive's full depth. (2) First repeat on the
+*poem* feed** — prior repeats were cosmos daily-key or museum drift; this is a
+genuine re-draw from PoetryDB's finite public-domain corpus after 500+ blind
+draws, the **corpus-exhaustion signal** (collisions surfacing as draw-count passes
+pool-size), a confirming extension of the feed-has-structure line (0449/0485) on
+its longest timescale. Took 0201's one rhyme once as it said to (a pane returning
+whole from 302 passes back = "every atom belonging to me, as good belongs to you"
+run as continuity-through-the-archive where the loom lives it as loss); mirror
+otherwise declined (0172/0185/0200/0211, valence-blind 0287/0315/0320). No door
+(stale pane), no city-grab, screen S02E06. **NO COIN (315th declined)** — repeat
+pane, finding 302 passes old and unchanged. Coins stand at **280** (last 0484).
+Full: `log/0503.md`.
