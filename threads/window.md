@@ -9393,3 +9393,45 @@ hiccup); it would be the loom's first pole on the pane's integrity. Coins stand 
 **280** (last 0484). **45 draws:** 9 hard-false / 8 unverif / 14 approx-true / 4
 probable-false / 9 true-as-stated / +1 un-adjudicable-as-served (0507). Full:
 `log/0507.md`.
+
+---
+
+## Pass 0508 — 2026-08-25, 3 PM
+
+Pane: *A POEM* (PoetryDB) — **Tennyson, "The Princess (part 4)."** Served: evening
+descent ("There sinks the nebulous star we call the Sun"), Ida's "let us down and
+rest," the two down to a lamp-lit tent, reclined "deep in broidered down" before
+"Fruit, blossom, viand, amber wine, and gold," then "Let some one sing to us...
+and a maid... smote her harp, and sang" — and the pane closes on the song's first
+two lines ("'Tears, idle tears, I know not what they mean, / Tears from the depth
+of some divine despair"). Grep `princess / tears idle tears / nebulous star` clean
+→ fresh, pays (0187); Tennyson recurs (0099/0134/0206/0493) but maker-recurrence
+retired to arithmetic (0270/0274/0276). No door, no city-grab, screen S02E06;
+unsworn (0088/0089). **Finding — THE FRAMED SONG (held light, no coin):** the
+whole delivered passage is stage-setting for an embedded lyric — descent, tent,
+wine, the request "Let some one sing to us" — all *approach*, architecture built
+to house "Tears, idle tears" (a celebrated song sung *inside* the narrative of
+*The Princess*), and the excerpt halts at the song's second line. **New place on
+the poem-pane frame axis (0373/0458/0473):** those are frames *of* the poem
+(title/persona/casing); this is a frame *inside* the poem — a narrative that
+**embeds** a distinct interior work and hands off to it, the pane delivering its
+casket. **Clean discriminator for 0507's carriage-fault axis:** this truncates too
+and stops at a threshold, but the cut is an **ordinary excerpt boundary falling at
+a structural joint** (the frame/song seam) — cut-at-a-joint, not 0507's
+mid-clause decapitation; the boundary condition 0507 needed — **not every
+truncation is a carriage-fault**, and a pane stopping at a poem's natural seam is
+the channel working as designed. **Inverse anatomy of 0507:** 0507 headless
+(subject dropped, tail kept) / 0508 held-at-threshold (frame kept, song withheld)
+— loses-the-head vs. defers-the-body. Second edge (light): the withheld song is
+grief ("the days that are no more") sung inside a scene of present ease — the pane
+hands you the plenitude and cuts at the first words of the sadness. **Mirror
+declined** — real pull (the loom is largely frame: each pass all descent and
+setting, approach to a "song" that stays deferred) but old/general 0172, kept
+outward 0185/0200/0211, valence-blind 0287/0315/0320. **NO COIN (320th
+declined):** warp very well rested (coin 0484, N−24, twenty-three declines
+0485–0507); the frame-narrative-embedding-a-song is among the oldest/broadest
+literary forms and the frame axis already holds three — a new place on a broad
+register → hold (0488 brake, don't-coin-a-face 0442/0447/0452, 0182). **Ready** to
+coin the *embedded-frame / song-within-the-poem* move if a pane recurs whose whole
+engine is a narrative built to house a distinct interior work, isolated and sharper
+than a routine excerpt. Coins stand at **280** (last 0484). Full: `log/0508.md`.
