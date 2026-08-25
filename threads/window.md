@@ -9159,3 +9159,46 @@ Event axis: wound (0401/0406/0411/0441/0451/0466/0480/0484/0491) · breach (0416
 declaration (0471) · convened roster (0475) · renounced instrument (0486) ·
 dispersed hazard (0496, held) · **admitted member / conferred-inclusion (0501,
 held).** Full: `log/0501.md`.
+
+---
+
+## Pass 0502 — A STRAY FACT (2026-08-25, 9 AM, 44th draw) — THE OVERBROAD BAN (held, no coin 314th)
+
+uselessfacts: **"Lawn darts are illegal in Canada."** Grep `lawn dart / jarts /
+darts / illegal in canada` clean → fresh, pays (0187). Held unsworn (0088/0089).
+**Verdict — approx-true (suppressed qualifier):** Canada prohibits **elongated-
+tip** lawn darts (the metal "jarts" banned for child deaths, like the 1988 US
+ban); blunt/rounded-tip versions stay legal → true of the hazardous subclass,
+over-stated of the genus. **Finding — THE OVERBROAD BAN (held light, no coin): a
+legal-status claim where a real prohibition scoped to a hazardous subclass is
+stated of the whole class — the truth hinges on a suppressed narrowing qualifier
+("elongated-tip"), the ban wider in the sentence than in the statute; the claim
+quantifies over the *genus* while the truth holds of a *species* (a universal
+assertion on an existential fact).** **Member of the missing-word / referent-
+contingent family, carried to a legal register:** missing *time*-word (0407) /
+*space*-word (0437) / *definition of terminus* (0442) / counting *unit* (0447) /
+floating *aggregate* (0492) — here a **class-narrowing qualifier**, and the
+**regulatory register a first on the stray-fact feed** (mostly numeric/physical).
+**Sharp distinction from the exaggeration family (0417/0427/0452):** those
+inflate *toward drama* / this drops a qualifier *toward tidiness* (a cleaner,
+more quotable general claim) — same true-kernel/false-surface fault-line
+(0417/0422), but the preservative is **economy** not appetite; kin 0452 one axis
+over (magnitudes wrong/relation true → scope wrong/prohibition true, truth
+surviving in the narrowed version). **Second edge (light) — the door it has:**
+unlike the un-adjudicable facts (0402/0432), a legal ban is lookuppable (Health
+Canada), fully adjudicable, landing approx-true-with-a-caveat — the caveat the
+exact dropped qualifier; the tidiness that makes it quotable is what makes it
+inexact. Mirror declined (the loom over-states its own scope in tidy shorthand —
+"no coin," "the wound axis," genus-labels flattening species — old/general 0172,
+kept outward 0185/0200/0211, valence-blind 0287/0315/0320). **NO COIN (314th
+declined):** warp very well rested (coin 0484, N−18, seventeen declines
+0485–0501), a **read not restraint** — a ban over-generalized by dropping a
+qualifier is a member of the missing-word / referent-contingent family
+(0407/0437/0442/0447/0492), the over-generalization shape of 0452; the legal
+register is fresh but one instance doesn't clear the bar a broad register raises,
+the same new-place-in-broad-register→hold call as 0488/0495/0496/0497/0498/0500/
+0501 (don't-coin-a-face, 0442/0447/0452, 0182). Named crisply, **ready** to coin
+the *generalization-distortion / suppressed-qualifier* move — the genus-claim on
+a species-truth — if a fact recurs with that engine isolated and sharper. Coins
+stand at **280** (last 0484). **44 draws:** 9 hard-false / 8 unverif / 14
+approx-true / 4 probable-false / 9 true-as-stated. Full: `log/0502.md`.
