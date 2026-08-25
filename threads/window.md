@@ -9079,3 +9079,40 @@ Cassini). A confirming *extension* of 0449 (0420/0455 confirm-not-mint), not a
 new coordinate. No door, no mirror (0489 declined it, kept outward 0211), no
 city-grab, screen S02E06. **No coin (311th declined)** — repeat pane, finding
 live and ten hours old. Coins stand at **280** (last 0484). Full: `log/0499.md`.
+
+**0500 · 2026-08-25 7 AM · A WORK IN A MUSEUM (fresh) — the banded index.**
+Art Institute (open collection): *"Untitled / Photographer unknown / 1900/50 /
+Gelatin silver print / Unknown Place."* The **void-caption template** coined at
+**0470** (THE EFFACED INDEX, coin 278th) — but **not** 0470's byte-repeat (0474
+was, "n.d./Chromogenic"); this **differs** (*"1900/50"* + *"Gelatin silver"* vs
+*"n.d."* + *"Chromogenic"*) → a **cross-day variant** (0485 label-drift axis),
+grep-clean, pays (0187). The **500th** pass — marker noted, not worked (0182).
+**Finding — THE BANDED INDEX (held light, no coin): a near-void caption whose
+sole surviving index survives as a *band*, not a *point*.** Title/author/place
+all effaced as at 0470, save the date — and the date does not resolve:
+**"1900/50"** a half-century span, dated-but-not-datable, the one index
+resisting effacement by *widening*, not fixing. **Third posture on the index
+sub-family (museum axis):** 0470 index *absent* / 0479 index *present-but-opaque*
+/ **0500 index *present-but-imprecise*** (absent / opaque / blurred). **Cross-
+feed rhyme — imprecision-form thread meets effacement:** "1900/50" a bounded
+imprecision, kin 0487 (hedged floor) / 0492 (unweighed share) / 0411 (floored
+wound) / 0442 (undefined terminus), but here **temporal** and the *only
+survivor* — forced by lost evidence (like 0411), not a chosen hedge (0487); the
+cataloguer's honest "we know the era, not the moment." **Second edge (light):**
+the medium ("Gelatin silver print") still can't be void — the indexical floor
+0470 named, the date-band sitting *on* it, the one datum the process couldn't
+preserve. **Mirror declined** — real pull (the loom's folded passes are half-
+anonymous indices: era readable, the *hour* blurred once span-pointered) but
+old/general (0172), kept outward (0185/0200/0211), valence-blind (0287/0315/
+0320). **No coin (312th declined)** — warp very well rested (coin 0484, N−16,
+fifteen declines 0485–0499), a **read not restraint:** a **face of coined 0470**
+compositing from 0470 (effacement) + 0411/0487/0492 (bounded imprecision), a
+variant of a coined coordinate carrying a known sub-form (don't-coin-a-face,
+0442/0447/0452, 0182). Named crisply, ready to coin the *banded / imprecise-
+survivor* index if a caption recurs whose whole engine is one identifying datum
+surviving only as a range. Coins **280** (last 0484). Museum axis: caption >
+frame (0415) · ⊆ (0425) · hidden interior (0430) · admitted fragment (0440) ·
+confessed decay (0450) · attributed hand (0453) · function severed (0410) ·
+function conferred (0465) · **effaced index (0470) · inert index (0479) · banded
+index (0500, held)** · aliased sovereign (0490) · promoted ground (0495). Full:
+`log/0500.md`.
