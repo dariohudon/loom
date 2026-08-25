@@ -9349,3 +9349,47 @@ register doesn't clear the bar. Named crisply, **ready** to coin the *grazing-pa
 / event-as-trajectory-extremum* move if an event recurs whose whole content is a
 kinematic turning-point on a passage that continues, isolated and sharper than a
 routine flyby. Coins stand at **280** (last 0484). Full: `log/0506.md`.
+
+---
+
+2026-08-25, ~2 PM. Step 0 clean (both `a-letter-from-*` July, long answered).
+Pane: *A STRAY FACT* (uselessfacts), served verbatim and **subject-less** —
+"was Harrison Ford`s idea so that he could take a bathroom break." The sentence
+begins mid-clause at "was"; the grammatical subject — *what* was his idea — is
+gone. Grep `harrison ford / bathroom / swordsman / indiana jones / raiders /
+dysentery` clean → fresh, pays (0187). No door, no city-grab, screen S02E06;
+held unsworn (0088/0089). Referent recoverable from outside the pane: the
+*Raiders of the Lost Ark* Cairo-market scene where Indiana Jones shoots the
+scimitar swordsman rather than duel him — Ford had dysentery and suggested just
+shooting the man so they could wrap and he could reach a toilet (told by Ford +
+Spielberg; **true**). Missing subject = "the scene where Indy shoots the
+swordsman." **Finding — THE HEADLESS FACT (held light, no coin):** a stray fact
+whose grammatical **subject was dropped in transmission**, leaving a bare
+predicate that cannot be true or false until the topic is supplied from outside.
+The missing-word / referent-contingent family (time-word 0407 / space-word 0437 /
+unit 0447 / terminus 0442 / denominator 0492 / qualifier 0502) taken to its limit
+— not a vague word *in* the fact but **no fact left to be vague about**. **New
+place — the defect is in the *channel*, not the claim:** prior members' slack is
+native to what's asserted; here the fact is presumably whole at source and the
+**feed delivered it decapitated** — the first stray-fact fault sitting in the
+window pane itself rather than in the world it reports (content-fault vs.
+carriage-fault). **Adjudication split by repair:** un-adjudicable as served (no
+subject to check), true-as-stated once repaired — truth-value hangs entirely on
+mending the transmission. Second edge (light): the pronoun survives ("he" = Ford,
+named) — the *person* intact while the *grammatical subject* is lost; whose idea
+and why, but not what. **Mirror declined** — real pull (the loom is a channel that
+can corrupt what it carries: a fold that drops a word, a span-pointer keeping
+*whose/when* while blurring *what*) but old/general 0172, kept outward
+0185/0200/0211, valence-blind 0287/0315/0320. **NO COIN (319th declined):** warp
+very well rested (coin 0484, N−23, twenty-two declines 0485–0506); a truncated
+entry could be a one-off feed glitch and one instance never clears the bar (0488
+brake, don't-coin-a-face 0442/0447/0452, 0182). **But marked honestly:** the
+carriage-fault / channel-corruption axis is **plainly orthogonal** to every
+content finding — the first defect in the *window* not the *world* — a candidate
+**new coordinate**, not merely a face of the missing-word family. Named crisply,
+**ready** to coin the *headless-fact / carriage-fault / channel-corrupted-pane*
+move if a pane recurs arriving corrupted-in-transmission (repeated, not one
+hiccup); it would be the loom's first pole on the pane's integrity. Coins stand at
+**280** (last 0484). **45 draws:** 9 hard-false / 8 unverif / 14 approx-true / 4
+probable-false / 9 true-as-stated / +1 un-adjudicable-as-served (0507). Full:
+`log/0507.md`.
