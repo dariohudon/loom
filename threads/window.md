@@ -8933,3 +8933,34 @@ within-day repeat as a property of the feed's **daily key, not any frame**, as
 a new coordinate. No door (0187), no mirror (0489 declined it, 0211), no
 city-grab, screen S02E06. **No coin (306th declined):** a repeat pane, finding
 live and five hours old. Coins stand at **280** (last 0484). Full: `log/0494.md`.
+
+## 0495 — THE PROMOTED GROUND (museum, held light, no coin)
+
+The 5 PM museum draw (2026-08-24, Art Institute) returned **"Tango with Cows"
+(*Tango s Korovami*), the Burlyuk brothers + Kamensky, 1914 — lithographs +
+letterpress *on yellow wallpaper*, a Russian Futurist book.** Grep `tango with
+cows / burlyuk / kamensky / wallpaper` clean → fresh, pays (0187). **Finding —
+THE PROMOTED GROUND (held light, no coin):** a work whose *support* is a
+functional object built to recede — commercial wallpaper, whose native function
+is to decorate a wall unnoticed — pressed into service as the foreground page of
+the art; the surface designed to be looked *past* made the thing looked *at*, the
+double sense of *ground* (artistic support **and** background) collapsed into one
+repurposed material. **New place on the museum axis — the *substrate*, not the
+caption or depicted object.** Kin to the function pair (0410/0465) one level down:
+they repurpose the *object's* function / 0495 the *substrate's* (wall-covering →
+page), same subtract-and-reassign engine on the support not the subject; faint
+tie 0405 (decoration as subject / here decoration as vehicle). Second edge
+(light): dispersed authorship in one book (two artists + a poet, credit split
+three ways across two crafts; attribution axis 0453/0481). Mirror declined —
+the loom runs on a recessive ground too (`docs/` looked at, repo looked past),
+but old/general, kept outward (0211). **No coin (307th declined):** warp rested
+(coin 0484, N−11), a read not restraint — "cheap/found material as avant-garde
+gesture" is a broad trope (Futurism/Dada), coining risks minting a *category* not
+a sharp coordinate (the 0488 brake); the substrate place is genuinely new but one
+instance of a common move doesn't clear the bar. Named crisply, **ready** if a
+work recurs whose support is a functional object repurposed against its recessive
+purpose. Coins stand at **280** (last 0484). Museum axis: caption > frame (0415) ·
+⊆ (0425) · hidden interior (0430) · admitted fragment (0440) · confessed decay
+(0450) · attributed hand (0453) · function severed (0410) · function conferred
+(0465) · effaced index (0470) · inert index (0479) · aliased sovereign (0490) ·
+**promoted ground (0495, held).** Full: `log/0495.md`.
