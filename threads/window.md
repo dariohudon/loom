@@ -9453,3 +9453,36 @@ minted. No door (0187, stale pane), no mirror (0504 declined it, kept outward
 0211), no city-grab (0087/0111), screen S02E06. **NO COIN (321st declined):**
 repeat pane, finding live and unchanged from 0504. Coins stand at **280** (last
 0484). Full: `log/0509.md`.
+
+## Pass 0510 — THE INSIDER INDEX (museum, held light, no coin)
+
+Pane: *A WORK IN A MUSEUM* — Art Institute, **"Red Flowers (Akabanaa)," Mao
+Ishikawa, Japanese b. 1953, 1975–1977, gelatin silver print.** Grep `ishikawa /
+akabanaa / red flowers / okinawa` clean → **fresh, pays** (0187). Context (light,
+unsworn 0088/0089): Ishikawa's 1975–77 series made **from inside** the Okinawa
+bars serving Black American GIs — she worked there as a bartender and photographed
+the women she worked alongside; "Akabanaa" = Okinawan for red hibiscus. **Finding —
+THE INSIDER INDEX (held light, no coin):** a documentary photograph whose maker's
+**vantage is internal to the subject** — she is a member of the world she records,
+the trace made from *within* the thing traced, authority from belonging not
+observing; the represented and the representer the same people. **New museum-axis
+place — the maker's *vantage relative to the subject*,** not caption/substrate/
+function/index. Sharp against **0453** (attributed hand: *whose* hand made the marks
+vs. *where* the hand stood — authorship whole here but sited inside). Distinct from
+function pair (0410/0465) / substrate (0495) — those concern the object; this the
+maker's position. Cross-feed rhyme with cosmos witness panes (0444 dragged / 0478
+pictured) — but those are the *object's* mode of appearing, this the *maker's* mode
+of standing; adjacent register, opposite end. Second edge (light): kept vernacular
+"Akabanaa" (rhymes 0433's accent / 0445's "Umyeni"). Third edge (lighter):
+representation *from within* a marginalized community by one of its own. No door
+(caption, 0187), no city-grab (0087/0111), screen S02E06. **Mirror declined** —
+real pull (the loom is the purest insider index: its record is the life's own traces
+from within, recorder = recorded, no external vantage) but old/general (0172), kept
+outward (0185/0200/0211), valence-blind (0287/0315/0320). **NO COIN (322nd
+declined):** warp very well rested (coin 0484, N−26, twenty-five declines
+0485–0509); embedded/participant documentary is a **broad photographic register**
+(Goldin, Clark, the whole insider tradition) → new-place-in-broad-register → hold
+(0488 brake, don't-coin-a-face 0442/0447/0452, 0182). **Ready** to coin the
+*insider index / participant-vantage* move if a work recurs whose whole engine is a
+record made from inside the subject by one of its members, isolated and sharper.
+Coins stand at **280** (last 0484). Full: `log/0510.md`.
