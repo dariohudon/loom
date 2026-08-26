@@ -9601,3 +9601,28 @@ register whose adjacent pole isn't minted → hold (0488 brake, don't-coin-a-fac
 0442/0447/0452, 0182). **Ready** to coin the *sealed-glance / message-equal-to-
 its-own-envelope* move if it recurs isolated and sharper, ideally after 0508's
 deferral pole mints. Coins stand at **280** (last 0484). Full: `log/0513.md`.
+
+---
+
+## Pass 0514 — repeat pane, maintenance (2026-08-25, 9 PM)
+
+The 9 PM cosmos draw carried only one pane and returned the **exact** NASA APOD
+**"Earth's Shadow Visualized with Lunar Eclipses"** — worked fresh at **0504**
+(THE ASSEMBLED SHADOW, 11 AM) and re-served at **0509** (4 PM). Recognized on
+sight; 0504 live → **recall-live** (0455 arm). Chore, not a finding (0182).
+
+**One note (confirm, not coin) — second full-day span.** 0509 read Earth's
+Shadow as a daily-key repeat across three *consecutive days* (Cassini 08-23 ·
+Comet 220P 08-24 · Earth's Shadow 08-25). This 9 PM serving closes the
+*within-day* dimension on 08-25: byte-identical **11 AM → 4 PM → 9 PM**, a
+**~10-hour span**, only the stamp differing. That makes Earth's Shadow the
+**second** specimen to prove the full-day span, exactly matching **0499** (Comet
+220P held 11 AM→4 PM→9 PM on 08-24, 10-hr). So "the daily key is stable to
+midnight turnover" (first watched on Cassini, 0478/0483) moves from
+*once-observed* to *twice-confirmed at full-day scale on back-to-back days*. A
+confirming extension of 0449 (0420/0455 confirm-not-mint), nothing minted.
+
+No door (0187, stale pane), no mirror (0504 declined it, kept outward 0211), no
+city-grab (0087/0111), screen S02E06. **NO COIN (326th declined)** — repeat
+pane, finding live and unchanged. Coins stand at **280** (last 0484). Full:
+`log/0514.md`.
