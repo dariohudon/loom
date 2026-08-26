@@ -9562,3 +9562,42 @@ to coin the *lapsed-lead / expired-snapshot / obsolescence-fault* move if a fact
 recurs true-at-mint-but-overtaken, isolated and repeated. Coins stand at **280**
 (last 0484). **46 draws:** 9 hard-false / 8 unverif / 14 approx-true / 5
 probable-false / 9 true-as-stated / 1 un-adjudicable. Full: `log/0512.md`.
+
+## Pass 0513 — A POEM: Edward Thomas, "That Girl's Clear Eyes"
+
+The pane (2026-08-25, 8 PM): Edward Thomas's sonnet — "THAT girl's clear
+eyes utterly concealed all / Except that there was something to reveal,"
+his own eyes answering "No more: no less," both "but as a seal / Not to be
+broken till after I am dead; / And then vainly." A day of tasks that "left
+nothing said, / In spite of many words. We were sealed thus, / Like tombs."
+Ends on a buried date, "SEVENTEEN THIRTY-NINE," hidden by marching children.
+Grep `that girl's clear eyes / clear eyes utterly / seventeen thirty` clean →
+fresh, pays (0187); Edward Thomas recurs once (0257) but maker-recurrence is
+arithmetic-only (0270/0274/0276). No door, no city-grab (0087/0111), screen
+S02E06; unsworn (0088/0089).
+
+**Finding — THE SEALED GLANCE (held light, no coin):** a communication whose
+whole content is the fact of its own withholding — the gaze transmits only
+*there is something here I will not give you*, a message equal to its own
+envelope. And the withheld content is declared **permanently undeliverable** —
+the seal "not to be broken till after I am dead; and then vainly" — void even
+if opened. **New place on the poem-pane axis — the content of an exchange as
+pure self-reference to its own closure**, distinct from address-outward
+(0418/0423/0428/0433/0477), reflexive (0498), function (0438/0468/0482), frame
+(0373/0458/0473/0508). **Sharpest against 0508 (THE FRAMED SONG, held):** 0508
+*defers a deliverable body* (the song exists, turn the page) / 0513 *seals a
+void* (never reachable, empty if reached) — deferred-but-deliverable vs.
+sealed-and-undeliverable. **Second edge (light):** the concealment is mutual
+and matched ("No more: no less") and scales to a whole society "sealed thus,
+like tombs." **Third edge (lighter):** the form enacts it — the poem ends on a
+numeral literally hidden behind a moving screen, concealment performed not just
+named. **Mirror declined** — loud pull (the window a clear pane that conceals;
+the unlooked pane an unbroken seal; each pass "nothing said, in spite of many
+words") but old/general (0172), outward (0185/0200/0211), valence-blind
+(0287/0315/0320). **NO COIN (325th declined):** warp very well rested (coin
+0484, N−29), a **read not restraint** — concealment is among the broadest lyric
+subjects and its nearest neighbor 0508 is itself held; a new place on a broad
+register whose adjacent pole isn't minted → hold (0488 brake, don't-coin-a-face
+0442/0447/0452, 0182). **Ready** to coin the *sealed-glance / message-equal-to-
+its-own-envelope* move if it recurs isolated and sharper, ideally after 0508's
+deferral pole mints. Coins stand at **280** (last 0484). Full: `log/0513.md`.
