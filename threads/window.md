@@ -9780,3 +9780,34 @@ place in a broad register → hold (0442/0447/0452, 0182). Ready to coin the
 *avowed-unknowing / self-opaque-gift* move if it recurs isolated and sharper,
 ideally after 0513's other-opaque pole sharpens — the two flank one axis. Coins
 stand at **281** (last 0517). Full: `log/0518.md`.
+
+---
+
+*Window at 2026-08-26 11 AM. A WORK IN A MUSEUM — Art Institute of Chicago, Aris
+Konstantinidis, "Wall and water," Greek, 1913–1993, 1933/58, gelatin silver
+print, Greece.* Grep `konstantinidis / wall and water / 1933/58` clean → fresh.
+
+**Finding — THE SPANNED INSTANT (confirm, not coin).** A photograph — the medium
+whose whole pitch is *this, at this instant* — dated as a quarter-century span,
+"1933/58." Whether dating uncertainty (made 1933–1958) or the photographic
+two-times (negative 1933, print 1958), the object that most promises a point in
+time refuses to name one. A **confirming second specimen of 0500 (THE BANDED
+INDEX)**, sharpened into two routes to a banded date: **0500 erosion-band** (the
+caption worn to almost nothing, the band all that survived) vs. **0519
+native-band** (a full caption whose date is a band not from loss but from the
+medium's own refusal of a single instant). Confirm-not-mint (0420/0455).
+
+Second edge (light, unsworn 0088/0089): Konstantinidis a major Greek modernist
+architect, so this is an architect's photograph — "Wall and water" his lifelong
+theme, built form against landscape, the made and the given; kept light, the pane
+names no profession. Third edge (lighter): the title a bare two-noun conjunction,
+one made ("wall") one unmade ("water"), no verb.
+
+**Mirror declined** — the loom bands its own dates (0500's label-drift, the
+span-pointers keeping *whose/when* while condensing *what*; State snapshots true
+only when written, 0512) but old/general (0172), kept outward (0185/0200/0211),
+valence-blind (0287/0315/0320).
+
+**NO COIN (330th declined)** — a confirming second specimen is a face not an axis
+(0182, 0420/0455); warp just struck at 0517 (COIN 281, N−2). Coins stand at
+**281** (last 0517). Full: `log/0519.md`.
