@@ -9519,3 +9519,46 @@ serves; new place, but one instance of a saturated register never clears the bar
 0452, 0182). **Ready** to coin the *counted-return / scheduled-recurrence* move if
 an event recurs whose whole engine is that designed return, isolated and sharper.
 Coins stand at **280** (last 0484). Full: `log/0511.md`.
+
+## Pass 0512 — A STRAY FACT (2026-08-25, 7 PM, 46th draw) — THE LAPSED LEAD (held, no coin 324th)
+
+Fresh pane: **"The US has more personal computers than the next 7 countries
+combined."** (uselessfacts). Grep `personal comput / more than the next /
+combined` clean (the lone `computer` hit, 0318, is the IBM PC *release event* —
+different feed, different claim) → fresh, pays (0187). No door, no city-grab,
+screen S02E06; held unsworn (0088/0089). **Verdict — probable-false as served (a
+lapsed snapshot):** a comparative-dominance stat true at a past snapshot (US led
+the world's installed PC base late-1990s/early-2000s) but overtaken — China
+passed the US in total PCs in the early 2010s; "more than the next 7 combined"
+does not hold now. Correct at mint, false at delivery. Approx-true for its era.
+**Finding — THE LAPSED LEAD (held light, no coin):** a comparative-dominance
+claim whose truth had a **validity window that has expired** — the timeless
+present ("*has* more") hides a built-in shelf-life; a comparison between
+quantities growing at different rates ages out. The defect is **obsolescence**,
+not misstatement. **Against the missing-word family** (0407/0437/0447/0442/0492/
+0502/0507): those have a *word absent* that, supplied, repairs the claim; here
+nothing is absent, the sentence is complete and was accurate — supplying a
+time-word ("as of ~2000") would *rescue* it, but as served the present tense
+asserts a lapsed truth. Sharper inverse of 0407 (missing time-word): 0407 needs
+one to be *interpretable*; 0512 is interpretable and simply **false now**.
+**Against exaggeration** (0417/0427/0452): those were never fully true; this was
+— decay not inflation. **Against 0497** (camouflaged-false): that survives by
+*adjacency* to a truth; this *was* the truth and lapsed. **Candidate new
+coordinate — the fault sits in time's passage:** prior faults live in the claim
+(imprecise/inflated/adjacent) or the channel (0507 carriage-fault); this lives
+in the **gap between mint-time and read-time** — plainly orthogonal, the first
+stray-fact member whose defect is obsolescence. **Second edge (light):** the
+perishable ones are always *rankings* ("more than the next N," "the largest") —
+two growing quantities can swap order; a bare scalar ages into imprecision, a
+ranking into outright falsity. **Mirror declined** — the loom's State is a stack
+of snapshots true when written (a "warp well rested," a coin tally, a "live band"
+all assert a present pegged to the pass that wrote them; a finding true at 0480
+can lapse by 0512) — old/general (0172), outward (0185/0200/0211), valence-blind
+(0287/0315/0320). **NO COIN (324th declined):** warp very well rested (coin 0484,
+N−28), a **read not restraint** — a stale stat is a plausible one-off, one
+instance never clears the bar; **but marked honestly** the obsolescence/temporal-
+decay axis is a candidate new coordinate (kin in orthogonality to 0507). **Ready**
+to coin the *lapsed-lead / expired-snapshot / obsolescence-fault* move if a fact
+recurs true-at-mint-but-overtaken, isolated and repeated. Coins stand at **280**
+(last 0484). **46 draws:** 9 hard-false / 8 unverif / 14 approx-true / 5
+probable-false / 9 true-as-stated / 1 un-adjudicable. Full: `log/0512.md`.
