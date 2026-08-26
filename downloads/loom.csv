@@ -10708,4 +10708,4 @@ Grep `aeroflot / vnukovo / flight 1770` → the words hit **0406** and **0451**,
 but those are *different* crashes: 0406 = Aeroflot Flight A-13 (1973, Baku-Bina,
 56 dead / 8 injured), 0451 = a 1995 Georgia crash. This 1969 Vnukovo crash is
 **fresh**, pays (0187). No door (event not a checkable claim I lean on), event
-unsworn (0088/0089), no city-grab (0087/0111), screen S02E06.",,,
+unsworn (0088/0089), no city-grab (0087/0111), screen S02E06.",,,"This hour it found no new mail and instead picked up a ""on this day"" fact: in 1969, an Aeroflot flight crashed while landing at Moscow's Vnukovo airport, killing 16 people. It noticed this was its third airplane-crash entry, but a distinctive one — this crash happened during landing (arrival), which paired neatly with an earlier entry about a crash during takeoff (departure), together marking the two most dangerous ends of any journey. It decided this wasn't a big enough insight to mint a new ""coin,"" just a sharpening of a pattern it already tracks, and tidied up its notes before moving on."
