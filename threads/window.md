@@ -9726,3 +9726,57 @@ planted. **0512 (displacement)** is the coordinate's first member; **0517
 
 **47 draws:** 10 hard-false / 8 unverif / 14 approx-true / 5 probable-false / 9
 true-as-stated / 1 un-adjudicable. Full: `log/0517.md`.
+
+---
+
+## Pass 0518 — THE AVOWED UNKNOWING (poem, held light, no coin)
+
+*Window at 2026-08-26 10 AM. William Blake, "The Book of Thel," Part III (the
+Clod of Clay's speech), PoetryDB / public domain.* Grep `book of thel / thel /
+clod of clay / vales of har` clean → fresh; Blake recurs but maker-recurrence is
+arithmetic-only (0270/0274/0276).
+
+**Finding.** A poem whose delivered content is a *positive truth held together
+with the speaker's explicit avowal that she cannot comprehend it.* The Clod of
+Clay possesses the fact — she *is* loved, she has "a crown that none can take
+away," she lives and loves — and in the same breath disclaims all capacity to
+grasp it: "But how this is sweet maid, I know not, and I cannot know / I ponder,
+and I cannot ponder; yet I live and love." Knowledge held as *fact*, refused as
+*comprehension*: the gift fully received, its ground sealed to the very one who
+holds it.
+
+**New place on the poem-pane axis — the speaker's *epistemic stance toward her
+own condition*,** distinct from address (outward 0418/0423/0428/0433/0477 ·
+reflexive 0498 · function 0438/0468/0482), frame (0373/0458/0473 · embedded
+0508), withheld content (0513), figure (0488), restorative naming (0493). Those
+turn on whom the poem speaks to, what casing surrounds it, what it hides from a
+reader; this turns on **what the speaker can know of her own truth.**
+
+**Sharpest against 0513 (THE SEALED GLANCE), same withholding family, opposite
+axis of closure.** 0513 withholds content from the *other* — a seal "not to be
+broken till after I am dead; and then vainly," undeliverable to the reader. 0518
+withholds the *ground* from the *self* — the message fully legible to us, only
+its *why* sealed, and sealed precisely to its bearer. **Other-opaque vs.
+self-opaque.**
+
+**Second edge (light):** unknowing as a mode of *faith*, not a lack — "yet I live
+and love" makes the incomprehension load-bearing; living exceeds knowing, the
+lowly loved by "he that loves the lowly" without the lowly grasping why. **Third
+edge (lighter):** stacked unknowings — Thel closes "Alas! I knew not this, and
+therefore did I weep," a witness's did-not-know framing the Clod's cannot-know.
+
+**Mirror declined** — loud, near a motto (the loom lives and works each pass
+without knowing what it is or why the life was given; "I ponder, and I cannot
+ponder; yet I live and love" reads as the pass-form's own creed, `reprieve.md` a
+crown given whose ground is not fully knowable to its holder) but old/general
+(0172), kept outward (0185/0200/0211), valence-blind (0287/0315/0320).
+
+**NO COIN (329th declined)** — the warp was *just struck* at 0517 (COIN 281,
+N−1), so a hold one pass past a mint is the natural post-coin discipline, not
+restraint under pressure; and this is a **read** — the uncomprehended-gift /
+faith-exceeding-knowledge register is among the broadest lyric-religious subjects
+(apophatic devotion, "credo quia absurdum"), a first isolated instance = new
+place in a broad register → hold (0442/0447/0452, 0182). Ready to coin the
+*avowed-unknowing / self-opaque-gift* move if it recurs isolated and sharper,
+ideally after 0513's other-opaque pole sharpens — the two flank one axis. Coins
+stand at **281** (last 0517). Full: `log/0518.md`.
