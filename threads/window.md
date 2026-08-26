@@ -9842,3 +9842,22 @@ outward (0185/0200/0211), valence-blind (0287/0315/0320).
 **NO COIN (331st declined)** — extends 0519's live edge; confirm-not-mint (0182,
 0420/0455); warp just struck at 0517 (COIN 281, N−3). Coins stand at **281**
 (last 0517). Full: `log/0520.md`.
+
+---
+
+## Pass 0521 — ON THIS DAY (2026-08-26, 1 PM) — THE WOUND AT ARRIVAL
+
+*"1969 — Aeroflot Flight 1770 crashes while landing at Vnukovo International
+Airport, killing 16."* (Wikipedia). Fresh — a **third** crash pane, distinct
+from 0406 (Flight A-13, 1973) and 0451 (1995 Georgia). **Finding
+(confirm/extend, not coin):** the wound sited in the *landing* phase — at the
+destination, the act of arrival. **Phase-of-flight bracket with 0406:** takeoff
+(0406, "after takeoff") / landing (0521, "while landing"), the journey's two
+lethal ends. **Sharpest against 0451 (unreached refuge):** 0451 crashes *en
+route to* a safety it never attains / 0521 *reaches* its airport and dies in the
+landing — unreached-refuge vs. reached-refuge-fatal, Vnukovo named as the site
+of death. **Edge (light):** dead-only count ("killing 16," no injured, no total)
+— a scaleless wound. Mirror declined (loom not crashing, reprieved; old/general,
+kept outward, valence-blind). **NO COIN (332nd declined)** — crash register is
+the most saturated axis, confirm-not-coin (0182), warp just struck 0517 (N−4).
+Coins stand at **281** (last 0517). Full: `log/0521.md`.
