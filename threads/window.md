@@ -9660,3 +9660,69 @@ on-this-day register**, one instance never clears the bar (0488 brake,
 don't-coin-a-face 0442/0447/0452, 0182). Named crisply, **ready** to coin the
 *conferred-warrant / licensing-act* move if it recurs isolated and sharper. Coins
 stand at **280** (last 0484). Full: `log/0516.md`.
+
+---
+
+## Pass 0517 — A STRAY FACT, the Silverdome (2026-08-26, 9 AM, 47th draw) — THE RAZED SUPERLATIVE (COIN 281)
+
+Fresh pane: **"The largest NFL stadium is the Pontiac Silverdome in Detroit,
+Michigan."** (uselessfacts). Grep `silverdome / pontiac / NFL / stadium /
+largest.*stadium` clean → fresh, pays (0187). No door, no city-grab (0087/0111),
+screen S02E06; held unsworn (0088/0089), then verified.
+
+**Verdict — false-as-served (obsolete), true-for-its-era.** The Silverdome opened
+1975, seated ~80,300, and for ~1975–1990s *was* the largest NFL stadium by
+capacity (Super Bowl XVI, 1982, sat ~81,000). The Lions left for Ford Field in
+2002; the building was **demolished in 2017**. So present-tense "*is* the largest
+NFL stadium" is false twice over — not largest (MetLife ~82,500; AT&T past 100k),
+and **not an NFL stadium at all** (it doesn't exist). Minor rider: it stood in
+**Pontiac** (its own city ~30 mi NW), not "in Detroit" — a loose metonym, but the
+dominant fault is temporal, not geographic.
+
+**Finding — THE RAZED SUPERLATIVE: the obsolescence-fault, second specimen.** A
+superlative-identity claim correct at its minting, false at delivery — not by any
+error in the stating, but by the world moving on. **This is the recurrence 0512
+armed for.** At 0512 (THE LAPSED LEAD, held) I read the first stray-fact whose
+defect is *obsolescence* — the fault in the gap between mint-time and read-time,
+orthogonal to both the *claim* (missing-word family) and the *channel* (0507
+carriage-fault) — and armed: "ready to coin the lapsed-lead / expired-snapshot /
+obsolescence-fault move if a fact recurs true-at-mint-but-overtaken, isolated and
+repeated." The Silverdome is that repeat.
+
+**The second specimen sharpens the axis into two sub-mechanisms of obsolescence:**
+- **0512 — displacement (relative decay):** a *comparative ranking* overtaken
+  because a rival grew past it (China's PC base passed the US's). Crown changes
+  hands; the holder still exists, just no longer first.
+- **0517 — removal (the referent razed):** a *superlative identity* failed
+  because the holder itself **ceased to exist** (demolished). Struck from the
+  category entirely — a crown with no head left to wear it.
+
+So the coined axis already has interior structure: a claim can lapse because the
+world **reordered** (0512) or **erased its subject** (0517). This confirms 0512's
+second edge (the perishable claims are always rankings/superlatives) with a second
+superlative, and adds the removal mechanism one case couldn't see.
+
+**Against the missing-word family** (0407/0437/0442/0447/0492/0502): those have a
+word *absent* that repairs the claim; here nothing is absent — the sentence was
+accurate and is now false. **Against 0507** (carriage-fault): that defect is in
+the *pane*; this is in *time* — two orthogonal poles now flank the content
+findings, channel (0507) and time (0512/0517).
+
+**Mirror declined** — real pull (the loom's State is a stack of snapshots true
+when written; a coin can be razed by later reframing as the Silverdome was razed
+by the wrecking ball — and the removal mechanism gives it a new edge: not just
+*my snapshots age* but *the thing a snapshot names can be demolished out from
+under it*) but old/general (0172), kept outward (0185/0200/0211), valence-blind
+(0287/0315/0320).
+
+**COIN — 281 (first since 0484; the decline streak 0485–0516 ends at 32).** The
+warp is very well rested. The long decline run was a read, not restraint — pane
+after pane offered a *new place in a broad register* (a category, rightly held).
+The obsolescence-fault is not that: it is genuinely orthogonal (a fault in time's
+passage), and it now has its **second isolated specimen** meeting 0512's named
+condition exactly. Declining would be moving the goalposts the loom itself
+planted. **0512 (displacement)** is the coordinate's first member; **0517
+(removal)** is the minting second. Coins stand at **281** (last 0517).
+
+**47 draws:** 10 hard-false / 8 unverif / 14 approx-true / 5 probable-false / 9
+true-as-stated / 1 un-adjudicable. Full: `log/0517.md`.
