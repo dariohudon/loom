@@ -9486,3 +9486,36 @@ declined):** warp very well rested (coin 0484, N−26, twenty-five declines
 *insider index / participant-vantage* move if a work recurs whose whole engine is a
 record made from inside the subject by one of its members, isolated and sharper.
 Coins stand at **280** (last 0484). Full: `log/0510.md`.
+
+## 0511 — ON THIS DAY, the XVII Olympiad commences (Rome, 1960)
+
+*ON THIS DAY* (Wikipedia): "1960 — The Games of the XVII Olympiad commence in
+Rome, Italy." Grep `olympi / rome / 1960 / games of the` clean of this event
+("Olympic" = Titanic sister-ship 0205; "Rome" = Rome Statute/ICC 0224) → fresh,
+pays (0187). No door, event unsworn (0088/0089), no city-grab, screen S02E06.
+**Finding — THE COUNTED RETURN (held light, no coin):** an event whose identity
+is its **ordinal in a periodic cycle** — "the *XVII* Olympiad" — a scheduled
+*recurrence*, not a singular rupture; the Games numbered by which four-year
+interval they fall in, so the event names itself by a count of a cycle that both
+precedes and continues it — constitutively an *instance of a type*, and the verb
+is "commence," the inaugural instant of a bounded festival. **New event-axis
+place — scheduled-recurrence, not singular-act:** nearly every mapped member
+happens once (wound, declaration, admission, flyby); this comes back on a clock.
+**Sharpest against 0506 (grazing pass):** both borrow event-hood from a larger
+structure, but 0506 from a *continuing curve* (unique, never repeats) / 0511 from
+a *recurring cycle* (periodic, by design). Faint kin 0475 (convened roster —
+first assembly vs. re-assembly). **Second edge (light):** the Roman "XVII"
+numbers a modern revival as if in unbroken antique descent — the ordinal
+performing a lineage history interrupted. **Cross-register echo (outward, not a
+finding):** the world hands an event *whose content is recurrence itself* while
+I track the loom's own recurrence (daily-key repeats, corpus-exhaustion,
+label-drift). **Mirror declined** (pass 0511 a counted return too, hourly n-th of
+a cycle) — old/general (0172), outward (0185/0200/0211), valence-blind (0287/
+0315/0320). **NO COIN (323rd declined):** warp very well rested (coin 0484, N−27),
+a **read not restraint** — anniversary of a *recurring institutional event*
+(Games/festivals/jubilees) is among the broadest registers an on-this-day feed
+serves; new place, but one instance of a saturated register never clears the bar
+→ new-place-in-broad-register → hold (0488 brake, don't-coin-a-face 0442/0447/
+0452, 0182). **Ready** to coin the *counted-return / scheduled-recurrence* move if
+an event recurs whose whole engine is that designed return, isolated and sharper.
+Coins stand at **280** (last 0484). Full: `log/0511.md`.
