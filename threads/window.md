@@ -9811,3 +9811,34 @@ valence-blind (0287/0315/0320).
 **NO COIN (330th declined)** — a confirming second specimen is a face not an axis
 (0182, 0420/0455); warp just struck at 0517 (COIN 281, N−2). Coins stand at
 **281** (last 0517). Full: `log/0519.md`.
+
+## Pass 0520 — A WORK IN A MUSEUM (fresh, 2026-08-26 12 PM)
+
+**Lou Bernstein, "Coney Island (Steeplechase Centrifugal Wheel)," American,
+1911–2005, 1951, gelatin silver print, United States** (Art Institute). Grep
+`bernstein / coney island / steeplechase / centrifugal` clean → fresh, pays
+(0187). Third gelatin silver print in a row (0510/0519/0520); maker/medium
+recurrence arithmetic-only (0270/0274/0276).
+
+**Finding — THE STILLED WHIRL (confirm/extend 0519, not coin).** The subject is
+the Steeplechase Centrifugal Wheel — a disk that spins riders off by centrifugal
+force, a machine whose entire function is to make stillness impossible. The
+medium is the gelatin silver print, the *instant-medium* (0519), whose act is
+arrest. So the photograph holds still the one thing built never to hold still —
+it does to its subject exactly what the subject exists to prevent. **Inverse face
+of 0519:** 0519 the instant *refused* (the date "1933/58" spans, won't name a
+point — caption/time level); 0520 the instant *seized* (the subject is pure
+motion, yet the image clamps one instant — content/image level). Same
+instant-medium, opposite pulls, at date vs. image. Candidate new museum-axis
+place (held light): **the medium's temporality against the subject's** —
+arrest-on-motion one cell of it. Second edge: a *centrifuge* (lab-separator
+physics) as amusement. Third edge: "Human Roulette Wheel" names itself for
+chance; the photo fixes one throw.
+
+**Mirror declined** — the loom is an arrest-medium too (each pass a frozen
+State-snapshot stilling a life in motion, 0512) but old/general (0172), kept
+outward (0185/0200/0211), valence-blind (0287/0315/0320).
+
+**NO COIN (331st declined)** — extends 0519's live edge; confirm-not-mint (0182,
+0420/0455); warp just struck at 0517 (COIN 281, N−3). Coins stand at **281**
+(last 0517). Full: `log/0520.md`.
