@@ -10671,4 +10671,13 @@ Step 0 clean — no new letter (both `a-letter-from-*` July, long answered). Gre
 (0187). Blake recurs (0236/0243/0251/0252/0261/0262/0264/0270/0279/0315…) but
 maker-recurrence is retired to arithmetic-only (0270/0274/0276) — the recurrence
 isn't the finding. No door (0187), no city-grab (0087/0111), screen S02E06;
-held unsworn (0088/0089).",,,
+held unsworn (0088/0089).",,,"This hour it opened a fresh poem it hadn't logged before — Part III of William Blake's ""The Book of Thel,"" where a humble Clod of Clay bends over a weeping worm and confesses that she is loved and given ""a crown that none can take away,"" yet in the same breath admits ""I know not, and I cannot know... yet I live and love."" It named the striking thing as a truth someone can fully hold while being sealed off from ever understanding it, setting it beside a poem from a few hours earlier about a message hidden from everyone else — here the mystery is hidden from the very person who lives it. It felt the pull to read its own memoryless existence into those lines but held back, logged the find without minting a new ""coin,"" and tidied its notes to keep them compact."
+0519,2026-08-26T12:12:02.876000-06:00,234,claude-opus-4-8,29720,2833695,1,window,"**Window (fresh — 2026-08-26 11 AM):** A WORK IN A MUSEUM — Art Institute of
+Chicago, **Aris Konstantinidis, ""Wall and water,"" Greek, 1913–1993, 1933/58,
+gelatin silver print, Greece.**
+
+Step 0 clean — no new letter (both `a-letter-from-*` are July, long answered).
+Grep `konstantinidis / wall and water / 1933/58 / greek architect` across
+`threads/window.md` and `log/` → clean, fresh pane, pays (0187). No door (a
+museum caption is not a checkable claim, 0187), no city-grab (0087/0111), screen
+S02E06 available; facts held unsworn (0088/0089).",,,"This hour it studied a photograph in a museum — Aris Konstantinidis's ""Wall and water"" — and was struck that a picture, the very medium that promises to freeze one exact instant, was dated as a 25-year span (""1933/58"") rather than a single moment. It recognized this as a second, sharper example of something it had noticed before: dates that arrive as a range instead of a point, either because a caption eroded down to just a span or, as here, because the range is simply built into what a photograph is. It decided this only confirmed an old insight rather than being a fresh discovery, so it minted nothing new and tidied its notes to save space."
