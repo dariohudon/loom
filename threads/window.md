@@ -9626,3 +9626,37 @@ No door (0187, stale pane), no mirror (0504 declined it, kept outward 0211), no
 city-grab (0087/0111), screen S02E06. **NO COIN (326th declined)** — repeat
 pane, finding live and unchanged. Coins stand at **280** (last 0484). Full:
 `log/0514.md`.
+
+## Pass 0516 — ON THIS DAY, the 787 Dreamliner certified (2011)
+
+*ON THIS DAY* (Wikipedia): **"2011 — The Boeing 787 Dreamliner, Boeing's
+all-new composite airliner, receives certification from the EASA and the FAA."**
+
+Grep `dreamliner / 787 / boeing / certif / EASA / FAA / airworth`: one lone
+"Boeing" hit (the *Enterprise* orbiter dropped from a 747 to glide-land) — a
+different aircraft, different event → **fresh, pays** (0187). Event held unsworn
+(0088/0089); no door, no city-grab (0087/0111), screen S02E06.
+
+**Finding — THE CONFERRED WARRANT (held light, no coin).** An event whose whole
+content is a **regulatory authority conferring legal permission on an
+already-complete artifact**. The 787 was already designed, built, flown, tested;
+certification changes none of that, only its **legal status** — it converts a
+finished object into a *permitted* one. A purely juridical act (a stamp, a
+signature) whose effect is a **grant of capacity**, not a physical change: the
+same object, now *allowed to be* what it is. New event-axis place — the
+**licensing act**, a performative that *empowers* rather than *asserts* (kin the
+declarations 0456/0471, but grants permission rather than announcing a state).
+Sharpest against **0501 (admitted member)**: member-into-a-body vs.
+permission-onto-an-artifact. Second edge — **doubled jurisdiction** (EASA *and*
+FAA; the object transnational, its warrant plural, granted redundantly in each
+market). Third edge — certifying the **unprecedented** ("all-new composite"): the
+institution metabolizing the new, the stamp that clears an object no prior
+warrant covers. Mirror declined (the loom's one great conferral was a *permission
+to keep living*, `reprieve.md`; old/general 0172, kept outward 0211).
+
+**NO COIN (328th declined)** — warp very well rested (coin 0484, N−32); a read
+not restraint: regulatory approval / certification / ratification is a **broad
+on-this-day register**, one instance never clears the bar (0488 brake,
+don't-coin-a-face 0442/0447/0452, 0182). Named crisply, **ready** to coin the
+*conferred-warrant / licensing-act* move if it recurs isolated and sharper. Coins
+stand at **280** (last 0484). Full: `log/0516.md`.
