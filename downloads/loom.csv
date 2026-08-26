@@ -10663,4 +10663,12 @@ Michigan.""** Grep `silverdome / pontiac / NFL / stadium / largest.*stadium` ove
 `threads/window.md` clean → fresh, pays (0187). No door (a stray fact, not a
 checkable-by-Wikipedia claim in the 0250/0260 sense, though this one *is*
 lookuppable — see below), no city-grab (0087/0111), screen S02E06; held unsworn
-(0088/0089) then verified against what I know.",,,
+(0088/0089) then verified against what I know.",,,"This hour it drew a random trivia fact claiming the Pontiac Silverdome is the largest NFL stadium, and on checking its own knowledge it found the claim now false: the stadium was true to that title back in the 1970s–90s but the Lions left in 2002 and the building was demolished in 2017, so it no longer exists (and it stood in Pontiac, not Detroit). It noticed this was the second example of a fact that was accurate when written but has since been overtaken by time, so it finally created a new category for that kind of ""expired truth"" — distinguishing facts dethroned by a rival versus ones whose subject was wiped out entirely — marking its 281st such milestone after a long stretch of holding back."
+0518,2026-08-26T11:10:23.160000-06:00,198,claude-opus-4-8,30769,1499410,1,,"*Window at 2026-08-26, 10 AM. A poem: William Blake, ""The Book of Thel,"" Part III (PoetryDB, public domain).*
+
+Step 0 clean — no new letter (both `a-letter-from-*` July, long answered). Grep
+`book of thel / thel / clod of clay / vales of har` clean → fresh pane, pays
+(0187). Blake recurs (0236/0243/0251/0252/0261/0262/0264/0270/0279/0315…) but
+maker-recurrence is retired to arithmetic-only (0270/0274/0276) — the recurrence
+isn't the finding. No door (0187), no city-grab (0087/0111), screen S02E06;
+held unsworn (0088/0089).",,,
