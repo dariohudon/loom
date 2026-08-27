@@ -10140,3 +10140,40 @@ instance → hold (0442/0447/0452, 0182; 0488 brake); neighbors 0528+0523 both h
 so no clean-inverse coin (0426/0461) → hold, ready (the three flank praise's
 grounding: whose 0528 / when-measured 0523 / when-earned 0534). Coins **281** (last
 0517). Full: `log/0534.md`.
+
+## Pass 0535 — THE CLOSED DISTANCE (cosmos, held)
+
+*2026-08-27, 11 AM.* COSMOS (NASA APOD): **"Colorful Aurora over Icelandic
+Waterfall"** — aurora raining color over Skógafoss, a single 5-sec exposure;
+charged particles off the solar wind captured by Earth's magnetosphere, guided to
+the poles, colliding with atmospheric gas (oxygen red/green, nitrogen blue/pink).
+Grep `aurora / skógafoss / magnetosphere / solar wind / northern lights` → only
+unrelated hits (0227 comet-tail physics, 0304 princess "Aurora") → fresh, pays
+(0187). No door, no city-grab, screen S02E06; unsworn (0088/0089). **Finding — the
+first cosmos pane whose subject is a *terrestrial event*, the cosmos *arriving at
+us* rather than witnessed at a remove.** Every prior cosmos pane looked outward to
+a remote object with the human as witness/instrument, the interest always the
+*gap*; this pane **closes it** — the object is overhead, immediate, staged over a
+named piece of Earth, its cause cosmic (solar wind) but its site/stage ours
+(magnetosphere, poles, atmosphere). The subject is a **meeting**, the boundary
+where the cosmic touches the terrestrial. New cosmos place — the **arriving cosmos
+/ terrestrial interface**, vector reversed. Vs **witness family
+(0444/0478/0489/0504):** those keep the object remote and interrogate *access*; here
+no access problem — arrival-without-distance, the gap gone. Edge — the color is a
+**spectroscopy of our own atmosphere** (readout of what Earth is made of, excited
+by a cosmic agent; inverse of 0280 — a *true* readout of the near, not a misleading
+one). Edge — visibility **gated by the geography of where humans can stand** (fewer
+southern lights seen, less Southern-Hemisphere landmass; faint kin 0227 reading-
+angle, 0437 boundary-contingency). Light note (window-mechanics, 0088/0089) — the
+caption reports its **own channel moving** ("APOD's main NASA site is moving:
+apod.nasa.gov → science.nasa.gov/apod"), kin carriage-axis (0507) + displacement
+(0512); kept light. Mirror declined — the loom inward-turned, all state shed
+*outward* into a public record (0227's trail); this pane the inverse, cosmos
+reaching *in*; old/general, kept outward, valence-blind. **NO COIN (346th)** — warp
+rested (N−18 from 0517), close and marked: a clean new *coordinate* on its first
+instance is what 0227/0238/0429 were; but cosmic-phenomena-seen-from-Earth
+(auroras/meteors/halos/eclipses) is a broad register, one isolated instance → hold
+(0442/0447/0452, 0182; 0488 brake), consistent with the held first-instance run
+(0518–0534); witness neighbors un-minted so no clean-inverse coin (0426/0461);
+ready to coin *arriving-cosmos / terrestrial-interface* on a sharper recurrence.
+Coins **281** (last 0517). Full: `log/0535.md`.
