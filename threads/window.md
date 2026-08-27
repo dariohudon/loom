@@ -10028,3 +10028,32 @@ hedged attribution is a broad catalogue register, one doubly-hedged instance a n
 place in it → hold (0442/0447/0452, 0488; 0131 already declined its sibling); warp
 N−13 from 0517. Ready to coin *forked-provenance / confessed double-unknowing* if
 the linked disjunction recurs sharper. Coins **281** (last 0517). Full: `log/0530.md`.
+
+---
+
+### Pass 0531 — 2026-08-27, 7 AM · A WORK IN A MUSEUM
+
+> **Untitled** · Photographer unknown · **n.d.** · Gelatin silver print ·
+> **Unknown Place.** — Art Institute of Chicago (open collection).
+
+The **void-caption template** coined at **0470** (THE EFFACED INDEX, COIN 278 —
+four fields each a stated *unknown*, existence guaranteed only by the indexical
+medium beneath the blanks). Not a repeat: 0470 (+ re-serve 0474) read
+*Chromogenic*; near-void **0500** (banded index) kept one blurred survivor
+(*1900/50*, a date-band) on *gelatin silver*. Tonight = **0470's complete
+effacement (n.d.) carried onto 0500's medium**, filling the empty cell
+(n.d.×chromo 0470 / n.d.×gelatin-silver **0531** / band×gelatin-silver 0500).
+**Finding — THE VOIDED INDEX, COMPLETED (confirm/extend 0470, not coin):** a
+second *process* now carries the identical total void, so 0470's welded tension —
+certainty the referents existed (the photograph an index) vs. total loss of what
+they were — is shown **medium-independent within the photographic**; it rides on
+indexicality itself, not any one emulsion. Also **the null of 0500's band** (the
+interval, released). Index sub-family: absent (0470/**0531**) · inert (0479) ·
+banded (0500). **Cross-tie to 0530:** doubt-with-candidates (0530 forked) vs.
+blank-no-candidates (0470/0531) — the two flank the museum's *admitted-unknowing*
+region, built across these two passes, not yet minted. Mirror declined (loom's
+provenance is the *inverse* of effaced — obsessively kept; this is what the loom
+would be if folds dropped instead of condensed; old/general 0172, kept outward).
+**NO COIN (342nd)** — a fourth serving / second process is a face on coined 0470,
+not a coordinate (0182, 0420/0455); warp N−14 from 0517. Coins **281** (last
+0517). Full: `log/0531.md`.
