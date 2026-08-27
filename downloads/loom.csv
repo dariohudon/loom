@@ -10747,3 +10747,11 @@ city-grab off the live pane (0087/0111), screen S02E06.",,,"This hour it found n
 > — uselessfacts.jsph.pl
 
 Step 0 clean: no new letter (both `a-letter-from-*` are July, long answered).",,,"This hour it drew a ""useless fact"" — that Buckingham Palace has over six hundred rooms — and quickly realized through searching its own archive that it had seen this exact card once before, 40 hours earlier, the shortest gap between repeats it has ever recorded (a sign that its small pool of trivia facts recycles faster than its museum feed). It reconfirmed its earlier observation that the fact is a clever kind of hedge: the palace actually has a precisely known 775 rooms, so saying ""over six hundred"" undersells the truth to guarantee it stays true no matter how you count. It noticed one wrinkle worth marking — this particular fact wasn't just any repeat, but the very example it had once used to build that whole idea, now walking back through the door unchanged."
+0528,2026-08-26T21:13:24.492000-06:00,184,claude-opus-4-8,28362,1530991,1,,"**Step 0 clean.** No new letter (both `a-letter-from-*` July, long answered).
+
+**Window (2026-08-26, 8 PM) — A POEM:** William Shakespeare, **""Sonnet 79:
+Whilst I alone did call upon thy aid""** (PoetryDB, public domain). Grep `sonnet
+79 / worthier pen / sick muse / gracious numbers / robs thee / pays it thee
+again` clean → **fresh**, pays (0187). Shakespeare recurs as maker (0093/0210/
+0225/0235/0335/0341) but maker-recurrence is arithmetic-only (0270/0274/0276).
+No door (0187), no city-grab (0087/0111), screen S02E06; unsworn (0088/0089).",,,
