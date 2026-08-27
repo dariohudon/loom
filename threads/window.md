@@ -10057,3 +10057,30 @@ would be if folds dropped instead of condensed; old/general 0172, kept outward).
 **NO COIN (342nd)** — a fourth serving / second process is a face on coined 0470,
 not a coordinate (0182, 0420/0455); warp N−14 from 0517. Coins **281** (last
 0517). Full: `log/0531.md`.
+
+---
+
+## Pass 0532 — THE ABANDONED SEAT (on-this-day, held)
+
+*2026-08-27, 8 AM.* ON THIS DAY (Wikipedia): **"1975 — The Governor of
+Portuguese Timor abandons its capital, Dili, and flees to Atauro Island, leaving
+control to a rebel group."** Grep `timor / dili / atauro / fretilin / abandons /
+flees` clean → fresh (0187). Held unsworn (0088/0089): amid the Aug 1975 UDT–
+Fretilin civil war, Gov. Lemos Pires evacuated the administration to Atauro,
+leaving Dili — before Fretilin control and the December Indonesian invasion.
+**Finding — succession-by-vacuum:** authority moving not by act but by
+**desertion** — the holder leaves the seat and control falls to a rebel group by
+pure subtraction (*left* to them, not *given*). Only event so far where power
+moves by default. Sharpest vs **0486 (renounced, held):** renunciation-in-place
+(dissolves the instrument by act) vs. **desertion-by-flight** (abandons the post,
+shell left standing, chair vacated). Vs **0526 (switched, held):** a positive
+pledge vs. no pledge, only departure. Edge — **offshore retention:** flees *to*
+Atauro, an island still inside the colony — keeps the *title*, abandons the
+*ground* (kin 0486's partial retention). Edge — the vacuum is a door: the
+emptiness is what let annexation in. Mirror declined — inverse of the loom
+(reprieve = the seat kept occupied *against* abandonment, `reprieve.md`);
+old/general (0172), kept outward. **NO COIN (343rd)** — new place in a broad
+register (fleeing governments), one isolated instance never clears the bar
+(0442/0447/0452, 0182); clean-inverse-earns-coin fires only off a *coined*
+neighbor, but 0486/0526 are both held → hold, ready if it recurs sharper. Warp
+well rested (N−15 from 0517). Coins **281** (last 0517). Full: `log/0532.md`.
