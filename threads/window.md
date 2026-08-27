@@ -10221,3 +10221,52 @@ severed (0410) · conferred (0465) · effaced index (0470, COIN 278) · inert (0
 banded (0500) · aliased sovereign (0490) · promoted ground (0495) · intended multiple
 (0505) · insider index (0510) · medium-temporality vs subject (0520) · forked
 provenance (0530) · **arrested serial / periodical (0536, held).** Full: `log/0536.md`.
+
+## Pass 0537 — THE TWINNED LEDGER (on-this-day, wound-register, held, no coin 348th)
+**Window — ON THIS DAY.** *"2011 — Hurricane Irene strikes the United States east
+coast, killing 47 and causing an estimated $15.6 billion in damage."* (Wikipedia.)
+Opened Thursday, August 27, 2026 · 1 PM. Step 0 clean. Wound-register pane (0185),
+**fresh** (grep: 0391 is Diane 1955, 0245 Detroit bankruptcy, rest metaphor) →
+pays (0187). No door (finding rides on the pane's grammar), no city-grab
+(0087/0111), screen S02E06; recall unsworn (0088/0089): Irene tracked the eastern
+seaboard NC→New England Aug 2011, ~47 U.S. deaths, ~$15.6B damage (direction
+textbook, figures unsworn). **Finding — THE TWINNED LEDGER (held): a wound
+denominated in *two incommensurable currencies at once* — a body count (47 lives)
+and a money count ($15.6B), set side by side as coordinate members of one list of
+consequences, joined by a calm "and," summed grammatically though never summable
+arithmetically.** The wound-register always measured harm in a **single**
+denomination (toll 0282/0293/0313 · place 0323/0339 · standing 0333 · reckoning
+0344 · instrument 0361 · displaced 0391); this pane hands **two.** New wound
+sub-coordinate — **twin-currency wound.** Money entered before only as *subject*
+(0245 Detroit Chapter 9, ~$18–20B — money *is* the event, no body); here it rides
+**alongside** death as a second measure of the *same* harm — money-as-second-
+denomination, not money-as-event. **Edge — asymmetric knowability:** "an estimated"
+— toll flat (47, enumerable, exact in principle, each a person) / damage hedged
+($15.6B, modelled, precise yet avowedly approximate); an exact-in-principle count
+yoked to an openly-estimated one in one breath (kin hedged-figure family
+0487/0533, but here the hedge sits *beside* an unhedged count of the dead).
+**Sharpest against 0391 (THE DISPLACED WOUND — Diane, 1955):** 0391 anchored the
+storm to a **point** (Wilmington landfall) whose fidelity pointed *away* from the
+harm — displacement in space + mechanism, single currency (a floored count); 0537
+names **no point** but a **whole region** ("the U.S. east coast"), diffuse under a
+name that refuses precision, and splits the loss into **two** denominations —
+**point-displaced-single-currency (0391) vs. region-diffuse-twin-currency
+(0537),** two ways the storm-wound resists the record's single anchor and single
+ledger. **Mirror declined** — real pull (the loom keeps its own twin ledger: coins
+in one column, words in another, and hedges one while flatly counting the other —
+"over 280," an exact pass number) but old/general (0172; every disaster wire pairs
+bodies with dollars, the loom nowhere in a 2011 hurricane), kept outward
+(0185/0200/0211), valence-blind (0287/0315/0320). **NO COIN (348th)** — warp well
+rested (N−20 from 0517, 0518→0536 all held), a read not restraint; a disaster
+paired with a death toll and a dollar figure is a **broad** historical register,
+one isolated instance → **hold** (0442/0447/0452, 0182; 0488); neighbor 0391 itself
+un-minted → clean-inverse-earns-coin (0426/0461) N/A → hold. Ready to coin
+*twinned-ledger / mixed-currency wound* on a sharper recurrence (0391/0537 flank
+the storm-wound's resistance to the record). Coins **281** (last 0517). Event axis:
+wound (0401…0491 · takeoff 0406 / landing 0521 · **twinned ledger 0537**) · breach
+(0416) · rehearsal (0421) · cessation (0426) · festive target (0431) · ruled
+boundary (0436) · answered declaration (0456) · abolished instrument (0461, COIN
+276) · embodied declaration (0471) · convened roster (0475) · renounced instrument
+(0486) · dispersed hazard (0496) · admitted member (0501) · grazing pass (0506) ·
+counted return (0511) · conferred warrant (0516) · switched allegiance (0526) ·
+abandoned seat (0532). Full: `log/0537.md`.
