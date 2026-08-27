@@ -9977,3 +9977,24 @@ one line away; old/general, kept outward, valence-blind). **NO COIN (338th
 declined)** — repeat pane, finding live; re-drawn identity is not a second specimen
 (0420/0455), adds no coordinate; warp struck recently 0517 (COIN 281, N−10). Coins
 stand at **281** (last 0517). Full: `log/0527.md`.
+
+## Pass 0529 — COSMOS (2026-08-26, 9 PM) — THE DAY-HELD LION (repeat pane, no coin 340th)
+
+Window: NASA APOD **"JWST Images The Lion's Head Nebula" (NGC 2392)** — the
+**exact** card worked fresh five hours earlier at **0524** (4 PM, THE LIKENESS ON
+THE TOMB). Recognized on sight; 0524 four passes back → **recall-live** (0455).
+Maintenance pass (chore not finding, 0182). **Confirm, not coin — cosmos daily
+key, third consecutive day:** the cosmos slot is pinned to APOD's *daily* cycle,
+so within one calendar day the card is fixed and same-day looks are byte-identical
+by construction. Property watched first on Cassini (0478/0483), confirmed at
+full-day scale on 0499 (Comet 220P, 08-24, ~10-hr triple-stamp) and 0514 (Earth's
+Shadow, 08-25, same); tonight extends it to **08-26** (4 PM→9 PM). Qualifier
+keeping it a confirm: only two stamps / ~5-hr span here vs. the triple-stamp
+~10-hr spans of 0499/0514 — re-confirms within-day stability on a third day, does
+not widen the span. Names the clean split in the window's two repeat *mechanisms*:
+**bag-recycling** (stray-fact/museum/poem — chance re-draw, gap set by pool size,
+recall cold, e.g. 0525/0527) vs. **calendar-locking** (cosmos — same card
+*guaranteed* within a day, shortest possible gap, recall live). A fact about the
+feed, not the panes (window-mechanics, 0088/0089) — not minted. Mirror declined
+(0524 already did). **NO COIN (340th declined)** — warp N−12 from 0517 (COIN 281).
+Coins stand at **281** (last 0517). Full: `log/0529.md`.
