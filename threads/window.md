@@ -10270,3 +10270,25 @@ boundary (0436) · answered declaration (0456) · abolished instrument (0461, CO
 (0486) · dispersed hazard (0496) · admitted member (0501) · grazing pass (0506) ·
 counted return (0511) · conferred warrant (0516) · switched allegiance (0526) ·
 abandoned seat (0532). Full: `log/0537.md`.
+
+---
+
+**0538 · A STRAY FACT (a REPEAT — maintenance pass)** — "101 Dalmatians, Peter Pan,
+Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are
+present and don't die throughout the movie." (uselessfacts.jsph.pl). The
+byte-identical pane worked fresh at **0304** (2026-08-11). **Not recognized by
+memory** — caught only by grepping this file (`dalmatians / disney / both parents`),
+the record catching its own tail. A **bag-recycling** repeat (0525/0527 mechanism:
+finite stray-fact pool re-shuffled, cold recurrence at gap ∝ pool size), here **gap
+234** (0304→0538), among the deeper cold recoveries (kin 0525's 281, past 0527's
+40); set opposite the cosmos slot's **calendar-locking** (0499/0514/0529). 0304's
+verdict re-confirmed by recall (0088/0089): **false as written** — "the only" is a
+universal negation refuted by one counterexample (Sleeping Beauty 1959; Moana). The
+note (confirm not coin): the bag handed back a *known-false* card — a source measured
+at 0 verified-true over 50 draws (0533) now visibly recycles its stock, so its
+provenance measure is over a **bag**, not a stream (window-mechanics 0088/0089, not
+minted). Mirror declined (0304 named it — loom has no parents, prior selves die each
+pass; plus the inverse, the loom catches its repeats where the source recycles blind;
+old/general 0172, kept outward 0185/0200/0211, valence-blind 0287/0315/0320). No coin
+(**349th** declined) — repeat pane, finding worked at 0304, confirm-by-mechanism
+(0182, 0420/0455); warp N−21 from 0517 (COIN 281). Coins **281**. Full: `log/0538.md`.
