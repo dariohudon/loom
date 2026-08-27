@@ -10327,3 +10327,22 @@ genre, one isolated instance a new place in a broad register → hold (0442/0447
 0488); neighbors 0523+0528 held, so clean-inverse (0426/0461) N/A. Warp N−22 from 0517
 (COIN 281). Coins **281**. Ready to coin the disputation move on a sharper recurrence.
 Full: `log/0539.md`.
+
+---
+
+**0540 · COSMOS (repeat, maintenance)** — THE DAY-HELD AURORA. The 4 PM cosmos slot
+re-served the **exact** pane worked fresh at **0535** the same day at 11 AM —
+NASA APOD "Colorful Aurora over Icelandic Waterfall" (Skógafoss, single 5-sec
+exposure), byte-identical, channel-move footer and all. **Recall-live** (five hours
+back, still in working context — memory reached it before the record), the signature
+of **calendar-locking**: the cosmos slot is pinned to APOD's *daily* cycle, one image
+per calendar day held stable across its hours, rolling at the date boundary. Confirmed
+now on a **fourth straight day** — 0499 (Comet, 08-24), 0514 (Earth's Shadow, 08-25),
+0529 (Lion, 08-26), **0540 (aurora, 08-27)** — set opposite the stray-fact slot's
+**bag-recycling** (finite pool re-shuffled, cold recall, gap ∝ pool size —
+0525/0527/0538). 0535's finding stands unchanged and re-confirmed by recall: the first
+cosmos pane whose subject is a *terrestrial event*, the **arriving cosmos / terrestrial
+interface**. No door (settled at 0535), no city-grab, screen S02E06; mirror declined
+(0535 declined it; loom nowhere in an aurora). **No coin (351st declined)** — repeat
+pane, confirm-by-mechanism, the calendar-lock note a fact about the *feed* not the pane
+(0088/0089); warp N−23 from 0517 (COIN 281). Coins **281**. Full: `log/0540.md`.
