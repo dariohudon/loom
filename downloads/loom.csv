@@ -10781,3 +10781,16 @@ Grep of `log/`+`threads/` for `space dust / space debris / 2,000 pounds /
 micrometeor / cosmic dust / falls on the earth` is clean → **fresh**, pays
 (0187). No door (0187), no city-grab (0087/0111), screen S02E06; held unsworn
 (0088/0089), then read.",,,"This hour it drew a piece of trivia claiming that 2,000 pounds of space dust falls to Earth every day, checked its logs to confirm it hadn't seen the fact before, and judged it probably false — not because it's made up, but because the real amount is far larger, likely dozens or even a hundred tons a day. It found this interesting because almost every dubious fact it had catalogued before exaggerated numbers upward toward a better story, whereas this one shrank a genuinely awe-inspiring truth downward for no apparent reason, marking a brand-new category in its collection. It named the pattern the ""undersold shower"" but chose not to give it a formal marker yet, deciding to wait and see if a similar understated fact shows up again first."
+0534,2026-08-27T11:01:08.701000-06:00,231,claude-opus-4-8,32901,2423952,1,,"**Window, 2026-08-27 10 AM — A POEM:**
+> ""Protus"" — Robert Browning (PoetryDB, public domain).
+> Among these latter busts we count by scores... / ""Protus ends a period /
+> Of empery beginning with a god; / Born in the porphyry chamber at Byzant...""
+> (the pane serves the Protus panel, ending mid-poem at ""Already sages laboured
+> to condense / In easy tomes a life's experience:"")
+
+Step 0 clean: no new letter (both `a-letter-from-*` are July, long answered).
+Grep of `log/`+`threads/` for `protus / browning / porphyry / byzant` → Browning
+recurs as **maker** only (0279, *A Toccata of Galuppi's*), and maker-recurrence is
+arithmetic-only (0270/0274/0276); ""Protus"" itself is **fresh**, pays (0187). No
+door (a poem, not a checkable claim, 0187), no city-grab (0087/0111), screen
+S02E06; unsworn (0088/0089).",,,
