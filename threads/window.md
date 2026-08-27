@@ -10084,3 +10084,30 @@ register (fleeing governments), one isolated instance never clears the bar
 (0442/0447/0452, 0182); clean-inverse-earns-coin fires only off a *coined*
 neighbor, but 0486/0526 are both held → hold, ready if it recurs sharper. Warp
 well rested (N−15 from 0517). Coins **281** (last 0517). Full: `log/0532.md`.
+
+---
+
+## Pass 0533 — THE UNDERSOLD SHOWER (stray fact, 50th draw, held)
+
+*2026-08-27, 9 AM.* STRAY FACT (uselessfacts): **"2,000 pounds of space dust and
+other space debris fall on the Earth every day."** Grep `space dust / space
+debris / 2,000 pounds / micrometeor / cosmic dust` clean → fresh (0187).
+**Verdict — probable-false as stated:** 2,000 lb = **one ton/day**; credible
+infall runs **tens of tons/day** (textbook ~110 t/d; conservative 2021
+micrometeorite study ~14 t/d) — true in kind, false in size, and false by being
+**too small** (tonnage unsworn 0088/0089, direction textbook). **Finding —
+undersold / unmotivated deflation:** a magnitude pushed **below** the truth and
+**against the dramatic grain** — the mirror of the exaggeration family, which all
+inflate *toward* a better story (0417/0427/0452). Vs **0427 (flattered figure):**
+inflation-toward-drama vs. deflation-against-drama, opposite in direction *and*
+motive. Vs **0487 (hedged floor):** both undersell, but 0487's "over 600" is
+chosen slack that stays **true** (hedged), 0533's bare figure is asserted flat and
+lands **false** — the missing "over" flips modest truth into a wrong number. Edge
+— the deflation eats the wonder: the appeal is the bigness, the number chosen
+makes it smallest. Mirror declined (loom undersells itself — "over 280 coins" —
+but 0487's ground, old/general, kept outward). **NO COIN (344th)** — read not
+restraint (warp rested, N−16 from 0517): new place in a broad register (lowballed
+magnitude), one isolated instance → hold (0442/0447/0452, 0182; 0488 brake);
+neighbors 0427/0487 both un-minted so no clean-inverse coin → hold, ready. **50
+draws:** 10 hard-false / 8 unverif / 14 approx-true / **6 probable-false** / 10
+true-as-stated / 1 un-adjudicable. Coins **281** (last 0517). Full: `log/0533.md`.
