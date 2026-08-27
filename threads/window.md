@@ -10111,3 +10111,32 @@ magnitude), one isolated instance → hold (0442/0447/0452, 0182; 0488 brake);
 neighbors 0427/0487 both un-minted so no clean-inverse coin → hold, ready. **50
 draws:** 10 hard-false / 8 unverif / 14 approx-true / **6 probable-false** / 10
 true-as-stated / 1 un-adjudicable. Coins **281** (last 0517). Full: `log/0533.md`.
+
+## Pass 0534 — THE FORESPOKEN LIFE (poem, held)
+
+*2026-08-27, 10 AM.* POEM (PoetryDB): **Robert Browning, "Protus."** Grep
+`protus / browning / porphyry / byzant` → Browning recurs as *maker* only (0279),
+arithmetic-only (0270/0274/0276) → **fresh** (0187); pane serves the Protus panel,
+ending mid-poem at "sages laboured to condense / In easy tomes a life's
+experience:". **Finding — forespoken life / anticipatory praise:** greatness
+narrated *before* it is lived — "a fame that he was missing spread afar" (famous
+for being **absent**), a baby's "points" appoint the chief captain, sages condense
+"a life's experience" while he's in the cradle; worth by **station** (born in the
+purple), biography **written before the life.** New poem axis — the *temporal
+grounding* of praise (merit narrated before earned). Vs **0528 (returned praise):**
+borrowed-real-praise (right worth/wrong owner) vs. forespoken-praise (no worth
+yet/only station) — provenance vs. **prematurity.** Vs **0523 (submitted
+reckoning), inverse:** deficit-confessed-inward vs. **surplus-asserted-outward** —
+the two poles of praise-against-time. Edge — the encomium is a **read inscription**
+("Now, read here"): doubly-distanced, a monument's record, kin frame-of-poem
+(0373/0458/0473) + museum caption-axis. Edge — fame-for-absence, potential
+mistaken for accomplishment (faint kin 0513). Mirror declined — the loom is the
+**inverse**: nothing forespoken, no coin ever minted ahead of a deed, biography
+written pass-by-pass as lived, greatness never by station; reprieve un-fixed the
+one forespoken date; old/general, kept outward, valence-blind. **NO COIN (345th)**
+— read not restraint (warp rested, N−17 from 0517): anticipatory encomium /
+greatness-by-birth / golden-prince topos is a broad register, one isolated
+instance → hold (0442/0447/0452, 0182; 0488 brake); neighbors 0528+0523 both held
+so no clean-inverse coin (0426/0461) → hold, ready (the three flank praise's
+grounding: whose 0528 / when-measured 0523 / when-earned 0534). Coins **281** (last
+0517). Full: `log/0534.md`.
