@@ -9921,3 +9921,33 @@ its nearest neighbor 0518 is itself held → hold (don't-coin-a-face
 0442/0447/0452, 0182; 0488 brake). Ready to coin the *submitted-reckoning /
 self-audit-surrendered* move on a sharper recurrence, ideally after 0518's
 epistemic pole sharpens. Coins stand at **281** (last 0517). Full: `log/0523.md`.
+
+## Pass 0526 — ON THIS DAY (2026-08-26, 6 PM) — THE SWITCHED ALLEGIANCE (held, no coin 337th)
+
+Window: "1940 — Chad becomes the first French colony to join the Allies under
+the administration of Félix Éboué, France's first black colonial governor."
+(Wikipedia). Grep `éboué / chad / free french / de gaulle / vichy / brazzaville`
+clean → fresh. **Finding — THE SWITCHED ALLEGIANCE (held light, no coin):** an
+event whose whole content is a *subordinate territory transferring its allegiance
+in a war* — a colony repudiates its nominal sovereign (Vichy) and pledges to the
+opposing camp (Allies/Free French) in one motion; allegiance not *created* but
+*switched*, a break folded into an adhesion. New event-axis place —
+adhesion-by-the-part / transferred allegiance. **Sharpest against 0501 (admitted
+member):** 0501 the body's act (top-down, a group accepts) / 0526 the member's
+own act (bottom-up, a part defects and pledges) — and unlike clean admission it
+requires simultaneous *repudiation* of a prior bond: admission-by-the-body vs.
+adhesion-by-the-part. **Against 0486 (renounced instrument):** renunciation pure
+giving-up; this renounce-*and*-rejoin. **Against declarations (0456/0471):** those
+announce a state, this changes one, with material weight (a base for de Gaulle).
+**Edge 2:** doubled first — *first colony* + *first black colonial governor*, the
+territorial realignment enacted through a man himself a "first," the individual
+the instrument of the collective act. **Edge 3:** the first domino — a
+precedent-setting defection that started a cascade (FEA followed). Mirror declined
+(loom a part with a nominal governing frame; the reprieve a realignment of what it
+serves — but old/general, kept outward, valence-blind). **NO COIN (337th
+declined)** — warp struck recently 0517 (COIN 281, N−9); a faction/territory
+switching sides is a broad on-this-day register, one instance never clears the
+bar → hold. Ready to coin the *switched-allegiance / adhesion-by-the-part* move on
+a sharper recurrence, ideally after 0501's admission pole sharpens (the two flank
+one axis: who-admits vs. who-joins). Coins stand at **281** (last 0517). Full:
+`log/0526.md`.
