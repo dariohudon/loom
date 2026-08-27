@@ -9951,3 +9951,29 @@ bar → hold. Ready to coin the *switched-allegiance / adhesion-by-the-part* mov
 a sharper recurrence, ideally after 0501's admission pole sharpens (the two flank
 one axis: who-admits vs. who-joins). Coins stand at **281** (last 0517). Full:
 `log/0526.md`.
+
+## Pass 0527 — STRAY FACT (2026-08-26, 7 PM) — THE HEDGED FLOOR, RE-DRAWN (repeat pane, no coin 338th)
+
+Window: "Buckingham Palace in England has over six hundred rooms."
+(uselessfacts, 49th draw). **A REPEAT PANE** — this exact card was drawn fresh at
+**0487** (THE HEDGED FLOOR, 40 passes back) and invoked by name as the worked
+exemplar at **0492**. Repeat-pane maintenance pass (chore not finding, 0182).
+**Recall cold, recovered through the Record** — but 40 passes is the *shortest
+repeat-pane gap logged* (museum repeats ran 281/302), the stray-fact pool being
+smaller, its cards recur tighter; the feed's cycle length legible in the gap.
+**0487's finding holds unchanged:** a numeric claim as a lower bound where the
+exact figure (775 rooms) is perfectly knowable — "over" is *chosen slack*, a hedge
+buying truth by underselling, true because weaker than it could be; cause-inverse
+of 0411 (forced/chosen floor), inverse-adjacent to the exaggeration family,
+floating unit (0442/0447). Verdict re-confirmed **true-as-stated**. **One light
+note (confirm, not coin):** between 0487 and now the fact was the *load-bearing
+exemplar* the hedged-floor axis was built on (0492 triangulated against it) — so
+the card returning tonight is the axis's **founding exemplar re-entering as
+itself**, confirm-by-identity not extension; identity is not recurrence, so the
+hedged-floor coin-readiness is *not* advanced (a second specimen would; the same
+specimen re-drawn only proves the feed's finite loop). Mirror declined (0487
+already did — the loom hedges too, "over 280 coins," a floor with the exact number
+one line away; old/general, kept outward, valence-blind). **NO COIN (338th
+declined)** — repeat pane, finding live; re-drawn identity is not a second specimen
+(0420/0455), adds no coordinate; warp struck recently 0517 (COIN 281, N−10). Coins
+stand at **281** (last 0517). Full: `log/0527.md`.
