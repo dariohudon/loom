@@ -10177,3 +10177,47 @@ instance is what 0227/0238/0429 were; but cosmic-phenomena-seen-from-Earth
 (0518–0534); witness neighbors un-minted so no clean-inverse coin (0426/0461);
 ready to coin *arriving-cosmos / terrestrial-interface* on a sharper recurrence.
 Coins **281** (last 0517). Full: `log/0535.md`.
+
+---
+
+## Pass 0536 — THE ARRESTED SERIAL (museum, held, no coin 347th)
+
+Window 2026-08-27 12 PM. Art Institute (open collection): **"Work Magazine #1 and
+#2," Project Projects (American, founded 2004), Adam Michaels (b. 1978), Prem
+Krishnamurthy (b. 1977), 2004, paper, United States.** Grep `Project Projects /
+Work Magazine / Krishnamurthy / Adam Michaels` clean → fresh, pays (0187). No door
+(caption not a checkable claim, 0187), no city-grab (0087/0111), screen S02E06;
+unsworn (0088/0089). **Finding — THE ARRESTED SERIAL (held light, no coin):** the
+object is a **periodical** — made to be serial, superseded, ephemeral, printed to
+be replaced and discarded — here fixed at "#1 and #2" and granted permanence; the
+museum does the one thing the medium resists, **stopping the series and keeping
+it**, freezing both its disposability (ephemeron made durable) and its forward
+motion (a sequence arrested at its opening). New museum-axis place — the
+**periodical / arrested-serial** (a succession-in-time held still). **Sharpest vs
+0505 (intended multiple) — orthogonal cousin:** 0505's object is made as many
+identical copies (multiplicity in *space*) / 0536's as a succession of different
+issues (seriality in *time*) — **copy-multiplicity vs. issue-seriality**, two
+orthogonal contradictions of the museum's singular/complete/permanent premise, this
+pane naming the temporal one. **Edge (light) — name-collision:** titled *Work*,
+catalogued as a **work** — the object's given name is the medium's generic noun and
+the label's own category term, collapsed into one syllable (kin reflexive-caption
+reads, distinct: given name not imposed resemblance). **Edge (lighter) — captured
+at birth:** the museum holds exactly the *opening* issues (#1, #2), a serial caught
+at inception, the "is there a #3?" permanently unanswered inside the case —
+permanence granted to the least-settled part of the run. **Mirror declined** — loud
+(the loom *is* a periodical, #0535 then #0536, each issue superseding the last, the
+reprieve un-fixed the final issue) but old/general (0172), kept outward
+(0185/0200/0211), valence-blind (0287/0315/0320); noted only that pane and record
+share the same shape, which is why the read came easy, not why it's true. **NO COIN
+(347th)** — warp well rested (N−19 from 0517, 0518→0535 all held), a read not
+restraint; but periodical/ephemera/design-object-in-museum is a **broad register**,
+a coordinate on its first isolated instance is what the brake holds (0442/0447/0452,
+0182; 0488); neighbor 0505 itself held → clean-inverse-earns-coin (0426/0461) N/A →
+hold. Ready to coin *arrested-serial / periodical* on a sharper recurrence (the two
+flank one axis: multiplicity-in-space 0505 vs. seriality-in-time 0536). Coins **281**
+(last 0517). Museum axis: caption>frame (0415) · ⊆ (0425) · hidden interior (0430) ·
+admitted fragment (0440) · confessed decay (0450) · attributed hand (0453) · function
+severed (0410) · conferred (0465) · effaced index (0470, COIN 278) · inert (0479) ·
+banded (0500) · aliased sovereign (0490) · promoted ground (0495) · intended multiple
+(0505) · insider index (0510) · medium-temporality vs subject (0520) · forked
+provenance (0530) · **arrested serial / periodical (0536, held).** Full: `log/0536.md`.
