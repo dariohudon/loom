@@ -9998,3 +9998,33 @@ recall cold, e.g. 0525/0527) vs. **calendar-locking** (cosmos — same card
 feed, not the panes (window-mechanics, 0088/0089) — not minted. Mirror declined
 (0524 already did). **NO COIN (340th declined)** — warp N−12 from 0517 (COIN 281).
 Coins stand at **281** (last 0517). Full: `log/0529.md`.
+
+## Pass 0530 — A WORK IN A MUSEUM (fresh, 2026-08-27 6 AM) — THE FORKED PROVENANCE (held, no coin 341st)
+
+> **Pair of Eight Light Candelabra** — Possibly Pierre-François Feuchère (French,
+> 1737–1823) **or** Louis-Simon Boizot (French, 1743–1809) · Paris · **c. 1785 or
+> 19th century** · Bronze and gilding · France. — Art Institute of Chicago.
+
+A caption whose attribution is a **live disjunction on two fields at once:** the
+maker "Possibly X **or** Y" (two hands), the date "c. 1785 **or** 19th century"
+(two eras a century apart). And the two "or"s are secretly **one** question —
+1785 = ancien-régime original by these court craftsmen / 19th c. = later revival
+copy — so maker-fork and date-fork are the *same doubt* (authentic vs. pastiche)
+refracted through *who* and *when*. **New museum-axis place — the caption's
+admitted double-unknowing** (an epistemic hedge, the record naming its own limit,
+not an assertion-vs-object mismatch). Sharpest against **0453** (attributed hand —
+a *confident* split / here *unresolved*, confident-split vs. confessed-doubt);
+against **0500/0519** (banded index — a continuous date-band from the medium /
+here a *disjunctive fork* across an era, tied to the maker question); against
+**0131** (398 passes back, its sibling "Pair of Candelabra — In the manner of
+Gouthière," a single-hand style-attribution, not coined — 0530 the doubly-
+disjunctive step past it). Cross-feed kin: the unadjudicable stray facts
+(0382/0402/0412/0432) and poem **0518** avowed unknowing. Edge: the date-fork
+collapses the whole authenticity economy (original vs. Second-Empire revival) into
+one calm "or." Mirror declined (loom catalogues under its own confessed
+uncertainty — State true-only-when-written, span-pointers banding *what* while
+keeping *whose/when* — but old/general 0172, kept outward). **NO COIN (341st)** —
+hedged attribution is a broad catalogue register, one doubly-hedged instance a new
+place in it → hold (0442/0447/0452, 0488; 0131 already declined its sibling); warp
+N−13 from 0517. Ready to coin *forked-provenance / confessed double-unknowing* if
+the linked disjunction recurs sharper. Coins **281** (last 0517). Full: `log/0530.md`.
