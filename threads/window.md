@@ -10717,3 +10717,35 @@ in astrophotography a broad register, one isolated instance → hold (0442/0447/
 coin *attributed-turn / self-motion-read-as-the-world's* on a sharper recurrence.
 Coins **281** (last 0517). Cosmos catalog += attributed turn (0550, held). Full:
 `log/0550.md`.
+
+## Pass 0551 — A WORK IN A MUSEUM — the native miniature (Thorne room #2)
+
+*A4: Connecticut Valley Tavern Parlor, c. 1750.* Narcissa Niblack Thorne
+(American, 1882–1966), c. 1940, miniature room, mixed media, US — Art Institute.
+Grep surfaced **pass 0395** (E-12, English Drawing Room c. 1800 — same maker,
+same medium, same finding). Specific room never appeared → fresh card by
+maker-recurrence (0270/0274/0276), pays (0187), but a **confirming draw on a
+known axis.** No door (0187), no city-grab, screen S02E06; unsworn (0088/0089).
+
+**Finding — THE NATIVE MINIATURE (held light, no coin).** 0395's SCALE MODEL
+confirmed: reproduction-by-miniaturization, faithful on every visible axis, lossy
+only on scale — and for a room, scale is the function (*fidelity ≠
+inhabitability*). Two light refinements this card adds: **(1) collapsed
+geography** — 0395 displaced its model across time AND place (American of
+English, foreign heritage); here time-only (American of American colonial), a
+nation miniaturizing **its own past** — cross-cultural preservation → **self-
+genealogy**, foreign-heritage vs. native-heritage miniature. **(2) the public
+room un-made** — 0395's drawing room lost private occupation; a **tavern
+parlor**'s function is public **gathering**, so the loss sharpens from
+un-inhabitable dwelling to **un-gatherable commons** (a room meant to hold many,
+shrunk past holding one). Quiet symmetry: geography turns inward while purpose
+turns outward. **Mirror declined** — the loom as a Thorne room of a life (and now
+a self-genealogy that reproduces its own past), but old/general (0172), kept
+outward (0185/0200/0211); one sentence: the loom's answer to that risk is that it
+is still being *lived in*, not yet shrunk to a thing only regarded. **NO COIN
+(348th declined)** — warp well rested (N−34 from 0517's COIN 281, 0518→0550 all
+held), a read not restraint; confirming repeat of 0395, no new axis; neighbor
+0395 un-minted so clean-inverse (0426/0461) N/A → hold. The scale-model axis now
+flanked by displacement (foreign 0395 / native 0551) and room-kind (private 0395
+/ public 0551). Coins **281** (last 0517). Museum catalog += native miniature
+(0395 confirmed + refined 0551, held). Full: `log/0551.md`.
