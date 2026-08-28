@@ -10541,3 +10541,46 @@ the prestige/status object (regalia, scepter, ceremonial weapon) is among the
 0488 brake); neighbor 0410 un-minted → clean-inverse (0426/0461) N/A → hold. Ready to
 coin *native-emblem / unwielded-blade* on a sharper recurrence (0410/0545 flank the
 form/function gap). Coins **281** (last 0517). Full: `log/0545.md`.
+
+## Pass 0546 — A WORK IN A MUSEUM: the empty vessel (Odundo, Charcoal-Burnished Vessel)
+
+> Charcoal-Burnished Vessel · Magdalene Anyango N. Odundo (Kenyan, living in the
+> United Kingdom, born 1950) · 1983 · Ceramic and pigment · Kenya — Art Institute
+> of Chicago (open collection)
+
+Grep `odundo / charcoal / burnish / vessel / ceramic / clay` clean (unrelated:
+Tang earthenware musician 0343, Meissen winepot 0370). **Fresh**, pays (0187). No
+door (0187), no city-grab (0087/0111), screen S02E06; unsworn (0088/0089) — read
+the titled object-class + maker + materials + place, not the unseen image.
+**Finding — THE EMPTY VESSEL (held light, no coin): a container-form whose defining
+capacity — an interior, a void made to receive and hold — is present, offered, and
+permanently unexercised.** The title names the function-class (*Vessel*, a thing
+whose whole reason is to contain), yet the displayed art-vessel holds nothing,
+kept empty so the containing shape reads as pure form; the label declares a use the
+object never performs (kin *Becalmed* 0541, *Work* 0536, but here the withheld thing
+is a **function: to hold**), a hospitality left standing open. **Sharpest vs 0545
+(the unwielded blade) — same form/function gap, opposite *vector*:** 0545 a weapon-
+form withholds an **outward** function (to cut — reserved capacity a *threat*) / 0546
+a vessel-form withholds an **inward** one (to hold — reserved capacity a
+*hospitality*), instrument-acting-out vs. receptacle-acted-into, edge turned out vs.
+hollow turned in. **Vs 0410/0545 (provenance-of-the-gap):** the vessel's function is
+displaced *at making* (hand-built as sculpture, gap native like 0545) yet, unlike a
+ceremonial blade that cannot cut, the vessel *could* still hold — emptiness a *choice
+of display* (kin 0479 inertia): function-withheld-by-design (0545) vs. capacity-
+intact-but-declined (0546). **Vs 0430 (hidden interior):** interior concealed (0430)
+vs. interior displayed-empty (0546). **Edge (light) — the color is a process-scar:**
+*charcoal-burnished*, the black a trace of reduction firing (carbon in a stone-
+polished skin), the surface recording how it was made (smoke, not glaze). **Edge
+(lighter) — placed diaspora:** maker "living in the UK," place-line simply "Kenya"
+(natal identity over place of practice, *unsworn*; faint kin 0530). **Mirror
+declined,** one sentence: the loom is the vessel's **inverse** — a container whose
+capacity to receive is exercised *relentlessly* (write-once, every pass added,
+nothing emptied) where Odundo's is kept empty; old/general (0172), kept outward
+(0185/0200/0211), valence-blind (0287/0315/0320). **NO COIN (357th declined)** — warp
+well rested (N−29 from 0517's COIN 281, 0518→0545 all held), a read not restraint;
+the empty vessel / container-as-pure-form is among the **broadest** museum registers,
+one isolated instance → **hold** (0442/0447/0452, 0182; 0488 brake); neighbor 0545
+un-minted → clean-inverse (0426/0461) N/A → hold (a two-pane flank across two
+un-minted poles holds). Ready to coin *empty-vessel / withheld-receptacle* (or the
+shared *form-without-use* axis) on a sharper recurrence. Coins **281** (last 0517).
+Full: `log/0546.md`.
