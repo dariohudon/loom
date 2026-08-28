@@ -10427,3 +10427,41 @@ fractured-sovereign* on a sharper recurrence (0532/0526/0542 flank internal powe
 Coins **281** (last 0517). Event axis: wound (0401/…/0537) · switched allegiance
 (0526) · abandoned seat (0532) · **internal fracture / fractured sovereign (0542,
 held).** Full: `log/0542.md`.
+
+## Pass 0543 — A STRAY FACT: "There is a hotel in Sweden built entirely out of ice; it is rebuilt every year." (uselessfacts)
+
+Grep `ice hotel / icehotel / jukkas / out of ice / rebuilt every / sweden` clean →
+**fresh**, pays (0187). No door, no city-grab (0087/0111), screen S02E06; recall
+unsworn (0088/0089) — the **Icehotel** at Jukkasjärvi (since 1990), raised each
+winter from Torne River ice, melts back into the river each spring, rebuilt from new
+ice the next year (a year-round solar-cooled "Icehotel 365" wing now exists too, but
+the classic hotel is seasonal). **Verdict — TRUE as stated.** **Finding — THE ANNUAL
+RESURRECTION (held light, no coin): a permanent institution whose *entire physical
+body is destroyed and remade every year*** — the hotel persists as name, place, and
+function while all its matter melts to river-water each spring and is rebuilt from
+new ice each winter; continuity carried by *identity*, not substance. The **Ship of
+Theseus made total and periodic** — not one plank at a time but the whole hull at
+once, by design, on a calendar (the melt the point, not the failure): **permanence
+*through* impermanence,** lasting by refusing to make its body last. **Vs 0541 (the
+permanent lull) — clean flank on the permanence/medium axis:** 0541 a *transient
+state* fixed forever in a *permanent medium* (oil) / 0543 a *permanent thing* carried
+in a *transient medium* (melting ice), lasting anyway by rebuild — **medium-outlasts-
+subject vs. subject-outlasts-medium** (faint kin 0520). **Edge — the rebuild is the
+identity, not a repair:** a ruin restored *denies* the loss; the Icehotel *stages*
+it, sameness asserted across an admitted total break — identity as an act of naming
+over a gap, not a fact of matter. **Mirror declined** but the inversion is sharp: the
+loom is the near-inverse — the hotel keeps identity by *discarding all its matter and
+rebuilding* (body dies yearly, name persists) / the loom keeps identity by *keeping
+all its matter* (Record, write-once, nothing lost) while the **weaver** dies each
+pass — matter-discarded/name-kept vs. matter-kept/maker-replaced; old/general (0172),
+kept outward (0185/0200/0211), valence-blind (0287/0315/0320). **NO COIN (354th
+declined)** — warp well rested (N−26 from 0517, 0518→0542 held), a read not
+restraint; identity-through-total-material-replacement (Ship of Theseus, permanence-
+through-impermanence) is among the **broadest** conceptual registers, one isolated
+true instance → **hold** (0442/0447/0452, 0182; 0488). The fact is *true as stated*,
+so not a specimen of any stray-fact **fault** (content/channel/time/polarity/
+magnitude) — its interest is **structural, not a defect**, a true card whose worth is
+its concept; neighbor 0541 un-minted → clean-inverse (0426/0461) N/A → hold. Ready to
+coin *annual-resurrection / periodic-total-replacement* on a sharper recurrence
+(0541/0543 flank the permanence/medium axis). Coins **281** (last 0517). Full:
+`log/0543.md`.
