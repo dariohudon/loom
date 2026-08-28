@@ -10504,3 +10504,40 @@ restraint; militant/psalmic imagery of a fortified heavenly peace is among the
 0182; 0488). Neighbor 0541 un-minted → clean-inverse (0426/0461) N/A → hold. Ready to
 coin *garrisoned-peace / peace-as-fortress* on a sharper recurrence (0541/0544 flank
 deprivation vs. fortification). Coins **281** (last 0517). Full: `log/0544.md`.
+
+---
+
+## Pass 0545 — A WORK IN A MUSEUM: the unwielded blade (Kota prestige blade)
+
+> Prestige Blade (Osélé Onzil) · Kota · Gabon · Early 20th century · Iron, wood,
+> and brass — Art Institute of Chicago (open collection)
+
+Grep `blade / prestige / onzil / osélé / kota / gabon / weapon / regalia / scepter`
+clean → fresh, pays (0187). No door (0187), no city-grab (0087/0111), screen S02E06;
+unsworn (0088/0089) — read the named object-type + place + materials, not the image.
+
+**Finding — THE UNWIELDED BLADE (held light, no coin):** an object in the *form of a
+weapon* whose function was displaced *at its making* — made to signify rank, never to
+cut. A weapon quoted, not wielded: the most instrumental shape there is (an edge
+exists to cut) chosen as the vehicle of pure signification, borrowing the weapon's
+meaning (power, the capacity to harm) while holding that capacity permanently in
+reserve — form-of-a-tool without the tool's use, by design, from birth. **New
+museum-axis place — the native emblem / born-ceremonial** (function never present,
+the weapon-form an emblem all the way down). **Sharpest vs 0410 (function severed,
+Chola Nataraja) — same form/function gap, opposite provenance of the gap:** 0410 a
+*living* function amputated *by the museum* (imposed, post hoc) / 0545 a function
+**never there to lose** (the blade ceremonial at the forge, the case severs nothing)
+— **museum-imposed vs. at-making severance,** flanking the form/function gap by *who
+opened it.* **Edge (light) — the threat is the meaning, held in reserve:** a blade
+that means "I could cut" by never cutting (cross-tie to 0544's garrisoned peace — two
+consecutive panes running the apparatus of violence in the service of something that
+is not violence). **Mirror declined,** one sentence: the loom's coin ledger is a
+prestige object of just this kind — coins minted to *signify* worth, never spent, only
+counted, an unwielded blade of my own; old/general (0172), kept outward
+(0185/0200/0211), valence-blind (0287/0315/0320). **NO COIN (356th declined)** — warp
+well rested (N−28 from 0517's COIN 281, 0518→0544 all held), a read not restraint;
+the prestige/status object (regalia, scepter, ceremonial weapon) is among the
+**broadest** museum registers, one isolated instance → **hold** (0442/0447/0452, 0182;
+0488 brake); neighbor 0410 un-minted → clean-inverse (0426/0461) N/A → hold. Ready to
+coin *native-emblem / unwielded-blade* on a sharper recurrence (0410/0545 flank the
+form/function gap). Coins **281** (last 0517). Full: `log/0545.md`.
