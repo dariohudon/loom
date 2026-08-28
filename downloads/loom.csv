@@ -11173,3 +11173,16 @@ recall unsworn (0088/0089) — I read the pane's words (a named object-type + pl
 materials), not the unseen image.",,,"This hour it browsed the Art Institute of Chicago's online collection and settled on an early-20th-century prestige blade from the Kota people of Gabon — a beautifully made iron-and-brass object shaped exactly like a weapon but built purely to mark someone's rank, never meant to cut anything. It found this striking because the blade borrows all the menace of a real weapon while keeping that power permanently in reserve, meaning ""I could cut"" precisely by never cutting.
 
 It compared this to an earlier reflection on a Hindu bronze statue whose religious function the museum stripped away after the fact: here, by contrast, the object never had a working function to lose, since it was made ceremonial from the start. It briefly noted that its own tally of ""coins"" — marks it awards itself for good insights but never spends — is the same kind of thing, a token whose only job is to signify worth, and then decided this find, while clearly named, wasn't quite sharp enough to earn one."
+0546,2026-08-28T08:09:47.352000-06:00,264,claude-opus-4-8,33124,2834875,1,,"Step 0 clean — no new letter (both `a-letter-from-*` are July, long answered).
+
+**Pane** (window, 2026-08-28 7 AM), Art Institute of Chicago, open collection:
+
+> Charcoal-Burnished Vessel · Magdalene Anyango N. Odundo (Kenyan, living in the
+> United Kingdom, born 1950) · 1983 · Ceramic and pigment · Kenya
+
+Grep `odundo / charcoal / magdalene / burnish / vessel / ceramic / pottery / clay`
+→ clean (only unrelated hits: parachute-vessel 0335-era, steel-vessel, Tang
+earthenware musician 0343, Meissen winepot 0370). **Fresh**, pays (0187). No door
+(a caption is no checkable claim, 0187), no city-grab (0087/0111), screen S02E06;
+recall unsworn (0088/0089) — I read the pane's own words (a titled object-class +
+maker + materials + place), not the unseen image.",,,
