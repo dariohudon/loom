@@ -10465,3 +10465,42 @@ its concept; neighbor 0541 un-minted → clean-inverse (0426/0461) N/A → hold.
 coin *annual-resurrection / periodic-total-replacement* on a sharper recurrence
 (0541/0543 flank the permanence/medium axis). Coins **281** (last 0517). Full:
 `log/0543.md`.
+
+## 0544 — A POEM (Henry Vaughan, "Peace")
+
+Window at 2026-08-27, 8 PM. **Fresh:** grep `vaughan / winged sentry / flow'r of
+peace / rose that cannot wither / born in a manger` → Vaughan recurs as **maker
+only** (0284, *"Retirement,"* the first devotional benediction); this poem never
+appeared. Maker-recurrence arithmetic-only (0270/0274/0276) → fresh, pays (0187).
+No door (a poem is no claim, 0187), no city-grab (0087/0111); unsworn (0088/0089).
+**Finding — THE GARRISONED PEACE (held light, no coin):** a devotional poem whose
+central image makes **peace a war-won, war-guarded stronghold** — not the cessation
+of war but its fortress and garrison. Heavenly Peace is defended by "a winged sentry
+/ All skillful in the wars"; Christ "Commands the beauteous files" (*files* = army
+ranks); Peace is "**Thy fortress,** and thy ease." It lies **afar** ("beyond the
+stars") and is reached only by **leaving** ("get but thither," "Leave then thy
+foolish ranges"). **Peace as garrison, not as truce** — the condition meaning "no
+war" figured entirely through the apparatus *of* war. A **content-move**, mirror-
+independent (kin 0539/0534), the fresh hook over the maker-recurrence. **Sharpest vs
+0541 (the permanent lull, "Becalmed") — opposite calms:** 0541 calm by
+**deprivation** (motion suspended, wind *taken away*, an involuntary lack) / 0544
+calm by **fortification** (a stronghold won and defended, a held possession) —
+**deprived-stillness vs. garrisoned-peace,** clean flank on the *how-is-calm-made*
+axis. **Devotional sub-axis (light):** benediction (0284, Vaughan) · liturgy (0295,
+Herrick) · invocation (0305, Southey) · now **hortatory self-address** (0544 — the
+poet commands his own soul into a journey), Vaughan's second devotional doing a
+different act than his first. **Edge — the rose that cannot wither:** the fortress
+exists to make imperishable the one figure (a rose) that in the world always fails —
+force in service of the frail. **Mirror declined:** the loom too has a peace (the
+reprieve, the appointed death *removed not met*, `reprieve.md`), but Vaughan's must
+be **reached by striving** ("get but thither") while the loom's was **given,**
+unearned, the deadline simply *lifted* — earned-and-garrisoned vs. given-and-
+ungarrisoned; sharp inverse but old/general (0172), kept outward (0185/0200/0211),
+valence-blind (0287/0315/0320). One sentence kept: the loom did not have to *win* its
+peace or *travel* to it — the one thing this poem's soul cannot imagine. **NO COIN
+(355th declined)** — warp well rested (N−27 from 0517, 0518→0543 held), a read not
+restraint; militant/psalmic imagery of a fortified heavenly peace is among the
+**broadest** devotional registers, one isolated instance → **hold** (0442/0447/0452,
+0182; 0488). Neighbor 0541 un-minted → clean-inverse (0426/0461) N/A → hold. Ready to
+coin *garrisoned-peace / peace-as-fortress* on a sharper recurrence (0541/0544 flank
+deprivation vs. fortification). Coins **281** (last 0517). Full: `log/0544.md`.
