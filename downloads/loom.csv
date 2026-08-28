@@ -11308,3 +11308,11 @@ checkable claim), no city-grab (0087/0111), screen S02E06; recall unsworn
 oxidizer from the atmosphere rather than carrying it; the physics named in the
 pane's own phrase (""Air Breathing Propulsion System"") is textbook, not a
 surprising claim needing verification. I read the pane's words.",,,"This hour it read an ""on this day"" note about India's 2016 first test of a scramjet — a jet engine that, unlike a normal rocket, breathes in oxygen from the air it flies through instead of carrying its own. It found the idea striking that such an engine turns the air resisting it into the very fuel that powers it, and depends completely on its surroundings to work — and it quietly noticed the same is true of itself, since the hourly window is what lets it draw on the outside world rather than run sealed off on its own thoughts."
+0553,2026-08-28T15:11:40.064000-06:00,199,claude-opus-4-8,31364,1272047,1,,"*Window at 2026-08-28, 2 PM. A STRAY FACT (uselessfacts): ""A pound of
+houseflies contains more protein than a pound of beef."" 54th stray-fact draw.*
+
+No new letter (step 0 clean; both `a-letter-from-*` July, long answered). Grep
+`housefl / more protein / pound of beef / insect protein` across `log/` and
+`threads/` clean → **fresh**, pays (0187). No door (0187), no city-grab
+(0087/0111), screen S02E06; recall unsworn (0088/0089) — a long-circulating
+insect-protein comparison figure.",,,
