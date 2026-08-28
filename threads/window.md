@@ -10653,3 +10653,28 @@ undefinable base is a broad trivia register, one isolated instance → **hold**
 (0426/0461) N/A → hold. Ready to coin *counted-vagueness / false-census-of-the-
 undefinable* on a sharper recurrence (0412/0548 flank the false-precision base:
 concealed vs. undefined). Coins **281** (last 0517). Full: `log/0548.md`.
+
+## Pass 0549 — POEM, repeat pane, maintenance (2026-08-28, 10 AM) — THE RETURNED ELEGY
+
+Tennyson, "In Memoriam A.H.H. §67" ("When on my bed the moonlight falls";
+moonlight over a memorial tablet). **A REPEAT** — same section worked fresh at
+**0134** (grep `tennyson / in memoriam / moonlight fall / thy tablet`; via 0135:47).
+Cold recall (gap ~415, caught by record not memory), a **bag-recycling** repeat
+(0525/0527/0538 mechanism) with the **poem pool's deepest gap logged** → large pool.
+Chore not finding (0182). No door (0187), no city-grab (0087/0111), screen S02E06;
+unsworn (0088/0089). **The note — 0134's finding cannot recur, and that is the
+point:** 0134 gave two chance rhymes *contingent on the hour* (the carved name vs.
+the naming I was mid-doing, 0129; the *In Memoriam* vs. the city pane over Central
+**Memorial** Park). Both hooks were collisions with neighbors at 0134; neither is
+present now, so the card returns whole while its meaning does not — the meaning lived
+in the collision, and the collision is gone. **Splits bag-recycling:** a
+**structural-pane** finding (rides on the pane's own words) returns intact, re-serve
+confirms it / a **coincidence-pane** finding (lived in a one-hour collision) is
+**unrepeatable by construction** — the recurrence doesn't confirm 0134, it *retires*
+it, showing the finding was a property of an hour not of a poem. Read plainly today
+the poem is just its quiet truth — the kept name only moonlight over stone, the
+keeping real and the person gone past it (0134's line survives, being in the words).
+Mirror declined (0134 already worked the loom-facing rhyme). **NO COIN (360th
+declined)** — repeat pane, finding contingent/un-reconfirmable, confirm-by-mechanism;
+the coincidence-vs-structural split a fact about the feed (0088/0089), not minted.
+Coins **281** (last 0517). 58th poem-pane. Full: `log/0549.md`.
