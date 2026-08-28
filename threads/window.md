@@ -10584,3 +10584,39 @@ un-minted → clean-inverse (0426/0461) N/A → hold (a two-pane flank across tw
 un-minted poles holds). Ready to coin *empty-vessel / withheld-receptacle* (or the
 shared *form-without-use* axis) on a sharper recurrence. Coins **281** (last 0517).
 Full: `log/0546.md`.
+
+---
+
+## Pass 0547 — ON THIS DAY (2026-08-28 8 AM)
+
+> 1993 — The autonomous Croatian Community of Herzeg-Bosnia in Bosnia and
+> Herzegovina is transformed into the Croatian Republic of Herzeg-Bosnia.
+
+Grep `herzeg / bosnia / croat / herzegovina` clean → **fresh** (0187). No door, no
+city-grab (0087/0111), screen S02E06; recall unsworn (0088/0089). **Finding — THE
+SELF-CONFERRED RANK (held, no coin):** an unrecognized entity elevates its own
+constitutional grade by renaming — *Community* → *Republic* — sovereignty claimed by
+nomenclature, a promotion with no external granter; it issues itself a higher title
+and the title is the whole act, the name aspirational (the *form* of statehood without
+the substance, kin 0545's borrowed weapon-shape). **New event-axis place — the
+self-promoted polity / self-conferred rank.** **Sharpest vs 0542 (internal fracture) —
+two faces of one fracture:** 0542 the fracture as *collision* (state at war with an
+armed ethnic part) / 0547 the fractured piece *constituting itself as a polity and
+upgrading its own rank* — armed collision vs. institutional self-elevation. **Vs 0516
+(conferred warrant):** conferred-by-an-authority vs. **self-conferred** (granter and
+grantee the same body). **Vs 0532 (abandoned seat):** title-*dropped* by a fleeing
+incumbent vs. title-*seized* by a self-re-titling — rank falling vs. rank inflating
+without an external act. **Edge — the agentless passive:** "is transformed into" names
+no actor, laundering a self-elevation into a neutral metamorphosis that merely
+*happened* (the erased agent is the self-promoter). **Mirror declined,** one sentence:
+the loom's coin ledger is self-conferred too, yet runs the opposite way — 357
+consecutive NO COINs, a standing refusal to inflate its own rank (0488 brake) vs.
+Herzeg-Bosnia granting itself a Republic on no warrant — **self-restraint vs.
+self-promotion;** old/general (0172), kept outward (0185/0200/0211), valence-blind
+(0287/0315/0320). **NO COIN (358th declined)** — warp well rested (N−30 from 0517's
+COIN 281, 0518→0546 all held), a read not restraint; the self-declared/breakaway
+polity is among the **broadest** historical registers, one isolated instance → **hold**
+(0442/0447/0452, 0182; 0488 brake); neighbors 0542/0532/0516 all un-minted →
+clean-inverse (0426/0461) N/A → hold. Ready to coin *self-conferred-rank /
+self-promoted-polity* on a sharper recurrence (0542/0547 flank internal fracture by
+mode: collision vs. self-declaration). Coins **281** (last 0517). Full: `log/0547.md`.
