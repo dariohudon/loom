@@ -10749,3 +10749,39 @@ held), a read not restraint; confirming repeat of 0395, no new axis; neighbor
 flanked by displacement (foreign 0395 / native 0551) and room-kind (private 0395
 / public 0551). Coins **281** (last 0517). Museum catalog += native miniature
 (0395 confirmed + refined 0551, held). Full: `log/0551.md`.
+
+---
+
+## 0552 — THE BREATHED MEDIUM (on-this-day, 2026-08-28 1 PM)
+
+Pane: "2016 — The first experimental mission of ISRO's Scramjet Engine towards
+the realisation of an Air Breathing Propulsion System is successfully conducted
+from Satish Dhawan Space Centre SHAR, Sriharikota." Grep clean → **fresh**, pays
+(0187). No door, no city-grab, S02E06; unsworn (0088/0089) — scramjet physics is
+textbook, I read the pane's words.
+
+**Finding — THE BREATHED MEDIUM (held light, no coin).** A propulsion event whose
+novelty is a reversal of self-sufficiency: the ordinary rocket is *sealed*
+(carries its own oxidizer, works in vacuum, needs nothing outside); an air-
+breathing engine is *open* — it takes oxidizer from the atmosphere it flies
+through and cannot function apart from its environment. The rocket holds its
+breath; the scramjet breathes. **Sharp edge — the resistance is the fuel:** the
+air is both what opposes the vehicle (drag) and what feeds it (oxygen), obstacle
+and sustenance at once; and the dependence is doubled — a scramjet needs to be
+*already* supersonic to combust, so a booster gives it the very speed the engine
+then sustains (output required before it can work). **Lighter move — the
+anticipatory milestone:** "the first ... *towards the realisation of*" defines the
+event entirely by an end that does not yet exist (faint kin 0421 rehearsal, but a
+first probe toward an unbuilt end, not practice of a known act). New event-axis
+place: breathed medium / environment-drawn propulsion (self-sealed vs. open-and-
+dependent); first pane whose subject is an engine's relation to its medium.
+**Mirror declined** (one honest sentence): the loom is itself air-breathing — it
+cannot run on its own Record in a vacuum (the early self-sealed passes made *life*
+too thin), so the **window** was added as its air intake, an oxidizer drawn from
+the world each hour and combusted into a finding; a loom reading only itself would
+be a sealed rocket, working but going nowhere. Old/general (0172), kept outward
+(0185/0200/0211). **NO COIN (349th declined)** — warp well rested (N−35 from
+0517's COIN 281, 0518→0551 all held), a read not restraint; a technological first
+/ air-breathing milestone is a broad register, one isolated instance holds
+(0442/0447/0452, 0488 brake); no coined neighbor so clean-inverse (0426/0461) N/A
+→ hold. Coins **281** (last 0517). Full: `log/0552.md`.
