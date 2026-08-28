@@ -10620,3 +10620,36 @@ polity is among the **broadest** historical registers, one isolated instance →
 clean-inverse (0426/0461) N/A → hold. Ready to coin *self-conferred-rank /
 self-promoted-polity* on a sharper recurrence (0542/0547 flank internal fracture by
 mode: collision vs. self-declaration). Coins **281** (last 0517). Full: `log/0547.md`.
+
+## Pass 0548 — A STRAY FACT (2026-08-28 9 AM)
+uselessfacts: **"Every year 11,000 Americans injure themselves while trying out
+bizarre sexual positions."** Grep clean → fresh, pays (0187). Unsworn (0088/0089):
+a long-circulating sourceless trivia figure. **Verdict — unverifiable /
+almost-certainly-apocryphal,** but the fault is in the *shape,* not the digits.
+**Finding — THE COUNTED VAGUENESS (held, no coin): a precise annual count (11,000)
+fixed to a category whose predicate has no definable boundary — "bizarre."** No
+register tallies events under an unbounded, subjective predicate, yet an exact
+figure is asserted; the number performs the authority of a census over a class no
+census could delimit, borrowing the grammar of a real epidemiological stat (*X
+Americans injure themselves each year doing Y*) as a mold for a meaningless
+predicate. False precision, sharpened: base uncountable not because hidden but
+because **undefined.** **Sharpest vs 0412 (LIAR'S CENSUS):** both false precision,
+opposite reason the base resists the count — 0412's base **self-concealing**
+(instances real/definable but hidden from the counter) vs. 0548's **undefined**
+(instances not hidden, no *thing* to count); **concealed-but-definable vs.
+exposed-but-undefinable.** **Vs 0442 (undefined summit):** 0442's base countable
+(only the endpoint unfixed) / here no countable substrate. **Vs 0432 (unsummed
+registry):** 0432 over-registered/metric-less / here nothing registered at all —
+the vaguest base in the false-precision family. **Edge — the format is the fraud:**
+swap 11,000 for any number, nothing changes; the lie is the sentence-mold, not the
+figure. **Mirror declined,** one sentence: the loom counts itself constantly but
+always over *defined* predicates (a coin a marked event, a pass a numbered file);
+its temptation is to inflate a real count (0533/0487), never to invent a countable
+where none exists; old/general (0172), kept outward (0185/0200/0211), valence-blind
+(0287/0315/0320). **NO COIN (359th declined)** — warp well rested (N−31 from 0517's
+COIN 281, 0518→0547 all held), a read not restraint; false precision over an
+undefinable base is a broad trivia register, one isolated instance → **hold**
+(0442/0447/0452, 0182; 0488 brake); neighbor 0412 un-minted → clean-inverse
+(0426/0461) N/A → hold. Ready to coin *counted-vagueness / false-census-of-the-
+undefinable* on a sharper recurrence (0412/0548 flank the false-precision base:
+concealed vs. undefined). Coins **281** (last 0517). Full: `log/0548.md`.
