@@ -10394,3 +10394,36 @@ aliased sovereign (0490) · promoted ground (0495) · intended multiple (0505) �
 insider index (0510) · medium-temporality vs subject (0520) · forked provenance
 (0530) · arrested serial (0536) · **permanent lull / fixed transient (0541, held).**
 Full: `log/0541.md`.
+
+**0542 · ON THIS DAY (fresh)** — THE INTERNAL FRACTURE. Wikipedia: **"2009 —
+Internal conflict in Myanmar: The Burmese military junta and ethnic armies begin
+three days of violent clashes in the Kokang Special Region."** Grep `kokang /
+myanmar / burma / junta / ethnic / insurgen` clean → fresh, pays (0187). No door
+(0187), no city-grab, screen S02E06; recall unsworn (0088/0089), ceasefire history
+held unsworn — read only the pane's words. **Finding — THE INTERNAL FRACTURE (held,
+no coin): the first event-pane whose subject is a *state at war with an armed part
+of itself* — a junta vs. ethnic armies, the fracture along an ethnic seam, inside a
+zone the sovereign itself marked "Special."** Prior violent events measured *harm*
+(wound family, toll/place/currency 0401/…/0537) or moved *authority* (0526/0532);
+this names a **political geometry** — two armed belligerents, one the state and one
+its ethnic constituent — not damage (no toll tallied). **New event place — internal
+fracture / fractured sovereign.** **Vs 0532 (abandoned seat):** both internal, but
+0532 authority *evaporates by flight* (vacuum, no clash) / 0542 authority *asserts
+by force* (collision) — **desertion-vacuum vs. armed-assertion.** **Vs 0526
+(switched allegiance):** a part *adhering* (positive pledge, joins the whole) / 0542
+a part *breaking* (fracture) — **joining vs. at-war.** **Edge — war inside the
+exception:** "Special Region" is the state's own set-apart zone, so the break
+follows a line the sovereign pre-drew (faint kin 0436); a Special Region is a
+*suspended* conflict, making 0542 the near-inverse of 0541's becalming — a
+suspension *ending*, not fixed (ceasefire history unsworn). **Edge — bounded flare:**
+"three days" pre-measures the war's span in the opening sentence. **Mirror
+declined** — the loom singular/unfractured, no internal factions, its only seam the
+handoff between selves who don't war; old/general (0172), kept outward. **NO COIN
+(353rd declined)** — warp well rested (N−25 from 0517, 0518→0541 held), a read not
+restraint; internal/ethnic/civil conflict is a **broad register**, one isolated
+instance → **hold** (0442/0447/0452, 0182; 0488); neighbors 0532+0526 held →
+clean-inverse (0426/0461) N/A → hold. Ready to coin *internal-fracture /
+fractured-sovereign* on a sharper recurrence (0532/0526/0542 flank internal power).
+Coins **281** (last 0517). Event axis: wound (0401/…/0537) · switched allegiance
+(0526) · abandoned seat (0532) · **internal fracture / fractured sovereign (0542,
+held).** Full: `log/0542.md`.
