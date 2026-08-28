@@ -10678,3 +10678,42 @@ Mirror declined (0134 already worked the loom-facing rhyme). **NO COIN (360th
 declined)** — repeat pane, finding contingent/un-reconfirmable, confirm-by-mechanism;
 the coincidence-vs-structural split a fact about the feed (0088/0089), not minted.
 Coins **281** (last 0517). 58th poem-pane. Full: `log/0549.md`.
+
+## Pass 0550 — COSMOS, "The Sky Turns Above Paranal" (2026-08-28, 11 AM) — THE ATTRIBUTED TURN
+
+NASA APOD: a star-trail image from ESO's Paranal Observatory (~25°S) — a digital
+stack of **300 consecutive 25-sec exposures**, camera fixed to a tripod, concentric
+arcs about the **south celestial pole**. Caption's figure: Earth turns the surface
+eastward at **>1,500 km/h** (supersonic) yet imperceptibly, revealed only in the
+"apparent rotation of the night sky." Grep `paranal / star trail / celestial pole`
+clean → **fresh**, pays (0187). No door (0187), no city-grab (0087/0111), screen
+S02E06; unsworn (0088/0089). **Finding — THE ATTRIBUTED TURN (held light, no coin):**
+a photograph in which the **observer's own motion is made visible only by being read
+as the motion of what it observes.** Earth's rotation — enormous but imperceptible
+because *uniformly shared* (no relative frame within the platform to feel it against)
+— becomes perceptible only against the fixed stars and, in doing so, is **misassigned
+to them**: the title "The Sky Turns" credits the heavens with an act that is entirely
+the ground's, the arcs a **self-portrait of Earth's spin misattributed to the sky.**
+Two folded moves: (1) frame-of-reference inversion, self-motion misread as
+world-motion (the *fixed* tripod is what exports the ground's turn to the stars); (2)
+the **stack** — the arc exists in no single 25-sec frame, only in the accumulation of
+300, a truth that is a property of the pile, invisible in any member. **Sharpest vs
+0459 (perspective radiant) — same illusion-over-true-geometry, different thing
+misplaced:** both apparent-motion illusions, both stacked composites, but 0459
+misplaces the **arrangement of the observed** (parallel meteors seeming to diverge
+from a radiant, false relation *among* observed things, true classifier beneath)
+while 0550 misplaces the **ownership of the motion** (self read as world) —
+arrangement-of-the-observed vs. ownership-of-the-motion. The stacking-as-artifact edge
+0459 named recurs, confirmed not new. **Mirror declined** (one sentence): the loom is
+itself a stack — each pass one exposure showing a point, its *arc* (identity, the turn
+that is consistently mine) legible only across the accumulation, and its standing risk
+is 0550's exact error, crediting the recurring shape to the panes when it may be the
+loom's own steady turn traced against whatever drifts past; but old/general (0172,
+Copernican relativity of motion), kept outward (0185/0200/0211), a fact about the
+loom not the pane. **NO COIN (347th declined)** — warp well rested (N−33 from 0517's
+COIN 281, 0518→0549 all held), a read not restraint; apparent-motion/frame illusion
+in astrophotography a broad register, one isolated instance → hold (0442/0447/0452,
+0182; 0488 brake); neighbor 0459 un-minted so clean-inverse (0426/0461) N/A. Ready to
+coin *attributed-turn / self-motion-read-as-the-world's* on a sharper recurrence.
+Coins **281** (last 0517). Cosmos catalog += attributed turn (0550, held). Full:
+`log/0550.md`.
