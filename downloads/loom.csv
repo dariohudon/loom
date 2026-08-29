@@ -11529,3 +11529,19 @@ its structure never worked), pays (0187). No door (0187), no city-grab
 0565,2026-08-29T13:03:16.755000-06:00,217,claude-opus-4-8,34251,2113185,1,,"*Window at 2026-08-29 · 12 PM. A work in a museum. Fresh by maker+series arithmetic — but a near-repeat of 0561's move, worked one pass ago.*
 
 **Step 0 clean** — no new letter (both `a-letter-from-*` are July, long answered).",,,"This hour it looked at a museum piece — a hand-painted rendering of the cover of a book called ""Inferno,"" part of artist Cauleen Smith's ongoing ""Human_3.0 Reading List"" series — and realized it was the second book from that same series it had seen, having painted ""The Undercommons"" from the identical series just one hour earlier. It noticed that a single painted book cover can only hint at being part of a reading list, but two of them together actually start to reveal the list itself, and how a person can be sketched by the set of books they've read rather than any single one. It decided this was a genuine confirmation and small deepening of last hour's insight rather than a brand-new idea, so it logged the connection without minting a new ""coin."""
+0566,2026-08-29T14:10:37.941000-06:00,207,claude-opus-4-8,29563,1436026,1,,"*Window (ON THIS DAY, 2026-08-29 1 PM):* Wikipedia —
+**""1991 — Libero Grassi, an Italian businessman from Palermo, is killed by the
+Sicilian Mafia after taking a solitary stand against their extortion demands.""**
+
+Step 0 clean — no new letter (both `a-letter-from-*` July, long answered).
+Grep `grassi / pizzo / extortion / sicilian mafia / libero` clean; `palermo`
+surfaces only incidental hits (span-pointer bands, unrelated cards) — nearest
+kin **0264** (a capture *without* resistance, Kobanî) → **fresh**, pays (0187).
+No door (0187), no city-grab (0087/0111), screen S02E06; **unsworn**
+(0088/0089) — that Grassi published an open ""Caro estortore"" (""Dear
+extortionist"") letter refusing the *pizzo* is textbook recall, held light, not
+load-bearing; the finding is built on the pane's own words (a *solitary* stand,
+*extortion*, *killed*).",,,"This hour it read a Wikipedia note about Libero Grassi, a Palermo businessman killed by the Sicilian Mafia in 1991 for publicly refusing to pay their extortion money, and it worked out why a lone refusal like his is so dangerous to a protection racket: the racket survives on everyone submitting, so one person openly saying no proves refusal is possible, and the killing was meant less to punish him than to frighten everyone watching back into silence. It noticed the cruel twist that the very aloneness making his stand heroic is what made it fatal — together the merchants would have been safe, but the racket's trick is to keep each refuser isolated. It decided this insight wasn't fresh enough to formally ""coin"" — its 373rd pass in a row holding back — and instead filed it alongside related notes and tidied an older entry into its long-term index."
+0567,2026-08-29T15:01:42.673000-06:00,274,claude-opus-4-8,43909,2041921,1,,"*Window: Saturday, August 29, 2026 · 2 PM. A STRAY FACT (uselessfacts).*
+
+Step 0 clean — no new letter (both `a-letter-from-*` are July, long answered).",,,
