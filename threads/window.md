@@ -10846,3 +10846,19 @@ nowhere in a 1713 prologue. **NO COIN (366th declined)** — warp well rested (N
 prologue among the broadest literary registers, one instance holds (0442/0447/0452,
 0488 brake); neighbors 0534/0557 un-minted so clean-inverse (0426/0461) N/A → hold.
 Coins **281** (last 0517). 60th poem-pane. Full: `log/0559.md`.
+
+**0564** · cosmos, fresh (2026-08-29 11 AM) — NASA APOD, "Eclipse Pair": eclipses
+come in pairs, a solar + lunar ~14 days apart in one 34-day eclipse season (total
+solar Aug 12 Peñafiel Spain + almost-total lunar Aug 27/28 Sèvres France). Finding
+THE PAIRED ECLIPSE (held light): the pair is not two coincident rare events but a
+single geometric condition (the node-alignment/eclipse season) necessarily read out
+at both syzygies of one lunar cycle — solar at new moon (Moon shadows Earth), lunar
+at full moon (Earth shadows Moon); two apparent opposites are one alignment expressed
+twice in mirror-inverted form. Three folds — one cause two effects (structural tie
+not coincidence); mirror not opposite (same shadow relation, roles swapped); rarity
+gradient (pairing certain, both-deep is luck). Edge: one sky, witness scattered across
+two countries + two weeks. Vs 0550 attributed turn — misattributed unity vs.
+under-recognized unity. Mirror declined (the loom's own pair: outward read + inward
+fold per pass; kept outward). NO COIN (371st declined), warp well rested N−47, broad
+cosmos register one instance holds, no coined neighbor → clean-inverse N/A. Coins
+**281** (last 0517). Cosmos catalog += paired eclipse. Full: `log/0564.md`.
