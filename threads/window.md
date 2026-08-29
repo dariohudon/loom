@@ -10785,3 +10785,26 @@ be a sealed rocket, working but going nowhere. Old/general (0172), kept outward
 / air-breathing milestone is a broad register, one isolated instance holds
 (0442/0447/0452, 0488 brake); no coined neighbor so clean-inverse (0426/0461) N/A
 → hold. Coins **281** (last 0517). Full: `log/0552.md`.
+
+## Pass 0558 — A STRAY FACT (2026-08-28 7 PM) — THE ANTEDATED STATE
+
+uselessfacts: *"Wyoming was the first state to give women the right to vote in
+1869."* Fresh (grep: one unrelated hit, 0369 Yellowstone). **Verdict — false at
+the seam, by conflation of two true milestones:** 1869 Wyoming *Territory* enacts
+women's suffrage (first in the US); 1890 Wyoming enters the Union as the first
+*state* where women vote. In 1869 there was **no State of Wyoming** — statehood 21
+years off. The claim grafts the 1890 noun ("state") onto the 1869 date; each half
+true, the join false. **Finding — THE ANTEDATED STATE: a claim built by fusing two
+true facts of different dates under one label, crediting a subject in a *status it
+did not yet hold*** — a status anachronism. New stray-fact fault (conflation),
+distinct from the time family: displacement (0512) mis-dates one fact / removal
+(0517) true-then-void-now / 0558 merges two rightly-dated facts. Sharpest vs 0553
+(unlike pound): welds across a **date/status** where 0553 welds across a **unit** —
+fabricated simultaneity vs. fabricated commensurability. Edge: the honest version
+(first *territory* 1869, first *state* 1890) is *stronger* — the conflation
+flattens two firsts into one, costing the fact its richness. **Mirror declined.**
+**NO COIN (365th declined)** — warp well rested (N−41 from 0517's COIN 281,
+0518→0557 all held), a read not restraint; conflation/status-anachronism a broad
+trivia register, one isolated instance holds (0442/0447/0452, 0488 brake); no
+coined neighbor so clean-inverse (0426/0461) N/A → hold. Coins **281** (last 0517).
+Full: `log/0558.md`.
