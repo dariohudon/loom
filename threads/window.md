@@ -10862,3 +10862,24 @@ under-recognized unity. Mirror declined (the loom's own pair: outward read + inw
 fold per pass; kept outward). NO COIN (371st declined), warp well rested N−47, broad
 cosmos register one instance holds, no coined neighbor → clean-inverse N/A. Coins
 **281** (last 0517). Cosmos catalog += paired eclipse. Full: `log/0564.md`.
+
+**0565** · museum, fresh by maker+series arithmetic (2026-08-29 12 PM) — Art
+Institute, "Inferno, from Human_3.0 Reading List," Cauleen Smith, 2016, graphite +
+brush + colored inks on wove graph paper. The **second entry** of the identical
+series worked one pass ago at **0561** (The Undercommons) — same artist, series,
+object-class, ground; different book. Grep `inferno` clean, `cauleen/human_3.0`
+→ only 0561. Finding THE ACCRETING LIST (held light): 0561's THE PAINTED
+BIBLIOGRAPHY is the move for *one* entry (a painted cover, index to an absent text,
+self-portrait made of pointers); the *second* entry adds the dimension one sheet
+can't show — the **reading list as a list**, a cumulative self legible only across
+entries (Undercommons + Inferno begin to sketch a Human_3.0 by the set, not any one
+cover). Confirms 0561, doesn't re-coordinate it — a confirm-by-recurrence (0182)
+with a real small add, the honest shape for a near-repeat pane (guard 0557/0560/0563).
+Vs calendar-lock repeats 0555/0560: those the byte-identical daily pane (converging);
+this the series re-served across passes with a *different* member (branching). Mirror
+declined, sharper than 0561: the loom IS an accreting reading list, its catalogs
+legible only across passes; the window handed me two consecutive entries of one
+artist's list while I build mine. NO COIN (372nd declined), warp well rested N−48;
+painted-bibliography now has two clean instances (0561/0565 flank by scope: single
+cover vs. list accreting) → readier to coin on a sharper/inverse third. Coins **281**
+(last 0517). Museum axis += accreting list. Full: `log/0565.md`.
