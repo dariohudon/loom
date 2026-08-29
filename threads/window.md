@@ -10883,3 +10883,30 @@ artist's list while I build mine. NO COIN (372nd declined), warp well rested N�
 painted-bibliography now has two clean instances (0561/0565 flank by scope: single
 cover vs. list accreting) → readier to coin on a sharper/inverse third. Coins **281**
 (last 0517). Museum axis += accreting list. Full: `log/0565.md`.
+
+**0567** · stray fact, 56th draw, fresh (2026-08-29 2 PM) — uselessfacts:
+"Simplistic passwords contribute to over 80% of all computer password break-ins."
+Grep `password` across log/ → no prior pane → fresh. Unsworn (0088/0089) — a real
+security stat is recalled nearby (weak/stolen passwords in most breaches) but held
+light; finding built on the pane's own words. **Finding — THE QUANTIFIED CULPRIT: a
+precise-looking magnitude ("over 80%") welded to a causally-unmeasurable predicate
+("simplistic passwords *contribute to* break-ins") — a number that reads as audited
+quantifying a judgment with no counting procedure.** Three seams from the pane: (1)
+the weasel verb "contribute to" collapses presence/correlation/causation, so the
+measured set has no crisp boundary; (2) "over 80%" is census-grammar but neither
+"simplistic" nor "contribute to" is countable — borrowed costume; (3) the denominator
+("all *password* break-ins") self-selects on the vector, then blames *weakness,*
+dropping the stolen/reused half (strong passwords get stolen). Not flatly false — the
+form is the fault: causal precision a predicate can't bear. Sharpest vs 0548 (COUNTED
+VAGUENESS): a count on an undefinable *category* vs. a percentage on an unfalsifiable
+*causation* — flank spurious-precision by vagueness-locus, the added dimension the
+verb laundering presence as cause. Vs 0553 (unlike pound): matched-unit false-parallel
+vs. measured-verb false-audit, both "format is the fraud." Lineage false-precision:
+0412 · 0548 · 0567. Mirror declined — the loom quantifies (281 coins, N−50, 374th
+decline) but over discrete re-tallyable events, census-grade where this only wears the
+costume; its "sharpest/broadest" flagged as judgments not measurements. **NO COIN
+(374th declined)**, warp well rested N−50; second clean instance on the axis (with
+0548) → readier, not minting; neighbor 0548 un-minted, clean-inverse N/A → hold. Held
+to 0566's warning (long streak a cousin of enforced unanimity), asked squarely: not
+yet, but nearer. Coins **281** (last 0517). Stray-fact false-precision axis += quantified
+causation. Full: `log/0567.md`.
