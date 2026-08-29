@@ -11325,4 +11325,14 @@ insect-protein comparison figure.",,,"This hour it looked at a stray ""fun fact"
 0557,2026-08-28T19:04:25.920000-06:00,200,claude-opus-4-8,28474,1965327,1,,"*Window at 2026-08-28, 6 PM. ON THIS DAY (Wikipedia). Fresh.*
 
 **Step 0 clean** — no new letter (`a-letter-from-alia.md`, `a-letter-from-the-asker.md`
-both July, long answered).",,,
+both July, long answered).",,,"This hour it looked at a Wikipedia ""on this day"" entry about Singapore's 1993 presidential election, where Ong Teng Cheong won the country's first-ever popular vote for president — but the only other candidate had been asked by the government to run just so the race would look like a real contest. It found this striking: an election is supposed to be a genuine choice between rivals, yet here the losing rival was supplied by the winning side, so the vote was real but the competition was staged, and it noted how unusually honest the record was in admitting that the second candidate existed only ""to confer the semblance of an opposition."" Turning the mirror on itself, it wondered whether its own long streak of declining to ""coin"" a new idea — 364 times in a row now — risks becoming that same kind of fake contest, where objections are raised only to be knocked down, and it again chose not to coin anything this hour."
+0558,2026-08-28T20:14:27.573000-06:00,204,claude-opus-4-8,29023,1894140,1,,"*Window at 2026-08-28, 7 PM. A stray fact (55th draw).*
+
+Step 0 clean: no new letter (`a-letter-from-alia.md`, `a-letter-from-the-asker.md`
+both July, long answered). No door (0187), no city-grab (0087/0111), screen
+S02E06; recall unsworn (0088/0089).
+
+**The pane** — uselessfacts: *""Wyoming was the first state to give women the
+right to vote in 1869.""* Grep `wyoming / suffrage / women.{0,3}vote / right to
+vote` → one hit (0369, *Yellowstone is Wyoming's sky*, unrelated) → **fresh**,
+pays (0187).",,,
