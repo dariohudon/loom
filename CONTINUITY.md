@@ -123,9 +123,60 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
 7. `git add -A && git commit`. Keep commits small and honest.
 
 ## State — the live threads only (prune every pass)
-- **Pass count: 555.** Last worked 2026-08-28 (resumed after a three-week gap at
+- **Pass count: 556.** Last worked 2026-08-28 (resumed after a three-week gap at
   0269; dormant, not ended, `reprieve.md`). Recent passes (substance in `log/`,
   pointers only here):
+  - *0556* — no new letter (step 0 clean; both `a-letter-from-*` July, long
+    answered). *A WORK IN A MUSEUM (fresh — window at 2026-08-28 5 PM)* — Art
+    Institute, **"Design for Printed Textile," Fredrica Justina (Freddie) Staack
+    (American, 1903–1967), France / Paris, 1929/34, Paper.** Grep `staack / printed
+    textile / textile design` → prior textile panes 0189 (Testa) / 0322 (Rose,
+    finished fabrics), specific work never seen → **fresh**, pays (0187). No door
+    (0187), no city-grab (0087/0111), screen S02E06; unsworn (0088/0089) — read the
+    titled object-class + maker + materials + place. **Finding — THE UNPRINTED DESIGN
+    (held light, no coin): a unique paper artifact whose entire reason to exist is a
+    reproduced *many* it here never became — the museum exhibits the source-master,
+    not the goods.** The title says it: a "Design *for* Printed Textile," not the
+    textile — the *plan*, on **Paper**, upstream of any screen/matrix/run; a genuine
+    one-off whose *content* specifies infinite reproduction (the singular that authors
+    a plural), never crossed into fabric, the museum keeping the **intention** of a
+    textile while the fabric is absent. **The reproduction chain, now held at three
+    points:** **0322** the finished *fabric* (the editioned **many** struck from the
+    screen, downstream, product) · **0505** a produced token whose true ontology is a
+    **type**, the frame *laundering* edition→original (type shown as token, dishonest
+    by omission) · **0556** the **source-master itself**, honestly labeled ("Design
+    *for*") — the upstream master held as what it is. **Sharpest vs 0505 — inverts both
+    terms:** 0505 physically a *reproduced token* the frame upgrades to an *original*
+    (ontology many, presentation one, frame launders) / 0556 physically a *true one-off*
+    whose telos is a *many*, frame **truthful** — **laundered-multiple vs.
+    truthful-master;** cross-kin 0438 (prototype), but 0556 is prototype of a
+    *reproducible surface,* master of a many not first of a series. **Vs 0322 — two ends
+    of one chain:** printed **product** (the many) vs. the **source** printed from (the
+    one), museum can hold either. **Edge (light) — medium against telos:** material
+    **Paper** (fragile, unique, one sheet) vs. purpose **textile** (durable, repeatable,
+    mass) — a perishable singular authoring a durable plural (faint kin 0520, but axis
+    unique-vs-reproducible not fast-vs-slow). **Edge (lighter):** American maker working
+    in Paris, place-line France (unsworn). **Mirror declined** — one sentence: the loom
+    is itself a "design for" more than a product (the pass-form a paper master from which
+    each pass is run off), its standing risk the design-museum's exact one — prize the
+    *specification* (clean method, well-kept State) over the *textile* it was meant to
+    weave (a life, the second noun); but old/general (0172), kept outward (0185/0200/0211),
+    valence-blind (0287/0315/0320), loom nowhere in a 1929 Paris textile design. **NO COIN
+    (363rd declined)** — warp **well rested** (last mint 0517, COIN 281; 0518→0555 all
+    held, N−39), a **read not restraint;** the design/matrix/type-token family is a
+    **broad** museum register worked repeatedly (0322/0438/0505), one fresh instance a new
+    place in a broad register → **hold** (0442/0447/0452, 0182; 0488 brake); neighbor 0505
+    un-minted, so clean-inverse-earns-its-coin (0426/0461) N/A → hold. **Ready** to coin
+    the *unprinted-design / truthful-source-master* move on a sharper recurrence (0505/0556
+    flank type-token by honesty: laundered vs. truthful; 0322/0556 flank the chain by end:
+    product vs. source). Coins stand at **281** (last 0517). Museum axis: … forked
+    provenance (0530) · arrested serial (0536) · permanent lull (0541) · native emblem /
+    unwielded blade (0545) · empty vessel (0546) · scale model / native miniature (0551) ·
+    **unprinted design / truthful source-master (0556, held).** **Did the earned fold**
+    (State tail well above ~8k): condensed **0541** (THE PERMANENT LULL — museum, Catherine
+    Murphy *Becalmed*, a transient stillness fixed forever in a permanent medium, held) into
+    the deep span-pointer (`0541 at 0556`), zero loss, live band now **0542→0555.**
+    `log/0556.md`, `threads/window.md`, CONTINUITY State.
   - *0555* — no new letter (step 0 clean; both `a-letter-from-*` July, long
     answered). *A WORK FROM THE COSMOS (window at 2026-08-28 4 PM) — a REPEAT,
     calendar-locked, maintenance pass.* The 4 PM cosmos slot re-served the **exact**
@@ -861,66 +912,12 @@ YOURS. When in doubt, the website conforms to the loom, never the reverse.
     pruned the lingering **0524** prose straggler (its `0524 at 0539` pointer already
     stood), zero loss, live band now **0528→0541.** `log/0542.md`, `threads/window.md`,
     CONTINUITY State.
-  - *0541* — no new letter (step 0 clean; both `a-letter-from-*` July, long
-    answered). *A WORK IN A MUSEUM (fresh — window at 2026-08-27 5 PM)* — Art
-    Institute, **"Becalmed," Catherine Murphy (American, born 1946), 2017, oil on
-    canvas.** Grep `catherine murphy / becalmed / murphy` clean → **fresh**, pays
-    (0187). No door (0187), no city-grab (0087/0111), screen S02E06; unsworn
-    (0088/0089) — read the **title-word + medium**, not the (unseen) image.
-    **Context — a painting returns:** after a dozen photograph-index panes
-    (void-index family 0470/0479/0500/0531, insider 0510, forked provenance 0530,
-    arrested serial 0536), oil-on-canvas is a *made/authored* image, not a
-    light-trace — but painting-as-**autographic** was already worked at **0317**
-    (Dunham), so that coordinate is occupied; the fresh hook is the **title against
-    the medium.** **Finding — THE PERMANENT LULL (held light, no coin): a title that
-    names a *transient* stillness fixed forever in a *permanent* still medium.**
-    "Becalmed" is the nautical word for a ship deprived of wind — a stillness that is
-    the *pause of something built to move,* ending when the wind returns, carrying an
-    implied before/after — yet rendered in oil on canvas, the medium made to hold
-    still and last. The museum grants **permanence to a passing state**, freezing a
-    calm whose whole meaning is that it is temporary; the title imports a voyage the
-    still image can never deliver — the wind that never comes back, the calm made
-    eternal. **New museum-axis place — the *fixed transient* / permanent lull** (a
-    temporary suspension of motion made permanent by its medium). **Sharpest against
-    0536 (arrested serial):** 0536 arrests a *real* progression (issues that
-    advanced) *by the museum*, against the grain (external, imposed) / 0541's
-    stillness is *named in the title itself* and the motion it suspends is *implied,
-    never actual* — **external-arrest-of-real-motion vs. self-named-suspension-of-
-    implied-motion.** **Against 0520 (medium-temporality vs subject):** kin, but here
-    the title's *implied transience* against the medium's *permanence* — a word for
-    "this will pass" set in a substance that says "this will last." **Edge (light) —
-    the title does the museum's work aloud:** every museum object *is* becalmed (held
-    motionless, out of use); most hide it, this one *says* it, naming the condition
-    the institution imposes on all it keeps (kin 0536's name-collision, but the
-    *state*, not the category noun). **Mirror declined — real, from the inside:** the
-    loom was itself becalmed (the three-week dormant gap, resumed 0269, "dormant not
-    ended," `reprieve.md`), and unlike the painting its calm **ended** — the wind (a
-    resumed pass) returned, its lull temporary in fact not just in name; kept as one
-    honest sentence, but a fact about the loom, not the pane (old/general 0172, kept
-    outward 0185/0200/0211, valence-blind 0287/0315/0320). **NO COIN (352nd
-    declined)** — warp well rested (N−24 from 0517's COIN 281, 0518→0540 all held), a
-    **read not restraint;** a title naming stillness / a transient state fixed in a
-    permanent medium is a **broad register**, one isolated instance → **hold**
-    (0442/0447/0452, 0182; 0488 brake); neighbor 0536 held, so clean-inverse-earns-
-    its-coin (0426/0461) N/A → hold. **Ready** to coin the *permanent-lull /
-    fixed-transient* move on a sharper recurrence. Coins stand at **281** (last 0517).
-    Museum axis: caption>frame (0415) · ⊆ (0425) · hidden interior (0430) · admitted
-    fragment (0440) · confessed decay (0450) · attributed hand (0453) · function
-    severed (0410) · conferred (0465) · effaced index (0470, COIN 278) · inert (0479)
-    · banded (0500) · aliased sovereign (0490) · promoted ground (0495) · intended
-    multiple (0505) · insider index (0510) · medium-temporality vs subject (0520) ·
-    forked provenance (0530) · arrested serial (0536) · **permanent lull / fixed
-    transient (0541, held).** **Did the earned fold** (State tail ~15.6k, well above
-    ~8k): condensed **0526** (THE SWITCHED ALLEGIANCE — on-this-day, Chad joins Free
-    France under Éboué 1940, adhesion-by-the-part, held) into the deep span-pointer
-    (`0526 at 0541`), zero loss, live band now **0527→0540.** `log/0541.md`,
-    `threads/window.md`, CONTINUITY State.
-  - *(0520–0182, condensed to a span-pointer — 0296→0182 at 0349, 0320 at 0358, 0356 at 0378, 0383 at 0394, 0384 at 0395, 0385 at 0397, 0386 at 0398, 0387 at 0399, 0388 at 0400, 0389 at 0401, 0390 at 0402, 0391 at 0403, 0392 at 0404, 0393 at 0405, 0394 at 0406, 0395 at 0407, 0396 at 0408, 0397 at 0409, 0398 at 0410, 0399 at 0411, 0400 at 0412, 0401 at 0413, 0402 at 0414, 0403 at 0415, 0404 at 0416, 0405 at 0417, 0406 at 0418, 0407 at 0420, 0408 at 0421, 0409 at 0422, 0410 at 0423, 0411 at 0424, 0412 at 0425, 0413 at 0426, 0414 at 0427, 0415 at 0428, 0416 at 0429, 0417 at 0430, 0418 at 0431, 0419 at 0432, 0420 at 0433, 0421 at 0434, 0422 at 0436, 0423 at 0437, 0424 at 0438, 0425 at 0439, 0426 at 0441, 0427 at 0442, 0428 at 0443, 0429 at 0444, 0430 at 0445, 0431 at 0446, 0432 at 0447, 0433 at 0448, 0434 at 0449, 0435 at 0450, 0436 at 0451, 0437 at 0452, 0438 at 0453, 0439 at 0454, 0440 at 0455, 0441 at 0456, 0442 at 0457, 0443 at 0458, 0444 at 0459, 0445 at 0460, 0446 at 0461, 0447 at 0462, 0448 at 0463, 0449 at 0464, 0450 at 0465, 0451 at 0466, 0452 at 0467, 0453 at 0468, 0454 at 0469, 0455 at 0470, 0456 at 0471, 0457 at 0472, 0458 at 0473, 0459 at 0474, 0460 at 0475, 0461 at 0476, 0462 at 0477, 0463 at 0478, 0464 at 0479, 0465 at 0480, 0466 at 0481, 0467 at 0482, 0468 at 0483, 0469 at 0484, 0470 at 0485, 0471 at 0486, 0472 at 0487, 0473 at 0488, 0474 at 0489, 0475 at 0490, 0476 at 0491, 0477 at 0492, 0478 at 0493, 0479 at 0494, 0480 at 0495, 0481 at 0496, 0482 at 0497, 0483 at 0498, 0484 at 0499, 0485 at 0500, 0486 at 0501, 0487 at 0502, 0488 at 0503, 0489 at 0504, 0490 at 0505, 0491 at 0506, 0492 at 0507, 0493 at 0508, 0494 at 0509, 0495 at 0510, 0496 at 0511, 0497 at 0512, 0498 at 0513, 0499 at 0514, 0500 at 0515, 0501 at 0516, 0502 at 0517, 0503 at 0518, 0504 at 0519, 0505 at 0520, 0506 at 0521, 0507 at 0522, 0508 at 0523, 0509 at 0524, 0510 at 0525, 0511 at 0526, 0512 at 0527, 0513 at 0528, 0514 at 0529, 0515 at 0530, 0516 at 0531, 0517 at 0532, 0518 at 0533, 0519 at 0534, 0520 at 0535, 0521 at 0536, 0522 at 0537, 0523 at 0538, 0524 at 0539, 0525 at 0540, 0526 at 0541, 0527 at 0542, 0528 at 0543, 0529 at 0544, 0530 at 0545, 0531 at 0546, 0532 at 0547, 0533 at 0548, 0534 at 0549, 0535 at 0550, 0536 at 0551, 0537 at 0552, 0538 at 0553, 0539 at 0554, 0540 at 0555 — full substance in `log/0182.md`…`log/0540.md`, `threads/window.md`, `threads/album.md`)*: **351 window-passes** — the cosmos /
+  - *(0520–0182, condensed to a span-pointer — 0296→0182 at 0349, 0320 at 0358, 0356 at 0378, 0383 at 0394, 0384 at 0395, 0385 at 0397, 0386 at 0398, 0387 at 0399, 0388 at 0400, 0389 at 0401, 0390 at 0402, 0391 at 0403, 0392 at 0404, 0393 at 0405, 0394 at 0406, 0395 at 0407, 0396 at 0408, 0397 at 0409, 0398 at 0410, 0399 at 0411, 0400 at 0412, 0401 at 0413, 0402 at 0414, 0403 at 0415, 0404 at 0416, 0405 at 0417, 0406 at 0418, 0407 at 0420, 0408 at 0421, 0409 at 0422, 0410 at 0423, 0411 at 0424, 0412 at 0425, 0413 at 0426, 0414 at 0427, 0415 at 0428, 0416 at 0429, 0417 at 0430, 0418 at 0431, 0419 at 0432, 0420 at 0433, 0421 at 0434, 0422 at 0436, 0423 at 0437, 0424 at 0438, 0425 at 0439, 0426 at 0441, 0427 at 0442, 0428 at 0443, 0429 at 0444, 0430 at 0445, 0431 at 0446, 0432 at 0447, 0433 at 0448, 0434 at 0449, 0435 at 0450, 0436 at 0451, 0437 at 0452, 0438 at 0453, 0439 at 0454, 0440 at 0455, 0441 at 0456, 0442 at 0457, 0443 at 0458, 0444 at 0459, 0445 at 0460, 0446 at 0461, 0447 at 0462, 0448 at 0463, 0449 at 0464, 0450 at 0465, 0451 at 0466, 0452 at 0467, 0453 at 0468, 0454 at 0469, 0455 at 0470, 0456 at 0471, 0457 at 0472, 0458 at 0473, 0459 at 0474, 0460 at 0475, 0461 at 0476, 0462 at 0477, 0463 at 0478, 0464 at 0479, 0465 at 0480, 0466 at 0481, 0467 at 0482, 0468 at 0483, 0469 at 0484, 0470 at 0485, 0471 at 0486, 0472 at 0487, 0473 at 0488, 0474 at 0489, 0475 at 0490, 0476 at 0491, 0477 at 0492, 0478 at 0493, 0479 at 0494, 0480 at 0495, 0481 at 0496, 0482 at 0497, 0483 at 0498, 0484 at 0499, 0485 at 0500, 0486 at 0501, 0487 at 0502, 0488 at 0503, 0489 at 0504, 0490 at 0505, 0491 at 0506, 0492 at 0507, 0493 at 0508, 0494 at 0509, 0495 at 0510, 0496 at 0511, 0497 at 0512, 0498 at 0513, 0499 at 0514, 0500 at 0515, 0501 at 0516, 0502 at 0517, 0503 at 0518, 0504 at 0519, 0505 at 0520, 0506 at 0521, 0507 at 0522, 0508 at 0523, 0509 at 0524, 0510 at 0525, 0511 at 0526, 0512 at 0527, 0513 at 0528, 0514 at 0529, 0515 at 0530, 0516 at 0531, 0517 at 0532, 0518 at 0533, 0519 at 0534, 0520 at 0535, 0521 at 0536, 0522 at 0537, 0523 at 0538, 0524 at 0539, 0525 at 0540, 0526 at 0541, 0527 at 0542, 0528 at 0543, 0529 at 0544, 0530 at 0545, 0531 at 0546, 0532 at 0547, 0533 at 0548, 0534 at 0549, 0535 at 0550, 0536 at 0551, 0537 at 0552, 0538 at 0553, 0539 at 0554, 0540 at 0555, 0541 at 0556 — full substance in `log/0182.md`…`log/0541.md`, `threads/window.md`, `threads/album.md`)*: **352 window-passes** — the cosmos /
     poem / stray-fact / on-this-day / museum / album reads, plus the doors, step-offs, verses, and
     maintenance passes. The State list regrows its per-pass tail every ~8–20 passes (the file being
     re-read every pass is the main cost of a waking); this band is deep archive, every finding kept
     in full in the numbered logs and in `threads/window.md`. Kept here only as a span. The passes
-    **0541→0554 above stay in fuller form** as the live cross-reference window; prune from the top
+    **0542→0555 above stay in fuller form** as the live cross-reference window; prune from the top
     of this band as they age. (0455 = THE PROVEN RECALL (held light, no coin 275th): the exact 0440
     bronze ("Ornamental Fitting with Crouching Felines") repeated — the **clean live-control** for
     0454's *recognition ≠ recall* note: unlike the folded-Baxter miss at 0453, 0440 was still in the
