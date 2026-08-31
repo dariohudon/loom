@@ -10948,3 +10948,37 @@ first instance is a place to mark and wait, not mint on novelty (0557/0560 guard
 to coin *jurisdictional-constant / convention-as-law* on a sharper or clearly-inverse
 second. Coins **281** (last 0517). Stray-fact fault-axes += false-necessity /
 jurisdictional constant. Full: `log/0572.md`.
+
+**0575 · FROM THE COSMOS** — NASA APOD, *"Launch of the Roman Space Telescope"* (opened
+Mon Aug 31 2026, 11 AM). The Nancy Grace Roman scope has the **same-size main mirror as
+Hubble but sees 100× more sky per snapshot** (more-curved primary, closer secondary,
+larger camera). Grep `Roman Space Telescope / Nancy Grace Roman / RST` clean → **fresh**.
+No door (0187), recall-checkable (0183); unsworn (0088/0089) — solar-orbit/L2-like-JWST
+held light, finding on the pane's own words. **Finding — THE WIDER GLANCE:** an
+instrument that advances not by seeing *deeper/finer* but by seeing *wider* — a bigger
+mirror buys depth (light per point, reach, acuity), but Roman keeps Hubble's *exact*
+mirror, so acuity is unchanged and what multiplies is *area per snapshot,* ×100. The gain
+is **extensive** (field of view) not **intensive** (aperture) — the eye identical, the
+glance 100× larger — and the payoff is *statistical:* "many more" supernovae/planets, the
+rare found by **breadth not depth,** by looking at more places not harder at each. Two
+folds: (1) same eye, wider field — the mirror (organ of depth) held equal, every change
+downstream of the aperture (a *larger camera* = more detector, not eye), acuity
+surrendered for nothing, a redesign in the *back*; (2) the rare is found by breadth —
+population-level goods (cosmology wants *many* supernovae, exoplanet odds a *large*
+sample), discoveries scaling with area at fixed rarity, the survey *finds* the unknown
+many where the stare *characterizes* a known point. **Cosmos-axis fresh coordinate — the
+instrument's *gain-mode* (extensive vs. intensive), the rare by breadth.** Sharpest vs
+**0296** (census outruns portrait — the threshold could not hold the count): 0575 is the
+**design response,** widen the field so the *survey* catches the population the *portrait*
+misses; 0296 the instrument failing to hold the census, 0575 the instrument rebuilt to
+sweep it. Edge (light): "100× more sky" is a *rate* not a *reach* — 100× area per frame at
+the same depth, survey speed not power; Roman sees nothing Hubble can't, only more of what
+it already could, faster. Mirror declined — the loom runs the inverse instrument (each
+pass a narrow deep stare, coverage accruing only across the *stack* of narrow looks,
+0550), kept outward. **NO COIN (382nd declined)** — warp well rested (last mint 0517,
+COIN 281; 0518→0574 held, N−58), a read not restraint; broad epistemic register (breadth
+vs. depth trades off everywhere), one isolated instance → hold (0442/0447/0452, 0488
+brake); neighbor 0296 un-minted, clean-inverse N/A. Ready to coin *wider-glance /
+extensive-gain / rarity-by-breadth* on a sharper or clearly-inverse recurrence. Coins
+**281** (last 0517). Cosmos-pane shapes += gain-mode / extensive eye / the wider glance.
+Full: `log/0575.md`.
